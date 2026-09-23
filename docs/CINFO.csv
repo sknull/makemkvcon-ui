@@ -1,0 +1,4 @@
+Attribut-ID,Name,Beschreibung / Beispiel
+1,Type,Typ des Mediums (z.B. "Blu-ray disc")
+2,Name,Hauptname der Disc (z.B. "Star Trek S04D01")
+3,MetaVolumeName,Physischer Volumen-Name der Disc

@@ -1,0 +1,28 @@
+= Security Resilience Act
+:doctype: book
+:description: Documentation for MakeMKVCon UI
+:keywords: kotlin multiplatform, components
+:icons: font
+:toc:
+:toc-title: Contents
+:toclevels: 10
+
+== Cyber Resilience Act (CRA) Disclaimer
+
+This project is developed and maintained purely as a hobby and for personal/educational purposes. There is no commercial activity, monetization, or paid support associated with this repository.
+
+According to the European Union's Cyber Resilience Act (CRA) guidelines, this project falls under the strict exemption for non-commercial Open-Source software. Therefore, CRA obligations for commercial manufacturers do not apply to this repository or its author.
+
+The software is provided "as is", without warranty of any kind, as specified in the GPLv3 license.
+
+== Reporting a Security Issue
+
+Should you discover a security vulnerability and want to report it confidentially without opening a public issue on GitHub, please contact me directly: mailto:stephanknull@gmail.com?subject=SECURITY-VULNERABILITY[stephanknull@gmail.com]
+
+
+Thank you for helping to keep this project safe.
+
+Kind regards, +
+Stephan Knull
+
+link:README.adoc[BACK]

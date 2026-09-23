@@ -1,0 +1,3 @@
+Zeilen-Typ,Beschreibung
+TCOUNT,Liefert die Gesamtzahl aller Titel (z.B. "TCOUNT:8")
+DRV,Scan-Informationen über physische Laufwerke (Status, Pfad, Name)

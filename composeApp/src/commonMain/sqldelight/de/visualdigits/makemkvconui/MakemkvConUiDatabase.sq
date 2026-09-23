@@ -1,0 +1,25 @@
+--
+-- SETTINGS
+--
+CREATE TABLE SettingsEntity (
+    id INTEGER NOT NULL DEFAULT 0,
+    language TEXT NOT NULL
+);
+
+insertSettings:
+INSERT INTO SettingsEntity (
+    language
+)
+VALUES (?);
+
+getSettingsById:
+SELECT * FROM SettingsEntity WHERE id = :id;
+
+updateSettingsEntity:
+UPDATE SettingsEntity
+SET language = :language
+WHERE id IS :id;
+
+deleteSettings:
+DELETE FROM SettingsEntity
+WHERE id IS :id;

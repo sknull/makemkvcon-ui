@@ -1,0 +1,10 @@
+Attribut-ID,Name,Beschreibung / Beispiel
+9,ChaptersCount,Anzahl der Kapitel (z.B. "6")
+10,Duration,Gesamtlaufzeit (z.B. "0:55:18")
+11,Size,Datengröße formatiert (z.B. "12.7 GB")
+12,Bytes,Exakte Bytegröße (z.B. "13636526080")
+16,SourceFileName,Name der .mpls-Datei (z.B. "00230.mpls")
+24,SegmentCount,Anzahl der kombinierten Videosegmente
+25,SegmentMap,Genutzte .m2ts-Dateien (z.B. "7" oder "1,2,3")
+26,Name,Interner Titelname aus den Metadaten
+27,FileName,Name der Ausgabedatei (z.B. "title_t01.mkv")

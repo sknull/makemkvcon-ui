@@ -1,0 +1,7 @@
+Attribut-ID,Name,Beschreibung / Beispiel
+1,StreamType,Typ des Streams ("Video", "Audio", "Subtitles")
+2,CodecId,Genutzter Codec (z.B. "H.264", "DTS-HD", "PGS")
+3,LanguageCode,3-stelliger ISO-Sprachcode (z.B. "deu", "eng")
+4,LanguageName,Ausgeschriebene Sprache (z.B. "German")
+5,Bitrate,Bitrate des Tracks (z.B. "48000")
+19,Resolution,Video-Auflösung (z.B. "1080p")

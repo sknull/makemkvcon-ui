@@ -1,0 +1,33 @@
+= makemkvcon-ui
+:doctype: book
+:description: Documentation for makemkvcon-ui
+:keywords: kotlin multiplatform, AIS
+:icons: font
+:toc:
+:toc-title: Contents
+:toclevels: 10
+
+ifndef::backend-pdf[]
+== Status
+
+image:https://github.com/sknull/makemkvcon-ui/actions/workflows/publish.yml/badge.svg[MakemkvCon UI,link=https://github.com/sknull/makemkvcon-ui/actions/workflows/publish.yml]
+endif::[]
+
+== Motivation
+
+While working on ripping my Star Trek series collection it occured that some seasons used a naming scheme of the resulting output files which were not in the proper order of the episodes.
+
+So I did some research and stumbled across a makemkv forum entry which meantioned to make use of the internal mpls numbers to sort the episodes in the right order.
+
+While that worked, finding those, put them infront of the file names, sorting and then renaming the resulting files properly this turned out to be a very time consuning and errorprone process.
+
+Starting a little code test trying to parse the makemkvcon output was not so promising in lack of proper documentation. So I asked googles gemini for input and the result is documented within this project.
+
+For a detailed technical specification see link:docs/usage.adoc[usage]
+
+For now there is only a JUnit test which reads the makemkvcon output, parses it and renames the output files in a given directory accordingly.
+After that one can rename the files using an episode guide.
+
+As my Star Trek collection is now finally ripped completely this is sufficient enough for now. But there is more to come with my Star Gate collection ;)
+So idea is to create a modern UI utilizing Kotlin Multiplatform to replace the oldfashiened UI coming with makemkv as I do not beliefe there will be anything new anytime soon.
+
