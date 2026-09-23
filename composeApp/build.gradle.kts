@@ -548,7 +548,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/sknull/makemkvconui")
+            url = uri("https://maven.pkg.github.com/sknull/makemkvcon-ui")
             credentials {
                 username = System.getenv("GITHUB_ACTOR")
                 password = System.getenv("GITHUB_TOKEN")
