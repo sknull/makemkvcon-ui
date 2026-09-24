@@ -1,6 +1,7 @@
 package de.visualdigits.makemkvconui.domain.model.bluray.info.data.entity
 
 data class Stream(
+    val streamId: Int,
     val streamType: String,
     val codecId: String,
     val codecShort: String,
@@ -16,4 +17,10 @@ data class Stream(
     val streamFlags: Int,
     val metadataKey: String,
     val conversionType: String,
-) : Entity
+) : Entity {
+
+    override fun toString(): String {
+        return "[$streamId] $streamType ($languageName) $videoAspect $videoResolution"
+    }
+}
+

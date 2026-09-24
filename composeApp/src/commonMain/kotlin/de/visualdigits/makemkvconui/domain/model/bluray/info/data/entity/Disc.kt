@@ -9,4 +9,13 @@ data class Disc(
     val htmlHeader: String,
     val volumeName: String,
     val volumeId: Int,
-) : Entity
+
+    val tracks: List<Track> = listOf()
+) : Entity {
+
+    override fun toString(): String {
+        return "[$mediaTypeName] $titleName ($languageName)\n- ${tracks.sortedBy { it.mplsName }.joinToString("\n- ")}"
+    }
+}
+
+

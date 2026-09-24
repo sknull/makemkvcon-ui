@@ -1,6 +1,7 @@
 package de.visualdigits.makemkvconui.domain.model.bluray.info.data.entity
 
 data class Track(
+    val titleId: Int,
     val titleName: String,
     val chaptersCount: Int,
     val duration: String,
@@ -14,5 +15,12 @@ data class Track(
     val languageName: String,
     val information: String,
     val htmlHeader: String,
-    val titleId: String
-) : Entity
+
+    val streams: List<Stream> = listOf()
+) : Entity {
+
+    override fun toString(): String {
+//        return "[$titleId] $titleName ($languageName) $duration\n- ${streams.joinToString("\n- ")}"
+        return "[$titleId / $mplsName] $titleName ($languageName) $duration - $outputFileName"
+    }
+}
