@@ -1,8 +1,27 @@
 package de.visualdigits.makemkvconui.domain.util
 
+import co.touchlab.kermit.Logger
+import de.visualdigits.makemkvconui.domain.model.bluray.info.data.Data
+import io.ktor.util.cio.readChannel
+import io.ktor.utils.io.asSource
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.channels.Channel
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.SharingStarted
+import kotlinx.coroutines.flow.receiveAsFlow
+import kotlinx.coroutines.flow.shareIn
+import kotlinx.coroutines.isActive
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.runBlocking
+import kotlinx.coroutines.test.runTest
+import kotlinx.io.buffered
+import kotlinx.io.readLine
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.condition.DisabledIfEnvironmentVariable
 import java.io.File
+import kotlin.time.Duration.Companion.seconds
 
 class MkvConUtilTest {
 
@@ -27,8 +46,7 @@ class MkvConUtilTest {
     @Test
     fun renameFilesFromFile() {
         val targetDirectory = File("\\\\Bluray\\e\\Video\\Star Trek\\Strange New Worlds\\Season 3")
-        val lines = File("\\\\Bluray\\c\\Users\\sknull\\messages.txt").readLines()
-        val disc = readDisc(lines)
+        val disc = readDisc(File("\\\\Bluray\\c\\Users\\sknull\\messages.txt"))
         disc?.tracks
             ?.sortedBy { it.mplsName }
             ?.forEachIndexed { index, track ->
@@ -41,19 +59,21 @@ class MkvConUtilTest {
             }
     }
 
-    @DisabledIfEnvironmentVariable(named = "CI", matches = "true", disabledReason = "Needs local resources")
+    @Test
+    fun testReadMessages() {
+        val messages = readMessages(File(ClassLoader.getSystemResource("bluray/report.csv").toURI()))
+        println(messages.joinToString("\n"))
+    }
+
     @Test
     fun printDisc() {
-        val lines = File("\\\\Bluray\\c\\Users\\sknull\\messages.txt").readLines()
-        val disc = readDisc(lines)
+        val disc = readDisc(File(ClassLoader.getSystemResource("bluray/makemkv_messages.csv").toURI()))
         println(disc)
     }
 
-    @DisabledIfEnvironmentVariable(named = "CI", matches = "true", disabledReason = "Needs local resources")
     @Test
     fun printProgress() {
-        val lines = File(ClassLoader.getSystemResource("bluray/progress.csv").toURI()).readLines()
-        val messages = readProgress(lines)
+        val messages = readRawData(File(ClassLoader.getSystemResource("bluray/progress.csv").toURI()))
         println(messages.joinToString("\n"))
     }
 }

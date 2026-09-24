@@ -1,5 +1,11 @@
 package de.visualdigits.makemkvconui.presentation.page
 
+import androidx.compose.animation.core.LinearEasing
+import androidx.compose.animation.core.RepeatMode
+import androidx.compose.animation.core.animateFloat
+import androidx.compose.animation.core.infiniteRepeatable
+import androidx.compose.animation.core.rememberInfiniteTransition
+import androidx.compose.animation.core.tween
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -8,13 +14,16 @@ import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawingPadding
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.Icon
+import androidx.compose.material3.LinearProgressIndicator
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
@@ -34,7 +43,9 @@ import de.visualdigits.common.presentation.components.BindBackHandler
 import de.visualdigits.common.presentation.components.button.IndicatorButton
 import de.visualdigits.common.presentation.components.button.TabButtonRow
 import de.visualdigits.common.presentation.components.container.ErrorCard
+import de.visualdigits.common.presentation.components.container.TerminalWindow
 import de.visualdigits.compose.resources.Res
+import de.visualdigits.compose.resources.icon_disc_24px
 import de.visualdigits.compose.resources.icon_info_24px
 import de.visualdigits.compose.resources.icon_settings_24px
 import de.visualdigits.makemkvconui.presentation.model.MakemkvConUiAction
@@ -57,6 +68,11 @@ fun MainPage(
     platformType: PlatformType,
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
+    val messages by viewModel.messageData.collectAsStateWithLifecycle(listOf())
+    val progressTotalTitle by viewModel.progressTotalTitle.collectAsStateWithLifecycle()
+    val progressCurrentTitle by viewModel.progressCurrentTitle.collectAsStateWithLifecycle()
+    val progress by viewModel.progressValueData.collectAsStateWithLifecycle()
+    val disc by viewModel.discData.collectAsStateWithLifecycle()
 
     BindBackHandler(isEnabled = state.previousSelectedTabIndexes.isNotEmpty()) {
         viewModel.onAction(MakemkvConUiAction.OnBackButton())
@@ -79,6 +95,94 @@ fun MainPage(
 
         val items = remember {
             linkedMapOf<Pair<String, (@Composable () -> Unit)?>, @Composable () -> Unit>(
+                Pair(
+                    "makemkv",
+                    @Composable {
+                        Row(
+                            horizontalArrangement = Arrangement.spacedBy(MaterialTheme.shapes.gap / 2)
+                        ) {
+                            Icon(
+                                painter = painterResource(Res.drawable.icon_disc_24px),
+                                contentDescription = null,
+                                tint = Color.White
+                            )
+                        }
+                    }
+                ) to {
+                    Column(
+                        modifier = Modifier
+                            .fillMaxSize()
+                            .padding(MaterialTheme.shapes.gap),
+                        verticalArrangement = Arrangement.spacedBy(MaterialTheme.shapes.gap)
+                    ) {
+                        IndicatorButton(
+                            modifier = Modifier,
+                            text = "Scan Disc",
+                        ) {
+                            viewModel.onAction(MakemkvConUiAction.OnReadDiscClicked())
+                        }
+
+                        Row(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .height(30.dp),
+                            horizontalArrangement = Arrangement.spacedBy(MaterialTheme.shapes.gap),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            progressTotalTitle?.let { title ->
+                                Text(
+                                    text = title,
+                                    style = MaterialTheme.typography.bodySmall
+                                )
+                            }
+
+                            LinearProgressIndicator(
+                                progress = { progress?.progressTotal ?: 0.0f }, // Liefert Wert zwischen 0.0 und 1.0
+                                modifier = Modifier.fillMaxWidth().height(30.dp),
+                                color = MaterialTheme.colorScheme.primary, // Farbe des geladenen Balkens
+                                trackColor = MaterialTheme.colorScheme.surfaceVariant // Hintergrundfarbe des Balkens
+                            )
+                        }
+
+                        Row(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .height(30.dp),
+                            horizontalArrangement = Arrangement.spacedBy(MaterialTheme.shapes.gap),
+                            verticalAlignment = Alignment.CenterVertically
+                        ) {
+                            progressCurrentTitle?.let { title ->
+                                Text(
+                                    text = title,
+                                    style = MaterialTheme.typography.bodySmall
+                                )
+                            }
+
+                            LinearProgressIndicator(
+                                progress = { progress?.progressCurrentStep ?: 0.0f }, // Liefert Wert zwischen 0.0 und 1.0
+                                modifier = Modifier.fillMaxWidth().height(30.dp),
+                                color = MaterialTheme.colorScheme.primary, // Farbe des geladenen Balkens
+                                trackColor = MaterialTheme.colorScheme.surfaceVariant // Hintergrundfarbe des Balkens
+                            )
+                        }
+
+                        TerminalWindow(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .height(200.dp),
+                            title = "DISC INFO",
+                            listData = { disc }
+                        )
+
+                        TerminalWindow(
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .height(300.dp),
+                            title = "MESSAGES",
+                            listData = { messages }
+                        )
+                    }
+                },
                 Pair(
                     "settings",
                     @Composable {

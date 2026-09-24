@@ -4,11 +4,11 @@ import app.cash.sqldelight.ColumnAdapter
 import de.visualdigits.common.domain.util.CryptoBox
 import de.visualdigits.common.domain.util.EncryptedString
 import de.visualdigits.makemkvconui.MakemkvConUiDatabaseQueries
+import de.visualdigits.makemkvconui.SettingsDatabase
 import de.visualdigits.makemkvconui.data.database.DriverFactory
 import de.visualdigits.makemkvconui.data.repository.DefaultSettingsRepository
 import de.visualdigits.makemkvconui.domain.repository.SettingsRepository
 import de.visualdigits.makemkvconui.presentation.model.MakemkvConUiViewModel
-import de.visualdigits.makemkvconui.SettingsDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.SupervisorJob
@@ -29,7 +29,13 @@ val sharedModule = module {
 
     single { CoroutineScope(SupervisorJob() + Dispatchers.Default) }
 
-    singleOf(::MakemkvConUiViewModel)
+    single {
+        MakemkvConUiViewModel(
+            settingsRepository = get<SettingsRepository>(),
+            homeDirectory = get(named("homeDirectory")),
+            scope = get<CoroutineScope>()
+        )
+    }
 
     single {
         val driver = get<DriverFactory>().createDriver(get<String>(named("homeDirectory")))

@@ -4,6 +4,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import co.touchlab.kermit.Logger
 import co.touchlab.kermit.Severity
+import de.visualdigits.common.domain.model.errorhandling.LogMessage
 import de.visualdigits.common.domain.model.errorhandling.Result
 import de.visualdigits.common.domain.model.errorhandling.onError
 import de.visualdigits.common.domain.model.errorhandling.onSuccess
@@ -15,25 +16,44 @@ import de.visualdigits.common.presentation.model.ScrollIntent
 import de.visualdigits.compose.resources.Res
 import de.visualdigits.compose.resources.error_local_wrong_filetype
 import de.visualdigits.generated.AppVersion
+import de.visualdigits.makemkvconui.domain.model.bluray.info.data.Data
+import de.visualdigits.makemkvconui.domain.model.bluray.info.data.drive.DriveData
+import de.visualdigits.makemkvconui.domain.model.bluray.progress.ProgressValue
 import de.visualdigits.makemkvconui.domain.model.errorhandling.toUiText
 import de.visualdigits.makemkvconui.domain.model.settings.SK
 import de.visualdigits.makemkvconui.domain.model.settings.Settings
 import de.visualdigits.makemkvconui.domain.model.type.Language
 import de.visualdigits.makemkvconui.domain.repository.SettingsRepository
+import de.visualdigits.makemkvconui.domain.util.readDisc
+import de.visualdigits.makemkvconui.domain.util.readDriveDataLine
+import de.visualdigits.makemkvconui.domain.util.readMessageDataLine
+import de.visualdigits.makemkvconui.domain.util.readProgressCurrentTitleDataLine
+import de.visualdigits.makemkvconui.domain.util.readProgressTotalTitleDataLine
+import de.visualdigits.makemkvconui.domain.util.readProgressValueDataLine
+import de.visualdigits.makemkvconui.domain.util.readTrackCountDataLine
 import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.FlowPreview
+import kotlinx.coroutines.delay
+import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.asSharedFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
 import kotlinx.io.Sink
 import kotlinx.io.Source
+import java.io.File
+import java.util.SortedSet
+import kotlin.time.Duration.Companion.milliseconds
 
 @OptIn(ExperimentalCoroutinesApi::class, FlowPreview::class)
 class MakemkvConUiViewModel(
     private val settingsRepository: SettingsRepository,
-    scope: CoroutineScope
+    private val homeDirectory: String,
+    private val scope: CoroutineScope
 ) : ViewModel() {
 
     val scrollPosition: MutableMap<String, Triple<Int, Int?, ScrollIntent>> = mutableMapOf()
@@ -48,6 +68,33 @@ class MakemkvConUiViewModel(
     private val _editedSettings = MutableStateFlow<Settings?>(Settings().initialize(Settings.DESCRIPTORS, mapOf(SK.language to Language.DE)))
     val editedSettings = _editedSettings.asStateFlow()
 
+
+
+    private val _trackCountData = MutableStateFlow<Data?>(null)
+    val trackCountData = _trackCountData.asStateFlow()
+
+    private val _driveData = MutableStateFlow<SortedSet<DriveData>>(sortedSetOf())
+    val driveData = _driveData.asStateFlow()
+
+    private val _progressTotalTitle = MutableStateFlow<String?>(null)
+    val progressTotalTitle = _progressTotalTitle.asStateFlow()
+    private val _progressCurrentTitle = MutableStateFlow<String?>(null)
+    val progressCurrentTitle = _progressCurrentTitle.asStateFlow()
+    private val _progressValueData = MutableStateFlow<ProgressValue?>(null)
+    val progressValueData = _progressValueData.asStateFlow()
+
+    private val _messageData = MutableSharedFlow<List<LogMessage>>(
+        replay = 1, // Neue UI-Fenster fangen leer an (oder höher, falls gewünscht)
+        extraBufferCapacity = Int.MAX_VALUE // Verhindert, dass der MakeMKV-Parser blockiert
+    )
+    val messageData = _messageData.asSharedFlow()
+
+    private val accumulatedLogs = mutableListOf<LogMessage>()
+    private val accumulatedLines = mutableListOf<String>()
+    private val _discData = MutableStateFlow<List<LogMessage>>(listOf())
+    val discData = _discData.asStateFlow()
+
+
     init {
         Logger.i("Application version ${AppVersion().version} initializing...")
         loadData()
@@ -55,6 +102,7 @@ class MakemkvConUiViewModel(
 
         onAction(MakemkvConUiAction.OnInitializeTabs(
             tabLabels = listOf(
+                "makemkv" to UiText.DynamicString(""),
                 "settings" to UiText.DynamicString(""),
                 "info" to UiText.DynamicString("")
             )
@@ -158,6 +206,13 @@ class MakemkvConUiViewModel(
             }
 
             //
+            // makemkvcon
+            //
+            is MakemkvConUiAction.OnReadDiscClicked -> {
+                scanDrive(0)
+            }
+
+            //
             // Misc
             //
             is MakemkvConUiAction.OnCollapsibleStateChange -> {
@@ -188,6 +243,68 @@ class MakemkvConUiViewModel(
                 }
             }
         }
+    }
+
+    private fun scanDrive(discIndex: Int) = viewModelScope.launch {
+        val file = File("$homeDirectory/messages.txt")
+        if (file.exists()) file.writeText("")
+
+        val process = withContext(Dispatchers.IO) {
+            ProcessBuilder(
+                "makemkvcon64",
+                "-r",
+                "info",
+                "disc:$discIndex",
+                "--progress=-same"
+            )
+                .redirectOutput(file) // Schreibt direkt live in deine Datei
+                .start()
+        }
+
+        val readerJob = launch(Dispatchers.IO) {
+            file.bufferedReader().use { reader ->
+                while (process.isAlive || reader.ready() || file.length() > accumulatedLines.sumOf { it.length + 2 }) {
+                    val line = reader.readLine()
+                    if (line != null) {
+                        Logger.i("line: $line")
+                        accumulatedLines += line
+                        readTrackCountDataLine(line)?.also { data -> _trackCountData.update { data } }
+                        readDriveDataLine(line)?.also { data -> _driveData.update { current -> (current + data).toSortedSet() } }
+                        readProgressTotalTitleDataLine(line)?.also { data -> _progressTotalTitle.update { data.value }}
+                        readProgressCurrentTitleDataLine(line)?.also { data -> _progressCurrentTitle.update { data.value }}
+                        readProgressValueDataLine(line)?.also { data ->
+                            Logger.i("total: ${data.progressTotal}, step: ${data.progressCurrentStep}")
+                            _progressValueData.update { data }
+                        }
+                        readMessageDataLine(line)?.also { data ->
+                            accumulatedLogs += LogMessage(
+                                id = accumulatedLogs.size.toString(),
+                                severity = data.messageType.severity,
+                                message = data.toString()
+                            )
+                            _messageData.emit(accumulatedLogs.toList())
+                        }
+                    } else {
+                        delay(200.milliseconds)
+                    }
+                }
+            }
+        }
+        readerJob.join()
+
+        Logger.i("makemkvcon finished it's job with exit code ${process.exitValue()}")
+        readDisc(accumulatedLines)?.also { data ->
+            _discData.update {
+                data.toString()
+                    .split("\n")
+                    .mapIndexed { index, message -> LogMessage(
+                        severity = Severity.Info,
+                        message = message,
+                        id = index.toString()
+                    ) }
+            }
+        }
+        accumulatedLines.clear()
     }
 
     private fun importSettings(fileName: String, source: Source) = viewModelScope.launch {

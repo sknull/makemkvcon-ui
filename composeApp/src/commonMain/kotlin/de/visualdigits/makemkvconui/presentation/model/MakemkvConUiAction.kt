@@ -58,6 +58,11 @@ sealed interface MakemkvConUiAction {
     class OnBackButton : MakemkvConUiAction
 
     //
+    // makemkvcon
+    //
+    class OnReadDiscClicked : MakemkvConUiAction
+
+    //
     // Misc
     //
 

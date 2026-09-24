@@ -8,4 +8,4 @@ data class ProgressCurrentTitle(
     val code: ProgressCode,
     val typeIndicator: TypeIndicator,
     val value: String
-): Data, Entity
+): ProgressData, Entity

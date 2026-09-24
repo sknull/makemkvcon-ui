@@ -11,4 +11,8 @@ data class DriveData(
     val driveName: String,
     val discName: String,
     val devicePath: String
-) : Data, Entity
+) : Data, Entity, Comparable<DriveData> {
+    override fun compareTo(other: DriveData): Int {
+        return compareBy<DriveData> { it.index }.compare(this, other)
+    }
+}

@@ -1,10 +1,7 @@
 import de.visualdigits.translation.util.TranslationUtil
 import org.jetbrains.compose.desktop.application.dsl.TargetFormat
-import org.jetbrains.kotlin.gradle.ExperimentalKotlinGradlePluginApi
-import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
 plugins {
-    alias(libs.plugins.androidApplication)
     alias(libs.plugins.kotlinMultiplatform)
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.jetbrainsCompose)
@@ -98,13 +95,6 @@ kotlin {
     jvm()
     jvmToolchain(21)
 
-    androidTarget {
-        @OptIn(ExperimentalKotlinGradlePluginApi::class)
-        compilerOptions {
-            jvmTarget.set(JvmTarget.JVM_21)
-        }
-    }
-
     sqldelight {
         databases {
             create("SettingsDatabase") {
@@ -117,31 +107,6 @@ kotlin {
         val commonMain by getting {
             kotlin.srcDir(generateVersionClass)
             kotlin.srcDir("build/generated/ksp/metadata/commonMain/kotlin")
-        }
-
-        val androidMain by getting {
-            dependencies {
-                // android
-                implementation(compose.preview)
-                implementation(libs.androidx.activity.compose)
-
-                implementation(libs.koin.android)
-                implementation(libs.koin.androidx.compose)
-                implementation(libs.koin.androidx.workmanager)
-                implementation(libs.androidx.work)
-                implementation(libs.ktor.client.okhttp)
-                implementation(libs.sqldelight.android)
-
-                // location
-                implementation(libs.android.play.location)
-                implementation(libs.coroutines.location)
-
-                // android tv
-                implementation(project.dependencies.platform("androidx.compose:compose-bom:2026.03.00"))
-                implementation(libs.androidx.tv.material)
-                implementation(libs.androidx.ui.tooling)
-                implementation(libs.androidx.ui.tooling.preview)
-            }
         }
 
         commonMain.dependencies {
@@ -355,82 +320,6 @@ base {
     archivesName.set("MakemkvConUi")
 }
 
-android {
-    namespace = "de.visualdigits.makemkvconui"
-    compileSdk = libs.versions.android.compileSdk.get().toInt()
-
-    defaultConfig {
-        applicationId = "de.visualdigits.makemkvconui"
-        minSdk = libs.versions.android.minSdk.get().toInt()
-        targetSdk = libs.versions.android.targetSdk.get().toInt()
-        versionCode = 1
-        versionName = "1.0"
-    }
-
-    packaging {
-        resources {
-            excludes += "/META-INF/{AL2.0,LGPL2.1}"
-            excludes += "META-INF/INDEX.LIST"
-            excludes += "META-INF/io.netty.versions.properties"
-
-            // Schließt ALLE plattformspezifischen Metadaten aus (Native, JS, Wasm)
-            excludes += "**/default/linkdata/**"
-            excludes += "**/default/manifest"
-            excludes += "**/default/module"
-//            excludes += "**/*.knm"
-//            excludes += "**/*.kotlin_metadata"
-
-            // Speziell für deinen neuen Fehler (JS/Wasm Pfade)
-            excludes += "jsAndWasmJsMain/**"
-            excludes += "wasmJsMain/**"
-            excludes += "jsMain/**"
-
-            pickFirsts.add("META-INF/kotlin-project-structure-metadata.json")
-            pickFirsts.add("META-INF/kotlinx-serialization-json.kotlin_module")
-            pickFirsts.add("META-INF/resource_loader.kotlin_module")
-        }
-    }
-
-    signingConfigs {
-        create("release") {
-            val keystoreName = System.getenv("RELEASE_KEYSTORE_PATH") ?: "release.keystore"
-            val keystoreFile = File(projectDir, keystoreName)
-            if (keystoreFile.exists()) {
-                storeFile = keystoreFile
-                storePassword = System.getenv("RELEASE_KEYSTORE_PASSWORD") ?: project.findProperty("RELEASE_STORE_PASSWORD").toString()
-                keyAlias = System.getenv("RELEASE_KEY_ALIAS") ?: project.findProperty("RELEASE_KEY_ALIAS").toString()
-                keyPassword = System.getenv("RELEASE_KEY_PASSWORD") ?: project.findProperty("RELEASE_KEY_PASSWORD").toString()
-            } else {
-                val debugConfig = getByName("debug")
-                storeFile = debugConfig.storeFile
-                storePassword = debugConfig.storePassword
-                keyAlias = debugConfig.keyAlias
-                keyPassword = debugConfig.keyPassword
-
-                println("No release.keystore - falling back to debug signature")
-            }
-        }
-    }
-
-    buildTypes {
-        getByName("release") {
-            isMinifyEnabled = true
-            isShrinkResources = false
-            signingConfig = signingConfigs.getByName("release")
-            proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
-        }
-    }
-
-    compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_21
-        targetCompatibility = JavaVersion.VERSION_21
-        isCoreLibraryDesugaringEnabled = true
-    }
-}
-dependencies {
-    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.0.4")
-}
-
 compose.desktop {
     application {
         mainClass = "de.visualdigits.makemkvconui.MainKt"
@@ -504,20 +393,6 @@ publishing {
             artifact(tasks.named<org.asciidoctor.gradle.jvm.pdf.AsciidoctorPdfTask>("asciidoctorPdf").map { it.outputDir.resolve("README.pdf") }) {
                 extension = "pdf"
                 classifier = "docs"
-            }
-
-            // android debug apk
-            artifact(layout.buildDirectory.file("outputs/apk/debug/MakemkvConUi-debug.apk")) {
-                extension = "apk"
-                classifier = "android-debug"
-                builtBy(tasks.matching { it.name == "assembleDebug" })
-            }
-
-            // android release apk
-            artifact(layout.buildDirectory.file("outputs/apk/release/MakemkvConUi-release.apk")) {
-                extension = "apk"
-                classifier = "android"
-                builtBy(tasks.matching { it.name == "assembleRelease" })
             }
 
             // windows zip file
