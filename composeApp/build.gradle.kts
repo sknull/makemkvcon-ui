@@ -190,10 +190,6 @@ configurations.all {
     exclude(group = "ch.qos.logback", module = "logback-core")
 }
 
-tasks.withType<PublishToMavenRepository> {
-    dependsOn("assembleDebug", "zip")
-}
-
 configurations.all {
     exclude(group = "org.jetbrains.compose.material", module = "material-desktop")
 }
