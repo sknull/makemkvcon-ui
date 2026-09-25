@@ -9,16 +9,18 @@ CREATE TABLE SettingsEntity (
 
 insertSettings:
 INSERT INTO SettingsEntity (
-    language
+    language,
+    targetDirectory
 )
-VALUES (?);
+VALUES (?, ?);
 
 getSettingsById:
 SELECT * FROM SettingsEntity WHERE id = :id;
 
 updateSettingsEntity:
 UPDATE SettingsEntity
-SET language = :language
+SET language = :language,
+    targetDirectory = :targetDirectory
 WHERE id IS :id;
 
 deleteSettings:

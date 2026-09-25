@@ -1,6 +1,7 @@
 package de.visualdigits.makemkvconui.domain.model.settings
 
 import androidx.compose.runtime.Immutable
+import co.touchlab.kermit.Logger
 import co.touchlab.kermit.Severity
 import de.visualdigits.common.domain.model.configuration.AbstractConfiguration
 import de.visualdigits.common.domain.model.configuration.EnumFieldDescriptor
@@ -11,7 +12,8 @@ import de.visualdigits.compose.resources.Res
 import de.visualdigits.compose.resources.label_language
 import de.visualdigits.compose.resources.label_targetDirectory
 import de.visualdigits.makemkvconui.domain.model.type.Language
-import java.io.File
+import kotlinx.io.files.Path
+import kotlinx.io.files.SystemFileSystem
 
 @Immutable
 class Settings: AbstractConfiguration<Settings, SK>() {
@@ -38,7 +40,10 @@ class Settings: AbstractConfiguration<Settings, SK>() {
                 label = UiText.StringResourceId(Res.string.label_targetDirectory),
                 fileMode = FileMode.DIRECTORIES_ONLY,
                 valid = { _, value ->
-                    value?.let { v -> if ((v as? File)?.exists() == true) Severity.Info else Severity.Error } ?: Severity.Error
+                    Logger.i("valid: $value")
+                    value?.let { v ->
+                        if ((v as? Path)?.let { SystemFileSystem.exists(it) } == true) Severity.Info else Severity.Error
+                    } ?: Severity.Error
                 }
             ),
         )

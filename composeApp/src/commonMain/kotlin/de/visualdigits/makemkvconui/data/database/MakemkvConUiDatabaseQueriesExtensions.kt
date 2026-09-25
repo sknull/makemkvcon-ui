@@ -12,15 +12,17 @@ fun MakemkvConUiDatabaseQueries.upsertSettings(masterDataEntity: SettingsEntity)
     }
 }
 
-fun MakemkvConUiDatabaseQueries.insertSettings(masterDataEntity: SettingsEntity) {
+fun MakemkvConUiDatabaseQueries.insertSettings(entity: SettingsEntity) {
     insertSettings(
-        language = masterDataEntity.language,
+        language = entity.language,
+        targetDirectory = entity.targetDirectory
     )
 }
 
-fun MakemkvConUiDatabaseQueries.updateSettings(masterDataEntity: SettingsEntity) {
+fun MakemkvConUiDatabaseQueries.updateSettings(entity: SettingsEntity) {
     updateSettingsEntity(
-        language = masterDataEntity.language,
-        id = masterDataEntity.id
+        language = entity.language,
+        targetDirectory = entity.targetDirectory,
+        id = entity.id
     )
 }
