@@ -1,0 +1,183 @@
+Add
+Add...
+BUSY...
+Cancel
+Select directory
+Select file
+Close
+Delete
+Export Masterdata File
+Export Settings File
+Export Starred Vessels File
+Choose Masterdata File
+Choose Settings File
+Edit
+Edit...
+Connection Error.
+The hard drive is full.
+File not found.
+Result could not be analyzed.
+An unknown error occurred during a local operation.
+The filetype is not supported.
+Internet connection interrupted.
+The request has timed out.
+Result could not be analyzed.
+An unknown error occurred during a remote operation.
+Field unknown in configuration.
+False
+Field is not defined.
+AIS Stream
+Display Theme
+Settings
+Safety messages do not have coordinates. Due to that they were sent within the outer bounding box and do not necessarily refer to the inner bounding box.
+AIS Navigation Aid
+Base Station
+Cargo
+RESCUE TRANSMITTER ACTIVE
+Fishing
+label_Group Mmsi
+High Speed Craft
+MAN OVER BOARD
+Marine
+Medical
+Military
+Other
+Passenger
+Pilot
+Pleasure Craft
+Police
+PortTender
+RESCUE TRANSMITTER ACTIVE
+SAR
+Safety Device
+Sailing
+SAR Daughter Boat
+SAR Vehicle
+Standard Vessel
+Tanker
+Tow
+Tug
+Unknown
+Wing In Ground
+AIS Stream API Key
+Background Color
+Bounding Box Bottom Right
+Bounding Box Top Left
+Button Color
+Callsign
+Clear
+Clock Color
+Destination
+Display Theme
+Distance
+Heading
+Hide Read items
+IMO
+Inbound Traffic
+Language
+Last Message
+Length
+Current Location
+Masterdata
+Draught
+Message
+MMSI
+Moored
+OPML
+Outbound Traffic
+Prefetch Images
+Inner Radius
+Outer Radius
+Refresh Interval
+Refresh Wifi Only.
+Name, MMSI, IMO, Callsign
+Aisstream is offline
+No information available
+Aisstream is online
+Settings
+Speed
+Spot Color
+Starred Vessels
+Stationary
+Text Color
+Turn Rate
+Days
+°/min
+Hour
+Hours
+Km/h
+Knots
+Message
+m
+Minute
+Minutes
+Second
+Seconds
+Feed URL
+Use GPS location instead of fix location
+Vessels
+Warning Distance
+Width
+Zoom
+German
+English
+About
+Help
+OK
+Save
+Search
+Search...
+Show Details...
+Error Output
+Output
+Categories
+Driving
+Moored
+Safety
+Search
+Settings
+National Anthems Of The World
+C A T E G O R I E S
+Current Location
+Delete Element
+Info
+Search
+Settings
+The API Key for aisstream.io
+Back
+Background Color
+Bounding Box Bottom Right
+Bounding Box Top Left
+Button Color
+Basecolor of the studio clock.
+Delete Scene...
+Defines the look and feel of the UI
+Export article as PDF
+The URL of the synch server
+URL pointing to an icon for this feed
+Days to keep read articles before deleting from the cache database
+Days to keep unread articles before deleting from the cache database
+UI Language
+When refreshing feeds also all articles will be read from the website
+Current Location
+Marks all items as read
+Marks all items as read which are older than one day
+Marks all items as read which are older than two days
+Open chat page in external browser
+Open article page in external browser
+Open feed page in external browser
+Prefetch Images
+In this radius position data is collected
+In this radius static ship data is collected
+Interval to refresh all feeds
+Refresh feeds only when a free of charge connection is available.
+Reset Scene...
+The accent color for the base theme
+Text Color
+The URL pointing to the actual newsfeed. # Currently supported feeds are atom, rdf, rss
+Use GPS location instead of fix location
+Warning Distance
+True
+Do you really want to delete this entry?
+Your configuration has been migrated to the latest version. # It is not possible to revert to an older version with the new configuration. # A backup of the old configuration has been created.
+No results.

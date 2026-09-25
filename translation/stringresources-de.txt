@@ -1,0 +1,183 @@
+Hinzufügen
+Hinzufügen...
+BESCHÄFTIGT...
+Abbrechen
+Verzeichnis auswählen
+Datei auswählen
+Schließen
+Löschen
+Schiffsdaten exportieren
+Einstellungen exportieren
+Favoriten exportieren
+Schiffsdaten wählen
+Einstellungen wählen
+Bearbeiten
+Bearbeiten...
+Fehler beim verbinden.
+Die Festplatte ist voll.
+Datei nicht gefunden.
+Ergebnis konnte nicht analysiert werden.
+Bei einem lokalen Vorgang ist ein unbekannter Fehler aufgetreten.
+Der Dateityp wird nicht unterstützt.
+Internetverbindung unterbrochen.
+Die Anfrage ist abgelaufen.
+Ergebnis konnte nicht analysiert werden.
+Bei einem Remote-Vorgang ist ein unbekannter Fehler aufgetreten.
+Feld in der Konfiguration unbekannt.
+Falsch.
+Field is not defined.
+AIS Stream
+Display Thema
+Einstellungen
+Die Sicherheitsnachrichten haben keine Koordinaten und beziehen sich daher auf die äußere Suchbox. Bitte beachte, daß die Meldungen sich nicht unbedingt auf die innere Suchbox beziehen müssen.
+AIS Navigationshilfe
+Basis Station
+Fracht
+RETTUNGS SENDER AKTIV
+Fischerboot
+Gruppen Mmsi
+Schnellboot
+MANN ÜBER BORD
+Marine
+Ambulanz
+Militär
+Anderes
+Passagier
+Pilot
+Freizeit
+Polizei
+Hafen
+RETTUNGS-SENDER AKTIV
+Seerettung
+Rettungsgerät
+Segelboot
+Such und Rettungs Beiboot
+Such und Rettungsboot
+Standard Fahrzeug
+Tanker
+Tow
+Tug
+Unbekannt
+Bodeneffekt
+AIS Stream API Key
+Hintergrund Farbe
+Suchbox unten rechts
+Suchbox oben links
+Button Farbe
+Rufzeichen
+Löschen
+Uhr Farbe
+Ziel
+Oberflächen Thema
+Entfernung
+Richtg.
+Gelesene Verstecken
+IMO
+Hereinkommende Fahrzeuge
+Sprache
+Letzte Meldung
+Länge
+Aktueller Standort
+Master Daten
+Tiefgang
+Nachricht
+MMSI
+Ankernd
+OPML
+Herausgehende Fahrzeuge
+Bilder laden
+Innerer Radius
+Äußerer Radius
+Aktualisierungsintervall
+Nur im Wlan aktualisieren.
+Name, MMSI, IMO, Callsign
+Aisstream ist offline
+Keine Information verfügbar
+Aisstream ist online
+Einstellungen
+Geschw.
+Spot Farbe
+Favoriten
+Unbewegliche Fahrzeuge
+Text Farbe
+Drehgeschw.
+Tage
+°/min
+Stunde
+Stunden
+Km/h
+Knoten
+Nachricht
+m
+Minute
+Minuten
+Sekunde
+Sekunden
+Feed URL
+Aktuelle GPS Position benutzen
+Fahrzeuge
+Warn Distanz
+Breite
+Zoom
+Deutsch
+Englisch
+Über
+Hilfe
+Ok
+Speichern
+Suchen
+Suchen...
+Details anzeigen...
+Fehlerausgabe
+Ausgabe
+Kategorien
+Fahrend
+Ankernd
+Sicherheit
+Suche
+Einstellungen
+Nationalhymnen der Welt
+K A T E G O R I E N
+Aktuelle Position
+Element löschen
+Info
+Suchen
+Einstellungen
+Der API Key für aisstream.io
+Zurück
+Hintergrund Farbe
+Suchbox unten rechts
+Suchbox oben links
+Button Farbe
+Basisfarbe der Studio Uhr.
+Szene löschen...
+Definiert wie die Oberfläche angezeigt wird
+Artikel als PDF exportieren
+Die URL des Synchronisations servers
+URL eines Icons für diesen Feed
+Tage bevor gelesene Artikel aus dem Cache gelöscht werden
+Tage bevor ungelesene Artikel aus dem Cache gelöscht werden
+Oberflächensprache
+Beim Laden des Feeds werden auch alle Artikeltexte von der Webseite gelesen
+Aktueller Standort
+Markiert alle Artikel als gelesen
+Markiert alle Artikel als gelesen, die älter als einen Tag sind
+Markiert alle Artikel als gelesen, die älter als zwei Tage sind
+Chat in externem Browser öffnen
+Artikel in externem Browser öffnen
+Feed in externem Browser öffnen
+Bilder beim Aktualisieren der Feeds mitladen
+In diesem Radius werden Positionsdaten gesammelt
+In diesem Radius werden statische Schiffsdaten gesammelt
+Zeitabstand in Minuten, in dem die Feeds aktualisiert werden
+Aktualisiere Feeds nur, wenn eine kostenfreie Verbindung verfügbar ist.
+Szene zurücksetzen
+Die Akzentfarbe für das Basisthema
+Text Farbe
+Die URL des newsfeeds. # Zur Zeit werden folgende Feedtypen unterstützt: atom, rdf, rss
+Aktuelle GPS Position benutzen
+Warn Distanz
+True
+Möchtest Du diesen Eintrag wirklich löschen?
+Deine Konfiguration wurde auf die neueste Version migriert. # Eine Rückkehr zu einer älteren Version ist mit der neuen Konfiguration nicht möglich. # Von der alten Konfiguration wurde ein Backup angelegt.
+Keine Ergebnisse.
