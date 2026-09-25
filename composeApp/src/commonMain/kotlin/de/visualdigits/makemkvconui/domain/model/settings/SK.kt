@@ -5,6 +5,7 @@ import de.visualdigits.common.domain.model.configuration.FieldKey
 enum class SK : FieldKey<SK> {
 
     language,
+    targetDirectory,
     ;
 
     companion object {

@@ -139,7 +139,16 @@ private fun readData(lines: List<String>): Map<KClass<out Data>, Entity> {
                             sizeLong = fieldMap[TInfoField.SizeLong]?.value?.toLong() ?: 0,
                             mplsName = fieldMap[TInfoField.MplsName]?.value ?: "",
                             segmentCount = fieldMap[TInfoField.SegmentCount]?.value?.toInt() ?: 0,
-                            segmentMap = fieldMap[TInfoField.SegmentMap]?.value?.split(",")?.map { it.toInt() }
+                            segmentMap = fieldMap[TInfoField.SegmentMap]?.value?.let { value ->
+                                val list = if (value.contains(",")) {
+                                    value.split(",")
+                                } else if (value.contains("-")) {
+                                    value.split("-")
+                                } else {
+                                    listOf(value)
+                                }
+                                list.map { it.toInt() }
+                            }
                                 ?: listOf(),
                             outputFileName = fieldMap[TInfoField.OutputFileName]?.value ?: "",
                             languageCode = fieldMap[TInfoField.LanguageCode]?.value ?: "",

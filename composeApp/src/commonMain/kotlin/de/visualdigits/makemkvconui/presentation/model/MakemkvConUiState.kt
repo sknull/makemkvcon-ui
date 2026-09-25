@@ -14,6 +14,8 @@ data class MakemkvConUiState(
     val screenWidth: Dp = Dp.Unspecified,
     val screenHeight: Dp = Dp.Unspecified,
 
+    val currentDriveIndex: Int = 0,
+
     val previousSelectedTabIndexes: List<Int> = listOf(),
     val selectedTabIndex: Int = 0,
     val tabLabels: List<Pair<String, UiText>> = listOf(),

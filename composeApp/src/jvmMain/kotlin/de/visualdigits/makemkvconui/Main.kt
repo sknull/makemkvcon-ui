@@ -40,7 +40,7 @@ fun main() {
 
     val writers = getPlatformLogWriters(homeDirectoryPath, "MakemkvConUi.log")
     Logger.setLogWriters(writers)
-    Logger.setTag("AIS")
+    Logger.setTag("MKV")
     Logger.setMinSeverity(Severity.Info)
 
     System.setProperty("flatlaf.useWindowDecorations", "true")

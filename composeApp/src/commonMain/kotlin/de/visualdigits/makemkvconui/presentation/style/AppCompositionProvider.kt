@@ -42,10 +42,10 @@ fun AppCompositionProvider(
     val platformScrollbarStyle = PlatformScrollbarStyle(
         minimalHeight = 16.dp,
         thickness = 8.dp,
-        shape = RoundedCornerShape(4.dp),
+        shape = MaterialTheme.shapes.extraSmall,
         hoverDurationMillis = 300,
-        unhoverColor = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.2f),
-        hoverColor = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
+        unhoverColor = ScrollbarUnhoverColor,
+        hoverColor = ScrollbarHoverColor,
     )
     val formResource = FormResources(
         backgroundColor = Color.Transparent,

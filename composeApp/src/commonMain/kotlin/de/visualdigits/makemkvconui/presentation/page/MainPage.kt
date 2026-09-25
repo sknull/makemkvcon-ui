@@ -1,11 +1,5 @@
 package de.visualdigits.makemkvconui.presentation.page
 
-import androidx.compose.animation.core.LinearEasing
-import androidx.compose.animation.core.RepeatMode
-import androidx.compose.animation.core.animateFloat
-import androidx.compose.animation.core.infiniteRepeatable
-import androidx.compose.animation.core.rememberInfiniteTransition
-import androidx.compose.animation.core.tween
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -35,15 +29,18 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.drawBehind
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.StrokeCap
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import de.visualdigits.common.domain.model.platform.PlatformType
+import de.visualdigits.common.domain.model.ui.UiText
 import de.visualdigits.common.presentation.components.BindBackHandler
 import de.visualdigits.common.presentation.components.button.IndicatorButton
 import de.visualdigits.common.presentation.components.button.TabButtonRow
 import de.visualdigits.common.presentation.components.container.ErrorCard
 import de.visualdigits.common.presentation.components.container.TerminalWindow
+import de.visualdigits.common.presentation.components.form.ComboBoxStandalone
 import de.visualdigits.compose.resources.Res
 import de.visualdigits.compose.resources.icon_disc_24px
 import de.visualdigits.compose.resources.icon_info_24px
@@ -52,9 +49,14 @@ import de.visualdigits.makemkvconui.presentation.model.MakemkvConUiAction
 import de.visualdigits.makemkvconui.presentation.model.MakemkvConUiViewModel
 import de.visualdigits.makemkvconui.presentation.page.settings.SettingsTab
 import de.visualdigits.makemkvconui.presentation.style.AppCompositionProvider
+import de.visualdigits.makemkvconui.presentation.style.ButtonColor
 import de.visualdigits.makemkvconui.presentation.style.IndicatorColor
-import de.visualdigits.makemkvconui.presentation.style.MarineBlue
+import de.visualdigits.makemkvconui.presentation.style.SpotColor
 import de.visualdigits.makemkvconui.presentation.style.MyShapes
+import de.visualdigits.makemkvconui.presentation.style.ProgressBarColor
+import de.visualdigits.makemkvconui.presentation.style.ProgressBarTrackColor
+import de.visualdigits.makemkvconui.presentation.style.TerminalColor
+import de.visualdigits.makemkvconui.presentation.style.TerminalTitleColor
 import de.visualdigits.makemkvconui.presentation.style.TextColor
 import de.visualdigits.makemkvconui.presentation.style.colorScheme
 import de.visualdigits.makemkvconui.presentation.style.gap
@@ -68,10 +70,11 @@ fun MainPage(
     platformType: PlatformType,
 ) {
     val state by viewModel.state.collectAsStateWithLifecycle()
+    val drives by viewModel.driveData.collectAsStateWithLifecycle(listOf())
     val messages by viewModel.messageData.collectAsStateWithLifecycle(listOf())
     val progressTotalTitle by viewModel.progressTotalTitle.collectAsStateWithLifecycle()
     val progressCurrentTitle by viewModel.progressCurrentTitle.collectAsStateWithLifecycle()
-    val progress by viewModel.progressValueData.collectAsStateWithLifecycle()
+    val progress by viewModel.progressValue.collectAsStateWithLifecycle()
     val disc by viewModel.discData.collectAsStateWithLifecycle()
 
     BindBackHandler(isEnabled = state.previousSelectedTabIndexes.isNotEmpty()) {
@@ -115,9 +118,19 @@ fun MainPage(
                             .padding(MaterialTheme.shapes.gap),
                         verticalArrangement = Arrangement.spacedBy(MaterialTheme.shapes.gap)
                     ) {
+                        ComboBoxStandalone(
+                            label = UiText.DynamicString("Drive"),
+                            options = drives,
+                            currentOption = drives.firstOrNull(),
+                            onValueChange = {  driveIndex ->
+                                viewModel.onAction(MakemkvConUiAction.OnCurrentDriveChanged(driveIndex as Int))
+                            }
+                        )
+
                         IndicatorButton(
                             modifier = Modifier,
                             text = "Scan Disc",
+                            textColor = TextColor
                         ) {
                             viewModel.onAction(MakemkvConUiAction.OnReadDiscClicked())
                         }
@@ -129,18 +142,22 @@ fun MainPage(
                             horizontalArrangement = Arrangement.spacedBy(MaterialTheme.shapes.gap),
                             verticalAlignment = Alignment.CenterVertically
                         ) {
-                            progressTotalTitle?.let { title ->
-                                Text(
-                                    text = title,
-                                    style = MaterialTheme.typography.bodySmall
-                                )
-                            }
+                            Text(
+                                modifier = Modifier
+                                    .width(200.dp),
+                                text = progressTotalTitle ?: "",
+                                style = MaterialTheme.typography.bodySmall
+                            )
 
                             LinearProgressIndicator(
-                                progress = { progress?.progressTotal ?: 0.0f }, // Liefert Wert zwischen 0.0 und 1.0
-                                modifier = Modifier.fillMaxWidth().height(30.dp),
-                                color = MaterialTheme.colorScheme.primary, // Farbe des geladenen Balkens
-                                trackColor = MaterialTheme.colorScheme.surfaceVariant // Hintergrundfarbe des Balkens
+                                modifier = Modifier
+                                    .weight(1f)
+                                    .height(30.dp),
+                                progress = { progress?.progressTotal ?: 0.0f },
+                                color = ProgressBarColor,
+                                trackColor = ProgressBarTrackColor,
+                                strokeCap = StrokeCap.Square,
+                                gapSize = 1.dp
                             )
                         }
 
@@ -151,18 +168,22 @@ fun MainPage(
                             horizontalArrangement = Arrangement.spacedBy(MaterialTheme.shapes.gap),
                             verticalAlignment = Alignment.CenterVertically
                         ) {
-                            progressCurrentTitle?.let { title ->
-                                Text(
-                                    text = title,
-                                    style = MaterialTheme.typography.bodySmall
-                                )
-                            }
+                            Text(
+                                modifier = Modifier
+                                    .width(200.dp),
+                                text = progressCurrentTitle ?: "",
+                                style = MaterialTheme.typography.bodySmall
+                            )
 
                             LinearProgressIndicator(
-                                progress = { progress?.progressCurrentStep ?: 0.0f }, // Liefert Wert zwischen 0.0 und 1.0
-                                modifier = Modifier.fillMaxWidth().height(30.dp),
-                                color = MaterialTheme.colorScheme.primary, // Farbe des geladenen Balkens
-                                trackColor = MaterialTheme.colorScheme.surfaceVariant // Hintergrundfarbe des Balkens
+                                modifier = Modifier
+                                    .weight(1f)
+                                    .height(30.dp),
+                                progress = { progress?.progressCurrentStep ?: 0.0f },
+                                color = ProgressBarColor,
+                                trackColor = ProgressBarTrackColor,
+                                strokeCap = StrokeCap.Square,
+                                gapSize = 1.dp
                             )
                         }
 
@@ -170,16 +191,24 @@ fun MainPage(
                             modifier = Modifier
                                 .fillMaxWidth()
                                 .height(200.dp),
+                            platformType = platformType,
+                            terminalId = "disc_info",
                             title = "DISC INFO",
-                            listData = { disc }
+                            titleBarColor = TerminalTitleColor,
+                            backGroundColor = TerminalColor,
+                            messages = { disc }
                         )
 
                         TerminalWindow(
                             modifier = Modifier
                                 .fillMaxWidth()
                                 .height(300.dp),
+                            platformType = platformType,
+                            terminalId = "messages",
                             title = "MESSAGES",
-                            listData = { messages }
+                            titleBarColor = TerminalTitleColor,
+                            backGroundColor = TerminalColor,
+                            messages = { messages }
                         )
                     }
                 },
@@ -256,7 +285,7 @@ fun MainPage(
                                     .drawBehind {
                                         val strokeWidth = 2.dp.toPx()
                                         drawLine(
-                                            color = MarineBlue,
+                                            color = SpotColor,
                                             start = Offset(0f, size.height - strokeWidth / 2),
                                             end = Offset(size.width, size.height - strokeWidth / 2),
                                             strokeWidth = strokeWidth
@@ -270,8 +299,8 @@ fun MainPage(
                                 IndicatorButton(
                                     modifier = Modifier
                                         .width(40.dp),
-                                    buttonColor = MarineBlue,
-                                    textColor = Color.White,
+                                    buttonColor = ButtonColor,
+                                    textColor = TextColor,
                                     width = Dp.Unspecified,
                                     height = 40.dp,
                                     content = content,

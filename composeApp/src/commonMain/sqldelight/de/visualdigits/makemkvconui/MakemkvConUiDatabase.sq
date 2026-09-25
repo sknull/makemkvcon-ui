@@ -3,7 +3,8 @@
 --
 CREATE TABLE SettingsEntity (
     id INTEGER NOT NULL DEFAULT 0,
-    language TEXT NOT NULL
+    language TEXT NOT NULL,
+    targetDirectory TEXT
 );
 
 insertSettings:

@@ -45,6 +45,7 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import kotlinx.io.Sink
 import kotlinx.io.Source
+import org.jetbrains.compose.resources.DrawableResource
 import java.io.File
 import java.util.SortedSet
 import kotlin.time.Duration.Companion.milliseconds
@@ -73,15 +74,15 @@ class MakemkvConUiViewModel(
     private val _trackCountData = MutableStateFlow<Data?>(null)
     val trackCountData = _trackCountData.asStateFlow()
 
-    private val _driveData = MutableStateFlow<SortedSet<DriveData>>(sortedSetOf())
+    private val _driveData = MutableStateFlow<List<Triple<*, UiText?, DrawableResource?>>>(listOf())
     val driveData = _driveData.asStateFlow()
 
     private val _progressTotalTitle = MutableStateFlow<String?>(null)
     val progressTotalTitle = _progressTotalTitle.asStateFlow()
     private val _progressCurrentTitle = MutableStateFlow<String?>(null)
     val progressCurrentTitle = _progressCurrentTitle.asStateFlow()
-    private val _progressValueData = MutableStateFlow<ProgressValue?>(null)
-    val progressValueData = _progressValueData.asStateFlow()
+    private val _progressValue = MutableStateFlow<ProgressValue?>(null)
+    val progressValue = _progressValue.asStateFlow()
 
     private val _messageData = MutableSharedFlow<List<LogMessage>>(
         replay = 1, // Neue UI-Fenster fangen leer an (oder höher, falls gewünscht)
@@ -107,6 +108,8 @@ class MakemkvConUiViewModel(
                 "info" to UiText.DynamicString("")
             )
         ))
+
+        executeCommand(listOf("info"))
     }
 
     @OptIn(ExperimentalCoroutinesApi::class)
@@ -209,7 +212,14 @@ class MakemkvConUiViewModel(
             // makemkvcon
             //
             is MakemkvConUiAction.OnReadDiscClicked -> {
-                scanDrive(0)
+                executeCommand(listOf("info", "disc:${state.value.currentDriveIndex}"))
+            }
+            is MakemkvConUiAction.OnCurrentDriveChanged -> {
+                _state.update {
+                    it.copy(
+                        currentDriveIndex = action.driveIndex
+                    )
+                }
             }
 
             //
@@ -245,18 +255,12 @@ class MakemkvConUiViewModel(
         }
     }
 
-    private fun scanDrive(discIndex: Int) = viewModelScope.launch {
+    private fun executeCommand(args: List<String>) = viewModelScope.launch {
         val file = File("$homeDirectory/messages.txt")
         if (file.exists()) file.writeText("")
-
+        val arguments = listOf("makemkvcon64", "-r", "--progress=-same") + args
         val process = withContext(Dispatchers.IO) {
-            ProcessBuilder(
-                "makemkvcon64",
-                "-r",
-                "info",
-                "disc:$discIndex",
-                "--progress=-same"
-            )
+            ProcessBuilder(arguments)
                 .redirectOutput(file) // Schreibt direkt live in deine Datei
                 .start()
         }
@@ -269,12 +273,16 @@ class MakemkvConUiViewModel(
                         Logger.i("line: $line")
                         accumulatedLines += line
                         readTrackCountDataLine(line)?.also { data -> _trackCountData.update { data } }
-                        readDriveDataLine(line)?.also { data -> _driveData.update { current -> (current + data).toSortedSet() } }
+                        readDriveDataLine(line)?.also { data -> _driveData.update { current ->
+                            if (data.driveName.isNotEmpty()) {
+                                current + Triple(data.index, UiText.DynamicString(data.driveName), null)
+                            } else current
+                        } }
                         readProgressTotalTitleDataLine(line)?.also { data -> _progressTotalTitle.update { data.value }}
                         readProgressCurrentTitleDataLine(line)?.also { data -> _progressCurrentTitle.update { data.value }}
                         readProgressValueDataLine(line)?.also { data ->
                             Logger.i("total: ${data.progressTotal}, step: ${data.progressCurrentStep}")
-                            _progressValueData.update { data }
+                            _progressValue.update { data }
                         }
                         readMessageDataLine(line)?.also { data ->
                             accumulatedLogs += LogMessage(
@@ -305,6 +313,13 @@ class MakemkvConUiViewModel(
             }
         }
         accumulatedLines.clear()
+        _progressTotalTitle.update { "Finished" }
+        _progressCurrentTitle.update { "Finished" }
+        _progressValue.update { ProgressValue(
+            currentVal = 0,
+            totalVal = 0,
+            maxVal = 655536
+        ) }
     }
 
     private fun importSettings(fileName: String, source: Source) = viewModelScope.launch {

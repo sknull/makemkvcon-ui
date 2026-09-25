@@ -62,6 +62,10 @@ sealed interface MakemkvConUiAction {
     //
     class OnReadDiscClicked : MakemkvConUiAction
 
+    data class OnCurrentDriveChanged(
+        val driveIndex: Int
+    ) : MakemkvConUiAction
+
     //
     // Misc
     //
