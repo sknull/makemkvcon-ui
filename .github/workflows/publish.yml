@@ -82,7 +82,7 @@ jobs:
         run: |
           if [ "${{ matrix.os }}" == "ubuntu-latest" ]; then
             chmod +x gradlew
-            xvfb-run ./gradlew packageReleaseDeb assembleRelease asciidoctorPdf --no-configuration-cache
+            xvfb-run ./gradlew packageReleaseDeb asciidoctorPdf --no-configuration-cache
           else
             ./gradlew packageReleaseMsi -x test --no-configuration-cache --no-daemon
           fi
