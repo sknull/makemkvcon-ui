@@ -198,6 +198,14 @@ configurations.all {
     exclude(group = "org.jetbrains.compose.material", module = "material-desktop")
 }
 
+tasks.register("test") {
+    group = "verification"
+    description = "Alias für jvmTest, um die Testausführung zu vereinfachen."
+
+    // Sagt Gradle, dass dieser Task 'jvmTest' ausführen muss
+    dependsOn(tasks.named("jvmTest"))
+}
+
 tasks.withType<Test> {
     useJUnitPlatform()
 }
@@ -433,8 +441,6 @@ publishing {
 }
 
 tasks.withType<PublishToMavenRepository> {
-    // Android
-    dependsOn(tasks.matching { it.name == "assembleDebug" })
     // Desktop ZIP
     dependsOn(tasks.named("zip"))
     // PDF
