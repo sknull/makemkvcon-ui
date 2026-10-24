@@ -1,0 +1,2869 @@
+{
+    "seriesTitle": "Miami Vice",
+    "seriesDescription": {
+        "translations": {
+            "deu": {
+                "text": "Sonny Crockett arbeitet zusammen mit Ricardo Tubbs arbeitet als Undercover-Polizist in Miami. Ihre Decknamen sind Sonny Burnett und Rico Cooper. Gemeinsam ermitteln sie vor allem in der Drogenszene. Zum Team ihrer Einheit gehören ihr Boss Leutenant Martin Castillo , die Undercover-Polizistinnen Gina Calabrese und Trudy Joplin sowie Stanley Switek und Larry Zito.",
+                "aliases": []
+            },
+            "eng": {
+                "text": "Miami Vice centers around the unlikely partnership of Sonny Crockett (Don Johnson) and Ricardo Tubbs (Philip Michael Thomas), two undercover detectives from the Miami Police Department’s vice squad battling against drug trafficking and prostitution in the city’s seamy underworld. Its use of New Wave music and colorful Italian men’s fashion was groundbreaking and the series had a defining influence on the popular culture of the 1980s.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Cette série met en scène Sonny Crockett et Ricardo Tubbs, deux policiers de la brigade des stupéfiants de Miami agissant le plus souvent en civil.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Zbog njih su sve cure zaljubljene tonule u san, dečki su sanjali kako voze cabrio Ferrari, svi su htjeli živjeti na brodu, a poneki su poželjeli imati i aligatora Elvisa. James \"Sonny\" Crocett (Don Johnson) i Ricardo Tubbs (Philip Michael Thomas) podsjetit će nas zašto su osamdesete uistinu bile posebne godine. Nagrađivana Zlatnim globusima i Emmyjima, serija „Poroci Miamija\" donosila je nove trendove. Zbog nje su muškarci počeli nositi mokasinke na bosu nogu, sakoe pastelnih boja i čudne naočale koje nisu baš svima pristajale. No osim izuzetnog modnog, serija ima i poseban glazbeni značaj, među prvima je imala stereo zvuk, producenti nisu štedjeli pa su epizode tako postale male slušaonice tadašnjih pop i rock izvođača, od kojih su najizvođeniji bili Phil Collins, Depeche Mode, U2, Tina Turner i ZZ Top.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "Miami Vice è una delle serie più innovative e coinvolgenti di tutti i tempi. Essa racconta le savventure di due detective del dipartimento di Polizia di Miami Sonny Crockett e Ricardo Tubbs e della loro guerra contro il traffico di droga, di armi e la prostituzione che caratterizzano il \" vizio\" della città... da qui il titolo della serie appunto Miami \"Vice\". La puntate della serie sono caratterizzate da azione, belle macchine e belle donne che contribuiscono ad ampliare il fascino e il phatos della serie.",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Detektyw Crockett mieszka na łodzi ochranianej przez jego aligatora Elvisa. Jego partner, Tubbs jest czarnoskórym gliniarzem z Nowego Yorku, szukającym mordercy swojego brata. Razem walczą ze światem narkotykowym Florydy...",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Детектив Санни Крокетт и его напарник и близкий друг Таббс расследуют жестокие убийства, изнасилования и ограбления, каждый день происходящие в солнечном и на первый взгляд безоблачном Майами.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Miami Vice es una de las series de televisión más innovadora e intensa de todos los tiempos. Centrándose en el departamento especial de policía de Miami y su lucha continua contra la droga, prostitución, armas de fuego y el inframundo del crimen de la ciudad de Miami. Usando la moda, el color, y una selección musical variada con el fin de valorizar y ampliar el trasfondo emocional del drama que retrata.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Sarjassa Don Johnson ja Philip Michael Thomas esittävät peitetoimissa työskentelevää miamilaista poliisiparia, James ”Sonny” Crockettia ja Ricardo ”Rico” Tubbsia. Crockett muun muassa asuu purjeveneessä Elvis-nimisen lemmikkialligaattorinsa kanssa, joka ajoittain aiheuttaa tempuillaan hankaluuksia. Monet kuuluisat tai sittemmin kuuluisaksi tulleet näyttelijät – esimerkiksi Bruce Willis, Liam Neeson, Veronica Cartwright ja Ben Stiller — ovat esiintyneet Miami Vicessa vierailevina näyttelijöinä. Jaksossa ’Kuolema korjaa satoa / Red tape’ esiintyi Annette Bening, Viggo Mortensen ja Lou Diamond Phillips. Lisäksi sarjassa nähdään paljon muusikkoja, esimerkiksi Leonard Cohen, Gene Simmons, Frank Zappa, Ted Nugent ja Miles Davis.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "A Miami Vice egy népszerű és innovatív tévésorozat volt, a két főszerepet Don Johnson (James \"Sonny\" Crockett) és Philip Michael Thomas (Ricardo \"Ricco\" Tubbs) játszotta, akik két Miamiban nyomozó titkos detektívet alakítottak, akik a Metro-Dade rendőrkapitányságon dolgoztak. A történet élesen elütött a korábbi krimisorozatoktól, és az aktuális 80-as évek világára fókuszált. Minden korábbi szériánál fontosabb szerepet töltött be a kábítószer (különösen a kokain), megjelent a dél-amerikai drogháború, a gyerekkereskedelem, sőt az északír konfliktus is. Gyakori volt a sokszor kifejezetten durva erőszak nyílt ábrázolása, miközben az ügyek esetenként megoldatlanul végződtek. A történetszálban a korábbiaknál sokkal kevesebbet számított a klasszikus értelemben vett nyomozás és nyomozói munka; a főszereplők feladata nem annyira egy-egy bűntény megoldása volt, mint inkább az ismert bűnözők elfogása és hatástalanítása.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "We maken kennis met James 'Sonny' Crockett een ervaren undercover agent en Ricardo Tubbs een politieman uit The Bronx die naar Miami komt om de moord op z'n broer te wreken. Hij wordt de nieuwe partner van Crockett bij de Vice Division's Organised Crime Bureau waar zij onder leiding van hun chef Lt. Martin Castillo infiltreren in de onderwereld van Miami waar drughandel,gokken,geld witwassen,afpersing en moord dagelijkse kost zijn.",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Nesta série emblemática dos anos 80, uma divisão especial da polícia chamada Miami Vice, instrumento de repressão ao tráfico de drogas, contrabando, falsificação e prostituição, entre outros delitos, é criada para combater os cartéis do submundo e a corrupção. Os espectadores têm a rara oportunidade de rever seus antigos heróis, os detetives Sonny Crockett e Ricardo Tubbs, em ação. Sempre bem vestidos e com muita classe, os dois policiais disfarçados enfrentam os mais temíveis vilões com estilo e inteligência, mas recorrem constantemente à força bruta para enquadrar os malfeitores. A trilha sonora e os efeitos visuais são outros atrativos do programa.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "77098",
+        "Status": "Ended",
+        "First Aired": "September 16, 1984",
+        "Recent": "February 8, 2005",
+        "Network": "NBC",
+        "Average Runtime": "48 minutes",
+        "Genres": "Action Crime Drama Mystery Thriller",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "IMDB TMS (Zap2It) TheMovieDB.com",
+        "Episode Screenshot Format": "4:3 Screencap",
+        "Favorited": "This series has been favorited by 311 people.",
+        "Created": "February 4, 2008 by LOP",
+        "Modified": "September 24, 2026 by gregiu6"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Don Johnson",
+                "playsAs": "Detective Sonny Crockett"
+            },
+            {
+                "name": "Philip Michael Thomas",
+                "playsAs": "Detective Ricardo Tubbs"
+            },
+            {
+                "name": "Michael Talbott",
+                "playsAs": "Detective Stanley Switek"
+            },
+            {
+                "name": "Saundra Santiago",
+                "playsAs": "Detective Gina Navarro Calabrese"
+            },
+            {
+                "name": "Olivia Brown",
+                "playsAs": "Trudy Joplin"
+            },
+            {
+                "name": "John Diehl",
+                "playsAs": "Detective Lawrence « Larry » Zito"
+            },
+            {
+                "name": "Edward James Olmos",
+                "playsAs": "Lieutenant Martin Castillo"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "John Nicolella",
+                "numberOfEpisodes": 9,
+                "dates": "01/04/1985 - 02/06/1987"
+            },
+            {
+                "name": "David Jackson",
+                "numberOfEpisodes": 8,
+                "dates": "02/21/1986 - 02/27/1987"
+            },
+            {
+                "name": "Robert Ward",
+                "numberOfEpisodes": 8,
+                "dates": "11/11/1988 - 06/28/1989"
+            },
+            {
+                "name": "Joel Surnow",
+                "numberOfEpisodes": 8,
+                "dates": "10/05/1984 - 10/18/1985"
+            },
+            {
+                "name": "Richard Compton",
+                "numberOfEpisodes": 7,
+                "dates": "01/09/1987 - 01/25/1990"
+            },
+            {
+                "name": "Dennis Cooper",
+                "numberOfEpisodes": 5,
+                "dates": "03/08/1985 - 03/27/1987"
+            },
+            {
+                "name": "Leon Ichaso",
+                "numberOfEpisodes": 5,
+                "dates": "01/31/1986 - 03/04/1988"
+            },
+            {
+                "name": "Ken Solarz",
+                "numberOfEpisodes": 5,
+                "dates": "11/04/1988 - 03/03/1989"
+            },
+            {
+                "name": "Vern Gillum",
+                "numberOfEpisodes": 5,
+                "dates": "10/30/1987 - 03/03/1989"
+            },
+            {
+                "name": "Don Johnson",
+                "numberOfEpisodes": 5,
+                "dates": "12/06/1985 - 11/04/1988"
+            },
+            {
+                "name": "Virgil Vogel",
+                "numberOfEpisodes": 4,
+                "dates": "01/23/1987 - 12/02/1988"
+            },
+            {
+                "name": "Marvin Kupfer",
+                "numberOfEpisodes": 4,
+                "dates": "11/29/1985 - 02/06/1987"
+            },
+            {
+                "name": "Paul Michael Glaser",
+                "numberOfEpisodes": 4,
+                "dates": "10/26/1984 - 09/27/1985"
+            },
+            {
+                "name": "Jim Johnston",
+                "numberOfEpisodes": 4,
+                "dates": "03/29/1985 - 03/11/1988"
+            },
+            {
+                "name": "James Quinn",
+                "numberOfEpisodes": 4,
+                "dates": "03/13/1987 - 10/02/1987"
+            },
+            {
+                "name": "Colin Bucksey",
+                "numberOfEpisodes": 4,
+                "dates": "10/16/1987 - 05/05/1989"
+            },
+            {
+                "name": "Aaron Lipstadt",
+                "numberOfEpisodes": 3,
+                "dates": "01/17/1986 - 11/07/1986"
+            },
+            {
+                "name": "George Mendeluk",
+                "numberOfEpisodes": 3,
+                "dates": "04/01/1988 - 04/29/1988"
+            },
+            {
+                "name": "Allan Weisbecker",
+                "numberOfEpisodes": 3,
+                "dates": "11/30/1984 - 03/08/1985"
+            },
+            {
+                "name": "Nelson Oramas",
+                "numberOfEpisodes": 3,
+                "dates": "05/06/1988"
+            },
+            {
+                "name": "Jan Eliasberg",
+                "numberOfEpisodes": 3,
+                "dates": "12/12/1986 - 11/06/1987"
+            },
+            {
+                "name": "Jim Trombetta",
+                "numberOfEpisodes": 3,
+                "dates": "11/15/1985 - 04/04/1986"
+            },
+            {
+                "name": "Rob Cohen",
+                "numberOfEpisodes": 3,
+                "dates": "03/08/1985 - 01/10/1986"
+            },
+            {
+                "name": "John Leekley",
+                "numberOfEpisodes": 3,
+                "dates": "11/22/1985 - 09/26/1986"
+            },
+            {
+                "name": "Paul Krasny",
+                "numberOfEpisodes": 2,
+                "dates": "11/11/1988 - 11/18/1988"
+            },
+            {
+                "name": "Russ Mayberry",
+                "numberOfEpisodes": 2,
+                "dates": "04/28/1989 - 05/21/1989"
+            },
+            {
+                "name": "Frank Coffey",
+                "numberOfEpisodes": 2,
+                "dates": "03/04/1988"
+            },
+            {
+                "name": "Joseph Gunn",
+                "numberOfEpisodes": 2,
+                "dates": "01/11/1985"
+            },
+            {
+                "name": "Daniel Sackheim",
+                "numberOfEpisodes": 2,
+                "dates": "05/06/1988"
+            },
+            {
+                "name": "Georg Stanford Brown",
+                "numberOfEpisodes": 2,
+                "dates": "11/16/1984 - 01/11/1985"
+            },
+            {
+                "name": "Alan Myerson",
+                "numberOfEpisodes": 2,
+                "dates": "06/14/1989 - 06/21/1989"
+            },
+            {
+                "name": "Ted Mann (I)",
+                "numberOfEpisodes": 2,
+                "dates": "02/17/1989"
+            },
+            {
+                "name": "David Anspaugh",
+                "numberOfEpisodes": 2,
+                "dates": "01/18/1985 - 02/08/1985"
+            },
+            {
+                "name": "Carl Waldman",
+                "numberOfEpisodes": 2,
+                "dates": "03/04/1988"
+            },
+            {
+                "name": "Thomas Carter",
+                "numberOfEpisodes": 2,
+                "dates": "09/16/1984"
+            },
+            {
+                "name": "Abel Ferrara",
+                "numberOfEpisodes": 2,
+                "dates": "03/15/1985 - 10/25/1985"
+            },
+            {
+                "name": "Craig Bolotin",
+                "numberOfEpisodes": 2,
+                "dates": "01/24/1986"
+            },
+            {
+                "name": "Bill Duke",
+                "numberOfEpisodes": 2,
+                "dates": "02/19/1988 - 02/26/1988"
+            },
+            {
+                "name": "Michael B. Hoggan",
+                "numberOfEpisodes": 2,
+                "dates": "02/21/1986 - 03/10/1989"
+            },
+            {
+                "name": "Mario Di Leo",
+                "numberOfEpisodes": 2,
+                "dates": "09/26/1986 - 10/24/1986"
+            },
+            {
+                "name": "Douglas Lloyd McIntosh",
+                "numberOfEpisodes": 2,
+                "dates": "10/18/1985"
+            },
+            {
+                "name": "Michelle Manning",
+                "numberOfEpisodes": 2,
+                "dates": "02/03/1989 - 02/17/1989"
+            },
+            {
+                "name": "Lee H. Katzin",
+                "numberOfEpisodes": 2,
+                "dates": "10/05/1984 - 11/02/1984"
+            },
+            {
+                "name": "Jaron Summers",
+                "numberOfEpisodes": 2,
+                "dates": "02/21/1986"
+            },
+            {
+                "name": "Michael O'Herlihy",
+                "numberOfEpisodes": 2,
+                "dates": "11/08/1985 - 11/15/1985"
+            },
+            {
+                "name": "Edward James Olmos",
+                "numberOfEpisodes": 2,
+                "dates": "11/22/1985"
+            },
+            {
+                "name": "Gabrielle Beaumont",
+                "numberOfEpisodes": 2,
+                "dates": "03/27/1987 - 05/08/1987"
+            },
+            {
+                "name": "Charles Leinenweber",
+                "numberOfEpisodes": 1,
+                "dates": "11/09/1984"
+            },
+            {
+                "name": "Harry Mastrogeorge",
+                "numberOfEpisodes": 1,
+                "dates": "11/01/1985"
+            },
+            {
+                "name": "Tim Zinnemann",
+                "numberOfEpisodes": 1,
+                "dates": "02/22/1985"
+            },
+            {
+                "name": "Bobby Roth",
+                "numberOfEpisodes": 1,
+                "dates": "12/07/1984"
+            },
+            {
+                "name": "Ken Edwards",
+                "numberOfEpisodes": 1,
+                "dates": "11/14/1986"
+            },
+            {
+                "name": "Walter Kurtz",
+                "numberOfEpisodes": 1,
+                "dates": "05/01/1987"
+            },
+            {
+                "name": "John A. Connor",
+                "numberOfEpisodes": 1,
+                "dates": "01/25/1990"
+            },
+            {
+                "name": "Alan J. Levi",
+                "numberOfEpisodes": 1,
+                "dates": "12/14/1984"
+            },
+            {
+                "name": "John Llewellyn Moxey",
+                "numberOfEpisodes": 1,
+                "dates": "09/28/1984"
+            },
+            {
+                "name": "Manuel Arce",
+                "numberOfEpisodes": 1,
+                "dates": "10/10/1986"
+            },
+            {
+                "name": "Eugene Corr",
+                "numberOfEpisodes": 1,
+                "dates": "02/10/1989"
+            },
+            {
+                "name": "Stan Lathan",
+                "numberOfEpisodes": 1,
+                "dates": "11/30/1984"
+            },
+            {
+                "name": "Fred Walton",
+                "numberOfEpisodes": 1,
+                "dates": "12/05/1986"
+            },
+            {
+                "name": "Daniel Attias",
+                "numberOfEpisodes": 1,
+                "dates": "11/21/1986"
+            },
+            {
+                "name": "David Soul",
+                "numberOfEpisodes": 1,
+                "dates": "11/09/1984"
+            },
+            {
+                "name": "Robert Iscove",
+                "numberOfEpisodes": 1,
+                "dates": "06/28/1989"
+            },
+            {
+                "name": "Ate de Jong",
+                "numberOfEpisodes": 1,
+                "dates": "11/13/1987"
+            },
+            {
+                "name": "Priscilla Turner",
+                "numberOfEpisodes": 1,
+                "dates": "10/30/1987"
+            },
+            {
+                "name": "Gillian Horvath",
+                "numberOfEpisodes": 1,
+                "dates": "06/21/1989"
+            },
+            {
+                "name": "Shel Willens",
+                "numberOfEpisodes": 1,
+                "dates": "04/04/1986"
+            },
+            {
+                "name": "Wendy Cozen",
+                "numberOfEpisodes": 1,
+                "dates": "12/14/1984"
+            },
+            {
+                "name": "Dick Miller",
+                "numberOfEpisodes": 1,
+                "dates": "03/07/1986"
+            },
+            {
+                "name": "Richard Colla",
+                "numberOfEpisodes": 1,
+                "dates": "10/19/1984"
+            },
+            {
+                "name": "James A. Contner",
+                "numberOfEpisodes": 1,
+                "dates": "01/13/1989"
+            },
+            {
+                "name": "Randy Roberts",
+                "numberOfEpisodes": 1,
+                "dates": "02/12/1988"
+            },
+            {
+                "name": "Christopher Crowe",
+                "numberOfEpisodes": 1,
+                "dates": "10/31/1986"
+            },
+            {
+                "name": "Chip Chalmers",
+                "numberOfEpisodes": 1,
+                "dates": "03/17/1989"
+            },
+            {
+                "name": "Harold Rosenthal",
+                "numberOfEpisodes": 1,
+                "dates": "11/14/1986"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Dick Wolf",
+                "numberOfEpisodes": 23,
+                "dates": "09/26/1986 - 05/06/1988"
+            },
+            {
+                "name": "Michael Duggan",
+                "numberOfEpisodes": 9,
+                "dates": "11/14/1986 - 04/29/1988"
+            },
+            {
+                "name": "John Schulian",
+                "numberOfEpisodes": 6,
+                "dates": "01/09/1987 - 02/12/1988"
+            },
+            {
+                "name": "Robert Palm",
+                "numberOfEpisodes": 6,
+                "dates": "11/20/1987 - 05/06/1988"
+            },
+            {
+                "name": "Daniel Pyne",
+                "numberOfEpisodes": 6,
+                "dates": "02/08/1985 - 05/02/1986"
+            },
+            {
+                "name": "Peter Lance",
+                "numberOfEpisodes": 5,
+                "dates": "12/04/1987 - 04/01/1988"
+            },
+            {
+                "name": "Maurice Hurley",
+                "numberOfEpisodes": 5,
+                "dates": "11/09/1984 - 10/25/1985"
+            },
+            {
+                "name": "Miguel Pinero",
+                "numberOfEpisodes": 5,
+                "dates": "02/01/1985"
+            },
+            {
+                "name": "Pete McCabe",
+                "numberOfEpisodes": 4,
+                "dates": "09/25/1987 - 02/17/1989"
+            },
+            {
+                "name": "Chuck Adamson",
+                "numberOfEpisodes": 4,
+                "dates": "12/07/1984 - 10/31/1986"
+            },
+            {
+                "name": "Scott Shepherd",
+                "numberOfEpisodes": 4,
+                "dates": "11/11/1988 - 04/28/1989"
+            },
+            {
+                "name": "Frank Military",
+                "numberOfEpisodes": 3,
+                "dates": "11/01/1985 - 01/31/1986"
+            },
+            {
+                "name": "Jack Richardson",
+                "numberOfEpisodes": 3,
+                "dates": "03/11/1988 - 01/25/1990"
+            },
+            {
+                "name": "Anthony Yerkovich",
+                "numberOfEpisodes": 3,
+                "dates": "09/16/1984 - 06/14/1989"
+            },
+            {
+                "name": "Paul Diamond",
+                "numberOfEpisodes": 2,
+                "dates": "05/03/1985 - 12/13/1985"
+            },
+            {
+                "name": "Terry McDonnell",
+                "numberOfEpisodes": 2,
+                "dates": "12/06/1985 - 04/28/1989"
+            },
+            {
+                "name": "David Black",
+                "numberOfEpisodes": 2,
+                "dates": "10/16/1987 - 04/29/1988"
+            },
+            {
+                "name": "Alfonse Ruggiero Jr.",
+                "numberOfEpisodes": 2,
+                "dates": "10/26/1984 - 11/02/1984"
+            },
+            {
+                "name": "A.J. Edison",
+                "numberOfEpisodes": 2,
+                "dates": "09/28/1984 - 12/14/1984"
+            },
+            {
+                "name": "John Mankiewicz",
+                "numberOfEpisodes": 2,
+                "dates": "10/18/1985 - 01/17/1986"
+            },
+            {
+                "name": "Rob Bragin",
+                "numberOfEpisodes": 2,
+                "dates": "02/03/1989 - 06/21/1989"
+            },
+            {
+                "name": "Robert Crais",
+                "numberOfEpisodes": 2,
+                "dates": "03/14/1986 - 12/09/1988"
+            },
+            {
+                "name": "W.K. Scott Meyer",
+                "numberOfEpisodes": 1,
+                "dates": "10/17/1986"
+            },
+            {
+                "name": "David Assael",
+                "numberOfEpisodes": 1,
+                "dates": "05/10/1985"
+            },
+            {
+                "name": "James Becket",
+                "numberOfEpisodes": 1,
+                "dates": "11/18/1988"
+            },
+            {
+                "name": "Robert Goethals",
+                "numberOfEpisodes": 1,
+                "dates": "03/17/1989"
+            },
+            {
+                "name": "John Milius",
+                "numberOfEpisodes": 1,
+                "dates": "04/03/1987"
+            },
+            {
+                "name": "Alan Moskowitz",
+                "numberOfEpisodes": 1,
+                "dates": "11/07/1986"
+            },
+            {
+                "name": "Raymond Hartung",
+                "numberOfEpisodes": 1,
+                "dates": "12/16/1988"
+            },
+            {
+                "name": "Michael Ahnemann",
+                "numberOfEpisodes": 1,
+                "dates": "01/10/1986"
+            },
+            {
+                "name": "Eric Estrin",
+                "numberOfEpisodes": 1,
+                "dates": "01/23/1987"
+            },
+            {
+                "name": "Frank Holman",
+                "numberOfEpisodes": 1,
+                "dates": "05/21/1989"
+            },
+            {
+                "name": "Philip Reed",
+                "numberOfEpisodes": 1,
+                "dates": "11/16/1984"
+            },
+            {
+                "name": "Michael Eric Stein",
+                "numberOfEpisodes": 1,
+                "dates": "02/22/1985"
+            },
+            {
+                "name": "Michael Mann",
+                "numberOfEpisodes": 1,
+                "dates": "01/18/1985"
+            },
+            {
+                "name": "Pamela Norris",
+                "numberOfEpisodes": 1,
+                "dates": "02/13/1987"
+            },
+            {
+                "name": "Jonathan Polansky",
+                "numberOfEpisodes": 1,
+                "dates": "03/27/1987"
+            },
+            {
+                "name": "William T. Conway",
+                "numberOfEpisodes": 1,
+                "dates": "05/21/1989"
+            },
+            {
+                "name": "Allison Hock",
+                "numberOfEpisodes": 1,
+                "dates": "01/04/1985"
+            },
+            {
+                "name": "Edward Tivnan",
+                "numberOfEpisodes": 1,
+                "dates": "11/06/1987"
+            },
+            {
+                "name": "Richard Lourie",
+                "numberOfEpisodes": 1,
+                "dates": "05/05/1989"
+            },
+            {
+                "name": "Edward Di Lorenzo",
+                "numberOfEpisodes": 1,
+                "dates": "03/29/1985"
+            },
+            {
+                "name": "Rex Weiner",
+                "numberOfEpisodes": 1,
+                "dates": "11/30/1984"
+            },
+            {
+                "name": "Michael Berlin",
+                "numberOfEpisodes": 1,
+                "dates": "01/23/1987"
+            },
+            {
+                "name": "Ed Zuckerman",
+                "numberOfEpisodes": 1,
+                "dates": "02/05/1988"
+            },
+            {
+                "name": "Julia Cameron",
+                "numberOfEpisodes": 1,
+                "dates": "11/08/1985"
+            },
+            {
+                "name": "Gustave Reininger",
+                "numberOfEpisodes": 1,
+                "dates": "12/12/1986"
+            },
+            {
+                "name": "Michael Piller",
+                "numberOfEpisodes": 1,
+                "dates": "10/30/1987"
+            },
+            {
+                "name": "William Conway",
+                "numberOfEpisodes": 1,
+                "dates": "02/10/1989"
+            },
+            {
+                "name": "Vladislavo Stepankutza",
+                "numberOfEpisodes": 1,
+                "dates": "12/09/1988"
+            },
+            {
+                "name": "Wilton Crawley",
+                "numberOfEpisodes": 1,
+                "dates": "02/14/1986"
+            },
+            {
+                "name": "Thomas M. Disch",
+                "numberOfEpisodes": 1,
+                "dates": "11/13/1987"
+            },
+            {
+                "name": "Joseph DeBlasi",
+                "numberOfEpisodes": 1,
+                "dates": "10/23/1987"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "September 1984",
+                "to": "September 1985",
+                "episodes": 23,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Brother's Keeper",
+                        "firstAired": "September 16, 1984 NBC",
+                        "runtime": 97
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Heart of Darkness",
+                        "firstAired": "September 28, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Cool Runnin'",
+                        "firstAired": "October 5, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Calderone's Return (1) - The Hit List",
+                        "firstAired": "October 19, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Calderone's Return (2) - Calderone's Demise",
+                        "firstAired": "October 26, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "One Eyed Jack",
+                        "firstAired": "November 2, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "No Exit (a.k.a. Three-Eyed Turtle)",
+                        "firstAired": "November 9, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Great McCarthy",
+                        "firstAired": "November 16, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Glades",
+                        "firstAired": "November 30, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Give a Little, Take a Little",
+                        "firstAired": "December 7, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Little Prince",
+                        "firstAired": "December 14, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Milk Run",
+                        "firstAired": "January 4, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Golden Triangle (1)",
+                        "firstAired": "January 11, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Golden Triangle (2)",
+                        "firstAired": "January 18, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Smuggler's Blues",
+                        "firstAired": "February 1, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Rites of Passage",
+                        "firstAired": "February 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "The Maze",
+                        "firstAired": "February 22, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Made for Each Other",
+                        "firstAired": "March 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "The Home Invaders",
+                        "firstAired": "March 15, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Nobody Lives Forever",
+                        "firstAired": "March 29, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Evan",
+                        "firstAired": "May 3, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Lombard season finale",
+                        "firstAired": "May 10, 1985 NBC",
+                        "runtime": 49
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "September 1985",
+                "to": "May 1986",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Prodigal Son",
+                        "firstAired": "September 27, 1985 NBC",
+                        "runtime": 96
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Whatever Works",
+                        "firstAired": "October 4, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Out Where the Buses Don't Run",
+                        "firstAired": "October 18, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "The Dutch Oven",
+                        "firstAired": "October 25, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Buddies",
+                        "firstAired": "November 1, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Junk Love",
+                        "firstAired": "November 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Tale of the Goat",
+                        "firstAired": "November 15, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Bushido",
+                        "firstAired": "November 22, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Bought and Paid For",
+                        "firstAired": "November 29, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Back in the World",
+                        "firstAired": "December 6, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Phil the Shill",
+                        "firstAired": "December 13, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Definitely Miami",
+                        "firstAired": "January 10, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Yankee Dollar",
+                        "firstAired": "January 17, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "One Way Ticket",
+                        "firstAired": "January 24, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "Little Miss Dangerous",
+                        "firstAired": "January 31, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "Florence Italy",
+                        "firstAired": "February 14, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "French Twist",
+                        "firstAired": "February 21, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "The Fix",
+                        "firstAired": "March 7, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Payback",
+                        "firstAired": "March 14, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Free Verse",
+                        "firstAired": "April 4, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Trust Fund Pirates",
+                        "firstAired": "May 2, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Sons and Lovers season finale",
+                        "firstAired": "May 9, 1986 NBC",
+                        "runtime": 49
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "September 1986",
+                "to": "May 1987",
+                "episodes": 24,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "When Irish Eyes Are Crying",
+                        "firstAired": "September 26, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Stone's War",
+                        "firstAired": "October 3, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Killshot",
+                        "firstAired": "October 10, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Walk-Alone",
+                        "firstAired": "October 17, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "The Good Collar",
+                        "firstAired": "October 24, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Shadow in the Dark",
+                        "firstAired": "October 31, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "El Viejo",
+                        "firstAired": "November 7, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Better Living Through Chemistry",
+                        "firstAired": "November 14, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Baby Blues",
+                        "firstAired": "November 21, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Streetwise",
+                        "firstAired": "December 5, 1986 NBC",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Forgive Us Our Debts",
+                        "firstAired": "December 12, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Down for the Count (1)",
+                        "firstAired": "January 9, 1987 NBC",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Down for the Count (2)",
+                        "firstAired": "January 16, 1987 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Cuba Libre",
+                        "firstAired": "January 23, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Duty and Honor (a.k.a. The Savage)",
+                        "firstAired": "February 6, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Theresa",
+                        "firstAired": "February 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "The Afternoon Plane",
+                        "firstAired": "February 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Lend Me an Ear",
+                        "firstAired": "February 27, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Red Tape",
+                        "firstAired": "March 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "By Hooker by Crook",
+                        "firstAired": "March 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Knock, Knock...Who's There?",
+                        "firstAired": "March 27, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "Viking Bikers from Hell",
+                        "firstAired": "April 3, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E23",
+                        "name": "Everybody's in Show Biz",
+                        "firstAired": "May 1, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E24",
+                        "name": "Heroes of the Revolution season finale",
+                        "firstAired": "May 8, 1987 NBC",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 4,
+                "from": "September 1987",
+                "to": "May 1988",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/official/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Contempt of Court",
+                        "firstAired": "September 25, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Amen...Send Money",
+                        "firstAired": "October 2, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Death and the Lady",
+                        "firstAired": "October 16, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "The Big Thaw",
+                        "firstAired": "October 23, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Child's Play",
+                        "firstAired": "October 30, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "God's Work",
+                        "firstAired": "November 6, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Missing Hours",
+                        "firstAired": "November 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Like a Hurricane",
+                        "firstAired": "November 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "The Rising Sun of Death",
+                        "firstAired": "December 4, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Love at First Sight",
+                        "firstAired": "January 15, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Rock and a Hard Place",
+                        "firstAired": "January 22, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "The Cows of October",
+                        "firstAired": "February 5, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Vote of Confidence",
+                        "firstAired": "February 12, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "Baseballs of Death",
+                        "firstAired": "February 19, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Indian Wars",
+                        "firstAired": "February 26, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Honor Among Thieves?",
+                        "firstAired": "March 4, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Hell Hath No Fury",
+                        "firstAired": "March 11, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "Badge of Dishonor",
+                        "firstAired": "March 18, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "Blood & Roses",
+                        "firstAired": "April 1, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "A Bullet for Crockett",
+                        "firstAired": "April 15, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E21",
+                        "name": "Deliver Us from Evil",
+                        "firstAired": "April 29, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E22",
+                        "name": "Mirror Image season finale",
+                        "firstAired": "May 6, 1988 NBC",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 5,
+                "from": "November 1988",
+                "to": "January 1990",
+                "episodes": 21,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/official/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Hostile Takeover",
+                        "firstAired": "November 4, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Redemption in Blood",
+                        "firstAired": "November 11, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Heart of Night",
+                        "firstAired": "November 18, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "Bad Timing",
+                        "firstAired": "December 2, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Borrasca",
+                        "firstAired": "December 9, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "Line of Fire",
+                        "firstAired": "December 16, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Asian Cut",
+                        "firstAired": "January 13, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "Hard Knocks",
+                        "firstAired": "January 20, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Fruit of the Poison Tree",
+                        "firstAired": "February 3, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "To Have and to Hold (a.k.a. Second Chance)",
+                        "firstAired": "February 10, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "Miami Squeeze",
+                        "firstAired": "February 17, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Jack of All Trades",
+                        "firstAired": "March 3, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "The Cell Within",
+                        "firstAired": "March 10, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "The Lost Madonna",
+                        "firstAired": "March 17, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Over the Line",
+                        "firstAired": "April 28, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Victims of Circumstance",
+                        "firstAired": "May 5, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "Freefall",
+                        "firstAired": "May 21, 1989 NBC",
+                        "runtime": 91
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "World of Trouble",
+                        "firstAired": "June 14, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "Miracle Man",
+                        "firstAired": "June 21, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "Leap of Faith",
+                        "firstAired": "June 28, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E21",
+                        "name": "Too Much, Too Late series finale",
+                        "firstAired": "January 25, 1990 NBC",
+                        "runtime": 95
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "September 1984",
+                "to": "May 1985",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Brother's Keeper",
+                        "firstAired": "September 16, 1984 NBC",
+                        "runtime": 97
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Heart of Darkness",
+                        "firstAired": "September 28, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Cool Runnin'",
+                        "firstAired": "October 5, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Calderone's Return (1) - The Hit List",
+                        "firstAired": "October 19, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Calderone's Return (2) - Calderone's Demise",
+                        "firstAired": "October 26, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "One Eyed Jack",
+                        "firstAired": "November 2, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "No Exit (a.k.a. Three-Eyed Turtle)",
+                        "firstAired": "November 9, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Great McCarthy",
+                        "firstAired": "November 16, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Glades",
+                        "firstAired": "November 30, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Give a Little, Take a Little",
+                        "firstAired": "December 7, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Little Prince",
+                        "firstAired": "December 14, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Milk Run",
+                        "firstAired": "January 4, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Golden Triangle (1)",
+                        "firstAired": "January 11, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Golden Triangle (2)",
+                        "firstAired": "January 18, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Smuggler's Blues",
+                        "firstAired": "February 1, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Rites of Passage",
+                        "firstAired": "February 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "The Maze",
+                        "firstAired": "February 22, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Made for Each Other",
+                        "firstAired": "March 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "The Home Invaders",
+                        "firstAired": "March 15, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Nobody Lives Forever",
+                        "firstAired": "March 29, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Evan",
+                        "firstAired": "May 3, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Lombard season finale",
+                        "firstAired": "May 10, 1985 NBC",
+                        "runtime": 49
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "September 1985",
+                "to": "May 1986",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Prodigal Son",
+                        "firstAired": "September 27, 1985 NBC",
+                        "runtime": 96
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Whatever Works",
+                        "firstAired": "October 4, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Out Where the Buses Don't Run",
+                        "firstAired": "October 18, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "The Dutch Oven",
+                        "firstAired": "October 25, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Buddies",
+                        "firstAired": "November 1, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Junk Love",
+                        "firstAired": "November 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Tale of the Goat",
+                        "firstAired": "November 15, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Bushido",
+                        "firstAired": "November 22, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Bought and Paid For",
+                        "firstAired": "November 29, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Back in the World",
+                        "firstAired": "December 6, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Phil the Shill",
+                        "firstAired": "December 13, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Definitely Miami",
+                        "firstAired": "January 10, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Yankee Dollar",
+                        "firstAired": "January 17, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "One Way Ticket",
+                        "firstAired": "January 24, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "Little Miss Dangerous",
+                        "firstAired": "January 31, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "Florence Italy",
+                        "firstAired": "February 14, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "French Twist",
+                        "firstAired": "February 21, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "The Fix",
+                        "firstAired": "March 7, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Payback",
+                        "firstAired": "March 14, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Free Verse",
+                        "firstAired": "April 4, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Trust Fund Pirates",
+                        "firstAired": "May 2, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Sons and Lovers season finale",
+                        "firstAired": "May 9, 1986 NBC",
+                        "runtime": 49
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "September 1986",
+                "to": "May 1987",
+                "episodes": 24,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "When Irish Eyes Are Crying",
+                        "firstAired": "September 26, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Stone's War",
+                        "firstAired": "October 3, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Killshot",
+                        "firstAired": "October 10, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Walk-Alone",
+                        "firstAired": "October 17, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "The Good Collar",
+                        "firstAired": "October 24, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Shadow in the Dark",
+                        "firstAired": "October 31, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "El Viejo",
+                        "firstAired": "November 7, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Better Living Through Chemistry",
+                        "firstAired": "November 14, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Baby Blues",
+                        "firstAired": "November 21, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Streetwise",
+                        "firstAired": "December 5, 1986 NBC",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Forgive Us Our Debts",
+                        "firstAired": "December 12, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Down for the Count (1)",
+                        "firstAired": "January 9, 1987 NBC",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Down for the Count (2)",
+                        "firstAired": "January 16, 1987 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Cuba Libre",
+                        "firstAired": "January 23, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Duty and Honor (a.k.a. The Savage)",
+                        "firstAired": "February 6, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Theresa",
+                        "firstAired": "February 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "The Afternoon Plane",
+                        "firstAired": "February 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Lend Me an Ear",
+                        "firstAired": "February 27, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Red Tape",
+                        "firstAired": "March 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "By Hooker by Crook",
+                        "firstAired": "March 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Knock, Knock...Who's There?",
+                        "firstAired": "March 27, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "Viking Bikers from Hell",
+                        "firstAired": "April 3, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E23",
+                        "name": "Everybody's in Show Biz",
+                        "firstAired": "May 1, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E24",
+                        "name": "Heroes of the Revolution season finale",
+                        "firstAired": "May 8, 1987 NBC",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 4,
+                "from": "September 1987",
+                "to": "May 1988",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/dvd/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Contempt of Court",
+                        "firstAired": "September 25, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Amen...Send Money",
+                        "firstAired": "October 2, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Death and the Lady",
+                        "firstAired": "October 16, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "The Big Thaw",
+                        "firstAired": "October 23, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Child's Play",
+                        "firstAired": "October 30, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "God's Work",
+                        "firstAired": "November 6, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Missing Hours",
+                        "firstAired": "November 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Like a Hurricane",
+                        "firstAired": "November 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "The Rising Sun of Death",
+                        "firstAired": "December 4, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Love at First Sight",
+                        "firstAired": "January 15, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Rock and a Hard Place",
+                        "firstAired": "January 22, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "The Cows of October",
+                        "firstAired": "February 5, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Vote of Confidence",
+                        "firstAired": "February 12, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "Baseballs of Death",
+                        "firstAired": "February 19, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Indian Wars",
+                        "firstAired": "February 26, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Honor Among Thieves?",
+                        "firstAired": "March 4, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Hell Hath No Fury",
+                        "firstAired": "March 11, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "Badge of Dishonor",
+                        "firstAired": "March 18, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "Blood & Roses",
+                        "firstAired": "April 1, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "A Bullet for Crockett",
+                        "firstAired": "April 15, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E21",
+                        "name": "Deliver Us from Evil",
+                        "firstAired": "April 29, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E22",
+                        "name": "Mirror Image season finale",
+                        "firstAired": "May 6, 1988 NBC",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 5,
+                "from": "November 1988",
+                "to": "January 1990",
+                "episodes": 21,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/dvd/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Hostile Takeover",
+                        "firstAired": "November 4, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Redemption in Blood",
+                        "firstAired": "November 11, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Heart of Night",
+                        "firstAired": "November 18, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "Bad Timing",
+                        "firstAired": "December 2, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Borrasca",
+                        "firstAired": "December 9, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "Line of Fire",
+                        "firstAired": "December 16, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Asian Cut",
+                        "firstAired": "January 13, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "Hard Knocks",
+                        "firstAired": "January 20, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Fruit of the Poison Tree",
+                        "firstAired": "February 3, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "To Have and to Hold (a.k.a. Second Chance)",
+                        "firstAired": "February 10, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "Miami Squeeze",
+                        "firstAired": "February 17, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Jack of All Trades",
+                        "firstAired": "March 3, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "The Cell Within",
+                        "firstAired": "March 10, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "The Lost Madonna",
+                        "firstAired": "March 17, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Over the Line",
+                        "firstAired": "April 28, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Victims of Circumstance",
+                        "firstAired": "May 5, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "World of Trouble",
+                        "firstAired": "June 14, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "Miracle Man",
+                        "firstAired": "June 21, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "Leap of Faith",
+                        "firstAired": "June 28, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "Too Much, Too Late series finale",
+                        "firstAired": "January 25, 1990 NBC",
+                        "runtime": 95
+                    },
+                    {
+                        "code": "S05E21",
+                        "name": "Freefall",
+                        "firstAired": "May 21, 1989 NBC",
+                        "runtime": 91
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "September 1984",
+                "to": "January 1990",
+                "episodes": 111,
+                "episodesUrl": "https://www.thetvdb.com/series/miami-vice/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Brother's Keeper",
+                        "firstAired": "September 16, 1984 NBC",
+                        "runtime": 97
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Heart of Darkness",
+                        "firstAired": "September 28, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Cool Runnin'",
+                        "firstAired": "October 5, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Calderone's Return (1) - The Hit List",
+                        "firstAired": "October 19, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Calderone's Return (2) - Calderone's Demise",
+                        "firstAired": "October 26, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "One Eyed Jack",
+                        "firstAired": "November 2, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "No Exit (a.k.a. Three-Eyed Turtle)",
+                        "firstAired": "November 9, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Great McCarthy",
+                        "firstAired": "November 16, 1984 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Glades",
+                        "firstAired": "November 30, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Give a Little, Take a Little",
+                        "firstAired": "December 7, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Little Prince",
+                        "firstAired": "December 14, 1984 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Milk Run",
+                        "firstAired": "January 4, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Golden Triangle (1)",
+                        "firstAired": "January 11, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Golden Triangle (2)",
+                        "firstAired": "January 18, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Smuggler's Blues",
+                        "firstAired": "February 1, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Rites of Passage",
+                        "firstAired": "February 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "The Maze",
+                        "firstAired": "February 22, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Made for Each Other",
+                        "firstAired": "March 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "The Home Invaders",
+                        "firstAired": "March 15, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Nobody Lives Forever",
+                        "firstAired": "March 29, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Evan",
+                        "firstAired": "May 3, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Lombard season finale",
+                        "firstAired": "May 10, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "The Prodigal Son",
+                        "firstAired": "September 27, 1985 NBC",
+                        "runtime": 96
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Whatever Works",
+                        "firstAired": "October 4, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "Out Where the Buses Don't Run",
+                        "firstAired": "October 18, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "Buddies",
+                        "firstAired": "November 1, 1985 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Junk Love",
+                        "firstAired": "November 8, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "Tale of the Goat",
+                        "firstAired": "November 15, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Bushido",
+                        "firstAired": "November 22, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "Bought and Paid For",
+                        "firstAired": "November 29, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E31",
+                        "name": "Phil the Shill",
+                        "firstAired": "December 13, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E32",
+                        "name": "One Way Ticket",
+                        "firstAired": "January 24, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E33",
+                        "name": "The Dutch Oven",
+                        "firstAired": "October 25, 1985 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E34",
+                        "name": "Back in the World",
+                        "firstAired": "December 6, 1985 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E35",
+                        "name": "Definitely Miami",
+                        "firstAired": "January 10, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E36",
+                        "name": "Yankee Dollar",
+                        "firstAired": "January 17, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E37",
+                        "name": "Little Miss Dangerous",
+                        "firstAired": "January 31, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E38",
+                        "name": "Florence Italy",
+                        "firstAired": "February 14, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E39",
+                        "name": "French Twist",
+                        "firstAired": "February 21, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E40",
+                        "name": "The Fix",
+                        "firstAired": "March 7, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E41",
+                        "name": "Payback",
+                        "firstAired": "March 14, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E42",
+                        "name": "Free Verse",
+                        "firstAired": "April 4, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E43",
+                        "name": "Trust Fund Pirates",
+                        "firstAired": "May 2, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E44",
+                        "name": "Sons and Lovers season finale",
+                        "firstAired": "May 9, 1986 NBC",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E45",
+                        "name": "El Viejo",
+                        "firstAired": "November 7, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E46",
+                        "name": "When Irish Eyes Are Crying",
+                        "firstAired": "September 26, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E47",
+                        "name": "Stone's War",
+                        "firstAired": "October 3, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E48",
+                        "name": "Walk-Alone",
+                        "firstAired": "October 17, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E49",
+                        "name": "Streetwise",
+                        "firstAired": "December 5, 1986 NBC",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E50",
+                        "name": "The Good Collar",
+                        "firstAired": "October 24, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E51",
+                        "name": "Shadow in the Dark",
+                        "firstAired": "October 31, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E52",
+                        "name": "Better Living Through Chemistry",
+                        "firstAired": "November 14, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E53",
+                        "name": "Baby Blues",
+                        "firstAired": "November 21, 1986 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E54",
+                        "name": "Killshot",
+                        "firstAired": "October 10, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E55",
+                        "name": "Forgive Us Our Debts",
+                        "firstAired": "December 12, 1986 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E56",
+                        "name": "Down for the Count (1)",
+                        "firstAired": "January 9, 1987 NBC",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E57",
+                        "name": "Down for the Count (2)",
+                        "firstAired": "January 16, 1987 NBC",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E58",
+                        "name": "Cuba Libre",
+                        "firstAired": "January 23, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E59",
+                        "name": "Duty and Honor (a.k.a. The Savage)",
+                        "firstAired": "February 6, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E60",
+                        "name": "Theresa",
+                        "firstAired": "February 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E61",
+                        "name": "The Afternoon Plane",
+                        "firstAired": "February 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E62",
+                        "name": "Lend Me an Ear",
+                        "firstAired": "February 27, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E63",
+                        "name": "Red Tape",
+                        "firstAired": "March 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E64",
+                        "name": "By Hooker by Crook",
+                        "firstAired": "March 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E65",
+                        "name": "Knock, Knock...Who's There?",
+                        "firstAired": "March 27, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E66",
+                        "name": "Viking Bikers from Hell",
+                        "firstAired": "April 3, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E67",
+                        "name": "Everybody's in Show Biz",
+                        "firstAired": "May 1, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E68",
+                        "name": "Heroes of the Revolution season finale",
+                        "firstAired": "May 8, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E69",
+                        "name": "Contempt of Court",
+                        "firstAired": "September 25, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E70",
+                        "name": "Amen...Send Money",
+                        "firstAired": "October 2, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E71",
+                        "name": "Death and the Lady",
+                        "firstAired": "October 16, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E72",
+                        "name": "The Big Thaw",
+                        "firstAired": "October 23, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E73",
+                        "name": "Child's Play",
+                        "firstAired": "October 30, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E74",
+                        "name": "God's Work",
+                        "firstAired": "November 6, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E75",
+                        "name": "Missing Hours",
+                        "firstAired": "November 13, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E76",
+                        "name": "Like a Hurricane",
+                        "firstAired": "November 20, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E77",
+                        "name": "The Rising Sun of Death",
+                        "firstAired": "December 4, 1987 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E78",
+                        "name": "Love at First Sight",
+                        "firstAired": "January 15, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E79",
+                        "name": "Rock and a Hard Place",
+                        "firstAired": "January 22, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E80",
+                        "name": "The Cows of October",
+                        "firstAired": "February 5, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E81",
+                        "name": "Vote of Confidence",
+                        "firstAired": "February 12, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E82",
+                        "name": "Baseballs of Death",
+                        "firstAired": "February 19, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E83",
+                        "name": "Indian Wars",
+                        "firstAired": "February 26, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E84",
+                        "name": "Honor Among Thieves?",
+                        "firstAired": "March 4, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E85",
+                        "name": "Hell Hath No Fury",
+                        "firstAired": "March 11, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E86",
+                        "name": "Badge of Dishonor",
+                        "firstAired": "March 18, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E87",
+                        "name": "Blood & Roses",
+                        "firstAired": "April 1, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E88",
+                        "name": "A Bullet for Crockett",
+                        "firstAired": "April 15, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E89",
+                        "name": "Deliver Us from Evil",
+                        "firstAired": "April 29, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E90",
+                        "name": "Mirror Image season finale",
+                        "firstAired": "May 6, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E91",
+                        "name": "Hostile Takeover",
+                        "firstAired": "November 4, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E92",
+                        "name": "Redemption in Blood",
+                        "firstAired": "November 11, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E93",
+                        "name": "Heart of Night",
+                        "firstAired": "November 18, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E94",
+                        "name": "Borrasca",
+                        "firstAired": "December 9, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E95",
+                        "name": "Bad Timing",
+                        "firstAired": "December 2, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E96",
+                        "name": "Line of Fire",
+                        "firstAired": "December 16, 1988 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E97",
+                        "name": "Asian Cut",
+                        "firstAired": "January 13, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E98",
+                        "name": "Hard Knocks",
+                        "firstAired": "January 20, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E99",
+                        "name": "Fruit of the Poison Tree",
+                        "firstAired": "February 3, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E100",
+                        "name": "To Have and to Hold (a.k.a. Second Chance)",
+                        "firstAired": "February 10, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E101",
+                        "name": "Miami Squeeze",
+                        "firstAired": "February 17, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E102",
+                        "name": "Jack of All Trades",
+                        "firstAired": "March 3, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E103",
+                        "name": "The Cell Within",
+                        "firstAired": "March 10, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E104",
+                        "name": "The Lost Madonna",
+                        "firstAired": "March 17, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E105",
+                        "name": "Over the Line",
+                        "firstAired": "April 28, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E106",
+                        "name": "Victims of Circumstance",
+                        "firstAired": "May 5, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E107",
+                        "name": "World of Trouble",
+                        "firstAired": "June 14, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E108",
+                        "name": "Miracle Man",
+                        "firstAired": "June 21, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E109",
+                        "name": "Leap of Faith",
+                        "firstAired": "June 28, 1989 NBC",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E110",
+                        "name": "Too Much, Too Late series finale",
+                        "firstAired": "January 25, 1990 NBC",
+                        "runtime": 95
+                    },
+                    {
+                        "code": "S01E111",
+                        "name": "Freefall",
+                        "firstAired": "May 21, 1989 NBC",
+                        "runtime": 91
+                    }
+                ]
+            }
+        ]
+    }
+}

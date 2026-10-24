@@ -1,0 +1,3404 @@
+{
+    "seriesTitle": "Star Trek: The Next Generation",
+    "seriesDescription": {
+        "translations": {
+            "ces": {
+                "text": "Nová generácia sa odohráva sto rokov po pôvodnom seriáli. Hviezdna flotila významne pokročila v skúmaní a poznávaní našej galaxie, napriek tomu množstvo ďalšieho ostáva nespoznané. Vesmírna loď Enterprise (v poradí piata s registračným číslom NCC 1701) sa odoberá ku hviezdam, aby objavovala a skúmala záhadné cudzie svety. Tak ako pôvodná Enterprise je aj táto súčasná prevažne prieskumnou loďou, ktorá slúži aj k obranným účelom. Velením lodi bol, ako protiklad ku zbytku mladej posádky, poverená postarší šarmantný a hlavne energiou prekypujúci kapitán Jean-Luc Picard (Patrick Stewart). Napriek tomu že bol pri uvedení nový seriál porovnávaný s pôvodným , našiel si svoju vlastnú cestu, čomu pomohli hlavne herecké výkony kapitána. Nieje divu, veď Patrick Stewart je členom kráľovskej Shakespearovskej spoločnosti. V seriáli hostovalo množstvo známych hercov a osobností. Príkladom za všetky môže byť Whoppi Goldberg ako Guinan alebo teoretický fyzik a matematik Stephen Hawking.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Zwei Generationen später, nachdem Capt. Kirk, Spock, Dr. McCoy mit der Enterprise auf der Suche nach unbekannten Welten das Universum durchquert hatten, machte sich eine neue Mannschaft unter der Führung von Capt. Picard auf, in Galaxien vorzudringen, die nie ein Mensch zuvor gesehen hat. Man schreibt inzwischen Sternzeit 41242.6. Übermächtige Gegner und fremde Wesen verlangen immer wieder Capt. Picards Verhandlungsgeschick und die Tapferkeit der Besatzung der Enterprise ...",
+                "aliases": [
+                    "Star Trek - Das nächste Jahrhundert",
+                    "Star Trek TNG",
+                    "Star Trek: The Next Generation"
+                ]
+            },
+            "eng": {
+                "text": "A century after Captain Kirk's five year mission, the next generation of Starfleet officers begins their journey aboard the new flagship of the Federation. Commanded by Captain Jean-Luc Picard the Galaxy class starship Enterprise NCC-1701-D will seek out new life and new civilizations - to boldly go where no one has gone before.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Cette série raconte les aventures, au XXIVe siècle, du vaisseau USS Enterprise (NCC-1701-D), commandé par un capitaine d'origine française, Jean-Luc Picard, et de son équipage.",
+                "aliases": []
+            },
+            "heb": {
+                "text": "מאה שנה לאחר מסעו בן החמש שנים של קפטן קירק, הדור הבא של קציני הפדרציה מתחיל את מסעו בספינת החלל החדשה אנטרפרייז. בפיקודו של קפטן פיקארד (פטריק סטיוארט) ספינת החלל מרמת גלאקסי אנטרפרייז NCC-1701-D תחפש הרפתקאות חדשות, חיים חדשים ותלך היכן שאף אחד לא הלך לפניה.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "Az új nemzedék (The Next Generation) egy, a Star Trek világában játszódó tudományos-fantasztikus televíziós sorozat, amelyet Gene Roddenberry alkotott. A történet a 24. században játszódik, egy csillaghajónak és legénységének kalandjait követhetjük nyomon. Az USS Enterprise-D a Csillagflotta vadonatúj zászlóshajója és büszkesége, melyre gondosan válogatott legénységet helyezett az admiralitás. A kapitányi székben Jean-Luc Picard ül, egy francia származású, nagy diplomáciai képességekkel rendelkező veterán. Fegyverhez csak végső esetben nyúl, akkor, ha más lehetőség már nem kínálkozik a probléma megoldására. Sokan keményszívű embernek tartják, de miután tisztjei megismerik rájönnek, hogy ez nem így van. Mint minden kapitánynak, az ő gondolatai is mindig a hajó és annak legénysége biztonsága körül forognak. Picard alakja egyben meghatározza azt a világképet, melyet az Új nemzedék képvisel. A pozitív jövőt, a morált, az erkölcsiséget, és nem utolsósorban a bajtársiasságot.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "Il telefilm, come la serie classica, è incentrato sulle avventure dell'equipaggio della nave stellare Enterprise (un modello molto più avanzato rispetto alla nave del capitano Kirk). I \"viaggi della nave stellare Enterprise\" mantengono fondamentalmente lo stesso carattere, malgrado alcuni rilevanti cambiamenti nel frattempo avvenuti, come la pace con gli alieni Klingon e l'allargamento della Federazione Unita dei Pianeti. L'universo si espande, diventando più affollato di specie extraterrestri e difficile da gestire. La tecnologia è ovviamente nel frattempo progredita; le navi della Flotta Stellare, come la nuova Enterprise, sono più grandi, comode e spaziose, rivestendo una funzione più marcatamente esplorativa e diplomatica, meno militare. Agli ufficiali è permesso portare a bordo le proprie famiglie, dato che i periodi delle missioni si sono allungati. L'esplorazione del cosmo rimane la molla principale delle avventure, ma non mancano situazioni inedite che si sviluppano nel nuovo ambiente del Ponte ologrammi.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "",
+                "aliases": []
+            },
+            "por": {
+                "text": "Décadas após as aventuras da tripulação original, o capitão Jean-Luc Picard lidera uma nova Enterprise em missões por mundos desconhecidos.",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Действие сериала разворачивается в 2364—2370 годах, через сто лет после событий сериала «Звездный Путь: Оригинальные Серии» и повествует о приключениях нового звездолета Объединенной Федерации Планет «Энтерпрайз» (USS Enterprise NCC-1701-D, а впоследствии — USS Enterprise NCC-1701-E) под командованием капитана Пикарда. «Энтерпрайз» — это, прежде всего, исследовательское судно, но, как и любой корабль Звездного Флота, он неплохо вооружен.",
+                "aliases": []
+            },
+            "slv": {
+                "text": "'La Nueva Generación' es la segunda serie con actores reales de la saga de Star Trek. Creada por Gene Roddenberry, narra durante sus siete temporadas las aventuras de la tripulación del nuevo Enterprise, dirigido por el capitán Jean-Luc Picard, en el siglo 24.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "La Nueva Generación' es la segunda serie con actores reales de la saga de Star Trek. Creada por Gene Roddenberry, narra durante sus siete temporadas las aventuras de la tripulación del nuevo Enterprise, dirigido por el capitán Jean-Luc Picard, en el siglo 24.",
+                "aliases": []
+            },
+            "swe": {
+                "text": "En amerikansk science fiction-serie skapad och producerad av Gene Roddenberry. Serien tar plats i Star Treks universum. Men rymdskeppet Enterprise-D från originalserien Star Trek från 1966 är nu lastat med en ny besättning. Ombord på rymdskeppet USS Enterprise (NCC-1701-D) finns flera olika speciella karaktärer som får uppdrag så som tidsresor, möten med utomjordiska varelser och kulturer.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Kapetan Jean-Luc Picard zapovjednik je broda USS Enterprise-D. Uz pomoć ostalih članova posade, prvog časnika Rikera, poručnika Date, brodske savjetnice Troi, šefa strojarnice LaForgea, poručnika Worfa, poručnice Tashe Yar te doktorice Beverly Crusher, suočava se s mnogim problemima koji muče razne interstelarne rase. Kroz uzbudljivih sedam sezona Enterprise se suočava s možda i najopasnijim neprijateljom u galaskiji, Borgom.",
+                "aliases": []
+            },
+            "srp": {
+                "text": "Капетан Жан-Лук Пикард заповедник је свемирског брода Ентерпрајза. Уз помоћ осталих чланова посаде, првог часника Рајкера, поручника Дејте, бродске саветнице Трој, шефа стројарнице ЛаФорџа, поручника Ворфа, поручнице Таше Јар те докторице Беверли Крашер, суочава се с многим проблемима који муче разне интерстеларне расе. Кроз узбудљивих седам сезона Ентерпрајз се суочава с можда и најопаснијим непријатељом у галаскији, Боргом.",
+                "aliases": []
+            },
+            "kor": {
+                "text": "오리지널 시리즈의 약 100여년 후(오리지널 시리즈가 시작된 것이 2266, TNG의 시작이 2364년이다.), 극장판을 포함해도 약 70년후인 2360년대이다. 오리지널 시리즈에 나왔던 우주선인 컨스티튜션급 엔터프라이즈호(NCC-1701, -A)의 이름과 함번(NCC-1701-D)을 승계한 갤럭시급 엔터프라이즈호를 타고 미지의 우주 탐험을 떠나는 내용이다.",
+                "aliases": []
+            },
+            "dan": {
+                "text": "Årtier efter eventyrene med den oprindelige Enterprise-besætning leder kaptajn Jean-Luc Picard en ny Enterprise på missioner, hvor der skal udforskes ukendte verdener.",
+                "aliases": []
+            },
+            "zho": {
+                "text": "最初的企業號成員冒險數十年過後，尚盧·畢凱艦長帶領全新的企業號開展任務，探索未知的世界。 主線是星艦企業號D型航員組的冒險歷程。企業號-D是艘銀河級星艦，主要設計用途是用在探索和外交方面，但是必要的話也能進行戰鬥。它的艦長是位經驗豐富、頗有魅力的法裔——皮尚魯（Jean-Luc Picard），他比一般大眾科幻作品裏面的許多典型主角都更具有智慧和有理性。",
+                "aliases": []
+            },
+            "jpn": {
+                "text": "宇宙、そこは最後のフロンティア 。これは宇宙戦艦エンタープライズ号が、新世代のクルーの下に24世紀において任務を続行し、未知の世界を探索して、新しい生命と文明を求め、人類未踏の宇宙に勇敢に航海した物語である。",
+                "aliases": [
+                    "新スター・トレック"
+                ]
+            },
+            "pol": {
+                "text": "Akcja toczy się w dwudziestym czwartym wieku, 70 lat po Kapitanie Kirku i jego załodze. Pod dowództwem Kapitana Jean-Luca Picarda nowy statek Enterprise NCC 1701-D przemierza kosmos w poszukiwaniu nowych form życia, tam gdzie jeszcze nikt nie dotarł.",
+                "aliases": []
+            },
+            "tur": {
+                "text": "(Star Trek: The Next Generation) Uzay Yolu: Yeni Nesil yaklaşık olarak Orijinal Seri'den bir yüzyıl sonra geçmekte, gene Atılgan adında fakat daha yeni ve gelişmiş (Atılgan-D) yeni bir yıldız gemisi içermekte ve Kaptan Jean Luc Picard'ın (Patrick Stewart) emri altındaki yeni bir mürettabatın maceralarını anlatmaktadır. İnsanların galakside diğer bilinçli canlılarla birleşerek Birleşik Gezegenler Federasyonu'nu kurdukları, kurgusal bir 3. Dünya Savaşı sonrası bir geleceği tasvir eder. Evrende yalnız olmadıklarını anlayınca insanlık kendilerine özgü birçok zayıflık ve kötü alışkanlıklarını geride bırakır. Kahramanlar genelde fedakardır ama zaman zaman sonuç almak için başka yollara baş vurabilirler. 1960'larda Orijinal Seri'de ve diğer seriler de olduğu gibi hikâyelerdeki çatışmalar ve politik boyutlar günümüz olaylarını yansıtırlar.",
+                "aliases": []
+            },
+            "ell": {
+                "text": "Έχουν περάσει δεκαετίες από τις περιπέτειες του πρώτου Έντερπραϊζ. Ο κυβερνήτης Ζαν Λουκ Πικάρντ με νέο πλήρωμα ξεκινά σε αποστολές για την εξερεύνηση άγνωστων κόσμων.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Kapteeni Jean-Luc Picard johtaa uuden Enterprisen miehistöä tutkimusmatkoilla eri planeetoille vuosikymmeniä alkuperäisen Enterprisen seikkailujen jälkeen.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "71470",
+        "Status": "Ended",
+        "First Aired": "September 28, 1987",
+        "Recent": "September 8, 2020",
+        "Airs": "Monday, at 9:00pm",
+        "Network": "CBS Syndication",
+        "Average Runtime": "45 minutes",
+        "Genres": "Action Adventure Drama Mystery Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "EIDR IMDB TMS (Zap2It) TheMovieDB.com Wikidata Wikipedia",
+        "Trailers": "English Trailer",
+        "Episode Screenshot Format": "4:3 Screencap",
+        "Favorited": "This series has been favorited by 8548 people.",
+        "Created": "February 4, 2008 by kevine2z",
+        "Modified": "September 19, 2026 by OblivionOcean"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Patrick Stewart",
+                "playsAs": "Jean-Luc Picard"
+            },
+            {
+                "name": "Jonathan Frakes",
+                "playsAs": "William T. Riker"
+            },
+            {
+                "name": "Brent Spiner",
+                "playsAs": "Data"
+            },
+            {
+                "name": "Michael Dorn",
+                "playsAs": "Worf"
+            },
+            {
+                "name": "Marina Sirtis",
+                "playsAs": "Deanna Troi"
+            },
+            {
+                "name": "Gates McFadden",
+                "playsAs": "Beverly Crusher"
+            },
+            {
+                "name": "LeVar Burton",
+                "playsAs": "Geordi La Forge"
+            },
+            {
+                "name": "Wil Wheaton",
+                "playsAs": "Wesley Crusher"
+            },
+            {
+                "name": "Whoopi Goldberg",
+                "playsAs": "Guinan"
+            },
+            {
+                "name": "Colm Meaney",
+                "playsAs": "Miles O'Brien"
+            },
+            {
+                "name": "Michelle Forbes",
+                "playsAs": "Ro Laren"
+            },
+            {
+                "name": "Denise Crosby",
+                "playsAs": "Tasha Yar"
+            },
+            {
+                "name": "Diana Muldaur",
+                "playsAs": "Katherine Pulaski"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Ronald D. Moore",
+                "numberOfEpisodes": 30,
+                "dates": "10/23/1989 - 05/23/1994"
+            },
+            {
+                "name": "Cliff Bole",
+                "numberOfEpisodes": 25,
+                "dates": "11/02/1987 - 05/09/1994"
+            },
+            {
+                "name": "Brannon Braga",
+                "numberOfEpisodes": 23,
+                "dates": "11/05/1990 - 05/23/1994"
+            },
+            {
+                "name": "Les Landau",
+                "numberOfEpisodes": 21,
+                "dates": "04/11/1988 - 05/02/1994"
+            },
+            {
+                "name": "Winrich Kolbe",
+                "numberOfEpisodes": 18,
+                "dates": "11/28/1988 - 05/23/1994"
+            },
+            {
+                "name": "Joe Menosky",
+                "numberOfEpisodes": 17,
+                "dates": "10/29/1990 - 05/09/1994"
+            },
+            {
+                "name": "René Echevarria",
+                "numberOfEpisodes": 16,
+                "dates": "03/12/1990 - 05/16/1994"
+            },
+            {
+                "name": "Michael Piller",
+                "numberOfEpisodes": 15,
+                "dates": "09/25/1989 - 11/02/1992"
+            },
+            {
+                "name": "Maurice Hurley",
+                "numberOfEpisodes": 13,
+                "dates": "01/18/1988 - 02/24/1992"
+            },
+            {
+                "name": "Rob Bowman",
+                "numberOfEpisodes": 12,
+                "dates": "11/16/1987 - 10/08/1990"
+            },
+            {
+                "name": "Jeri Taylor",
+                "numberOfEpisodes": 12,
+                "dates": "10/15/1990 - 01/31/1994"
+            },
+            {
+                "name": "Robert Scheerer",
+                "numberOfEpisodes": 11,
+                "dates": "02/13/1989 - 11/22/1993"
+            },
+            {
+                "name": "Naren Shankar",
+                "numberOfEpisodes": 10,
+                "dates": "03/30/1992 - 05/16/1994"
+            },
+            {
+                "name": "Jonathan Frakes",
+                "numberOfEpisodes": 8,
+                "dates": "03/12/1990 - 01/31/1994"
+            },
+            {
+                "name": "Hans Beimler",
+                "numberOfEpisodes": 8,
+                "dates": "04/11/1988 - 03/26/1990"
+            },
+            {
+                "name": "Robert Wiemer",
+                "numberOfEpisodes": 8,
+                "dates": "10/16/1989 - 02/21/1994"
+            },
+            {
+                "name": "Richard Manning",
+                "numberOfEpisodes": 7,
+                "dates": "04/11/1988 - 03/26/1990"
+            },
+            {
+                "name": "Gabrielle Beaumont",
+                "numberOfEpisodes": 7,
+                "dates": "10/30/1989 - 02/07/1994"
+            },
+            {
+                "name": "Ronald Wilkerson",
+                "numberOfEpisodes": 7,
+                "dates": "05/04/1992 - 02/07/1994"
+            },
+            {
+                "name": "Corey Allen",
+                "numberOfEpisodes": 7,
+                "dates": "09/28/1987 - 03/28/1994"
+            },
+            {
+                "name": "D.C. Fontana",
+                "numberOfEpisodes": 7,
+                "dates": "09/28/1987 - 03/21/1988"
+            },
+            {
+                "name": "Alexander Singer",
+                "numberOfEpisodes": 6,
+                "dates": "10/12/1992 - 01/17/1994"
+            },
+            {
+                "name": "Patrick Stewart",
+                "numberOfEpisodes": 6,
+                "dates": "06/03/1991 - 05/16/1994"
+            },
+            {
+                "name": "Hannah Louise Shearer",
+                "numberOfEpisodes": 5,
+                "dates": "02/15/1988 - 11/13/1989"
+            },
+            {
+                "name": "Rick Berman",
+                "numberOfEpisodes": 5,
+                "dates": "10/08/1990 - 11/18/1991"
+            },
+            {
+                "name": "Paul Lynch",
+                "numberOfEpisodes": 5,
+                "dates": "10/05/1987 - 03/30/1992"
+            },
+            {
+                "name": "Robert Lewin",
+                "numberOfEpisodes": 5,
+                "dates": "01/18/1988 - 04/18/1988"
+            },
+            {
+                "name": "Tracy Torme",
+                "numberOfEpisodes": 5,
+                "dates": "11/30/1987 - 01/23/1989"
+            },
+            {
+                "name": "David Carson",
+                "numberOfEpisodes": 4,
+                "dates": "11/06/1989 - 05/23/1994"
+            },
+            {
+                "name": "Joseph L. Scanlan",
+                "numberOfEpisodes": 4,
+                "dates": "01/11/1988 - 04/03/1989"
+            },
+            {
+                "name": "Chip Chalmers",
+                "numberOfEpisodes": 4,
+                "dates": "04/02/1990 - 03/02/1992"
+            },
+            {
+                "name": "Ira Steven Behr",
+                "numberOfEpisodes": 4,
+                "dates": "02/19/1990 - 04/22/1991"
+            },
+            {
+                "name": "Peter Allan Fields",
+                "numberOfEpisodes": 4,
+                "dates": "05/06/1991 - 06/01/1992"
+            },
+            {
+                "name": "Herbert Wright",
+                "numberOfEpisodes": 3,
+                "dates": "10/19/1987 - 03/21/1988"
+            },
+            {
+                "name": "Robert Lederman",
+                "numberOfEpisodes": 3,
+                "dates": "05/11/1992 - 11/15/1993"
+            },
+            {
+                "name": "Frank Abatemarco",
+                "numberOfEpisodes": 3,
+                "dates": "10/05/1992 - 12/21/1992"
+            },
+            {
+                "name": "Philip LaZebnik",
+                "numberOfEpisodes": 3,
+                "dates": "02/04/1991 - 09/30/1991"
+            },
+            {
+                "name": "Morgan Gendel",
+                "numberOfEpisodes": 3,
+                "dates": "06/01/1992 - 03/29/1993"
+            },
+            {
+                "name": "Shari Goodhartz",
+                "numberOfEpisodes": 3,
+                "dates": "05/07/1990 - 02/03/1992"
+            },
+            {
+                "name": "Burton Armus",
+                "numberOfEpisodes": 3,
+                "dates": "12/12/1988 - 02/06/1989"
+            },
+            {
+                "name": "Christopher Hatton",
+                "numberOfEpisodes": 3,
+                "dates": "10/11/1993 - 04/25/1994"
+            },
+            {
+                "name": "LeVar Burton",
+                "numberOfEpisodes": 3,
+                "dates": "05/24/1993 - 01/17/1994"
+            },
+            {
+                "name": "Jean Louise Matthias",
+                "numberOfEpisodes": 3,
+                "dates": "10/19/1992 - 02/07/1994"
+            },
+            {
+                "name": "James L. Conway",
+                "numberOfEpisodes": 3,
+                "dates": "11/09/1987 - 05/03/1993"
+            },
+            {
+                "name": "Hilary J. Bader",
+                "numberOfEpisodes": 3,
+                "dates": "12/01/1990 - 11/01/1993"
+            },
+            {
+                "name": "Tom Benko",
+                "numberOfEpisodes": 2,
+                "dates": "06/04/1990 - 02/04/1991"
+            },
+            {
+                "name": "Robert Sabaroff",
+                "numberOfEpisodes": 2,
+                "dates": "02/22/1988"
+            },
+            {
+                "name": "William Glover",
+                "numberOfEpisodes": 2,
+                "dates": "02/04/1991"
+            },
+            {
+                "name": "Susan Sackett",
+                "numberOfEpisodes": 2,
+                "dates": "05/28/1990 - 10/28/1991"
+            },
+            {
+                "name": "David Livingston",
+                "numberOfEpisodes": 2,
+                "dates": "05/27/1991 - 02/24/1992"
+            },
+            {
+                "name": "Dan Koeppel",
+                "numberOfEpisodes": 2,
+                "dates": "11/22/1993"
+            },
+            {
+                "name": "Peter Lauritson",
+                "numberOfEpisodes": 2,
+                "dates": "06/01/1992 - 10/11/1993"
+            },
+            {
+                "name": "Sara B. Cooper",
+                "numberOfEpisodes": 2,
+                "dates": "01/06/1992 - 03/02/1992"
+            },
+            {
+                "name": "Fred Bronson",
+                "numberOfEpisodes": 2,
+                "dates": "05/28/1990 - 10/28/1991"
+            },
+            {
+                "name": "CJ Holland",
+                "numberOfEpisodes": 2,
+                "dates": "11/23/1987"
+            },
+            {
+                "name": "Robert Legato",
+                "numberOfEpisodes": 2,
+                "dates": "05/28/1990 - 04/01/1991"
+            },
+            {
+                "name": "Gates McFadden",
+                "numberOfEpisodes": 2,
+                "dates": "03/21/1994"
+            },
+            {
+                "name": "David Assael",
+                "numberOfEpisodes": 2,
+                "dates": "04/24/1989"
+            },
+            {
+                "name": "Adam Nimoy",
+                "numberOfEpisodes": 2,
+                "dates": "11/02/1992 - 06/14/1993"
+            },
+            {
+                "name": "Stu Charno",
+                "numberOfEpisodes": 2,
+                "dates": "01/06/1992 - 03/02/1992"
+            },
+            {
+                "name": "Bruce D. Arthurs",
+                "numberOfEpisodes": 2,
+                "dates": "02/11/1991"
+            },
+            {
+                "name": "Adam Belanoff",
+                "numberOfEpisodes": 2,
+                "dates": "02/10/1992"
+            },
+            {
+                "name": "Robert Becker",
+                "numberOfEpisodes": 2,
+                "dates": "05/02/1988 - 12/12/1988"
+            },
+            {
+                "name": "Michael Michaelin",
+                "numberOfEpisodes": 2,
+                "dates": "02/08/1988"
+            },
+            {
+                "name": "John D.F. Black",
+                "numberOfEpisodes": 2,
+                "dates": "10/05/1987"
+            },
+            {
+                "name": "Timothy Bond",
+                "numberOfEpisodes": 2,
+                "dates": "11/20/1989 - 05/07/1990"
+            },
+            {
+                "name": "Ted Roberts",
+                "numberOfEpisodes": 1,
+                "dates": "05/06/1991"
+            },
+            {
+                "name": "Michael Rhodes",
+                "numberOfEpisodes": 1,
+                "dates": "01/25/1988"
+            },
+            {
+                "name": "Shawn Piller",
+                "numberOfEpisodes": 1,
+                "dates": "03/28/1994"
+            },
+            {
+                "name": "Marvin Rush",
+                "numberOfEpisodes": 1,
+                "dates": "05/13/1991"
+            },
+            {
+                "name": "Lawrence V. Conley",
+                "numberOfEpisodes": 1,
+                "dates": "10/14/1991"
+            },
+            {
+                "name": "Mike Vejar",
+                "numberOfEpisodes": 1,
+                "dates": "03/14/1988"
+            },
+            {
+                "name": "Richard Fliegel",
+                "numberOfEpisodes": 1,
+                "dates": "05/04/1992"
+            },
+            {
+                "name": "Jake Jacobs",
+                "numberOfEpisodes": 1,
+                "dates": "05/14/1990"
+            },
+            {
+                "name": "Wanda M. Haight",
+                "numberOfEpisodes": 1,
+                "dates": "02/06/1989"
+            },
+            {
+                "name": "Jaq Greenspoon",
+                "numberOfEpisodes": 1,
+                "dates": "09/27/1993"
+            },
+            {
+                "name": "Lan O'Kun",
+                "numberOfEpisodes": 1,
+                "dates": "11/30/1987"
+            },
+            {
+                "name": "Win Phelps",
+                "numberOfEpisodes": 1,
+                "dates": "04/18/1988"
+            },
+            {
+                "name": "Thomas Kartozian",
+                "numberOfEpisodes": 1,
+                "dates": "03/11/1991"
+            },
+            {
+                "name": "Timothy De Haas",
+                "numberOfEpisodes": 1,
+                "dates": "03/25/1991"
+            },
+            {
+                "name": "Ward Botsford",
+                "numberOfEpisodes": 1,
+                "dates": "11/02/1992"
+            },
+            {
+                "name": "Mark Kalbfeld",
+                "numberOfEpisodes": 1,
+                "dates": "04/25/1994"
+            },
+            {
+                "name": "James Kahn",
+                "numberOfEpisodes": 1,
+                "dates": "02/10/1992"
+            },
+            {
+                "name": "James Brooks",
+                "numberOfEpisodes": 1,
+                "dates": "05/17/1993"
+            },
+            {
+                "name": "Ken Schafer",
+                "numberOfEpisodes": 1,
+                "dates": "05/27/1991"
+            },
+            {
+                "name": "Jean Matthias",
+                "numberOfEpisodes": 1,
+                "dates": "05/04/1992"
+            },
+            {
+                "name": "Richard Colla",
+                "numberOfEpisodes": 1,
+                "dates": "10/19/1987"
+            },
+            {
+                "name": "Les Menchen",
+                "numberOfEpisodes": 1,
+                "dates": "12/12/1988"
+            },
+            {
+                "name": "Karl Geurs",
+                "numberOfEpisodes": 1,
+                "dates": "02/22/1988"
+            },
+            {
+                "name": "Richard Krzemien",
+                "numberOfEpisodes": 1,
+                "dates": "10/19/1987"
+            },
+            {
+                "name": "Kim Manners",
+                "numberOfEpisodes": 1,
+                "dates": "02/15/1988"
+            },
+            {
+                "name": "Ron Jarvis",
+                "numberOfEpisodes": 1,
+                "dates": "10/21/1991"
+            },
+            {
+                "name": "David Lansberg",
+                "numberOfEpisodes": 1,
+                "dates": "12/12/1988"
+            },
+            {
+                "name": "Diana Dru Botsford",
+                "numberOfEpisodes": 1,
+                "dates": "11/02/1992"
+            },
+            {
+                "name": "Jonathan Taylor",
+                "numberOfEpisodes": 1,
+                "dates": "04/29/1991"
+            },
+            {
+                "name": "Antonio Napoli",
+                "numberOfEpisodes": 1,
+                "dates": "03/28/1994"
+            },
+            {
+                "name": "Bryan Stewart",
+                "numberOfEpisodes": 1,
+                "dates": "10/01/1990"
+            },
+            {
+                "name": "Roger Eschbacher",
+                "numberOfEpisodes": 1,
+                "dates": "09/27/1993"
+            },
+            {
+                "name": "Drew Deighan",
+                "numberOfEpisodes": 1,
+                "dates": "03/19/1990"
+            },
+            {
+                "name": "Ralph Sanchez",
+                "numberOfEpisodes": 1,
+                "dates": "02/22/1988"
+            },
+            {
+                "name": "Richard Compton",
+                "numberOfEpisodes": 1,
+                "dates": "11/30/1987"
+            },
+            {
+                "name": "Ron Bowman",
+                "numberOfEpisodes": 1,
+                "dates": "10/26/1987"
+            },
+            {
+                "name": "Philip A. Scorza",
+                "numberOfEpisodes": 1,
+                "dates": "10/21/1991"
+            },
+            {
+                "name": "Marc Cushman",
+                "numberOfEpisodes": 1,
+                "dates": "05/14/1990"
+            },
+            {
+                "name": "Michael A. Medlock",
+                "numberOfEpisodes": 1,
+                "dates": "05/24/1993"
+            },
+            {
+                "name": "Russ Mayberry",
+                "numberOfEpisodes": 1,
+                "dates": "10/12/1987"
+            },
+            {
+                "name": "Matthew Corey",
+                "numberOfEpisodes": 1,
+                "dates": "10/26/1992"
+            },
+            {
+                "name": "Gregory Amos",
+                "numberOfEpisodes": 1,
+                "dates": "02/06/1989"
+            },
+            {
+                "name": "Jonathan West",
+                "numberOfEpisodes": 1,
+                "dates": "04/25/1994"
+            },
+            {
+                "name": "Spike Steingasser",
+                "numberOfEpisodes": 1,
+                "dates": "01/17/1994"
+            },
+            {
+                "name": "Robert Iscove",
+                "numberOfEpisodes": 1,
+                "dates": "04/24/1989"
+            },
+            {
+                "name": "Susanne Lambdin",
+                "numberOfEpisodes": 1,
+                "dates": "10/01/1990"
+            },
+            {
+                "name": "Lance Dickson",
+                "numberOfEpisodes": 1,
+                "dates": "12/12/1988"
+            },
+            {
+                "name": "Paul Schiffer",
+                "numberOfEpisodes": 1,
+                "dates": "02/17/1992"
+            },
+            {
+                "name": "Randee Russell",
+                "numberOfEpisodes": 1,
+                "dates": "04/22/1991"
+            },
+            {
+                "name": "Marc Scott Zicree",
+                "numberOfEpisodes": 1,
+                "dates": "02/18/1991"
+            },
+            {
+                "name": "Larry Shaw",
+                "numberOfEpisodes": 1,
+                "dates": "01/09/1989"
+            },
+            {
+                "name": "Larry Forrester",
+                "numberOfEpisodes": 1,
+                "dates": "11/16/1987"
+            },
+            {
+                "name": "Dan Curry",
+                "numberOfEpisodes": 1,
+                "dates": "03/01/1993"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Melinda M. Snodgrass",
+                "numberOfEpisodes": 5,
+                "dates": "02/13/1989 - 01/29/1990"
+            },
+            {
+                "name": "Gene Roddenberry",
+                "numberOfEpisodes": 5,
+                "dates": "09/28/1987 - 01/18/1988"
+            },
+            {
+                "name": "Michael Wagner",
+                "numberOfEpisodes": 3,
+                "dates": "09/25/1989 - 10/30/1989"
+            },
+            {
+                "name": "Richard Danus",
+                "numberOfEpisodes": 2,
+                "dates": "10/30/1989 - 02/05/1990"
+            },
+            {
+                "name": "Nick Sagan",
+                "numberOfEpisodes": 2,
+                "dates": "11/08/1993 - 05/02/1994"
+            },
+            {
+                "name": "David Kemper",
+                "numberOfEpisodes": 2,
+                "dates": "07/10/1989 - 11/06/1989"
+            },
+            {
+                "name": "David Bischoff",
+                "numberOfEpisodes": 2,
+                "dates": "04/23/1990 - 02/18/1991"
+            },
+            {
+                "name": "Robert L. McCullough",
+                "numberOfEpisodes": 2,
+                "dates": "04/24/1989 - 05/15/1989"
+            },
+            {
+                "name": "Trent Christopher Ganino",
+                "numberOfEpisodes": 1,
+                "dates": "02/19/1990"
+            },
+            {
+                "name": "Alan J. Adla",
+                "numberOfEpisodes": 1,
+                "dates": "12/01/1990"
+            },
+            {
+                "name": "Deborah Dean Davis",
+                "numberOfEpisodes": 1,
+                "dates": "05/02/1988"
+            },
+            {
+                "name": "Peter S. Beagle",
+                "numberOfEpisodes": 1,
+                "dates": "05/14/1990"
+            },
+            {
+                "name": "Jaron Summers",
+                "numberOfEpisodes": 1,
+                "dates": "11/21/1988"
+            },
+            {
+                "name": "Michael Halperin",
+                "numberOfEpisodes": 1,
+                "dates": "11/02/1987"
+            },
+            {
+                "name": "Brian Alan Lane",
+                "numberOfEpisodes": 1,
+                "dates": "12/05/1988"
+            },
+            {
+                "name": "Patrick Barry",
+                "numberOfEpisodes": 1,
+                "dates": "01/25/1988"
+            },
+            {
+                "name": "Grant Rosenberg",
+                "numberOfEpisodes": 1,
+                "dates": "01/06/1992"
+            },
+            {
+                "name": "Leonard Mlodinow",
+                "numberOfEpisodes": 1,
+                "dates": "02/20/1989"
+            },
+            {
+                "name": "Paul Ruben",
+                "numberOfEpisodes": 1,
+                "dates": "02/24/1992"
+            },
+            {
+                "name": "Ralph Wills",
+                "numberOfEpisodes": 1,
+                "dates": "11/09/1987"
+            },
+            {
+                "name": "Terry Deveraux",
+                "numberOfEpisodes": 1,
+                "dates": "06/19/1989"
+            },
+            {
+                "name": "John Whelpley",
+                "numberOfEpisodes": 1,
+                "dates": "10/15/1990"
+            },
+            {
+                "name": "Michael Baron",
+                "numberOfEpisodes": 1,
+                "dates": "10/12/1987"
+            },
+            {
+                "name": "J. Larry Carroll",
+                "numberOfEpisodes": 1,
+                "dates": "11/12/1990"
+            },
+            {
+                "name": "Kacey Arnold-Ince",
+                "numberOfEpisodes": 1,
+                "dates": "11/19/1990"
+            },
+            {
+                "name": "Mike Gray",
+                "numberOfEpisodes": 1,
+                "dates": "01/30/1989"
+            },
+            {
+                "name": "Barry M. Schkolnick",
+                "numberOfEpisodes": 1,
+                "dates": "02/17/1992"
+            },
+            {
+                "name": "Jo Perry",
+                "numberOfEpisodes": 1,
+                "dates": "11/05/1990"
+            },
+            {
+                "name": "Cy Chermak",
+                "numberOfEpisodes": 1,
+                "dates": "01/28/1991"
+            },
+            {
+                "name": "Diane Duane",
+                "numberOfEpisodes": 1,
+                "dates": "10/26/1987"
+            },
+            {
+                "name": "Vanessa Greene",
+                "numberOfEpisodes": 1,
+                "dates": "12/01/1990"
+            },
+            {
+                "name": "Edithe Swensen",
+                "numberOfEpisodes": 1,
+                "dates": "05/04/1992"
+            },
+            {
+                "name": "Lisa Rich",
+                "numberOfEpisodes": 1,
+                "dates": "09/27/1993"
+            },
+            {
+                "name": "Sally Caves",
+                "numberOfEpisodes": 1,
+                "dates": "04/30/1990"
+            },
+            {
+                "name": "Jon Povill",
+                "numberOfEpisodes": 1,
+                "dates": "11/21/1988"
+            },
+            {
+                "name": "Dennis Russel Bailey",
+                "numberOfEpisodes": 1,
+                "dates": "02/18/1991"
+            },
+            {
+                "name": "Keith Mills",
+                "numberOfEpisodes": 1,
+                "dates": "03/27/1989"
+            },
+            {
+                "name": "Scott Rubenstein",
+                "numberOfEpisodes": 1,
+                "dates": "02/20/1989"
+            },
+            {
+                "name": "Ron Roman",
+                "numberOfEpisodes": 1,
+                "dates": "10/30/1989"
+            },
+            {
+                "name": "Joseph Stefano",
+                "numberOfEpisodes": 1,
+                "dates": "04/25/1988"
+            },
+            {
+                "name": "Lee Sheldon",
+                "numberOfEpisodes": 1,
+                "dates": "10/22/1990"
+            },
+            {
+                "name": "Beth Woods",
+                "numberOfEpisodes": 1,
+                "dates": "03/20/1989"
+            },
+            {
+                "name": "Harold Apter",
+                "numberOfEpisodes": 1,
+                "dates": "01/07/1991"
+            },
+            {
+                "name": "John Mason",
+                "numberOfEpisodes": 1,
+                "dates": "01/30/1989"
+            },
+            {
+                "name": "Worley Thorne",
+                "numberOfEpisodes": 1,
+                "dates": "11/09/1987"
+            },
+            {
+                "name": "Thomas Perry",
+                "numberOfEpisodes": 1,
+                "dates": "11/05/1990"
+            },
+            {
+                "name": "Michel Horvat",
+                "numberOfEpisodes": 1,
+                "dates": "05/13/1991"
+            },
+            {
+                "name": "Michael Reaves",
+                "numberOfEpisodes": 1,
+                "dates": "10/26/1987"
+            },
+            {
+                "name": "Gary Percante",
+                "numberOfEpisodes": 1,
+                "dates": "04/27/1992"
+            },
+            {
+                "name": "Jack B. Sowards",
+                "numberOfEpisodes": 1,
+                "dates": "11/28/1988"
+            },
+            {
+                "name": "W. Reed Moran",
+                "numberOfEpisodes": 1,
+                "dates": "03/19/1990"
+            },
+            {
+                "name": "Jeanne Carrigan-Fauci",
+                "numberOfEpisodes": 1,
+                "dates": "09/27/1993"
+            },
+            {
+                "name": "Sam Rolfe",
+                "numberOfEpisodes": 1,
+                "dates": "11/20/1989"
+            },
+            {
+                "name": "René Balcer",
+                "numberOfEpisodes": 1,
+                "dates": "02/24/1992"
+            },
+            {
+                "name": "Sandy Fries",
+                "numberOfEpisodes": 1,
+                "dates": "03/14/1988"
+            },
+            {
+                "name": "Dennis Putnam Bailey",
+                "numberOfEpisodes": 1,
+                "dates": "04/23/1990"
+            },
+            {
+                "name": "Robin Jill Bernheim",
+                "numberOfEpisodes": 1,
+                "dates": "01/08/1990"
+            },
+            {
+                "name": "Kathryn Powers",
+                "numberOfEpisodes": 1,
+                "dates": "10/12/1987"
+            },
+            {
+                "name": "Steve Gerber",
+                "numberOfEpisodes": 1,
+                "dates": "03/20/1989"
+            },
+            {
+                "name": "Allison Hock",
+                "numberOfEpisodes": 1,
+                "dates": "11/02/1992"
+            },
+            {
+                "name": "Jacqueline Zambrano",
+                "numberOfEpisodes": 1,
+                "dates": "01/09/1989"
+            },
+            {
+                "name": "Pamela Douglas",
+                "numberOfEpisodes": 1,
+                "dates": "03/18/1991"
+            },
+            {
+                "name": "David Bennett Carren",
+                "numberOfEpisodes": 1,
+                "dates": "11/12/1990"
+            },
+            {
+                "name": "Robert Hewitt Wolfe",
+                "numberOfEpisodes": 1,
+                "dates": "11/09/1992"
+            },
+            {
+                "name": "Eric A. Stillwell",
+                "numberOfEpisodes": 1,
+                "dates": "02/19/1990"
+            },
+            {
+                "name": "Herbert J. Wright",
+                "numberOfEpisodes": 1,
+                "dates": "02/24/1992"
+            },
+            {
+                "name": "Ed Zuckerman",
+                "numberOfEpisodes": 1,
+                "dates": "02/12/1990"
+            },
+            {
+                "name": "Pamela Gray",
+                "numberOfEpisodes": 1,
+                "dates": "02/03/1992"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "September 1987",
+                "to": "May 1988",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Encounter at Farpoint (1)",
+                        "firstAired": "September 28, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Encounter at Farpoint (2)",
+                        "firstAired": "September 28, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "The Naked Now",
+                        "firstAired": "October 5, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Code of Honor",
+                        "firstAired": "October 12, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The Last Outpost",
+                        "firstAired": "October 19, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Where No One Has Gone Before",
+                        "firstAired": "October 26, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Lonely Among Us",
+                        "firstAired": "November 2, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Justice",
+                        "firstAired": "November 9, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "The Battle",
+                        "firstAired": "November 16, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Hide and Q",
+                        "firstAired": "November 23, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Haven",
+                        "firstAired": "November 30, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Big Goodbye",
+                        "firstAired": "January 11, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Datalore",
+                        "firstAired": "January 18, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Angel One",
+                        "firstAired": "January 25, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "11001001",
+                        "firstAired": "February 1, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Too Short a Season",
+                        "firstAired": "February 8, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "When the Bough Breaks",
+                        "firstAired": "February 15, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Home Soil",
+                        "firstAired": "February 22, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Coming of Age",
+                        "firstAired": "March 14, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Heart of Glory",
+                        "firstAired": "March 21, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "The Arsenal of Freedom",
+                        "firstAired": "April 11, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Symbiosis",
+                        "firstAired": "April 18, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "Skin of Evil",
+                        "firstAired": "April 25, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "We'll Always Have Paris",
+                        "firstAired": "May 2, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "Conspiracy",
+                        "firstAired": "May 9, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "The Neutral Zone season finale",
+                        "firstAired": "May 16, 1988 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "November 1988",
+                "to": "July 1989",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Child",
+                        "firstAired": "November 21, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Where Silence Has Lease",
+                        "firstAired": "November 28, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Elementary, Dear Data",
+                        "firstAired": "December 5, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "The Outrageous Okona",
+                        "firstAired": "December 12, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Loud as a Whisper",
+                        "firstAired": "January 9, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "The Schizoid Man",
+                        "firstAired": "January 23, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Unnatural Selection",
+                        "firstAired": "January 30, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "A Matter of Honor",
+                        "firstAired": "February 6, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "The Measure of a Man",
+                        "firstAired": "February 13, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Dauphin",
+                        "firstAired": "February 20, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Contagion",
+                        "firstAired": "March 20, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "The Royale",
+                        "firstAired": "March 27, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Time Squared",
+                        "firstAired": "April 3, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "The Icarus Factor",
+                        "firstAired": "April 24, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "Pen Pals",
+                        "firstAired": "May 1, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "Q Who?",
+                        "firstAired": "May 8, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Samaritan Snare",
+                        "firstAired": "May 15, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Up the Long Ladder",
+                        "firstAired": "May 22, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Manhunt",
+                        "firstAired": "June 19, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "The Emissary",
+                        "firstAired": "June 29, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Peak Performance",
+                        "firstAired": "July 10, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Shades of Gray season finale",
+                        "firstAired": "July 17, 1989 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "September 1989",
+                "to": "June 1990",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Evolution",
+                        "firstAired": "September 25, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "The Ensigns of Command",
+                        "firstAired": "October 2, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Survivors",
+                        "firstAired": "October 9, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Who Watches the Watchers",
+                        "firstAired": "October 16, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "The Bonding",
+                        "firstAired": "October 23, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Booby Trap",
+                        "firstAired": "October 30, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "The Enemy",
+                        "firstAired": "November 6, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "The Price",
+                        "firstAired": "November 13, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "The Vengeance Factor",
+                        "firstAired": "November 20, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "The Defector",
+                        "firstAired": "January 1, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "The Hunted",
+                        "firstAired": "January 8, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "The High Ground",
+                        "firstAired": "January 29, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Déjà Q",
+                        "firstAired": "February 5, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "A Matter of Perspective",
+                        "firstAired": "February 12, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Yesterday's Enterprise",
+                        "firstAired": "February 19, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "The Offspring",
+                        "firstAired": "March 12, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "Sins of the Father",
+                        "firstAired": "March 19, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Allegiance",
+                        "firstAired": "March 26, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Captain's Holiday",
+                        "firstAired": "April 2, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "Tin Man",
+                        "firstAired": "April 23, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Hollow Pursuits",
+                        "firstAired": "April 30, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "The Most Toys",
+                        "firstAired": "May 7, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E23",
+                        "name": "Sarek",
+                        "firstAired": "May 14, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E24",
+                        "name": "Ménage à Troi",
+                        "firstAired": "May 28, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E25",
+                        "name": "Transfigurations",
+                        "firstAired": "June 4, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E26",
+                        "name": "The Best of Both Worlds (1) season finale",
+                        "firstAired": "June 18, 1990 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 4,
+                "from": "September 1990",
+                "to": "June 1991",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/official/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "The Best of Both Worlds (2)",
+                        "firstAired": "September 24, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Family",
+                        "firstAired": "October 1, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Brothers",
+                        "firstAired": "October 8, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "Suddenly Human",
+                        "firstAired": "October 15, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Remember Me",
+                        "firstAired": "October 22, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Legacy",
+                        "firstAired": "October 29, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Reunion",
+                        "firstAired": "November 5, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Future Imperfect",
+                        "firstAired": "November 12, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Final Mission",
+                        "firstAired": "November 19, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "The Loss",
+                        "firstAired": "December 1, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Data's Day",
+                        "firstAired": "January 7, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "The Wounded",
+                        "firstAired": "January 28, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Devil's Due",
+                        "firstAired": "February 4, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "Clues",
+                        "firstAired": "February 11, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "First Contact",
+                        "firstAired": "February 18, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Galaxy's Child",
+                        "firstAired": "March 11, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Night Terrors",
+                        "firstAired": "March 18, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "Identity Crisis",
+                        "firstAired": "March 25, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "The Nth Degree",
+                        "firstAired": "April 1, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "Qpid",
+                        "firstAired": "April 22, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E21",
+                        "name": "The Drumhead",
+                        "firstAired": "April 29, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E22",
+                        "name": "Half a Life",
+                        "firstAired": "May 6, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E23",
+                        "name": "The Host",
+                        "firstAired": "May 13, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E24",
+                        "name": "The Mind's Eye",
+                        "firstAired": "May 27, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E25",
+                        "name": "In Theory",
+                        "firstAired": "June 3, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E26",
+                        "name": "Redemption (1) season finale",
+                        "firstAired": "June 17, 1991 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 5,
+                "from": "September 1991",
+                "to": "June 1992",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/official/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Redemption (2)",
+                        "firstAired": "September 23, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Darmok",
+                        "firstAired": "September 30, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Ensign Ro",
+                        "firstAired": "October 7, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "Silicon Avatar",
+                        "firstAired": "October 14, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Disaster",
+                        "firstAired": "October 21, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "The Game",
+                        "firstAired": "October 28, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Unification (1)",
+                        "firstAired": "November 4, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "Unification (2)",
+                        "firstAired": "November 11, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "A Matter of Time",
+                        "firstAired": "November 18, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "New Ground",
+                        "firstAired": "January 6, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "Hero Worship",
+                        "firstAired": "January 27, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Violations",
+                        "firstAired": "February 3, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "The Masterpiece Society",
+                        "firstAired": "February 10, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "Conundrum",
+                        "firstAired": "February 17, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Power Play",
+                        "firstAired": "February 24, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Ethics",
+                        "firstAired": "March 2, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "The Outcast",
+                        "firstAired": "March 16, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "Cause and Effect",
+                        "firstAired": "March 23, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "The First Duty",
+                        "firstAired": "March 30, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "Cost of Living",
+                        "firstAired": "April 20, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E21",
+                        "name": "The Perfect Mate",
+                        "firstAired": "April 27, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E22",
+                        "name": "Imaginary Friend",
+                        "firstAired": "May 4, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E23",
+                        "name": "I, Borg",
+                        "firstAired": "May 11, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E24",
+                        "name": "The Next Phase",
+                        "firstAired": "May 18, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E25",
+                        "name": "The Inner Light",
+                        "firstAired": "June 1, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E26",
+                        "name": "Time's Arrow (1) season finale",
+                        "firstAired": "June 15, 1992 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 6,
+                "from": "September 1992",
+                "to": "June 1993",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/official/6",
+                "episodeList": [
+                    {
+                        "code": "S06E01",
+                        "name": "Time's Arrow (2)",
+                        "firstAired": "September 21, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E02",
+                        "name": "Realm of Fear",
+                        "firstAired": "September 28, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E03",
+                        "name": "Man of the People",
+                        "firstAired": "October 5, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E04",
+                        "name": "Relics",
+                        "firstAired": "October 12, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E05",
+                        "name": "Schisms",
+                        "firstAired": "October 19, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E06",
+                        "name": "True Q",
+                        "firstAired": "October 26, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E07",
+                        "name": "Rascals",
+                        "firstAired": "November 2, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E08",
+                        "name": "A Fistful of Datas",
+                        "firstAired": "November 9, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E09",
+                        "name": "The Quality of Life",
+                        "firstAired": "November 16, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E10",
+                        "name": "Chain of Command (1)",
+                        "firstAired": "December 14, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E11",
+                        "name": "Chain of Command (2)",
+                        "firstAired": "December 21, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E12",
+                        "name": "Ship in a Bottle",
+                        "firstAired": "January 25, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E13",
+                        "name": "Aquiel",
+                        "firstAired": "February 1, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E14",
+                        "name": "Face of the Enemy",
+                        "firstAired": "February 8, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E15",
+                        "name": "Tapestry",
+                        "firstAired": "February 15, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E16",
+                        "name": "Birthright (1)",
+                        "firstAired": "February 22, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E17",
+                        "name": "Birthright (2)",
+                        "firstAired": "March 1, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E18",
+                        "name": "Starship Mine",
+                        "firstAired": "March 29, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E19",
+                        "name": "Lessons",
+                        "firstAired": "April 5, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E20",
+                        "name": "The Chase",
+                        "firstAired": "April 26, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E21",
+                        "name": "Frame of Mind",
+                        "firstAired": "May 3, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E22",
+                        "name": "Suspicions",
+                        "firstAired": "May 10, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E23",
+                        "name": "Rightful Heir",
+                        "firstAired": "May 17, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E24",
+                        "name": "Second Chances",
+                        "firstAired": "May 24, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E25",
+                        "name": "Timescape",
+                        "firstAired": "June 14, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E26",
+                        "name": "Descent (1) season finale",
+                        "firstAired": "June 21, 1993 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 7,
+                "from": "September 1993",
+                "to": "May 1994",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/official/7",
+                "episodeList": [
+                    {
+                        "code": "S07E01",
+                        "name": "Descent (2)",
+                        "firstAired": "September 20, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E02",
+                        "name": "Liaisons",
+                        "firstAired": "September 27, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E03",
+                        "name": "Interface",
+                        "firstAired": "October 4, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E04",
+                        "name": "Gambit (1)",
+                        "firstAired": "October 11, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E05",
+                        "name": "Gambit (2)",
+                        "firstAired": "October 18, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E06",
+                        "name": "Phantasms",
+                        "firstAired": "October 25, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E07",
+                        "name": "Dark Page",
+                        "firstAired": "November 1, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E08",
+                        "name": "Attached",
+                        "firstAired": "November 8, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E09",
+                        "name": "Force of Nature",
+                        "firstAired": "November 15, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E10",
+                        "name": "Inheritance",
+                        "firstAired": "November 22, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E11",
+                        "name": "Parallels",
+                        "firstAired": "November 29, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E12",
+                        "name": "The Pegasus",
+                        "firstAired": "January 17, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E13",
+                        "name": "Homeward",
+                        "firstAired": "January 17, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E14",
+                        "name": "Sub Rosa",
+                        "firstAired": "January 31, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E15",
+                        "name": "Lower Decks",
+                        "firstAired": "February 7, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E16",
+                        "name": "Thine Own Self",
+                        "firstAired": "February 14, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E17",
+                        "name": "Masks",
+                        "firstAired": "February 21, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E18",
+                        "name": "Eye of the Beholder",
+                        "firstAired": "February 28, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E19",
+                        "name": "Genesis",
+                        "firstAired": "March 21, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E20",
+                        "name": "Journey's End",
+                        "firstAired": "March 28, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E21",
+                        "name": "Firstborn",
+                        "firstAired": "April 25, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E22",
+                        "name": "Bloodlines",
+                        "firstAired": "May 2, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E23",
+                        "name": "Emergence",
+                        "firstAired": "May 9, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E24",
+                        "name": "Preemptive Strike",
+                        "firstAired": "May 16, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E25",
+                        "name": "All Good Things... (1)",
+                        "firstAired": "May 23, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E26",
+                        "name": "All Good Things... (2) series finale",
+                        "firstAired": "May 23, 1994 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "September 1987",
+                "to": "May 1988",
+                "episodes": 25,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Encounter at Farpoint",
+                        "firstAired": "September 28, 1987 Syndication",
+                        "runtime": 90
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "The Naked Now",
+                        "firstAired": "October 5, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Code of Honor",
+                        "firstAired": "October 12, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Last Outpost",
+                        "firstAired": "October 19, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Where No One Has Gone Before",
+                        "firstAired": "October 26, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Lonely Among Us",
+                        "firstAired": "November 2, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Justice",
+                        "firstAired": "November 9, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Battle",
+                        "firstAired": "November 16, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Hide and Q",
+                        "firstAired": "November 23, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Haven",
+                        "firstAired": "November 30, 1987 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Big Goodbye",
+                        "firstAired": "January 11, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Datalore",
+                        "firstAired": "January 18, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Angel One",
+                        "firstAired": "January 25, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "11001001",
+                        "firstAired": "February 1, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Too Short a Season",
+                        "firstAired": "February 8, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "When the Bough Breaks",
+                        "firstAired": "February 15, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Home Soil",
+                        "firstAired": "February 22, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Coming of Age",
+                        "firstAired": "March 14, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Heart of Glory",
+                        "firstAired": "March 21, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "The Arsenal of Freedom",
+                        "firstAired": "April 11, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Symbiosis",
+                        "firstAired": "April 18, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Skin of Evil",
+                        "firstAired": "April 25, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "We'll Always Have Paris",
+                        "firstAired": "May 2, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Conspiracy",
+                        "firstAired": "May 9, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "The Neutral Zone season finale",
+                        "firstAired": "May 16, 1988 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "November 1988",
+                "to": "July 1989",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Child",
+                        "firstAired": "November 21, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Where Silence Has Lease",
+                        "firstAired": "November 28, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Elementary, Dear Data",
+                        "firstAired": "December 5, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "The Outrageous Okona",
+                        "firstAired": "December 12, 1988 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Loud as a Whisper",
+                        "firstAired": "January 9, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "The Schizoid Man",
+                        "firstAired": "January 23, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Unnatural Selection",
+                        "firstAired": "January 30, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "A Matter of Honor",
+                        "firstAired": "February 6, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "The Measure of a Man",
+                        "firstAired": "February 13, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Dauphin",
+                        "firstAired": "February 20, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Contagion",
+                        "firstAired": "March 20, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "The Royale",
+                        "firstAired": "March 27, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Time Squared",
+                        "firstAired": "April 3, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "The Icarus Factor",
+                        "firstAired": "April 24, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "Pen Pals",
+                        "firstAired": "May 1, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "Q Who?",
+                        "firstAired": "May 8, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Samaritan Snare",
+                        "firstAired": "May 15, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Up the Long Ladder",
+                        "firstAired": "May 22, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Manhunt",
+                        "firstAired": "June 19, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "The Emissary",
+                        "firstAired": "June 29, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Peak Performance",
+                        "firstAired": "July 10, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Shades of Gray season finale",
+                        "firstAired": "July 17, 1989 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "September 1989",
+                "to": "June 1990",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Evolution",
+                        "firstAired": "September 25, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "The Ensigns of Command",
+                        "firstAired": "October 2, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Survivors",
+                        "firstAired": "October 9, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Who Watches the Watchers",
+                        "firstAired": "October 16, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "The Bonding",
+                        "firstAired": "October 23, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Booby Trap",
+                        "firstAired": "October 30, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "The Enemy",
+                        "firstAired": "November 6, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "The Price",
+                        "firstAired": "November 13, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "The Vengeance Factor",
+                        "firstAired": "November 20, 1989 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "The Defector",
+                        "firstAired": "January 1, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "The Hunted",
+                        "firstAired": "January 8, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "The High Ground",
+                        "firstAired": "January 29, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Déjà Q",
+                        "firstAired": "February 5, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "A Matter of Perspective",
+                        "firstAired": "February 12, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Yesterday's Enterprise",
+                        "firstAired": "February 19, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "The Offspring",
+                        "firstAired": "March 12, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "Sins of the Father",
+                        "firstAired": "March 19, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Allegiance",
+                        "firstAired": "March 26, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Captain's Holiday",
+                        "firstAired": "April 2, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "Tin Man",
+                        "firstAired": "April 23, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Hollow Pursuits",
+                        "firstAired": "April 30, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "The Most Toys",
+                        "firstAired": "May 7, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E23",
+                        "name": "Sarek",
+                        "firstAired": "May 14, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E24",
+                        "name": "Ménage à Troi",
+                        "firstAired": "May 28, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E25",
+                        "name": "Transfigurations",
+                        "firstAired": "June 4, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E26",
+                        "name": "The Best of Both Worlds (1) season finale",
+                        "firstAired": "June 18, 1990 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 4,
+                "from": "September 1990",
+                "to": "June 1991",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/dvd/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "The Best of Both Worlds (2)",
+                        "firstAired": "September 24, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Family",
+                        "firstAired": "October 1, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Brothers",
+                        "firstAired": "October 8, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "Suddenly Human",
+                        "firstAired": "October 15, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Remember Me",
+                        "firstAired": "October 22, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Legacy",
+                        "firstAired": "October 29, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Reunion",
+                        "firstAired": "November 5, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Future Imperfect",
+                        "firstAired": "November 12, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Final Mission",
+                        "firstAired": "November 19, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "The Loss",
+                        "firstAired": "December 1, 1990 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Data's Day",
+                        "firstAired": "January 7, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "The Wounded",
+                        "firstAired": "January 28, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Devil's Due",
+                        "firstAired": "February 4, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "Clues",
+                        "firstAired": "February 11, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "First Contact",
+                        "firstAired": "February 18, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Galaxy's Child",
+                        "firstAired": "March 11, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Night Terrors",
+                        "firstAired": "March 18, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "Identity Crisis",
+                        "firstAired": "March 25, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "The Nth Degree",
+                        "firstAired": "April 1, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "Qpid",
+                        "firstAired": "April 22, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E21",
+                        "name": "The Drumhead",
+                        "firstAired": "April 29, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E22",
+                        "name": "Half a Life",
+                        "firstAired": "May 6, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E23",
+                        "name": "The Host",
+                        "firstAired": "May 13, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E24",
+                        "name": "The Mind's Eye",
+                        "firstAired": "May 27, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E25",
+                        "name": "In Theory",
+                        "firstAired": "June 3, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E26",
+                        "name": "Redemption (1) season finale",
+                        "firstAired": "June 17, 1991 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 5,
+                "from": "September 1991",
+                "to": "June 1992",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/dvd/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Redemption (2)",
+                        "firstAired": "September 23, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Darmok",
+                        "firstAired": "September 30, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Ensign Ro",
+                        "firstAired": "October 7, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "Silicon Avatar",
+                        "firstAired": "October 14, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Disaster",
+                        "firstAired": "October 21, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "The Game",
+                        "firstAired": "October 28, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Unification (1)",
+                        "firstAired": "November 4, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "Unification (2)",
+                        "firstAired": "November 11, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "A Matter of Time",
+                        "firstAired": "November 18, 1991 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "New Ground",
+                        "firstAired": "January 6, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "Hero Worship",
+                        "firstAired": "January 27, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Violations",
+                        "firstAired": "February 3, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "The Masterpiece Society",
+                        "firstAired": "February 10, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "Conundrum",
+                        "firstAired": "February 17, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Power Play",
+                        "firstAired": "February 24, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Ethics",
+                        "firstAired": "March 2, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "The Outcast",
+                        "firstAired": "March 16, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "Cause and Effect",
+                        "firstAired": "March 23, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "The First Duty",
+                        "firstAired": "March 30, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "Cost of Living",
+                        "firstAired": "April 20, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E21",
+                        "name": "The Perfect Mate",
+                        "firstAired": "April 27, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E22",
+                        "name": "Imaginary Friend",
+                        "firstAired": "May 4, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E23",
+                        "name": "I, Borg",
+                        "firstAired": "May 11, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E24",
+                        "name": "The Next Phase",
+                        "firstAired": "May 18, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E25",
+                        "name": "The Inner Light",
+                        "firstAired": "June 1, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E26",
+                        "name": "Time's Arrow (1) season finale",
+                        "firstAired": "June 15, 1992 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 6,
+                "from": "September 1992",
+                "to": "June 1993",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/dvd/6",
+                "episodeList": [
+                    {
+                        "code": "S06E01",
+                        "name": "Time's Arrow (2)",
+                        "firstAired": "September 21, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E02",
+                        "name": "Realm of Fear",
+                        "firstAired": "September 28, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E03",
+                        "name": "Man of the People",
+                        "firstAired": "October 5, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E04",
+                        "name": "Relics",
+                        "firstAired": "October 12, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E05",
+                        "name": "Schisms",
+                        "firstAired": "October 19, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E06",
+                        "name": "True Q",
+                        "firstAired": "October 26, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E07",
+                        "name": "Rascals",
+                        "firstAired": "November 2, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E08",
+                        "name": "A Fistful of Datas",
+                        "firstAired": "November 9, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E09",
+                        "name": "The Quality of Life",
+                        "firstAired": "November 16, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E10",
+                        "name": "Chain of Command (1)",
+                        "firstAired": "December 14, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E11",
+                        "name": "Chain of Command (2)",
+                        "firstAired": "December 21, 1992 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E12",
+                        "name": "Ship in a Bottle",
+                        "firstAired": "January 25, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E13",
+                        "name": "Aquiel",
+                        "firstAired": "February 1, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E14",
+                        "name": "Face of the Enemy",
+                        "firstAired": "February 8, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E15",
+                        "name": "Tapestry",
+                        "firstAired": "February 15, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E16",
+                        "name": "Birthright (1)",
+                        "firstAired": "February 22, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E17",
+                        "name": "Birthright (2)",
+                        "firstAired": "March 1, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E18",
+                        "name": "Starship Mine",
+                        "firstAired": "March 29, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E19",
+                        "name": "Lessons",
+                        "firstAired": "April 5, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E20",
+                        "name": "The Chase",
+                        "firstAired": "April 26, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E21",
+                        "name": "Frame of Mind",
+                        "firstAired": "May 3, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E22",
+                        "name": "Suspicions",
+                        "firstAired": "May 10, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E23",
+                        "name": "Rightful Heir",
+                        "firstAired": "May 17, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E24",
+                        "name": "Second Chances",
+                        "firstAired": "May 24, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E25",
+                        "name": "Timescape",
+                        "firstAired": "June 14, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E26",
+                        "name": "Descent (1) season finale",
+                        "firstAired": "June 21, 1993 Syndication",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 7,
+                "from": "September 1993",
+                "to": "May 1994",
+                "episodes": 25,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/dvd/7",
+                "episodeList": [
+                    {
+                        "code": "S07E01",
+                        "name": "Descent (2)",
+                        "firstAired": "September 20, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E02",
+                        "name": "Liaisons",
+                        "firstAired": "September 27, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E03",
+                        "name": "Interface",
+                        "firstAired": "October 4, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E04",
+                        "name": "Gambit (1)",
+                        "firstAired": "October 11, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E05",
+                        "name": "Gambit (2)",
+                        "firstAired": "October 18, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E06",
+                        "name": "Phantasms",
+                        "firstAired": "October 25, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E07",
+                        "name": "Dark Page",
+                        "firstAired": "November 1, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E08",
+                        "name": "Attached",
+                        "firstAired": "November 8, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E09",
+                        "name": "Force of Nature",
+                        "firstAired": "November 15, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E10",
+                        "name": "Inheritance",
+                        "firstAired": "November 22, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E11",
+                        "name": "Parallels",
+                        "firstAired": "November 29, 1993 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E12",
+                        "name": "The Pegasus",
+                        "firstAired": "January 17, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E13",
+                        "name": "Homeward",
+                        "firstAired": "January 17, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E14",
+                        "name": "Sub Rosa",
+                        "firstAired": "January 31, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E15",
+                        "name": "Lower Decks",
+                        "firstAired": "February 7, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E16",
+                        "name": "Thine Own Self",
+                        "firstAired": "February 14, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E17",
+                        "name": "Masks",
+                        "firstAired": "February 21, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E18",
+                        "name": "Eye of the Beholder",
+                        "firstAired": "February 28, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E19",
+                        "name": "Genesis",
+                        "firstAired": "March 21, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E20",
+                        "name": "Journey's End",
+                        "firstAired": "March 28, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E21",
+                        "name": "Firstborn",
+                        "firstAired": "April 25, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E22",
+                        "name": "Bloodlines",
+                        "firstAired": "May 2, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E23",
+                        "name": "Emergence",
+                        "firstAired": "May 9, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E24",
+                        "name": "Preemptive Strike",
+                        "firstAired": "May 16, 1994 Syndication",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E25",
+                        "name": "All Good Things... season finale",
+                        "firstAired": "May 23, 1994 Syndication",
+                        "runtime": 90
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "",
+                "to": "",
+                "episodes": 0,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-the-next-generation/seasons/absolute/1"
+            }
+        ]
+    }
+}

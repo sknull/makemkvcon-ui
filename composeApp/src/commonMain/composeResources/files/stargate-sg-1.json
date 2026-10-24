@@ -1,0 +1,4588 @@
+{
+    "seriesTitle": "Stargate SG-1",
+    "seriesDescription": {
+        "translations": {
+            "ces": {
+                "text": "Seriálové pokračování slavného sci-fi filmu stejného názvu. Po dalším objevu Daniela Jacksona je zjištěno, že pomocí hvězdné brány je možné cestovat i na jiné planety. Americká armáda proto zřídí několik týmů pojmenovaných SG, které mají za úkol planety prozkoumat a pokud možno s jejími obyvateli navázat přátelské vztahy. Bojují také proti mimozemské civilizaci, která zotročuje planety, pátrají po původu hvězdných bran a snaží se vymanit z vlivu zkorumpovaných politiků, kteří chtějí bránu využívat kvůli vlastnímu prospěchu.",
+                "aliases": []
+            },
+            "dan": {
+                "text": "Stargate - SG-1 er en canadisk-amerikansk science-fiction-tv-serie, som er en del af MGM's Stargate franchise. SG-1 er navnet på det hold. som man følger gennem hele serien. Holdet består af fire personer med meget forskellige baggrunde, som alle står sammen mod den overvældende fjende ved navn The Goa'uld. SG-1 er dog ikke det eneste hold, der bekæmper the Goa'uld. Gennem serien hører man, at der mindst er 22 SG-hold, men der kan godt være flere, da det præcise tal ikke kendes. SG-1 har hjembase i SGC (Stargate Command), og det er herfra de tager ud på alle deres missioner.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Die Fortsetzung des Films \"Stargate\" von 1994, beschreibt die weiteren Abenteuer des SGC (Stargate Command). Es stellt sich heraus, dass der Goa'uld Ra nur einer von vielen außerirdischen Herrschern war, der das Stargate zur Eroberung des Universum benutzte. Nach der vollständigen Entschlüsslung des Stargates, können nun Reisen ins ganze Universum unternommen werden. Das Militär sendet SG-Teams um diese neuen Welten zu erforschen, um neue Technologien zu entdecken und sich den Goa'uld zu stellen. Die Charakter Jack O'Neill and Daniel Jackson aus dem Film sind teil von SG-1. Begleitet werden sie von Sam Carter, einer Wissenschaftlerin, und Teal'c, einem Jaffa, der davon überzeugt ist, dass die Goa'uld keine Götter sind. Nachdem Daniel Jackson in der 6. Staffel zeitweise als tot galt (als der Schauspieler Michael Shanks die Serie für ein Jahr verlies), kam Jonas Quinn zu SG-1, ein Wissenschaftler von einem anderen Planeten.",
+                "aliases": [
+                    "Stargate SG1",
+                    "Stargate Kommando SG-1"
+                ]
+            },
+            "ell": {
+                "text": "μετά την ανακάλυψη μιας Αστροπύλης, ο στρατός τη χρησιμοποιεί για να ταξιδέψει σε άλλους πλανήτες και να ανακαλύψει νέες τεχνολογίες. Σε κάθε επεισόδιο η ομάδα ταξιδεύει και σε έναν διαφορετικό πλανήτη, προσπαθώντας να ξεπεράσει τις αντιξοότητες που συναντάει εκεί, καθώς και τους Goa’uld, μια σατανική φυλή εξωγήινων που επιθυμεί να κατακτήσει όλο το σύμπαν.",
+                "aliases": []
+            },
+            "eng": {
+                "text": "This sequel to the 1994 movie Stargate chronicles the further adventures of SGC (Stargate Command). It turned out that the Goa'uld Ra was only one of many alien System Lords who used the Stargates to conquer much of the universe. When Earth uncovers a working cartouche to decipher the coding system of their own Stargate, they find they can now travel anywhere. Earth's military sends out SG teams to explore new planets, find technology, and oppose the Goa'uld. Jack O'Neill and Daniel Jackson from the original movie are part of SG-1. They are joined by Sam Carter, a scientist, and Teal'c, a Jaffa who is convinced the Goa'uld are not gods.",
+                "aliases": [
+                    "Stargate SG1"
+                ]
+            },
+            "fin": {
+                "text": "Tähtiportti on salainen intergalaktinen portti, jonka muinainen sivilisaatio kehitti miljoonia vuosia sitten. Portti yhdistää planeettoja muista aurinkokunnista omaamme, ja toimii näin kulkuväylänä muille planeetoille ja uusiin ulottuvuuksiin. Yhdysvaltain ilmavoimat perustaa intergalaktisen rauhan ylläpidosta vastaavan ryhmän, jota johtaa Eversti Jack O'Neill (Richard D. Anderson). Heidän tehtävänsä on taistella koko universumin rauhan ja oikeuden puolesta.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Un anneau de trois mètres de diamètre fait d’un métal inconnu sur Terre constitue en fait une porte ouvrant un passage vers d’autres planètes. Des équipes de militaires et de scientifiques explorent ces différentes planètes, cherchant de nouvelles technologies pour combattre notamment les Goa’ulds, une espèce extraterrestre qui parasite des humains. Parmi ces équipes d’exploration, SG-1 devient la plus réputée, avec le colonel O’Neill, l’égyptologue Jackson, le major Carter et Teal’c, un Jaffa venant de Chulak, un autre monde.",
+                "aliases": []
+            },
+            "heb": {
+                "text": "סטארגייט הוא מעבר שבאמצעותו ניתן להגיע מפלנטה אחת לאחרת, תוך קיצור משמעותי של מסע חלל מתיש. בעקבות גילוי הפרצה, כפי שתוארה בסרטו של רולנד אמריק מ-1994, מתחילה הסדרה במתקפה חייזרית על כדור הארץ. מדען ראשי נחטף והקולונל ג'ק או'ניל, בגילומו של ריצ'ארד דין אנדרסון (מק'גייוור בכבודו ובעצמו), נקרא אל הדגל. מסע לעולמות קסומים.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Zvjezdana vrata SG-1 je znanstveno-fantastična serija pokrenuta 1997. godine, a nastavlja se na istoimeni film iz 1994. godine. Pokazalo se da je bog Ra zapravo bio jedan od mnogih Goa'ulda koji su pomoću sustava zvjezdanih vrata pokorili tisuće svjetova u našoj galaksiji. Vojska SAD-a je unutar planine Cheyenne ugradila zvjezdana vrata i utemeljila Zapovjedništvo zvjezdanih vrata, odnosno SGC (eng. Stargate Command). Nakon što su dešifrirali drevni tekst vezan uz vrata, shvatili su da Abydos nije jedini planet na kojeg mogu putovati. Tada su odlučili da im je najbolja šansa za obranu od Goa'uldova istražiti što više svjetova i pronaći saveznike. Elitna jedinica SGC-a je SG-1, koju čine Jack O'Neill, Daniel Jackson, Samantha Carter i Teal'c, pripadnik naroda Jaffa koji vjeruje da Goa'uldi nisu bogovi.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "A sorozat alapjául a nagy sikerrel játszott, azonos című mozifilm szolgált. A benne szereplő Csillagkapu egy ősidők óta létező titokzatos átjáró, melyen keresztül azok, akik megfejtik titkát, eljuthatnak különböző galaxisokba, expedícióra indulhatnak térben és időben egy látszólag határtalan univerzumban.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "Stargate SG-1 (abbreviato solitamente in SG-1 o SG1) è una serie televisiva di fantascienza basata sul film Stargate del 1994, scritto da Dean Devlin e Roland Emmerich e diretto da quest'ultimo. Emmerich aveva inizialmente l'intenzione di realizzare altri due film, creando così una trilogia di Stargate. Il progetto fu però abbandonato, e così la MGM poté acquistare i diritti e le licenze necessarie per mandare in onda una serie televisiva basata sull'universo di Stargate. Gli sceneggiatori sono stati in grado di creare sui presupposti del film, un intero nuovo universo, popolato da numerose razze aliene che, grazie alla loro avanzata tecnologia, si sono suddivise il controllo dei vari settori dello spazio. Il film Stargate terminava con l'uccisione del crudele alieno Ra (considerato un dio dagli antichi egizi), il salvataggio della popolazione del pianeta Abydos, ed il ritorno della squadra sulla Terra. La serie tv riparte da qui, circa un anno dopo questi avvenimenti.",
+                "aliases": []
+            },
+            "kor": {
+                "text": "1994 년 영화 스타 게이트이 속편 SGC (스타 게이트 명령)의 또 다른 모험을 역사에 남긴다. 그것은 고아 울드 라 우주의 대부분을 정복하기 위해 스타 게이트를 사용하는 많은 외국인 시스템 지배자의 하나라고 밝혀졌다. 지구가 자신의 스타 게이트의 코딩 시스템을 해독하는 작업 어쨌든을 알게되면, 그들은 지금 어디든지 여행 할 수 찾을 수 있습니다. 지구 군은, 새로운 행성을 탐험 기술을 발견하고 고아 울드를 반대하는 SG 팀을 보냅니다. 원래 영화에서 잭 오닐 다니엘 잭슨은 SG-1의 일부입니다. 그들은 샘 카터, 과학자, 그리고 틸크에 의해 결합되어, 고아 울드를 확신 자파는 신이 아니다.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "Stargate SG-1 gaat verder waar de film ophield. Het blijkt dat de Goa'uld Ra slechts één van vele aliens was die gebruik maakte van de Stargates om het universum te veroveren. Zodra de Aarde een lijst met werkende Stargate-adressen ontdekt, kunnen ze overal naartoe reizen. De Amerikaanse Air Force zendt SG-teams uit om nieuwe planeten te verkennen, technologieën te vinden, en de Goa'uld te verslaan. Jack O'Neill en Daniel Jackson uit de originele film zijn lid van het eliteteam SG-1. Samen met Samantha Carter, een geleerde, en Tea'lc, een Jaffa-alien die niet langer gelooft in valse goden, gaan ze het avontuur aan...",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Po powrocie pułkownika O'Neilla z misji na Abydos, Gwiezdne Wrota zostały wyłączone i przechowywane były w bazie Cheyenne. Rok później Wrota aktywowały się i wyszła z nich grupa obcych zwanych Goa'uldami, która napadła na bazę. Jej dowódca, gen. Hammond poprosił pułkownika O'Neilla o powrót do służby i pomoc w poprowadzeniu kolejnej misji na Abydos. Na miejscu ekipa z Ziemi spotkała doktora Jacksona, który został na planecie po pierwszej wyprawie. Odkrył on, że w galaktyce istnieje cała sieć Gwiezdnych Wrót. Oznaczało to, że skoro obcy nie przyszli z Abydos mogli wrócić na którykolwiek z tysięcy adresów. Kolejny atak obcych, tym razem na mieszkańców Abydos umożliwił Ziemianom odnalezienie i uratowanie porwanych. Na planecie Chulak zdobyli uznanie jednego z obcych - Teal'ca, który postanawia się do nich przyłączyć. Wtedy w bazie Cheyenne zostaje utworzone dowództwo Gwiezdnych Wrót - SGC. Kilkanaście drużyn SG - w tym SG-1 w składzie: pułkownik Jack O'Neill, kapitan Samantha Carter, doktor Daniel Jackson i Teal'c, podróżują przez Wrota badając inne światy i technologie, które umożliwią im walkę ze złymi Goa'uldami. Przez 8 sezonów serialu Ziemianie i ich sprzymierzeńcy (m.in. Asgard) walczą z Goa'uldami (i innymi zagrożeniami, np. Replikatorami), aż do obalenia ich władzy nad galaktyką. W 9 sezonie pojawia się jednak nowy wróg - zły odłam Pradawnych, nazywający się Ori. Chcą oni nawrócić wszystkich w naszej galaktyce na ich wiarę, podając się za jedynych, prawdziwych bogów. Światy galaktyki mają wybór - albo będą czcić Ori, albo zostaną zniszczone. SGC szuka sposobów do walki z kapłanami Ori, jednocześnie próbując przekonać mniej rozwinięte planety, że moc Ori nie pochodzi z boskiej magii, lecz z technologii.",
+                "aliases": []
+            },
+            "por": {
+                "text": "Série de TV derivada do filme de ficção científica Stargate, acompanha a história de um grupo de militares americanos que utiliza um portal estelar para viajar até outros planetas de maneira instantânea. Nestes lugares, eles fazem novas descobertas, ganham amigos e encontram inimigos em meio a muitas aventuras.",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Найденное в Египте устройство, Звёздные врата, открыло для Земли существование других пригодных для жизни планет в нашей Галактике. С целью исследования этих планет было создано несколько команд. Им предстоит окунуться в мир невероятных и опасных приключений, на пути которых их ожидает множество загадок Вселенной, а также встречи с инопланетными расами, против которых им предстоит выстоять. Но лишь одной из них, команде ЗВ-1, предстоит защищать жизни людей и их права во всей Галактике.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Stargate SG-1 es una serie televisiva estadounidense derivada del largometraje de ciencia ficción Stargate: Puerta a las Estrellas (1994). Producida por los estudios Metro Goldwyn Mayer. Esta serie se centra en las vivencias y aventuras de un equipo de militares y científicos miembros de un proyecto ultra-secreto de las Fuerzas Aéreas de los Estados Unidos, que utiliza un ingenio extraterrestre (Stargate) para desplazarse a otros planetas de manera casi instantánea. Cada episodio dura aproximadamente 42 minutos, formato necesario para durar una hora al aire al incluir los anuncios publicitarios. La novena temporada que se emite en Estados Unidos el SCiFi channel tiene la presentación acortada, para permitir mas tiempo de publicidad. En octubre de 2005, la MGM anunció que la serie tendría una décima temporada, consiguiendo así que Stargate SG-1 sea la serie de ciencia ficción más larga de la historia de la televisión de los Estados Unidos, superando a Expediente X (nueve temporadas). Un año después de la primera misión a Abydos, las instalaciones donde se encuentra la puerta estelar están siendo desmanteladas y la propia puerta será pronto guardada en un almacén. En un momento dado, la puerta se activa y unos extraños seres secuestran a una mujer militar. El General Hammond (Don S. Davis), a cargo de las instalaciones, hace llamar al Coronel Jack O'Neill (Richard Dean Anderson) y se ponen en contacto con el doctor Daniel Jackson (Michael Shanks) que se encuentra viviendo en Abydos a pesar de que se lo presumía muerto. Junto con la Capitana Samantha Carter (Amanda Tapping) descubren que el Stargate es parte de una vasta red de puertas que se extienden por toda la galaxia. En el primer planeta que visitan son secuestrados por un falso dios que se hace llamar Apophis, y ayudados a escapar por su Primado, el llamado Teal'c, un humanoide de una raza llamada Jaffa, creada para servir a los Goa'uld (la raza de Ra y Apophis, que se vale de sus capaci",
+                "aliases": []
+            },
+            "zho": {
+                "text": "星际之门SG-1系列剧集主要讲述一组由科学家和军人组成的探险队伍在通过星际之门进行星际探险的过程中遇到了神秘强大的外星人，并由此展开了一连串奇幻的星际冒险经历。星际之门是古老而先进的外星科技,利用扭曲时间和空间的虫洞将物质于瞬间传送过宇宙。星际之门计划代号为52区,由乔治哈蒙少将指挥,直接向总统负责。基地位于科罗拉多州夏安山北美防空司令部下方,深达地下28层,是冷战时期为防核战而开凿所建。目前旗下共有25支SG小队，故事紧接着94年《星际之门》电影版之后，星际之门自上次O‘Neill 上尉他们返回之后就一直未启用，突然有一天星际之门无故自行开启了，从星际之门走出来的是一伙全副武装的外星人。 为了追查事件的根源并探索未知的世界，故事就由此展开。",
+                "aliases": []
+            },
+            "swe": {
+                "text": "Premissen i långfilmen Stargate (manus: Roland Emmerich och Dean Devlin) från 1994, som Stargate SG-1 bygger på, är att hypotesen om forntida astronauter visar sig vara korrekt. En stjärnport (Stargate) hittas vid en arkeologisk utgrävning på Gizaplatån i Egypten under 1920-talet. Efter många års försök förstår forskarna att stjärnporten kan generera maskhål till andra planeter. I TV-serien Stargate SG-1 som tar vid där långfilmen slutade skickar USA:s militär särskilt utvalda grupper genom stjärnporten till främmande planeter på en regelbunden basis.",
+                "aliases": []
+            },
+            "cat": {
+                "text": "Aquesta seqüela de la pel·lícula Stargate del 1994 narra les aventures posteriors de SGC (Stargate Command). El Goa'uld Ra era només un dels molts Senyors alienígenes del sistema que van utilitzar les Portes Estel·lars per conquerir gran part de l'univers. Quan la Terra descobreix un cartutx amb informació per desxifrar el sistema de codificació del seu propi Stargate, s'obre la possibilitat de viatjar a qualsevol lloc. Els militars de la Terra envien equips SG per explorar nous planetes, trobar tecnologia i oposar-se als Goa'uld. Jack O'Neill i Daniel Jackson de la pel·lícula original formen part del SG-1. Se'ls uneix Sam Carter, una científica, i Teal'c, un Jaffa que està convençut que els Goa'uld no són déus.",
+                "aliases": []
+            },
+            "bul": {
+                "text": "Във фантастичната вселена на Старгейт, мрежа от древни извънземни устройства наречени Портали свързва и най-отдалечените точки на Вселената, правейки възможно междузвездното пътуване. Старгейт SG-1 описва приключенията на SG-1 – екип, който изследва галактиката и защитава Земята от редица извънземни врагове: Гоа'улдите, Репликаторите, а по-късно и от Ораите.",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Uma equipe de exploradores composta de soldados e cientistas viajam através do Stargate, um portal que dá acesso a outros planetas. Eles usam a passagem para explorar novos mundos e proteger a Terra contra forças inimigas.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "72449",
+        "Status": "Ended",
+        "First Aired": "July 27, 1997",
+        "Recent": "July 29, 2008",
+        "Airs": "Friday, at 9:00pm",
+        "Network": "Paramount+ with Showtime SYFY",
+        "Average Runtime": "45 minutes",
+        "Genres": "Action Adventure Drama Fantasy Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "IMDB TMS (Zap2It) TheMovieDB.com",
+        "Episode Screenshot Format": "4:3 Screencap",
+        "Favorited": "This series has been favorited by 12558 people.",
+        "Created": "February 4, 2008 by Evan_ mod mod",
+        "Modified": "September 26, 2026 by PedN"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Richard Dean Anderson",
+                "playsAs": "Jack O'Neill"
+            },
+            {
+                "name": "Amanda Tapping",
+                "playsAs": "Samantha Carter"
+            },
+            {
+                "name": "Michael Shanks",
+                "playsAs": "Dr. Daniel Jackson"
+            },
+            {
+                "name": "Christopher Judge",
+                "playsAs": "Teal'c"
+            },
+            {
+                "name": "Ben Browder",
+                "playsAs": "Cameron Mitchell"
+            },
+            {
+                "name": "Claudia Black",
+                "playsAs": "Vala Mal Doran"
+            },
+            {
+                "name": "Don S. Davis",
+                "playsAs": "George S. Hammond"
+            },
+            {
+                "name": "Beau Bridges",
+                "playsAs": "Henry \"Hank\" Landry"
+            },
+            {
+                "name": "Corin Nemec",
+                "playsAs": "JonQuinn"
+            },
+            {
+                "name": "Teryl Rothery",
+                "playsAs": "Janet Fraiser"
+            },
+            {
+                "name": "Gary Jones",
+                "playsAs": "Walter Harriman"
+            },
+            {
+                "name": "Carmen Argenziano",
+                "playsAs": "Jacob Carter|Selmac"
+            },
+            {
+                "name": "Tony Amendola",
+                "playsAs": "Master Bra'tac"
+            },
+            {
+                "name": "Cliff Simon",
+                "playsAs": "Ba'al"
+            },
+            {
+                "name": "Peter Williams",
+                "playsAs": "Apophis"
+            },
+            {
+                "name": "Colin Cunningham",
+                "playsAs": "Paul Davis"
+            },
+            {
+                "name": "Lexa Doig",
+                "playsAs": "Dr. Carolyn Lam"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Peter DeLuise",
+                "numberOfEpisodes": 80,
+                "dates": "02/12/1999 - 06/08/2007"
+            },
+            {
+                "name": "Robert C. Cooper",
+                "numberOfEpisodes": 60,
+                "dates": "08/22/1997 - 03/11/2008"
+            },
+            {
+                "name": "Paul Mullie",
+                "numberOfEpisodes": 51,
+                "dates": "08/04/2000 - 06/08/2007"
+            },
+            {
+                "name": "Joseph Mallozzi",
+                "numberOfEpisodes": 49,
+                "dates": "08/04/2000 - 06/08/2007"
+            },
+            {
+                "name": "Martin Wood",
+                "numberOfEpisodes": 49,
+                "dates": "02/06/1998 - 07/29/2008"
+            },
+            {
+                "name": "Brad Wright",
+                "numberOfEpisodes": 38,
+                "dates": "07/27/1997 - 07/29/2008"
+            },
+            {
+                "name": "Andy Mikita",
+                "numberOfEpisodes": 30,
+                "dates": "11/05/1999 - 06/01/2007"
+            },
+            {
+                "name": "Damian Kindler",
+                "numberOfEpisodes": 25,
+                "dates": "07/24/1998 - 06/01/2007"
+            },
+            {
+                "name": "Jonathan Glassner",
+                "numberOfEpisodes": 18,
+                "dates": "07/27/1997 - 07/29/2008"
+            },
+            {
+                "name": "Michael Shanks",
+                "numberOfEpisodes": 13,
+                "dates": "02/16/2001 - 02/27/2004"
+            },
+            {
+                "name": "Bill Gereghty",
+                "numberOfEpisodes": 12,
+                "dates": "08/15/1997 - 02/04/2005"
+            },
+            {
+                "name": "William Waring",
+                "numberOfEpisodes": 11,
+                "dates": "05/10/2002 - 06/15/2007"
+            },
+            {
+                "name": "David Warry-Smith",
+                "numberOfEpisodes": 11,
+                "dates": "02/20/1998 - 02/23/2001"
+            },
+            {
+                "name": "Peter F. Woeste",
+                "numberOfEpisodes": 10,
+                "dates": "02/25/2000 - 08/06/2004"
+            },
+            {
+                "name": "Amanda Tapping",
+                "numberOfEpisodes": 9,
+                "dates": "02/27/2004"
+            },
+            {
+                "name": "Christopher Judge",
+                "numberOfEpisodes": 8,
+                "dates": "04/12/2002 - 09/10/2004"
+            },
+            {
+                "name": "Katharyn Michaelian Powers",
+                "numberOfEpisodes": 8,
+                "dates": "08/08/1997 - 01/24/2003"
+            },
+            {
+                "name": "Brad Turner",
+                "numberOfEpisodes": 8,
+                "dates": "09/26/1997 - 08/19/2005"
+            },
+            {
+                "name": "Mario Azzopardi",
+                "numberOfEpisodes": 7,
+                "dates": "07/27/1997 - 01/23/1998"
+            },
+            {
+                "name": "Tor Alexander Valenza",
+                "numberOfEpisodes": 7,
+                "dates": "10/23/1998 - 07/28/2000"
+            },
+            {
+                "name": "Ronald Wilkerson",
+                "numberOfEpisodes": 7,
+                "dates": "07/27/2001 - 08/27/2004"
+            },
+            {
+                "name": "Corin Nemec",
+                "numberOfEpisodes": 6,
+                "dates": "01/23/2004"
+            },
+            {
+                "name": "Jacqueline Samuda",
+                "numberOfEpisodes": 4,
+                "dates": "02/07/2003"
+            },
+            {
+                "name": "Michael Greenburg",
+                "numberOfEpisodes": 3,
+                "dates": "08/07/1998 - 02/04/2005"
+            },
+            {
+                "name": "James Tichenor",
+                "numberOfEpisodes": 3,
+                "dates": "04/26/2002 - 02/07/2003"
+            },
+            {
+                "name": "Will Waring",
+                "numberOfEpisodes": 3,
+                "dates": "09/16/2005 - 07/28/2006"
+            },
+            {
+                "name": "Charlie Correll",
+                "numberOfEpisodes": 2,
+                "dates": "09/12/1997 - 03/05/1999"
+            },
+            {
+                "name": "Dennis Berry",
+                "numberOfEpisodes": 2,
+                "dates": "08/01/1997 - 08/22/1997"
+            },
+            {
+                "name": "Ken Girotti",
+                "numberOfEpisodes": 2,
+                "dates": "02/03/2006 - 02/17/2006"
+            },
+            {
+                "name": "William Corcoran",
+                "numberOfEpisodes": 2,
+                "dates": "02/19/1999 - 07/02/1999"
+            },
+            {
+                "name": "Allan Eastman",
+                "numberOfEpisodes": 1,
+                "dates": "10/17/1997"
+            },
+            {
+                "name": "Kenneth J. Girotti",
+                "numberOfEpisodes": 1,
+                "dates": "08/29/1997"
+            },
+            {
+                "name": "Duane Clark",
+                "numberOfEpisodes": 1,
+                "dates": "08/21/1998"
+            },
+            {
+                "name": "Chris McMullin",
+                "numberOfEpisodes": 1,
+                "dates": "02/18/2000"
+            },
+            {
+                "name": "Jarrad Paul",
+                "numberOfEpisodes": 1,
+                "dates": "08/07/1998"
+            },
+            {
+                "name": "Peter Woeste",
+                "numberOfEpisodes": 1,
+                "dates": "08/04/2006"
+            },
+            {
+                "name": "Jeff Woolnough",
+                "numberOfEpisodes": 1,
+                "dates": "08/08/1997"
+            },
+            {
+                "name": "Misha Rashovich",
+                "numberOfEpisodes": 1,
+                "dates": "01/29/1999"
+            },
+            {
+                "name": "Victoria C. James",
+                "numberOfEpisodes": 1,
+                "dates": "02/04/2000"
+            },
+            {
+                "name": "Alan Lee",
+                "numberOfEpisodes": 1,
+                "dates": "02/09/2001"
+            },
+            {
+                "name": "Jimmy Kaufman",
+                "numberOfEpisodes": 1,
+                "dates": "02/13/1998"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Alan McCullough",
+                "numberOfEpisodes": 9,
+                "dates": "09/16/2005 - 04/27/2007"
+            },
+            {
+                "name": "Heather E. Ash",
+                "numberOfEpisodes": 5,
+                "dates": "07/23/1999 - 08/03/2001"
+            },
+            {
+                "name": "Jeff F. King",
+                "numberOfEpisodes": 3,
+                "dates": "08/29/1997 - 02/13/1998"
+            },
+            {
+                "name": "Martin Gero",
+                "numberOfEpisodes": 3,
+                "dates": "08/12/2005 - 05/18/2007"
+            },
+            {
+                "name": "Terry Curtis Fox",
+                "numberOfEpisodes": 3,
+                "dates": "07/10/1998 - 08/20/1999"
+            },
+            {
+                "name": "Katharyn Powers",
+                "numberOfEpisodes": 3,
+                "dates": "09/19/1997 - 10/17/1997"
+            },
+            {
+                "name": "Carl Binder",
+                "numberOfEpisodes": 2,
+                "dates": "08/13/1999 - 08/18/2006"
+            },
+            {
+                "name": "Ben Browder",
+                "numberOfEpisodes": 2,
+                "dates": "05/18/2007"
+            },
+            {
+                "name": "Steven Barnes",
+                "numberOfEpisodes": 1,
+                "dates": "09/19/1997"
+            },
+            {
+                "name": "John Sanborn",
+                "numberOfEpisodes": 1,
+                "dates": "02/19/1999"
+            },
+            {
+                "name": "James Crocker",
+                "numberOfEpisodes": 1,
+                "dates": "03/06/1998"
+            },
+            {
+                "name": "Michael Kaplan",
+                "numberOfEpisodes": 1,
+                "dates": "02/19/1999"
+            },
+            {
+                "name": "Daniel Stashower",
+                "numberOfEpisodes": 1,
+                "dates": "10/22/1999"
+            },
+            {
+                "name": "Tom J. Astle",
+                "numberOfEpisodes": 1,
+                "dates": "01/23/1998"
+            },
+            {
+                "name": "Mark Saraceni",
+                "numberOfEpisodes": 1,
+                "dates": "10/10/1997"
+            },
+            {
+                "name": "Alex Levine",
+                "numberOfEpisodes": 1,
+                "dates": "06/15/2007"
+            },
+            {
+                "name": "David Kemper",
+                "numberOfEpisodes": 1,
+                "dates": "02/20/1998"
+            },
+            {
+                "name": "Hart Hanson",
+                "numberOfEpisodes": 1,
+                "dates": "09/12/1997"
+            },
+            {
+                "name": "J. Larry Carroll",
+                "numberOfEpisodes": 1,
+                "dates": "10/24/1997"
+            },
+            {
+                "name": "Sam Egan",
+                "numberOfEpisodes": 1,
+                "dates": "10/30/1998"
+            },
+            {
+                "name": "James Phillips",
+                "numberOfEpisodes": 1,
+                "dates": "01/26/2001"
+            },
+            {
+                "name": "Sonny Wareham",
+                "numberOfEpisodes": 1,
+                "dates": "10/22/1999"
+            },
+            {
+                "name": "David Rich",
+                "numberOfEpisodes": 1,
+                "dates": "07/14/2000"
+            },
+            {
+                "name": "Michael Cassutt",
+                "numberOfEpisodes": 1,
+                "dates": "09/15/2000"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "July 1997",
+                "to": "March 1998",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Children of the Gods (1)",
+                        "firstAired": "July 27, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Children of the Gods (2)",
+                        "firstAired": "July 27, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "The Enemy Within",
+                        "firstAired": "August 1, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Emancipation",
+                        "firstAired": "August 8, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The Broca Divide",
+                        "firstAired": "August 15, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "The First Commandment",
+                        "firstAired": "August 22, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Cold Lazarus",
+                        "firstAired": "August 29, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Nox",
+                        "firstAired": "September 12, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Brief Candle",
+                        "firstAired": "September 19, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Thor's Hammer",
+                        "firstAired": "September 26, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Torment of Tantalus",
+                        "firstAired": "October 3, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Bloodlines",
+                        "firstAired": "October 10, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Fire and Water",
+                        "firstAired": "October 17, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Hathor",
+                        "firstAired": "October 24, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Singularity",
+                        "firstAired": "October 31, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Cor-Ai",
+                        "firstAired": "January 23, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Enigma",
+                        "firstAired": "January 30, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Solitudes",
+                        "firstAired": "February 6, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Tin Man",
+                        "firstAired": "February 13, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "There But For the Grace of God",
+                        "firstAired": "February 20, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Politics (1)",
+                        "firstAired": "February 27, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Within the Serpent's Grasp (2) season finale",
+                        "firstAired": "March 6, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "June 1998",
+                "to": "March 1999",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Serpent's Lair (3)",
+                        "firstAired": "June 26, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "In the Line of Duty",
+                        "firstAired": "July 3, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Prisoners",
+                        "firstAired": "July 10, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "The Gamekeeper",
+                        "firstAired": "July 17, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Need",
+                        "firstAired": "July 24, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Thor's Chariot",
+                        "firstAired": "July 31, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Message in a Bottle",
+                        "firstAired": "August 7, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Family",
+                        "firstAired": "August 14, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Secrets",
+                        "firstAired": "August 21, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Bane",
+                        "firstAired": "September 25, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "The Tok'ra (1)",
+                        "firstAired": "October 2, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "The Tok'ra (2)",
+                        "firstAired": "October 9, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Spirits",
+                        "firstAired": "October 23, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Touchstone",
+                        "firstAired": "October 30, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Fifth Race",
+                        "firstAired": "January 22, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "A Matter of Time",
+                        "firstAired": "January 29, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Holiday",
+                        "firstAired": "February 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Serpent's Song",
+                        "firstAired": "February 12, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "One False Step",
+                        "firstAired": "February 19, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Show and Tell",
+                        "firstAired": "February 26, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "1969",
+                        "firstAired": "March 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Out of Mind (1) season finale",
+                        "firstAired": "March 12, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "June 1999",
+                "to": "March 2000",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Into the Fire (2)",
+                        "firstAired": "June 25, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Seth",
+                        "firstAired": "July 2, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Fair Game",
+                        "firstAired": "July 9, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Legacy",
+                        "firstAired": "July 16, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Learning Curve",
+                        "firstAired": "July 23, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Point of View",
+                        "firstAired": "July 30, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Deadman Switch",
+                        "firstAired": "August 6, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Demons",
+                        "firstAired": "August 13, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Rules of Engagement",
+                        "firstAired": "August 20, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Forever in a Day",
+                        "firstAired": "October 8, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Past and Present",
+                        "firstAired": "October 15, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Jolinar's Memories (1)",
+                        "firstAired": "October 22, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "The Devil You Know (2)",
+                        "firstAired": "October 29, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Foothold",
+                        "firstAired": "November 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Pretense",
+                        "firstAired": "January 21, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Urgo",
+                        "firstAired": "January 28, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "A Hundred Days",
+                        "firstAired": "February 4, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Shades of Grey",
+                        "firstAired": "February 11, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "New Ground",
+                        "firstAired": "February 18, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "Maternal Instinct",
+                        "firstAired": "February 25, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Crystal Skull",
+                        "firstAired": "March 3, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "Nemesis (1) season finale",
+                        "firstAired": "March 10, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 4,
+                "from": "June 2000",
+                "to": "February 2001",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Small Victories (2)",
+                        "firstAired": "June 30, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "The Other Side",
+                        "firstAired": "July 7, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Upgrades",
+                        "firstAired": "July 14, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "Crossroads",
+                        "firstAired": "July 21, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Divide and Conquer",
+                        "firstAired": "July 28, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Window of Opportunity",
+                        "firstAired": "August 4, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Watergate",
+                        "firstAired": "August 11, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "The First Ones",
+                        "firstAired": "August 18, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Scorched Earth",
+                        "firstAired": "August 25, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Beneath the Surface",
+                        "firstAired": "September 1, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Point of No Return",
+                        "firstAired": "September 8, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Tangent",
+                        "firstAired": "September 15, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "The Curse",
+                        "firstAired": "September 22, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "The Serpent's Venom",
+                        "firstAired": "September 29, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Chain Reaction",
+                        "firstAired": "January 5, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "2010",
+                        "firstAired": "January 12, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Absolute Power",
+                        "firstAired": "January 19, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "The Light",
+                        "firstAired": "January 26, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "Prodigy",
+                        "firstAired": "February 2, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "Entity",
+                        "firstAired": "February 9, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E21",
+                        "name": "Double Jeopardy",
+                        "firstAired": "February 16, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E22",
+                        "name": "Exodus (1) season finale",
+                        "firstAired": "February 23, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 5,
+                "from": "June 2001",
+                "to": "May 2002",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Enemies (2)",
+                        "firstAired": "June 29, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Threshold (3)",
+                        "firstAired": "July 6, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Ascension",
+                        "firstAired": "July 13, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "The Fifth Man",
+                        "firstAired": "July 20, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Red Sky",
+                        "firstAired": "July 27, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "Rite of Passage",
+                        "firstAired": "August 3, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Beast of Burden",
+                        "firstAired": "August 10, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "The Tomb",
+                        "firstAired": "August 17, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Between Two Fires",
+                        "firstAired": "August 24, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "2001",
+                        "firstAired": "August 31, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "Desperate Measures",
+                        "firstAired": "September 7, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Wormhole X-Treme!",
+                        "firstAired": "September 8, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "Proving Ground",
+                        "firstAired": "March 8, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "48 Hours",
+                        "firstAired": "March 15, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Summit (1)",
+                        "firstAired": "March 22, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Last Stand (2)",
+                        "firstAired": "March 29, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "Fail Safe",
+                        "firstAired": "April 5, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "The Warrior",
+                        "firstAired": "April 12, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "Menace",
+                        "firstAired": "April 26, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "The Sentinel",
+                        "firstAired": "May 3, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E21",
+                        "name": "Meridian",
+                        "firstAired": "May 10, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E22",
+                        "name": "Revelations season finale",
+                        "firstAired": "May 17, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 6,
+                "from": "June 2002",
+                "to": "March 2003",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/6",
+                "episodeList": [
+                    {
+                        "code": "S06E01",
+                        "name": "Redemption (1)",
+                        "firstAired": "June 7, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E02",
+                        "name": "Redemption (2)",
+                        "firstAired": "June 14, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E03",
+                        "name": "Descent",
+                        "firstAired": "June 21, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E04",
+                        "name": "Frozen",
+                        "firstAired": "June 28, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E05",
+                        "name": "Nightwalkers",
+                        "firstAired": "July 12, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E06",
+                        "name": "Abyss",
+                        "firstAired": "July 19, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E07",
+                        "name": "Shadow Play",
+                        "firstAired": "July 26, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E08",
+                        "name": "The Other Guys",
+                        "firstAired": "August 2, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E09",
+                        "name": "Allegiance",
+                        "firstAired": "August 9, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E10",
+                        "name": "Cure",
+                        "firstAired": "August 16, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E11",
+                        "name": "Prometheus (1)",
+                        "firstAired": "August 23, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E12",
+                        "name": "Unnatural Selection (2)",
+                        "firstAired": "January 10, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E13",
+                        "name": "Sight Unseen",
+                        "firstAired": "January 17, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E14",
+                        "name": "Smoke & Mirrors",
+                        "firstAired": "January 24, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E15",
+                        "name": "Paradise Lost",
+                        "firstAired": "January 31, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E16",
+                        "name": "Metamorphosis",
+                        "firstAired": "February 7, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E17",
+                        "name": "Disclosure",
+                        "firstAired": "February 14, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E18",
+                        "name": "Forsaken",
+                        "firstAired": "February 21, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E19",
+                        "name": "The Changeling",
+                        "firstAired": "February 28, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E20",
+                        "name": "Memento",
+                        "firstAired": "March 7, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E21",
+                        "name": "Prophecy",
+                        "firstAired": "March 14, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E22",
+                        "name": "Full Circle season finale",
+                        "firstAired": "March 21, 2003 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 7,
+                "from": "June 2003",
+                "to": "March 2004",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/7",
+                "episodeList": [
+                    {
+                        "code": "S07E01",
+                        "name": "Fallen (1)",
+                        "firstAired": "June 13, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E02",
+                        "name": "Homecoming (2)",
+                        "firstAired": "June 13, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E03",
+                        "name": "Fragile Balance",
+                        "firstAired": "June 20, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E04",
+                        "name": "Orpheus",
+                        "firstAired": "June 27, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E05",
+                        "name": "Revisions",
+                        "firstAired": "July 11, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E06",
+                        "name": "Lifeboat",
+                        "firstAired": "July 18, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E07",
+                        "name": "Enemy Mine",
+                        "firstAired": "July 25, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E08",
+                        "name": "Space Race",
+                        "firstAired": "August 1, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E09",
+                        "name": "Avenger 2.0",
+                        "firstAired": "August 8, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E10",
+                        "name": "Birthright",
+                        "firstAired": "August 15, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E11",
+                        "name": "Evolution (1)",
+                        "firstAired": "August 22, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E12",
+                        "name": "Evolution (2)",
+                        "firstAired": "January 9, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E13",
+                        "name": "Grace",
+                        "firstAired": "January 16, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E14",
+                        "name": "Fallout",
+                        "firstAired": "January 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E15",
+                        "name": "Chimera",
+                        "firstAired": "January 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E16",
+                        "name": "Death Knell",
+                        "firstAired": "February 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E17",
+                        "name": "Heroes (1)",
+                        "firstAired": "February 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E18",
+                        "name": "Heroes (2)",
+                        "firstAired": "February 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E19",
+                        "name": "Resurrection",
+                        "firstAired": "February 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E20",
+                        "name": "Inauguration",
+                        "firstAired": "March 5, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E21",
+                        "name": "Lost City (1)",
+                        "firstAired": "March 12, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E22",
+                        "name": "Lost City (2) season finale",
+                        "firstAired": "March 19, 2004 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 8,
+                "from": "July 2004",
+                "to": "March 2005",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/8",
+                "episodeList": [
+                    {
+                        "code": "S08E01",
+                        "name": "New Order (1)",
+                        "firstAired": "July 9, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E02",
+                        "name": "New Order (2)",
+                        "firstAired": "July 9, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E03",
+                        "name": "Lockdown",
+                        "firstAired": "July 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E04",
+                        "name": "Zero Hour",
+                        "firstAired": "July 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E05",
+                        "name": "Icon",
+                        "firstAired": "August 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E06",
+                        "name": "Avatar",
+                        "firstAired": "August 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E07",
+                        "name": "Affinity",
+                        "firstAired": "August 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E08",
+                        "name": "Covenant",
+                        "firstAired": "August 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E09",
+                        "name": "Sacrifices",
+                        "firstAired": "September 10, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E10",
+                        "name": "Endgame",
+                        "firstAired": "September 17, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E11",
+                        "name": "Gemini",
+                        "firstAired": "January 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E12",
+                        "name": "Prometheus Unbound",
+                        "firstAired": "January 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E13",
+                        "name": "It's Good To Be King",
+                        "firstAired": "February 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E14",
+                        "name": "Full Alert",
+                        "firstAired": "February 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E15",
+                        "name": "Citizen Joe",
+                        "firstAired": "February 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E16",
+                        "name": "Reckoning (1)",
+                        "firstAired": "February 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E17",
+                        "name": "Reckoning (2)",
+                        "firstAired": "March 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E18",
+                        "name": "Threads",
+                        "firstAired": "March 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E19",
+                        "name": "Moebius (1)",
+                        "firstAired": "March 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E20",
+                        "name": "Moebius (2) season finale",
+                        "firstAired": "March 25, 2005 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 9,
+                "from": "July 2005",
+                "to": "March 2006",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/9",
+                "episodeList": [
+                    {
+                        "code": "S09E01",
+                        "name": "Avalon (1)",
+                        "firstAired": "July 15, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E02",
+                        "name": "Avalon (2)",
+                        "firstAired": "July 22, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E03",
+                        "name": "Origin",
+                        "firstAired": "July 29, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E04",
+                        "name": "The Ties That Bind",
+                        "firstAired": "August 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E05",
+                        "name": "The Powers That Be",
+                        "firstAired": "August 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E06",
+                        "name": "Beachhead",
+                        "firstAired": "August 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E07",
+                        "name": "Ex Deus Machina",
+                        "firstAired": "August 26, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E08",
+                        "name": "Babylon",
+                        "firstAired": "September 9, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E09",
+                        "name": "Prototype",
+                        "firstAired": "September 16, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E10",
+                        "name": "The Fourth Horseman (1)",
+                        "firstAired": "September 16, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E11",
+                        "name": "The Fourth Horseman (2)",
+                        "firstAired": "January 6, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E12",
+                        "name": "Collateral Damage",
+                        "firstAired": "January 13, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E13",
+                        "name": "Ripple Effect",
+                        "firstAired": "January 20, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E14",
+                        "name": "Stronghold",
+                        "firstAired": "January 27, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E15",
+                        "name": "Ethon",
+                        "firstAired": "February 3, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E16",
+                        "name": "Off the Grid",
+                        "firstAired": "February 10, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E17",
+                        "name": "The Scourge",
+                        "firstAired": "February 17, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E18",
+                        "name": "Arthur's Mantle",
+                        "firstAired": "February 24, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E19",
+                        "name": "Crusade",
+                        "firstAired": "March 3, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E20",
+                        "name": "Camelot season finale",
+                        "firstAired": "March 10, 2006 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 10,
+                "from": "July 2006",
+                "to": "June 2007",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/official/10",
+                "episodeList": [
+                    {
+                        "code": "S10E01",
+                        "name": "Flesh and Blood",
+                        "firstAired": "July 14, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E02",
+                        "name": "Morpheus",
+                        "firstAired": "July 21, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E03",
+                        "name": "The Pegasus Project",
+                        "firstAired": "July 28, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E04",
+                        "name": "Insiders",
+                        "firstAired": "August 4, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E05",
+                        "name": "Uninvited",
+                        "firstAired": "August 11, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E06",
+                        "name": "200",
+                        "firstAired": "August 18, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E07",
+                        "name": "Counterstrike",
+                        "firstAired": "August 25, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E08",
+                        "name": "Memento Mori",
+                        "firstAired": "September 8, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E09",
+                        "name": "Company of Thieves",
+                        "firstAired": "September 15, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E10",
+                        "name": "The Quest (1)",
+                        "firstAired": "September 22, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E11",
+                        "name": "The Quest (2)",
+                        "firstAired": "April 13, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E12",
+                        "name": "Line in the Sand",
+                        "firstAired": "April 20, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E13",
+                        "name": "The Road Not Taken",
+                        "firstAired": "April 27, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E14",
+                        "name": "The Shroud",
+                        "firstAired": "May 4, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E15",
+                        "name": "Bounty",
+                        "firstAired": "May 11, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E16",
+                        "name": "Bad Guys",
+                        "firstAired": "May 18, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E17",
+                        "name": "Talion",
+                        "firstAired": "June 1, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E18",
+                        "name": "Family Ties",
+                        "firstAired": "June 8, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E19",
+                        "name": "Dominion",
+                        "firstAired": "June 15, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E20",
+                        "name": "Unending series finale",
+                        "firstAired": "June 22, 2007 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "July 1997",
+                "to": "March 1998",
+                "episodes": 21,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Children of the Gods",
+                        "firstAired": "July 27, 1997 Paramount+ with Showtime",
+                        "runtime": 90
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "The Enemy Within",
+                        "firstAired": "August 1, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Emancipation",
+                        "firstAired": "August 8, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Broca Divide",
+                        "firstAired": "August 15, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The First Commandment",
+                        "firstAired": "August 22, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Brief Candle",
+                        "firstAired": "September 19, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Cold Lazarus",
+                        "firstAired": "August 29, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Thor's Hammer",
+                        "firstAired": "September 26, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "The Torment of Tantalus",
+                        "firstAired": "October 3, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Bloodlines",
+                        "firstAired": "October 10, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Fire and Water",
+                        "firstAired": "October 17, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Nox",
+                        "firstAired": "September 12, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Hathor",
+                        "firstAired": "October 24, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Cor-Ai",
+                        "firstAired": "January 23, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Singularity",
+                        "firstAired": "October 31, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Enigma",
+                        "firstAired": "January 30, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Tin Man",
+                        "firstAired": "February 13, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Solitudes",
+                        "firstAired": "February 6, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "There But For the Grace of God",
+                        "firstAired": "February 20, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Politics (1)",
+                        "firstAired": "February 27, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Within the Serpent's Grasp (2) season finale",
+                        "firstAired": "March 6, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "June 1998",
+                "to": "March 1999",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Serpent's Lair (3)",
+                        "firstAired": "June 26, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "In the Line of Duty",
+                        "firstAired": "July 3, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Prisoners",
+                        "firstAired": "July 10, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "The Gamekeeper",
+                        "firstAired": "July 17, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Need",
+                        "firstAired": "July 24, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Thor's Chariot",
+                        "firstAired": "July 31, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Message in a Bottle",
+                        "firstAired": "August 7, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Family",
+                        "firstAired": "August 14, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Secrets",
+                        "firstAired": "August 21, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Bane",
+                        "firstAired": "September 25, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "The Tok'ra (1)",
+                        "firstAired": "October 2, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "The Tok'ra (2)",
+                        "firstAired": "October 9, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Spirits",
+                        "firstAired": "October 23, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Touchstone",
+                        "firstAired": "October 30, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "A Matter of Time",
+                        "firstAired": "January 29, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "The Fifth Race",
+                        "firstAired": "January 22, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Serpent's Song",
+                        "firstAired": "February 12, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Holiday",
+                        "firstAired": "February 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "One False Step",
+                        "firstAired": "February 19, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Show and Tell",
+                        "firstAired": "February 26, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "1969",
+                        "firstAired": "March 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Out of Mind (1) season finale",
+                        "firstAired": "March 12, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "June 1999",
+                "to": "March 2000",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Into the Fire (2)",
+                        "firstAired": "June 25, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Seth",
+                        "firstAired": "July 2, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Fair Game",
+                        "firstAired": "July 9, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Legacy",
+                        "firstAired": "July 16, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Learning Curve",
+                        "firstAired": "July 23, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Point of View",
+                        "firstAired": "July 30, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Deadman Switch",
+                        "firstAired": "August 6, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Demons",
+                        "firstAired": "August 13, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Rules of Engagement",
+                        "firstAired": "August 20, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Forever in a Day",
+                        "firstAired": "October 8, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Past and Present",
+                        "firstAired": "October 15, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Jolinar's Memories (1)",
+                        "firstAired": "October 22, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "The Devil You Know (2)",
+                        "firstAired": "October 29, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Foothold",
+                        "firstAired": "November 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Pretense",
+                        "firstAired": "January 21, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Urgo",
+                        "firstAired": "January 28, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "A Hundred Days",
+                        "firstAired": "February 4, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Shades of Grey",
+                        "firstAired": "February 11, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "New Ground",
+                        "firstAired": "February 18, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "Maternal Instinct",
+                        "firstAired": "February 25, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Crystal Skull",
+                        "firstAired": "March 3, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "Nemesis (1) season finale",
+                        "firstAired": "March 10, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 4,
+                "from": "June 2000",
+                "to": "February 2001",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Small Victories (2)",
+                        "firstAired": "June 30, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "The Other Side",
+                        "firstAired": "July 7, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Upgrades",
+                        "firstAired": "July 14, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "Crossroads",
+                        "firstAired": "July 21, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Divide and Conquer",
+                        "firstAired": "July 28, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Window of Opportunity",
+                        "firstAired": "August 4, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Watergate",
+                        "firstAired": "August 11, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "The First Ones",
+                        "firstAired": "August 18, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Scorched Earth",
+                        "firstAired": "August 25, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Beneath the Surface",
+                        "firstAired": "September 1, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Point of No Return",
+                        "firstAired": "September 8, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Tangent",
+                        "firstAired": "September 15, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "The Curse",
+                        "firstAired": "September 22, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "The Serpent's Venom",
+                        "firstAired": "September 29, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Chain Reaction",
+                        "firstAired": "January 5, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "2010",
+                        "firstAired": "January 12, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Absolute Power",
+                        "firstAired": "January 19, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "The Light",
+                        "firstAired": "January 26, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "Prodigy",
+                        "firstAired": "February 2, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "Entity",
+                        "firstAired": "February 9, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E21",
+                        "name": "Double Jeopardy",
+                        "firstAired": "February 16, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E22",
+                        "name": "Exodus (1) season finale",
+                        "firstAired": "February 23, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 5,
+                "from": "June 2001",
+                "to": "May 2002",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Enemies (2)",
+                        "firstAired": "June 29, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Threshold (3)",
+                        "firstAired": "July 6, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Ascension",
+                        "firstAired": "July 13, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "The Fifth Man",
+                        "firstAired": "July 20, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Red Sky",
+                        "firstAired": "July 27, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "Rite of Passage",
+                        "firstAired": "August 3, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Beast of Burden",
+                        "firstAired": "August 10, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "The Tomb",
+                        "firstAired": "August 17, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Between Two Fires",
+                        "firstAired": "August 24, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "2001",
+                        "firstAired": "August 31, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "Desperate Measures",
+                        "firstAired": "September 7, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Wormhole X-Treme!",
+                        "firstAired": "September 8, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "Proving Ground",
+                        "firstAired": "March 8, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "48 Hours",
+                        "firstAired": "March 15, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Summit (1)",
+                        "firstAired": "March 22, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Last Stand (2)",
+                        "firstAired": "March 29, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "Fail Safe",
+                        "firstAired": "April 5, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "The Warrior",
+                        "firstAired": "April 12, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "Menace",
+                        "firstAired": "April 26, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "The Sentinel",
+                        "firstAired": "May 3, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E21",
+                        "name": "Meridian",
+                        "firstAired": "May 10, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E22",
+                        "name": "Revelations season finale",
+                        "firstAired": "May 17, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 6,
+                "from": "June 2002",
+                "to": "March 2003",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/6",
+                "episodeList": [
+                    {
+                        "code": "S06E01",
+                        "name": "Redemption (1)",
+                        "firstAired": "June 7, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E02",
+                        "name": "Redemption (2)",
+                        "firstAired": "June 14, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E03",
+                        "name": "Descent",
+                        "firstAired": "June 21, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E04",
+                        "name": "Frozen",
+                        "firstAired": "June 28, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E05",
+                        "name": "Nightwalkers",
+                        "firstAired": "July 12, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E06",
+                        "name": "Abyss",
+                        "firstAired": "July 19, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E07",
+                        "name": "Shadow Play",
+                        "firstAired": "July 26, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E08",
+                        "name": "The Other Guys",
+                        "firstAired": "August 2, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E09",
+                        "name": "Allegiance",
+                        "firstAired": "August 9, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E10",
+                        "name": "Cure",
+                        "firstAired": "August 16, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E11",
+                        "name": "Prometheus (1)",
+                        "firstAired": "August 23, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E12",
+                        "name": "Unnatural Selection (2)",
+                        "firstAired": "January 10, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E13",
+                        "name": "Sight Unseen",
+                        "firstAired": "January 17, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E14",
+                        "name": "Smoke & Mirrors",
+                        "firstAired": "January 24, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E15",
+                        "name": "Paradise Lost",
+                        "firstAired": "January 31, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E16",
+                        "name": "Metamorphosis",
+                        "firstAired": "February 7, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E17",
+                        "name": "Disclosure",
+                        "firstAired": "February 14, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E18",
+                        "name": "Forsaken",
+                        "firstAired": "February 21, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E19",
+                        "name": "The Changeling",
+                        "firstAired": "February 28, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E20",
+                        "name": "Memento",
+                        "firstAired": "March 7, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E21",
+                        "name": "Prophecy",
+                        "firstAired": "March 14, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S06E22",
+                        "name": "Full Circle season finale",
+                        "firstAired": "March 21, 2003 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 7,
+                "from": "June 2003",
+                "to": "March 2004",
+                "episodes": 21,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/7",
+                "episodeList": [
+                    {
+                        "code": "S07E01",
+                        "name": "Fallen (1)",
+                        "firstAired": "June 13, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E02",
+                        "name": "Homecoming (2)",
+                        "firstAired": "June 13, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E03",
+                        "name": "Fragile Balance",
+                        "firstAired": "June 20, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E04",
+                        "name": "Orpheus",
+                        "firstAired": "June 27, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E05",
+                        "name": "Revisions",
+                        "firstAired": "July 11, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E06",
+                        "name": "Lifeboat",
+                        "firstAired": "July 18, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E07",
+                        "name": "Enemy Mine",
+                        "firstAired": "July 25, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E08",
+                        "name": "Space Race",
+                        "firstAired": "August 1, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E09",
+                        "name": "Avenger 2.0",
+                        "firstAired": "August 8, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E10",
+                        "name": "Birthright",
+                        "firstAired": "August 15, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E11",
+                        "name": "Evolution (1)",
+                        "firstAired": "August 22, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E12",
+                        "name": "Evolution (2)",
+                        "firstAired": "January 9, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E13",
+                        "name": "Grace",
+                        "firstAired": "January 16, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E14",
+                        "name": "Fallout",
+                        "firstAired": "January 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E15",
+                        "name": "Chimera",
+                        "firstAired": "January 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E16",
+                        "name": "Death Knell",
+                        "firstAired": "February 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E17",
+                        "name": "Heroes (1)",
+                        "firstAired": "February 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E18",
+                        "name": "Heroes (2)",
+                        "firstAired": "February 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E19",
+                        "name": "Resurrection",
+                        "firstAired": "February 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E20",
+                        "name": "Inauguration",
+                        "firstAired": "March 5, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S07E21",
+                        "name": "Lost City season finale",
+                        "firstAired": "March 12, 2004 SYFY",
+                        "runtime": 82
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 8,
+                "from": "July 2004",
+                "to": "March 2005",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/8",
+                "episodeList": [
+                    {
+                        "code": "S08E01",
+                        "name": "New Order (1)",
+                        "firstAired": "July 9, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E02",
+                        "name": "New Order (2)",
+                        "firstAired": "July 9, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E03",
+                        "name": "Lockdown",
+                        "firstAired": "July 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E04",
+                        "name": "Zero Hour",
+                        "firstAired": "July 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E05",
+                        "name": "Icon",
+                        "firstAired": "August 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E06",
+                        "name": "Avatar",
+                        "firstAired": "August 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E07",
+                        "name": "Affinity",
+                        "firstAired": "August 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E08",
+                        "name": "Covenant",
+                        "firstAired": "August 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E09",
+                        "name": "Sacrifices",
+                        "firstAired": "September 10, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E10",
+                        "name": "Endgame",
+                        "firstAired": "September 17, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E11",
+                        "name": "Gemini",
+                        "firstAired": "January 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E12",
+                        "name": "Prometheus Unbound",
+                        "firstAired": "January 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E13",
+                        "name": "It's Good To Be King",
+                        "firstAired": "February 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E14",
+                        "name": "Full Alert",
+                        "firstAired": "February 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E15",
+                        "name": "Citizen Joe",
+                        "firstAired": "February 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E16",
+                        "name": "Reckoning (1)",
+                        "firstAired": "February 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E17",
+                        "name": "Reckoning (2)",
+                        "firstAired": "March 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E18",
+                        "name": "Threads",
+                        "firstAired": "March 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E19",
+                        "name": "Moebius (1)",
+                        "firstAired": "March 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S08E20",
+                        "name": "Moebius (2) season finale",
+                        "firstAired": "March 25, 2005 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 9,
+                "from": "July 2005",
+                "to": "March 2006",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/9",
+                "episodeList": [
+                    {
+                        "code": "S09E01",
+                        "name": "Avalon (1)",
+                        "firstAired": "July 15, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E02",
+                        "name": "Avalon (2)",
+                        "firstAired": "July 22, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E03",
+                        "name": "Origin",
+                        "firstAired": "July 29, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E04",
+                        "name": "The Ties That Bind",
+                        "firstAired": "August 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E05",
+                        "name": "The Powers That Be",
+                        "firstAired": "August 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E06",
+                        "name": "Beachhead",
+                        "firstAired": "August 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E07",
+                        "name": "Ex Deus Machina",
+                        "firstAired": "August 26, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E08",
+                        "name": "Babylon",
+                        "firstAired": "September 9, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E09",
+                        "name": "Prototype",
+                        "firstAired": "September 16, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E10",
+                        "name": "The Fourth Horseman (1)",
+                        "firstAired": "September 16, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E11",
+                        "name": "The Fourth Horseman (2)",
+                        "firstAired": "January 6, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E12",
+                        "name": "Collateral Damage",
+                        "firstAired": "January 13, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E13",
+                        "name": "Ripple Effect",
+                        "firstAired": "January 20, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E14",
+                        "name": "Stronghold",
+                        "firstAired": "January 27, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E15",
+                        "name": "Ethon",
+                        "firstAired": "February 3, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E16",
+                        "name": "Off the Grid",
+                        "firstAired": "February 10, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E17",
+                        "name": "The Scourge",
+                        "firstAired": "February 17, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E18",
+                        "name": "Arthur's Mantle",
+                        "firstAired": "February 24, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E19",
+                        "name": "Crusade",
+                        "firstAired": "March 3, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S09E20",
+                        "name": "Camelot season finale",
+                        "firstAired": "March 10, 2006 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 10,
+                "from": "July 2006",
+                "to": "July 2008",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/dvd/10",
+                "episodeList": [
+                    {
+                        "code": "S10E01",
+                        "name": "Flesh and Blood",
+                        "firstAired": "July 14, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E02",
+                        "name": "Morpheus",
+                        "firstAired": "July 21, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E03",
+                        "name": "The Pegasus Project",
+                        "firstAired": "July 28, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E04",
+                        "name": "Insiders",
+                        "firstAired": "August 4, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E05",
+                        "name": "Uninvited",
+                        "firstAired": "August 11, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E06",
+                        "name": "200",
+                        "firstAired": "August 18, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E07",
+                        "name": "Counterstrike",
+                        "firstAired": "August 25, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E08",
+                        "name": "Memento Mori",
+                        "firstAired": "September 8, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E09",
+                        "name": "Company of Thieves",
+                        "firstAired": "September 15, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E10",
+                        "name": "The Quest (1)",
+                        "firstAired": "September 22, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E11",
+                        "name": "The Quest (2)",
+                        "firstAired": "April 13, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E12",
+                        "name": "Line in the Sand",
+                        "firstAired": "April 20, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E13",
+                        "name": "The Road Not Taken",
+                        "firstAired": "April 27, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E14",
+                        "name": "The Shroud",
+                        "firstAired": "May 4, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E15",
+                        "name": "Bounty",
+                        "firstAired": "May 11, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E16",
+                        "name": "Bad Guys",
+                        "firstAired": "May 18, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E17",
+                        "name": "Talion",
+                        "firstAired": "June 1, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E18",
+                        "name": "Family Ties",
+                        "firstAired": "June 8, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E19",
+                        "name": "Dominion",
+                        "firstAired": "June 15, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E20",
+                        "name": "Unending series finale",
+                        "firstAired": "June 22, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S10E21",
+                        "name": "Stargate: The Ark of Truth",
+                        "firstAired": "March 11, 2008 SYFY",
+                        "runtime": 100
+                    },
+                    {
+                        "code": "S10E22",
+                        "name": "Stargate: Continuum series finale",
+                        "firstAired": "July 29, 2008 SYFY",
+                        "runtime": 100
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "July 1997",
+                "to": "July 2008",
+                "episodes": 213,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-sg-1/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Children of the Gods",
+                        "firstAired": "July 27, 1997 Paramount+ with Showtime",
+                        "runtime": 90
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "The Enemy Within",
+                        "firstAired": "August 1, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Emancipation",
+                        "firstAired": "August 8, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Broca Divide",
+                        "firstAired": "August 15, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The First Commandment",
+                        "firstAired": "August 22, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Cold Lazarus",
+                        "firstAired": "August 29, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "The Nox",
+                        "firstAired": "September 12, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Brief Candle",
+                        "firstAired": "September 19, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Thor's Hammer",
+                        "firstAired": "September 26, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "The Torment of Tantalus",
+                        "firstAired": "October 3, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Bloodlines",
+                        "firstAired": "October 10, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Fire and Water",
+                        "firstAired": "October 17, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Hathor",
+                        "firstAired": "October 24, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Singularity",
+                        "firstAired": "October 31, 1997 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Cor-Ai",
+                        "firstAired": "January 23, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Enigma",
+                        "firstAired": "January 30, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Solitudes",
+                        "firstAired": "February 6, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Tin Man",
+                        "firstAired": "February 13, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "There But For the Grace of God",
+                        "firstAired": "February 20, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Politics (1)",
+                        "firstAired": "February 27, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Within the Serpent's Grasp (2) season finale",
+                        "firstAired": "March 6, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "The Serpent's Lair (3)",
+                        "firstAired": "June 26, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "In the Line of Duty",
+                        "firstAired": "July 3, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Prisoners",
+                        "firstAired": "July 10, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "The Gamekeeper",
+                        "firstAired": "July 17, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "Need",
+                        "firstAired": "July 24, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Thor's Chariot",
+                        "firstAired": "July 31, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "Message in a Bottle",
+                        "firstAired": "August 7, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Family",
+                        "firstAired": "August 14, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "Secrets",
+                        "firstAired": "August 21, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E31",
+                        "name": "Bane",
+                        "firstAired": "September 25, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E32",
+                        "name": "The Tok'ra (1)",
+                        "firstAired": "October 2, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E33",
+                        "name": "The Tok'ra (2)",
+                        "firstAired": "October 9, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E34",
+                        "name": "Spirits",
+                        "firstAired": "October 23, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E35",
+                        "name": "Touchstone",
+                        "firstAired": "October 30, 1998 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E36",
+                        "name": "The Fifth Race",
+                        "firstAired": "January 22, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E37",
+                        "name": "A Matter of Time",
+                        "firstAired": "January 29, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E38",
+                        "name": "Holiday",
+                        "firstAired": "February 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E39",
+                        "name": "Serpent's Song",
+                        "firstAired": "February 12, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E40",
+                        "name": "One False Step",
+                        "firstAired": "February 19, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E41",
+                        "name": "Show and Tell",
+                        "firstAired": "February 26, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E42",
+                        "name": "1969",
+                        "firstAired": "March 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E43",
+                        "name": "Out of Mind (1) season finale",
+                        "firstAired": "March 12, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E44",
+                        "name": "Into the Fire (2)",
+                        "firstAired": "June 25, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E45",
+                        "name": "Seth",
+                        "firstAired": "July 2, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E46",
+                        "name": "Fair Game",
+                        "firstAired": "July 9, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E47",
+                        "name": "Legacy",
+                        "firstAired": "July 16, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E48",
+                        "name": "Learning Curve",
+                        "firstAired": "July 23, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E49",
+                        "name": "Point of View",
+                        "firstAired": "July 30, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E50",
+                        "name": "Deadman Switch",
+                        "firstAired": "August 6, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E51",
+                        "name": "Demons",
+                        "firstAired": "August 13, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E52",
+                        "name": "Rules of Engagement",
+                        "firstAired": "August 20, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E53",
+                        "name": "Forever in a Day",
+                        "firstAired": "October 8, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E54",
+                        "name": "Past and Present",
+                        "firstAired": "October 15, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E55",
+                        "name": "Jolinar's Memories (1)",
+                        "firstAired": "October 22, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E56",
+                        "name": "The Devil You Know (2)",
+                        "firstAired": "October 29, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E57",
+                        "name": "Foothold",
+                        "firstAired": "November 5, 1999 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E58",
+                        "name": "Pretense",
+                        "firstAired": "January 21, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E59",
+                        "name": "Urgo",
+                        "firstAired": "January 28, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E60",
+                        "name": "A Hundred Days",
+                        "firstAired": "February 4, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E61",
+                        "name": "Shades of Grey",
+                        "firstAired": "February 11, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E62",
+                        "name": "New Ground",
+                        "firstAired": "February 18, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E63",
+                        "name": "Maternal Instinct",
+                        "firstAired": "February 25, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E64",
+                        "name": "Crystal Skull",
+                        "firstAired": "March 3, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E65",
+                        "name": "Nemesis (1) season finale",
+                        "firstAired": "March 10, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E66",
+                        "name": "Small Victories (2)",
+                        "firstAired": "June 30, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E67",
+                        "name": "The Other Side",
+                        "firstAired": "July 7, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E68",
+                        "name": "Upgrades",
+                        "firstAired": "July 14, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E69",
+                        "name": "Crossroads",
+                        "firstAired": "July 21, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E70",
+                        "name": "Divide and Conquer",
+                        "firstAired": "July 28, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E71",
+                        "name": "Window of Opportunity",
+                        "firstAired": "August 4, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E72",
+                        "name": "Watergate",
+                        "firstAired": "August 11, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E73",
+                        "name": "The First Ones",
+                        "firstAired": "August 18, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E74",
+                        "name": "Scorched Earth",
+                        "firstAired": "August 25, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E75",
+                        "name": "Beneath the Surface",
+                        "firstAired": "September 1, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E76",
+                        "name": "Point of No Return",
+                        "firstAired": "September 8, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E77",
+                        "name": "Tangent",
+                        "firstAired": "September 15, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E78",
+                        "name": "The Curse",
+                        "firstAired": "September 22, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E79",
+                        "name": "The Serpent's Venom",
+                        "firstAired": "September 29, 2000 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E80",
+                        "name": "Chain Reaction",
+                        "firstAired": "January 5, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E81",
+                        "name": "2010",
+                        "firstAired": "January 12, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E82",
+                        "name": "Absolute Power",
+                        "firstAired": "January 19, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E83",
+                        "name": "The Light",
+                        "firstAired": "January 26, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E84",
+                        "name": "Prodigy",
+                        "firstAired": "February 2, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E85",
+                        "name": "Entity",
+                        "firstAired": "February 9, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E86",
+                        "name": "Double Jeopardy",
+                        "firstAired": "February 16, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E87",
+                        "name": "Exodus (1) season finale",
+                        "firstAired": "February 23, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E88",
+                        "name": "Enemies (2)",
+                        "firstAired": "June 29, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E89",
+                        "name": "Threshold (3)",
+                        "firstAired": "July 6, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E90",
+                        "name": "Ascension",
+                        "firstAired": "July 13, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E91",
+                        "name": "The Fifth Man",
+                        "firstAired": "July 20, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E92",
+                        "name": "Red Sky",
+                        "firstAired": "July 27, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E93",
+                        "name": "Rite of Passage",
+                        "firstAired": "August 3, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E94",
+                        "name": "Beast of Burden",
+                        "firstAired": "August 10, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E95",
+                        "name": "The Tomb",
+                        "firstAired": "August 17, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E96",
+                        "name": "Between Two Fires",
+                        "firstAired": "August 24, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E97",
+                        "name": "2001",
+                        "firstAired": "August 31, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E98",
+                        "name": "Desperate Measures",
+                        "firstAired": "September 7, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E99",
+                        "name": "Wormhole X-Treme!",
+                        "firstAired": "September 8, 2001 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E100",
+                        "name": "Proving Ground",
+                        "firstAired": "March 8, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E101",
+                        "name": "48 Hours",
+                        "firstAired": "March 15, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E102",
+                        "name": "Summit (1)",
+                        "firstAired": "March 22, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E103",
+                        "name": "Last Stand (2)",
+                        "firstAired": "March 29, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E104",
+                        "name": "Fail Safe",
+                        "firstAired": "April 5, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E105",
+                        "name": "The Warrior",
+                        "firstAired": "April 12, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E106",
+                        "name": "Menace",
+                        "firstAired": "April 26, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E107",
+                        "name": "The Sentinel",
+                        "firstAired": "May 3, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E108",
+                        "name": "Meridian",
+                        "firstAired": "May 10, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E109",
+                        "name": "Revelations season finale",
+                        "firstAired": "May 17, 2002 Paramount+ with Showtime",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E110",
+                        "name": "Redemption (1)",
+                        "firstAired": "June 7, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E111",
+                        "name": "Redemption (2)",
+                        "firstAired": "June 14, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E112",
+                        "name": "Descent",
+                        "firstAired": "June 21, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E113",
+                        "name": "Frozen",
+                        "firstAired": "June 28, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E114",
+                        "name": "Nightwalkers",
+                        "firstAired": "July 12, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E115",
+                        "name": "Abyss",
+                        "firstAired": "July 19, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E116",
+                        "name": "Shadow Play",
+                        "firstAired": "July 26, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E117",
+                        "name": "The Other Guys",
+                        "firstAired": "August 2, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E118",
+                        "name": "Allegiance",
+                        "firstAired": "August 9, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E119",
+                        "name": "Cure",
+                        "firstAired": "August 16, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E120",
+                        "name": "Prometheus (1)",
+                        "firstAired": "August 23, 2002 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E121",
+                        "name": "Unnatural Selection (2)",
+                        "firstAired": "January 10, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E122",
+                        "name": "Sight Unseen",
+                        "firstAired": "January 17, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E123",
+                        "name": "Smoke & Mirrors",
+                        "firstAired": "January 24, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E124",
+                        "name": "Paradise Lost",
+                        "firstAired": "January 31, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E125",
+                        "name": "Metamorphosis",
+                        "firstAired": "February 7, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E126",
+                        "name": "Disclosure",
+                        "firstAired": "February 14, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E127",
+                        "name": "Forsaken",
+                        "firstAired": "February 21, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E128",
+                        "name": "The Changeling",
+                        "firstAired": "February 28, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E129",
+                        "name": "Memento",
+                        "firstAired": "March 7, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E130",
+                        "name": "Prophecy",
+                        "firstAired": "March 14, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E131",
+                        "name": "Full Circle season finale",
+                        "firstAired": "March 21, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E132",
+                        "name": "Fallen (1)",
+                        "firstAired": "June 13, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E133",
+                        "name": "Homecoming (2)",
+                        "firstAired": "June 13, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E134",
+                        "name": "Fragile Balance",
+                        "firstAired": "June 20, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E135",
+                        "name": "Orpheus",
+                        "firstAired": "June 27, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E136",
+                        "name": "Revisions",
+                        "firstAired": "July 11, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E137",
+                        "name": "Lifeboat",
+                        "firstAired": "July 18, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E138",
+                        "name": "Enemy Mine",
+                        "firstAired": "July 25, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E139",
+                        "name": "Space Race",
+                        "firstAired": "August 1, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E140",
+                        "name": "Avenger 2.0",
+                        "firstAired": "August 8, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E141",
+                        "name": "Birthright",
+                        "firstAired": "August 15, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E142",
+                        "name": "Evolution (1)",
+                        "firstAired": "August 22, 2003 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E143",
+                        "name": "Evolution (2)",
+                        "firstAired": "January 9, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E144",
+                        "name": "Grace",
+                        "firstAired": "January 16, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E145",
+                        "name": "Fallout",
+                        "firstAired": "January 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E146",
+                        "name": "Chimera",
+                        "firstAired": "January 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E147",
+                        "name": "Death Knell",
+                        "firstAired": "February 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E148",
+                        "name": "Heroes (1)",
+                        "firstAired": "February 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E149",
+                        "name": "Heroes (2)",
+                        "firstAired": "February 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E150",
+                        "name": "Resurrection",
+                        "firstAired": "February 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E151",
+                        "name": "Inauguration",
+                        "firstAired": "March 5, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E152",
+                        "name": "Lost City season finale",
+                        "firstAired": "March 12, 2004 SYFY",
+                        "runtime": 82
+                    },
+                    {
+                        "code": "S01E153",
+                        "name": "New Order",
+                        "firstAired": "July 9, 2004 SYFY",
+                        "runtime": 81
+                    },
+                    {
+                        "code": "S01E154",
+                        "name": "Lockdown",
+                        "firstAired": "July 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E155",
+                        "name": "Zero Hour",
+                        "firstAired": "July 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E156",
+                        "name": "Icon",
+                        "firstAired": "August 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E157",
+                        "name": "Avatar",
+                        "firstAired": "August 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E158",
+                        "name": "Affinity",
+                        "firstAired": "August 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E159",
+                        "name": "Covenant",
+                        "firstAired": "August 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E160",
+                        "name": "Sacrifices",
+                        "firstAired": "September 10, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E161",
+                        "name": "Endgame",
+                        "firstAired": "September 17, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E162",
+                        "name": "Gemini",
+                        "firstAired": "January 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E163",
+                        "name": "Prometheus Unbound",
+                        "firstAired": "January 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E164",
+                        "name": "It's Good To Be King",
+                        "firstAired": "February 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E165",
+                        "name": "Full Alert",
+                        "firstAired": "February 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E166",
+                        "name": "Citizen Joe",
+                        "firstAired": "February 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E167",
+                        "name": "Reckoning (1)",
+                        "firstAired": "February 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E168",
+                        "name": "Reckoning (2)",
+                        "firstAired": "March 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E169",
+                        "name": "Threads",
+                        "firstAired": "March 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E170",
+                        "name": "Moebius (1)",
+                        "firstAired": "March 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E171",
+                        "name": "Moebius (2) season finale",
+                        "firstAired": "March 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E172",
+                        "name": "Avalon (1)",
+                        "firstAired": "July 15, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E173",
+                        "name": "Avalon (2)",
+                        "firstAired": "July 22, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E174",
+                        "name": "Origin",
+                        "firstAired": "July 29, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E175",
+                        "name": "The Ties That Bind",
+                        "firstAired": "August 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E176",
+                        "name": "The Powers That Be",
+                        "firstAired": "August 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E177",
+                        "name": "Beachhead",
+                        "firstAired": "August 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E178",
+                        "name": "Ex Deus Machina",
+                        "firstAired": "August 26, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E179",
+                        "name": "Babylon",
+                        "firstAired": "September 9, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E180",
+                        "name": "Prototype",
+                        "firstAired": "September 16, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E181",
+                        "name": "The Fourth Horseman (1)",
+                        "firstAired": "September 16, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E182",
+                        "name": "The Fourth Horseman (2)",
+                        "firstAired": "January 6, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E183",
+                        "name": "Collateral Damage",
+                        "firstAired": "January 13, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E184",
+                        "name": "Ripple Effect",
+                        "firstAired": "January 20, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E185",
+                        "name": "Stronghold",
+                        "firstAired": "January 27, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E186",
+                        "name": "Ethon",
+                        "firstAired": "February 3, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E187",
+                        "name": "Off the Grid",
+                        "firstAired": "February 10, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E188",
+                        "name": "The Scourge",
+                        "firstAired": "February 17, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E189",
+                        "name": "Arthur's Mantle",
+                        "firstAired": "February 24, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E190",
+                        "name": "Crusade",
+                        "firstAired": "March 3, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E191",
+                        "name": "Camelot season finale",
+                        "firstAired": "March 10, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E192",
+                        "name": "Flesh and Blood",
+                        "firstAired": "July 14, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E193",
+                        "name": "Morpheus",
+                        "firstAired": "July 21, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E194",
+                        "name": "The Pegasus Project",
+                        "firstAired": "July 28, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E195",
+                        "name": "Insiders",
+                        "firstAired": "August 4, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E196",
+                        "name": "Uninvited",
+                        "firstAired": "August 11, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E197",
+                        "name": "200",
+                        "firstAired": "August 18, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E198",
+                        "name": "Counterstrike",
+                        "firstAired": "August 25, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E199",
+                        "name": "Memento Mori",
+                        "firstAired": "September 8, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E200",
+                        "name": "Company of Thieves",
+                        "firstAired": "September 15, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E201",
+                        "name": "The Quest (1)",
+                        "firstAired": "September 22, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E202",
+                        "name": "The Quest (2)",
+                        "firstAired": "April 13, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E203",
+                        "name": "Line in the Sand",
+                        "firstAired": "April 20, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E204",
+                        "name": "The Road Not Taken",
+                        "firstAired": "April 27, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E205",
+                        "name": "The Shroud",
+                        "firstAired": "May 4, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E206",
+                        "name": "Bounty",
+                        "firstAired": "May 11, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E207",
+                        "name": "Bad Guys",
+                        "firstAired": "May 18, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E208",
+                        "name": "Talion",
+                        "firstAired": "June 1, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E209",
+                        "name": "Family Ties",
+                        "firstAired": "June 8, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E210",
+                        "name": "Dominion",
+                        "firstAired": "June 15, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E211",
+                        "name": "Unending series finale",
+                        "firstAired": "June 22, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E212",
+                        "name": "Stargate: The Ark of Truth",
+                        "firstAired": "March 11, 2008 SYFY",
+                        "runtime": 100
+                    },
+                    {
+                        "code": "S01E213",
+                        "name": "Stargate: Continuum series finale",
+                        "firstAired": "July 29, 2008 SYFY",
+                        "runtime": 100
+                    }
+                ]
+            }
+        ]
+    }
+}

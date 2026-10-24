@@ -1,0 +1,1740 @@
+{
+    "seriesTitle": "Star Wars Rebels",
+    "seriesDescription": {
+        "translations": {
+            "ces": {
+                "text": "Seriál plný akce je zasazen mezi Epizodu III a IV, do období, jež se na obrazovkách doposud neobjevilo. Star Wars Povstalci začíná ve chvíli, kdy Impérium pevně svírá Galaxii ve svých rukou a loví zbývající rytíře Jedi. V této chvíli se proti Impériu začne formovat povstalecká Aliance...",
+                "aliases": []
+            },
+            "deu": {
+                "text": "14 Jahre nach \"Episode III\", 5 Jahre vor \"Episode IV\": die Jedi-Ritter gelten als besiegt, das Imperium herrscht über die Galaxis. Doch im Untergrund formiert sich Widerstand. Der 14-jährige Ezra, der auch ohne Training imstande ist, die Macht zu gebrauchen, findet seinen Weg zu Kanan Jarrus, einem Jedi, der die Anschläge des Imperiums überlebt hat, und seiner Crew an Bord des Raumschiffs \"Ghost\". Diese Gruppe aus Außenseitern hat es sich zur Aufgabe gemacht, gegen die Übermacht und die Unterdrückung zu kämpfen. Eine Rebellion beginnt...",
+                "aliases": [
+                    "Rebels"
+                ]
+            },
+            "eng": {
+                "text": "It is a dark time in the galaxy as the Galactic Empire continues to tighten its grip on the people through oppression and fear, compelling a few brave individuals to band together in resistance. The motley crew of the starship Ghost stands up for those who cannot fight for themselves, providing the spark to ignite a rebellion.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Située entre \"La Revanche des Sith\" (Episode III) et \"La Guerre des Etoiles\" (Episode IV), \"Star Wars Rebels\" se déroule à une époque où l'Empire tente d'asseoir son emprise sur l'univers, traquant jusqu'au fin fond de tous les systèmes les derniers chevaliers Jedi et les membres de la résistance...",
+                "aliases": [
+                    "Star Wars : Rebelles"
+                ]
+            },
+            "heb": {
+                "text": "\"זו תקופה אפלה בגלקסיה, עת שהאימפריה הגלקטית המרושעת מחזקת את שליטתה בעולמות נוספים. עם תחילתה של הסדרה, כוחות האימפריה כבשו כוכב לכת מרוחק, תוך הפעלת שלטון אכזר והריסת חיי כל התושבים. הצוות החכם והמשונה של החללית \"רוח הרפאים\" הם בין הבודדים שנותרו אמיצים דיו כדי להתנגד לאימפריה. יחדיו, קבוצת אספסוף זו תתמודד מול רשעים מאיימים חדשים, תפגוש אויבים מגוונים וצבעוניים, ותצא להרפתקאות מרגשות, תוך שחברי הקבוצה יהפכו כולם לגיבורים עם היכולת להצית את אש המרד.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "Amikor a galaxisban a félelem az úr, egy lázadás lobban lángra. Pont ekkor érkezik egy ifjú, Ezra. Amint megérkezik csodálni kezdi a harcot, és a lázadóknak drukkol, majd később belép a harcba. Amint Kanan, egy Jedi felfigyel rá, gyámsága alá veszi, ám ezzel a sith Inkvizítor is felfigyel rá.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "Star Wars Rebels porta avanti l'epica tradizione della leggendaria saga di Star Wars con nuove elettrizzanti avventure ricche di azione. Sono tempi difficili nella galassia, mentre il malvagio Impero Galattico stringe la presa su tutti i pianeti, uno dopo l'altro. All'inizio della serie, le forze imperiali hanno occupato un pianeta remoto e lo governano con pugno di ferro, rovinando le vite dei suoi abitanti. Lo scaltro e variegato equipaggio della nave stellare Ghost è composto da alcuni tra i pochi che hanno il coraggio di affrontare l'Impero. Insieme, questo eterogeneo gruppo dovrà scontrarsi con pericolosi nuovi cattivi e pittoreschi avversari e intraprenderà emozionanti avventure che porteranno ciascun componente a distinguersi come eroe in grado in dare il via a una ribellione.",
+                "aliases": []
+            },
+            "kor": {
+                "text": "스타워즈 반란군의 탄생을 목격하라! 에즈라와 그의 동료들의 흥미진진한 영웅 이야기",
+                "aliases": []
+            },
+            "nld": {
+                "text": "Het is een donkere tijd in het sterrenstelsel en de keizerlijke troepen heersen met ijzeren vuist. Een klein clubje rebellen is dapper genoeg om de strijd aan de gaan tegen het machtige keizerrijk. Samen nemen de rebellen het op tegen gevaarlijke tegenstanders, beleven spannende avonturen en ontpoppen zich tot degrootste helden. Maak kennis met Ezra, Kanan, Hera, Zeb, Sabine en de altijd mopperende en luie droid Chopper. Sluit jij je ook aan bij Rebels?",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Rebelianci kontynuują epicką tradycję legendarnej sagi Gwiezdne wojny z całkiem nowymi, ekscytującymi i wypełnionymi akcją przygodami. To mroczne czasy w galaktyce, ponieważ złe Imperium Galaktyczne zaciska pięść na kolejnych światach. W chwili rozpoczęcia serii, imperialne siły dokonują okupacji odległej planety, rządząc żelazną pięścią i rujnując życia ludzi. Lecz istnieje kilku wybranych na tyle odważnych, aby stanąć naprzeciw niezliczonym szturmowcom i myśliwcom TIE Imperium: mądra i różnorodna załoga statku Ghost. Wspólnie, ta zróżnicowana grupa stanie twarzą w twarz z przerażającymi, nowymi złoczyńcami, przeżyje porywające przygody, a jej członkowie staną się bohaterami.",
+                "aliases": []
+            },
+            "por": {
+                "text": "Vivem-se tempos negros na galáxia, pois o Império Galáctico continua a apertar o controlo das pessoas através da opressão e do medo, levando alguns indivíduos corajosos a reunirem-se e a resistirem. A tripulação heterogénea da nave espacial Espírito luta por todos aqueles que não se podem defender sozinhos, fornecendo a faísca que dá início à rebelião.",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Миновало 14 лет с того момента, как канцлер Палпатин отдал \"Приказ 66\", спровоцировавший Великое истребление джедаев. Кейнан Джаррус, один из последних адептов светлой стороны Силы, вынужден объединить усилия с молодым воришкой, опытным головорезом, экспертом по взрывчатке, ворчливым дроидом и пилотом космического корабля «Призрак» в борьбе против Империи. Группе изгоев предстоит стать новой надеждой жителей галактики и дать отпор Инквизитору, идущему по пятам последних представителей Ордена джедаев.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Star Wars Rebels retoma la tradición épica de la legendaria saga Star Wars con nuevas y emocionantes aventuras llenas de acción. La galaxia está pasando por un período oscuro cuando el maligno Imperio Galáctico acota el cerco de su poder de un mundo a otro. Cuando comienza la serie, las fuerzas imperiales han ocupado un planeta remoto que gobiernan con puño de hierro, amargándoles la existencia a sus habitantes. El variado grupo de inteligentes tripulantes a bordo de la nave estelar el Espíritu está entre un grupo selecto que cuenta con la valentía necesaria para enfrentarse al Imperio. Juntos, los miembros de este dispar grupo se enfrentarán a nuevos y amenazantes enemigos, se encontrarán con adversarios variopintos y se embarcarán en apasionantes aventuras para convertirse en héroes capaces de iniciar una rebelión.",
+                "aliases": []
+            },
+            "swe": {
+                "text": "Den exekutiva producenten George Lucas och LucasFilm Animation presenterar denna banbrytande serie som utspelar sig cirka 5 BBY, tiden mellan filmerna Star Wars Episode III: Revenge of the Sith och Star Wars Episode IV: A New Hope. Serien kommer att följa en brokig skar rebeller - besättningen på rymdskeppet Ghost - och deras kamp mot det Galaktiska Imperiets förtryck. Ghosts besättning består av Twi’lek piloten Hera Syndulla, den utomjordiska hårdingen Zeb Orrelios, Mandalorianen Sabine Wren, astromechdroiden Chopper, den före detta Jedi-riddaren Kanan Jarrus, och den tonårige bedragaren Ezra Bridger. Det första ämnet i Star Wars Rebels kommer att vara att utforska upprinnelsen till Rebellalliansen.",
+                "aliases": []
+            },
+            "tur": {
+                "text": "CGI teknolojisiyle hazırlanan animasyonun yapımcılığını Lucasfilm ve Lucasfilm Animation üstleniyor. Yayıncı kanal ise geçen yıl Lucasfilm’i satın alan Disney’in Disney XD’si. Bu sonbaharda izleyeceğimiz dizi, hikaye olarak 2005 ve 1977 filmlerinin arasındaki zamanda geçecek. Bu zamanlarda, Galaktik İmparatorluk ele geçirdiği kontrolü arttırarak Galaksi’deki kalan tüm Jedi savaşçılarını yakalamaya çalışıyor. Bu esnada, İmparatorluk’a karşı acemice bir başkaldırı da şekillenmekte",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Rebeldes de Star Wars Situado entre os eventos de Star Wars: Episódios III e IV, a história se desenrola durante um período sombrio quando o maligno Império Galáctico está apertando seu controle de poder sobre a galáxia. As forças imperiais ocuparam um planeta remoto e estão arruinando a vida de seu povo. A tripulação heterogênea, mas inteligente da nave estelar Ghost - cowboy Jedi Kanan, as piloto Hera, o adolescente Ezra, o \"musculoso\" Zeb, o guerreiro Sabine e o rabugento astromecânico droide Chopper - estão entre alguns poucos selecionados que são corajosos o suficiente para ficar contra o Império. Juntos, eles enfrentarão novos vilões ameaçadores, encontrarão adversários coloridos, embarcarão em aventuras emocionantes e se tornarão heróis com o poder de desencadear uma rebelião.",
+                "aliases": []
+            },
+            "jpn": {
+                "text": "遠い昔、はるかかなたの銀河系で…。 闇の帝国が、すべてを支配していた時代。少年エズラは、粛正を逃れたジェダイ率いる5人のヒーローたちと出会い、銀河の自由を取り戻すため帝国に立ち向かう。 戦いが続く中、彼らの制圧に手を焼く帝国は、強力な援軍として遂にシスを送り込んでいく。そして、エズラに秘められたフォースが目覚めていく…。 宇宙船ゴーストで数々の星をめぐり、ライトセーバーを手に戦うエズラと仲間たちは、帝国から銀河を救えるのか！",
+                "aliases": []
+            },
+            "ara": {
+                "text": "يطلق طاقم \"غوست\" شرارة تشعل نار التمرد",
+                "aliases": []
+            },
+            "ell": {
+                "text": "Είναι μια σκοτεινή εποχή για τον Γαλαξία, καθώς η Γαλαξιακή Αυτοκρατορία συνεχίζει να ελέγχει τον λαό μέσω της καταπίεσης και του φόβου, ωθώντας μερικούς γενναίους να ενώσουν τις δυνάμεις τους και να αντισταθούν. Το ετερόκλητο πλήρωμα του αστρόπλοιου Γκοστ υπερασπίζεται αυτούς που δεν μπορούν να αγωνιστούν οι ίδιοι, ανάβοντας τη σπίθα που θα πυροδοτήσει μια επανάσταση.",
+                "aliases": []
+            },
+            "fas": {
+                "text": "داستان سریال پس از سقوط امپراتوری اتفاق می‌افتد، این سریال به دنبال شوالیه جدی سابق آهسوکا تانو است که در حال بررسی یک تهدید در حال ظهور برای یک کهکشان آسیب‌پذیر است.",
+                "aliases": []
+            },
+            "bul": {
+                "text": "Действието се развива между събитията от \"Междузвездни войни: Епизоди III и IV\" и е в мрачно време, когато злата Галактическа империя затяга властта си над галактиката. Имперските сили са окупирали отдалечена планета и съсипват живота на нейните жители. Пъстрият, но умен екипаж на звездолета \"Призрак\" - каубоят джедай Канан, пилотът-ас Хера, уличният тийнейджър Езра, \"мускулът\" Зеб, огнената войнственост Сабина и капризният стар астромеханичен дроид Чопър - е сред малцината избрани, които са достатъчно смели, за да се изправят срещу Империята. Заедно те ще се изправят срещу заплашителни нови злодеи, ще се сблъскат с колоритни противници, ще се впуснат във вълнуващи приключения и ще се превърнат в герои със силата да разпалят бунт.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Galaksissa on synkät ajat, sillä Galaktinen Imperiumi kiristää yhä otettaan kansasta sorron ja pelon kautta, mikä saa muutaman rohkean yksilön yhdistämään voimansa ja nousemaan vastarintaan. Avaruusalus Ghostin sekalainen miehistö puolustaa heikkoja ja sytyttää kipinän kapinaan aloittamiseen.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "283468",
+        "Status": "Ended",
+        "First Aired": "October 13, 2014",
+        "Recent": "March 5, 2018",
+        "Airs": "Monday, at 9:00pm",
+        "Network": "Disney XD",
+        "Average Runtime": "22 minutes",
+        "Genres": "Action Adventure Animation Children Drama Family Fantasy Mystery Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "IMDB TMS (Zap2It) TheMovieDB.com",
+        "Episode Screenshot Format": "16:9 Screencap",
+        "Favorited": "This series has been favorited by 1185 people.",
+        "Created": "July 6, 2014 by Imzadi admin admin",
+        "Modified": "September 19, 2026 by OblivionOcean"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Taylor Gray",
+                "playsAs": "Ezra Bridger"
+            },
+            {
+                "name": "Vanessa Marshall",
+                "playsAs": "Hera Syndulla"
+            },
+            {
+                "name": "Freddie Prinze Jr.",
+                "playsAs": "Kanan Jarrus"
+            },
+            {
+                "name": "Tiya Sircar",
+                "playsAs": "Sabine Wren"
+            },
+            {
+                "name": "Steve Blum",
+                "playsAs": "Zeb Orrelios"
+            },
+            {
+                "name": "Ashley Eckstein",
+                "playsAs": "Ahsoka Tano"
+            },
+            {
+                "name": "David Oyelowo",
+                "playsAs": "Agent Kallus"
+            },
+            {
+                "name": "Jason Isaacs",
+                "playsAs": "The Inquisitor"
+            },
+            {
+                "name": "Dee Bradley Baker",
+                "playsAs": "Rex"
+            },
+            {
+                "name": "Keone Young",
+                "playsAs": "Commander Sato"
+            },
+            {
+                "name": "Lars Mikkelsen",
+                "playsAs": "Grand Admiral Thrawn"
+            },
+            {
+                "name": "Mary Elizabeth McGlynn",
+                "playsAs": "Governor Pryce"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Dave Filoni",
+                "numberOfEpisodes": 65,
+                "dates": "01/05/2015 - 03/05/2018"
+            },
+            {
+                "name": "Bosco Ng",
+                "numberOfEpisodes": 16,
+                "dates": "06/20/2015 - 03/05/2018"
+            },
+            {
+                "name": "Steward Lee",
+                "numberOfEpisodes": 16,
+                "dates": "10/03/2014 - 02/26/2018"
+            },
+            {
+                "name": "Saul Ruiz",
+                "numberOfEpisodes": 12,
+                "dates": "11/04/2015 - 03/05/2018"
+            },
+            {
+                "name": "Mel Zwyer",
+                "numberOfEpisodes": 8,
+                "dates": "12/09/2015 - 02/18/2017"
+            },
+            {
+                "name": "Sergio Páez",
+                "numberOfEpisodes": 7,
+                "dates": "10/14/2015 - 03/05/2018"
+            },
+            {
+                "name": "Brad Rau",
+                "numberOfEpisodes": 5,
+                "dates": "06/20/2015 - 02/24/2016"
+            },
+            {
+                "name": "Steven G. Lee",
+                "numberOfEpisodes": 5,
+                "dates": "10/03/2014 - 02/02/2015"
+            },
+            {
+                "name": "Justin Ridge",
+                "numberOfEpisodes": 3,
+                "dates": "02/23/2015 - 03/25/2017"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Henry Gilroy",
+                "numberOfEpisodes": 19,
+                "dates": "10/27/2014 - 03/05/2018"
+            },
+            {
+                "name": "Steven Melching",
+                "numberOfEpisodes": 14,
+                "dates": "10/21/2015 - 03/05/2018"
+            },
+            {
+                "name": "Matt Michnovetz",
+                "numberOfEpisodes": 11,
+                "dates": "10/14/2015 - 11/06/2017"
+            },
+            {
+                "name": "Simon Kinberg",
+                "numberOfEpisodes": 9,
+                "dates": "10/03/2014 - 03/05/2018"
+            },
+            {
+                "name": "Greg Weisman",
+                "numberOfEpisodes": 7,
+                "dates": "10/13/2014 - 02/09/2015"
+            },
+            {
+                "name": "Kevin Hopps",
+                "numberOfEpisodes": 7,
+                "dates": "10/20/2014 - 02/24/2016"
+            },
+            {
+                "name": "Christopher L. Yost",
+                "numberOfEpisodes": 5,
+                "dates": "11/05/2016 - 02/19/2018"
+            },
+            {
+                "name": "Gary Whitta",
+                "numberOfEpisodes": 4,
+                "dates": "10/08/2016 - 10/23/2017"
+            },
+            {
+                "name": "Brent Friedman",
+                "numberOfEpisodes": 3,
+                "dates": "10/22/2016 - 03/11/2017"
+            },
+            {
+                "name": "Bill Wolkoff",
+                "numberOfEpisodes": 3,
+                "dates": "11/04/2015 - 02/10/2016"
+            },
+            {
+                "name": "Kiri Hart",
+                "numberOfEpisodes": 3,
+                "dates": "03/05/2018"
+            },
+            {
+                "name": "Nicole Dubuc",
+                "numberOfEpisodes": 3,
+                "dates": "10/15/2016 - 02/25/2017"
+            },
+            {
+                "name": "Charles Murray",
+                "numberOfEpisodes": 2,
+                "dates": "01/05/2015 - 02/23/2015"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "October 2014",
+                "to": "March 2015",
+                "episodes": 13,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Droids in Distress",
+                        "firstAired": "October 13, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Fighter Flight",
+                        "firstAired": "October 20, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Rise of the Old Masters",
+                        "firstAired": "October 27, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Breaking Ranks",
+                        "firstAired": "November 3, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Out of Darkness",
+                        "firstAired": "November 10, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Empire Day (1)",
+                        "firstAired": "November 17, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Gathering Forces (2)",
+                        "firstAired": "November 24, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Path of the Jedi",
+                        "firstAired": "January 5, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Idiot's Array",
+                        "firstAired": "January 19, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Vision of Hope",
+                        "firstAired": "February 2, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Call to Action",
+                        "firstAired": "February 9, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Rebel Resolve (1)",
+                        "firstAired": "February 23, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Fire Across the Galaxy (2) season finale",
+                        "firstAired": "March 2, 2015 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "October 2015",
+                "to": "March 2016",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Lost Commanders (1)",
+                        "firstAired": "October 14, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Relics of the Old Republic (2)",
+                        "firstAired": "October 21, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Always Two There Are",
+                        "firstAired": "October 28, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Brothers of the Broken Horn",
+                        "firstAired": "November 4, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Wings of the Master",
+                        "firstAired": "November 11, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Blood Sisters",
+                        "firstAired": "November 18, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Stealth Strike",
+                        "firstAired": "November 25, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "The Future of the Force",
+                        "firstAired": "December 2, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Legacy",
+                        "firstAired": "December 9, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "A Princess on Lothal",
+                        "firstAired": "January 20, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "The Protector of Concord Dawn",
+                        "firstAired": "January 27, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Legends of the Lasat",
+                        "firstAired": "February 3, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "The Call",
+                        "firstAired": "February 10, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Homecoming",
+                        "firstAired": "February 17, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Honorable Ones",
+                        "firstAired": "February 24, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "Shroud of Darkness",
+                        "firstAired": "March 2, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "The Forgotten Droid",
+                        "firstAired": "March 16, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "The Mystery of Chopper Base",
+                        "firstAired": "March 23, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Twilight of the Apprentice (1)",
+                        "firstAired": "March 30, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Twilight of the Apprentice (2) season finale",
+                        "firstAired": "March 30, 2016 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "September 2016",
+                "to": "March 2017",
+                "episodes": 21,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Steps Into Shadow",
+                        "firstAired": "September 24, 2016 Disney XD",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "The Holocrons of Fate",
+                        "firstAired": "October 1, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Antilles Extraction",
+                        "firstAired": "October 8, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Hera's Heroes",
+                        "firstAired": "October 15, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "The Last Battle",
+                        "firstAired": "October 22, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Imperial Supercommandos",
+                        "firstAired": "November 5, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Iron Squadron",
+                        "firstAired": "November 19, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "The Wynkahthu Job",
+                        "firstAired": "November 26, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "An Inside Man",
+                        "firstAired": "December 3, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Visions and Voices",
+                        "firstAired": "December 10, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Ghosts of Geonosis (1)",
+                        "firstAired": "January 7, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Ghosts of Geonosis (2)",
+                        "firstAired": "January 7, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Warhead",
+                        "firstAired": "January 14, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Trials of the Darksaber",
+                        "firstAired": "January 21, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Legacy of Mandalore",
+                        "firstAired": "February 18, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Through Imperial Eyes",
+                        "firstAired": "February 25, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "Secret Cargo",
+                        "firstAired": "March 4, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Double Agent Droid",
+                        "firstAired": "March 11, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Twin Suns",
+                        "firstAired": "March 18, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "Zero Hour (1)",
+                        "firstAired": "March 25, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Zero Hour (2) season finale",
+                        "firstAired": "March 25, 2017 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 4,
+                "from": "October 2017",
+                "to": "March 2018",
+                "episodes": 16,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/official/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Heroes of Mandalore (1)",
+                        "firstAired": "October 16, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Heroes of Mandalore (2)",
+                        "firstAired": "October 16, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "In the Name of the Rebellion (1)",
+                        "firstAired": "October 23, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "In the Name of the Rebellion (2)",
+                        "firstAired": "October 23, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "The Occupation",
+                        "firstAired": "October 30, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Flight of the Defender",
+                        "firstAired": "October 30, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Kindred",
+                        "firstAired": "November 6, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Crawler Commandeers",
+                        "firstAired": "November 6, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Rebel Assault",
+                        "firstAired": "November 13, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Jedi Night",
+                        "firstAired": "February 19, 2018 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "DUME",
+                        "firstAired": "February 19, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Wolves and a Door",
+                        "firstAired": "February 26, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "A World Between Worlds",
+                        "firstAired": "February 26, 2018 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "A Fool's Hope",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Family Reunion – and Farewell (1)",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 25
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Family Reunion – and Farewell (2) series finale",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 25
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "October 2014",
+                "to": "March 2015",
+                "episodes": 15,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Spark of Rebellion (1)",
+                        "firstAired": "October 3, 2014 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Spark of Rebellion (2)",
+                        "firstAired": "October 3, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Droids in Distress",
+                        "firstAired": "October 13, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Fighter Flight",
+                        "firstAired": "October 20, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Rise of the Old Masters",
+                        "firstAired": "October 27, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Breaking Ranks",
+                        "firstAired": "November 3, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Out of Darkness",
+                        "firstAired": "November 10, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Empire Day (1)",
+                        "firstAired": "November 17, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Gathering Forces (2)",
+                        "firstAired": "November 24, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Path of the Jedi",
+                        "firstAired": "January 5, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Idiot's Array",
+                        "firstAired": "January 19, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Vision of Hope",
+                        "firstAired": "February 2, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Call to Action",
+                        "firstAired": "February 9, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Rebel Resolve (1)",
+                        "firstAired": "February 23, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Fire Across the Galaxy (2) season finale",
+                        "firstAired": "March 2, 2015 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "June 2015",
+                "to": "March 2016",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Siege of Lothal (1)",
+                        "firstAired": "June 20, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "The Siege of Lothal (2)",
+                        "firstAired": "June 20, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "The Lost Commanders (1)",
+                        "firstAired": "October 14, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Relics of the Old Republic (2)",
+                        "firstAired": "October 21, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Always Two There Are",
+                        "firstAired": "October 28, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Brothers of the Broken Horn",
+                        "firstAired": "November 4, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Wings of the Master",
+                        "firstAired": "November 11, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Blood Sisters",
+                        "firstAired": "November 18, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Stealth Strike",
+                        "firstAired": "November 25, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Future of the Force",
+                        "firstAired": "December 2, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Legacy",
+                        "firstAired": "December 9, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "A Princess on Lothal",
+                        "firstAired": "January 20, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "The Protector of Concord Dawn",
+                        "firstAired": "January 27, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Legends of the Lasat",
+                        "firstAired": "February 3, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Call",
+                        "firstAired": "February 10, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "Homecoming",
+                        "firstAired": "February 17, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "The Honorable Ones",
+                        "firstAired": "February 24, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Shroud of Darkness",
+                        "firstAired": "March 2, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "The Forgotten Droid",
+                        "firstAired": "March 16, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "The Mystery of Chopper Base",
+                        "firstAired": "March 23, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Twilight of the Apprentice (1)",
+                        "firstAired": "March 30, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Twilight of the Apprentice (2) season finale",
+                        "firstAired": "March 30, 2016 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "September 2016",
+                "to": "March 2017",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Steps Into Shadow (1)",
+                        "firstAired": "September 24, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Steps Into Shadow (2)",
+                        "firstAired": "September 24, 2016 Disney XD",
+                        "runtime": 25
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Holocrons of Fate",
+                        "firstAired": "October 1, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "The Antilles Extraction",
+                        "firstAired": "October 8, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Hera's Heroes",
+                        "firstAired": "October 15, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "The Last Battle",
+                        "firstAired": "October 22, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Imperial Supercommandos",
+                        "firstAired": "November 5, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Iron Squadron",
+                        "firstAired": "November 19, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "The Wynkahthu Job",
+                        "firstAired": "November 26, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "An Inside Man",
+                        "firstAired": "December 3, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Visions and Voices",
+                        "firstAired": "December 10, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Ghosts of Geonosis (1)",
+                        "firstAired": "January 7, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Ghosts of Geonosis (2)",
+                        "firstAired": "January 7, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Warhead",
+                        "firstAired": "January 14, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Trials of the Darksaber",
+                        "firstAired": "January 21, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Legacy of Mandalore",
+                        "firstAired": "February 18, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "Through Imperial Eyes",
+                        "firstAired": "February 25, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Secret Cargo",
+                        "firstAired": "March 4, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Double Agent Droid",
+                        "firstAired": "March 11, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "Twin Suns",
+                        "firstAired": "March 18, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Zero Hour (1)",
+                        "firstAired": "March 25, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "Zero Hour (2) season finale",
+                        "firstAired": "March 25, 2017 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 4,
+                "from": "October 2017",
+                "to": "March 2018",
+                "episodes": 16,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/dvd/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Heroes of Mandalore (1)",
+                        "firstAired": "October 16, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Heroes of Mandalore (2)",
+                        "firstAired": "October 16, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "In the Name of the Rebellion (1)",
+                        "firstAired": "October 23, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "In the Name of the Rebellion (2)",
+                        "firstAired": "October 23, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "The Occupation",
+                        "firstAired": "October 30, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Flight of the Defender",
+                        "firstAired": "October 30, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Kindred",
+                        "firstAired": "November 6, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Crawler Commandeers",
+                        "firstAired": "November 6, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Rebel Assault",
+                        "firstAired": "November 13, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Jedi Night",
+                        "firstAired": "February 19, 2018 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "DUME",
+                        "firstAired": "February 19, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Wolves and a Door",
+                        "firstAired": "February 26, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "A World Between Worlds",
+                        "firstAired": "February 26, 2018 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "A Fool's Hope",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Family Reunion – and Farewell (1)",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 25
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Family Reunion – and Farewell (2) series finale",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 25
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "",
+                "to": "",
+                "episodes": 0,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/absolute/1"
+            }
+        ],
+        "seasons-alternate": [
+            {
+                "orderType": "Streaming",
+                "season": 1,
+                "from": "October 2014",
+                "to": "March 2015",
+                "episodes": 15,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/alternate/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Spark of Rebellion (1)",
+                        "firstAired": "October 3, 2014 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Spark of Rebellion (2)",
+                        "firstAired": "October 3, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Droids in Distress",
+                        "firstAired": "October 13, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Fighter Flight",
+                        "firstAired": "October 20, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Rise of the Old Masters",
+                        "firstAired": "October 27, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Breaking Ranks",
+                        "firstAired": "November 3, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Out of Darkness",
+                        "firstAired": "November 10, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Empire Day (1)",
+                        "firstAired": "November 17, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Gathering Forces (2)",
+                        "firstAired": "November 24, 2014 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Path of the Jedi",
+                        "firstAired": "January 5, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Idiot's Array",
+                        "firstAired": "January 19, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Vision of Hope",
+                        "firstAired": "February 2, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Call to Action",
+                        "firstAired": "February 9, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Rebel Resolve (1)",
+                        "firstAired": "February 23, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Fire Across the Galaxy (2) season finale",
+                        "firstAired": "March 2, 2015 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "Streaming",
+                "season": 2,
+                "from": "June 2015",
+                "to": "March 2016",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/alternate/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Siege of Lothal (1)",
+                        "firstAired": "June 20, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "The Siege of Lothal (2)",
+                        "firstAired": "June 20, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "The Lost Commanders (1)",
+                        "firstAired": "October 14, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Relics of the Old Republic (2)",
+                        "firstAired": "October 21, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Always Two There Are",
+                        "firstAired": "October 28, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Brothers of the Broken Horn",
+                        "firstAired": "November 4, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Wings of the Master",
+                        "firstAired": "November 11, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Blood Sisters",
+                        "firstAired": "November 18, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Stealth Strike",
+                        "firstAired": "November 25, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Future of the Force",
+                        "firstAired": "December 2, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Legacy",
+                        "firstAired": "December 9, 2015 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "A Princess on Lothal",
+                        "firstAired": "January 20, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "The Protector of Concord Dawn",
+                        "firstAired": "January 27, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Legends of the Lasat",
+                        "firstAired": "February 3, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Call",
+                        "firstAired": "February 10, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "Homecoming",
+                        "firstAired": "February 17, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "The Honorable Ones",
+                        "firstAired": "February 24, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Shroud of Darkness",
+                        "firstAired": "March 2, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "The Forgotten Droid",
+                        "firstAired": "March 16, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "The Mystery of Chopper Base",
+                        "firstAired": "March 23, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Twilight of the Apprentice (1)",
+                        "firstAired": "March 30, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Twilight of the Apprentice (2) season finale",
+                        "firstAired": "March 30, 2016 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "Streaming",
+                "season": 3,
+                "from": "September 2016",
+                "to": "March 2017",
+                "episodes": 22,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/alternate/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Steps Into Shadow (1)",
+                        "firstAired": "September 24, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Steps Into Shadow (2)",
+                        "firstAired": "September 24, 2016 Disney XD",
+                        "runtime": 25
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Holocrons of Fate",
+                        "firstAired": "October 1, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "The Antilles Extraction",
+                        "firstAired": "October 8, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Hera's Heroes",
+                        "firstAired": "October 15, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "The Last Battle",
+                        "firstAired": "October 22, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Imperial Supercommandos",
+                        "firstAired": "November 5, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Iron Squadron",
+                        "firstAired": "November 19, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "The Wynkahthu Job",
+                        "firstAired": "November 26, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "An Inside Man",
+                        "firstAired": "December 3, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Visions and Voices",
+                        "firstAired": "December 10, 2016 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Ghosts of Geonosis (1)",
+                        "firstAired": "January 7, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Ghosts of Geonosis (2)",
+                        "firstAired": "January 7, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Warhead",
+                        "firstAired": "January 14, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Trials of the Darksaber",
+                        "firstAired": "January 21, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Legacy of Mandalore",
+                        "firstAired": "February 18, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "Through Imperial Eyes",
+                        "firstAired": "February 25, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Secret Cargo",
+                        "firstAired": "March 4, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Double Agent Droid",
+                        "firstAired": "March 11, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "Twin Suns",
+                        "firstAired": "March 18, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Zero Hour (1)",
+                        "firstAired": "March 25, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "Zero Hour (2) season finale",
+                        "firstAired": "March 25, 2017 Disney XD",
+                        "runtime": 22
+                    }
+                ]
+            },
+            {
+                "orderType": "Streaming",
+                "season": 4,
+                "from": "October 2017",
+                "to": "March 2018",
+                "episodes": 15,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-rebels/seasons/alternate/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Heroes of Mandalore (1)",
+                        "firstAired": "October 16, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Heroes of Mandalore (2)",
+                        "firstAired": "October 16, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "In the Name of the Rebellion (1)",
+                        "firstAired": "October 23, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "In the Name of the Rebellion (2)",
+                        "firstAired": "October 23, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "The Occupation",
+                        "firstAired": "October 30, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Flight of the Defender",
+                        "firstAired": "October 30, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Kindred",
+                        "firstAired": "November 6, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Crawler Commandeers",
+                        "firstAired": "November 6, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Rebel Assault",
+                        "firstAired": "November 13, 2017 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Jedi Night",
+                        "firstAired": "February 19, 2018 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "DUME",
+                        "firstAired": "February 19, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Wolves and a Door",
+                        "firstAired": "February 26, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "A World Between Worlds",
+                        "firstAired": "February 26, 2018 Disney XD",
+                        "runtime": 23
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "A Fool's Hope",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 22
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Family Reunion – and Farewell series finale",
+                        "firstAired": "March 5, 2018 Disney XD",
+                        "runtime": 48
+                    }
+                ]
+            }
+        ]
+    }
+}

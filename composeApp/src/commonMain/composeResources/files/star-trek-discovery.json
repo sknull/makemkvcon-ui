@@ -1,0 +1,1794 @@
+{
+    "seriesTitle": "Star Trek: Discovery",
+    "seriesDescription": {
+        "translations": {
+            "ces": {
+                "text": "Nová loď, nová mise. Příběh první důstojnice Michael Burnhamové, sloužící na hvězdné lodi U.S.S. Discovery, odehrávající se deset let před érou slavného kapitána Kirka a jeho pětileté mise.",
+                "aliases": []
+            },
+            "dan": {
+                "text": "Historien starter omtrent ti år før begivenhederne i den oprindelige Star Trek og følger besætningens rejser på rumskibet USS Discovery og deres opdagelser af nye verdener og civilisationer som i de andre serier men den handler også om en speciel hændelse og begivenhed i Star Trek universet der er blevet fortalt men som aldrig er blevet udforsket.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Nach einem Jahrhundert Ruhe bricht zwischen der Föderation und dem Klingonischen Reich ein Krieg aus, in dessen Zentrum eine entehrte Offizierin der Sternenflotte steht.",
+                "aliases": [
+                    "Star Trek - Discovery"
+                ]
+            },
+            "ell": {
+                "text": "Μετά από έναν αιώνα ειρήνης ξεσπά πόλεμος μεταξύ της Ομοσπονδίας και της Αυτοκρατορίας Κλίνγκον. Κεντρικό πρόσωπο στη διαμάχη ένας ξεπεσμένος αξιωματικός του Αστροστόλου.",
+                "aliases": []
+            },
+            "eng": {
+                "text": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Sixième aventure télévisée, Star Trek : Discovery débarque dans un monde qui n'a plus rien à voir avec celui de la série originale. On se place bien des années avant la saga originale, alors que la Fédération mène une exploration paisible de la galaxie, loin des problèmes. Mais lors d'une patrouille de routine, un vaisseau de Starfleet, l'USS Shenzhou, va rencontrer les Klingons, des aliens hostiles à la paix, qui risque de faire basculer toute la galaxie dans le chaos.",
+                "aliases": []
+            },
+            "heb": {
+                "text": "כעשור לפני אירועי הסדרה המקורית ולאחר מאה שנות שקט פורצת מלחמה בין הפדרציה לאימפריה הקלינגונית, ובמרכז העימות – קצין בצי הכוכבים שאיבד את שמו הטוב.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Deset godina prije kapetana Kirka, Spocka i Enterprisea, svemir su istraživali članovi posade USS Discovery. U novom poglavlju Star Trek priče pratimo avanture prve časnice Zvjezdane flote, Michael Burnham, koja je uvučena u sukob između Federacije i Klingonskog Carstva.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "Körülbelül tíz évvel az eredeti Star Trek eseményei előtt a sorozat a USS Discovery legénységét követi, amikor felfedezik az új világokat és civilizációkat, miközben feltárják a franchise nyomait hordozó kortárs témákat. A teljes szezon történetsora egy incidensről és egy eseményről forog, ami a Star Trek történetében korábban említésre került, de soha nem vizsgálták.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "Ambientata dieci anni prima degli eventi della serie originale di Star Trek, la serie segue gli equipaggi della USS Discovery e della USS Shenzhou nel loro viaggio nello spazio, alla scoperta di nuovi mondi e nuove civiltà. Nella prima stagione il Klingon T'Kuvma cerca di riunire le ventiquattro casate Klingon sotto il suo comando, portando a una guerra fredda tra la sua razza e la Federazione dei pianeti uniti.",
+                "aliases": [
+                    "Star Trek Discovery"
+                ]
+            },
+            "kor": {
+                "text": "한 세기 만에 다시 나타난 클링온 제국. 연방 우주에 전운이 감돈다. 그 한가운데에 놓인 스타플릿 장교들, 불명예의 낙인을 씻어내고 평화를 되찾을 수 있을까.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "De eerste twee seizoenen van de reeks spelen zich af in 2256, tien jaar voor Star Trek: The Original Series en volgt de USS Discovery en haar bemanning op haar avonturen. Het derde seizoen speelt in 3188 en later. In tegenstelling tot de vorige series in de reeks, is de hoofdrolspeler niet de kapitein maar een vrouwelijke luitenant commandant. Daarnaast is het uiterlijk van de Klingon aangepast",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Dziesięć lat przed epoką Kirka, Spocka i statku Enterprise załoga USS Discovery poszukuje w kosmosie nowych światów i istnień. Dla jednego z oficerów Gwiezdnej Floty jest to lekcja zrozumienia odmienności.",
+                "aliases": []
+            },
+            "por": {
+                "text": "Após um século de silêncio, irrompe a guerra entre a Federação e o Império Klingon, com uma oficial da Frota Estelar caída em desgraça no centro do conflito.",
+                "aliases": []
+            },
+            "rus": {
+                "text": "История приключений экипажа корабля звёздного флота USS Discovery NCC-1031. Должное внимание также уделят драмам и конфликтам внутри коллектива корабля. Действие происходит примерно за 10 лет до событий оригинального сериала, и главная героиня, Мишель Бёрнхэм (более известная как Номер Первый) — сводная сестра Спока.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Diez años antes de Kirk, Spock y la Enterprise, la nave USS Discovery descubre nuevos mundos y formas de vida mientras un oficial de la Flota Estelar aprende a comprender un universo extraterrestres.",
+                "aliases": []
+            },
+            "swe": {
+                "text": "Efter ett århundrade av tystnad utbryter krig mellan Federationen och Klingonimperiet, och i centrum för konflikten står en vanärad officer från Stjärnflottan.",
+                "aliases": []
+            },
+            "zho": {
+                "text": "",
+                "aliases": []
+            },
+            "jpn": {
+                "text": "2005年に終了した『スタートレック:エンタープライズ』以降12年ぶり、6作目のドラマシリーズであり、宇宙船を舞台としながら船長以外を主人公とする初のスタートレックシリーズである。ソネクア・マーティン=グリーンが主演を務め、黒人女性が主演する初のシリーズでもある。第1作である『宇宙大作戦』の約10年前に時代が設定されており、2009年から始まった映画版シリーズのケルヴィン・タイムラインとは異なり、プライム・タイムライン（＝テレビドラマシリーズおよび2002年以前の映画版シリーズの時間軸）に沿っている。 シーズン1の第1話のみはCBS All Accessで配信される前にCBSで放送された。15話からなるシーズン1は2017年9月24日から初週は2話、以降は週に1話ずつ配信された。シーズン1は2部構成となっており、9話からなる第1部は2017年11月12日までに配信され、6話からなる第2部は2018年1月7日から2月11日にかけて配信された。2017年10月23日には14話からなるシーズン2の制作が発表され[5]、2019年1月17日より配信された。2019年2月27日に、シーズン3の製作が発表された。なお、アメリカとカナダ以外では、Netflixの独占配信となっているが[6] 、2019年9月28日からはスーパー!ドラマTVでシーズン1が放送されている。 日本語吹替版の監修は、角川スニーカー文庫で刊行された『スタートレック:ディープ・スペース・ナイン』のノベライズを翻訳した丹羽正之が担当している。また、Netflix配信の字幕では、実在の言語に加えてクリンゴン語が選択できるようになっている。",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito. Situado cerca de dez anos antes de “Jornada nas Estrelas: A Série”, Discovery viaja pela galáxia descobrindo novos mundos e formas de vida, enquanto explora os temas atemporais da franquia.",
+                "aliases": []
+            },
+            "zhtw": {
+                "text": "沈寂一世紀後，星際聯邦與克林貢帝國再度爆發戰爭，一位名譽掃地的星艦軍官則置身風暴中心。",
+                "aliases": []
+            },
+            "yue": {
+                "text": "",
+                "aliases": []
+            },
+            "srp": {
+                "text": "Серија прати свемирски брод Дискавери и његов утиција на догађаје током рата између Клингонског царства и Уједињене Федерације Планета.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Tähtialus Discovery miehistöineen etsii uusia maailmoja ja elämänmuotoja kaukaa avaruudesta.",
+                "aliases": []
+            },
+            "tur": {
+                "text": "Günümüzün çağdaş versiyonu olan dizi, Star Trek serisinin olaylarından 10 yıl öncesini konu edinir. Uzun metrajlı filmlerin zaman çizelgesinden ayrı olarak, yeni dünyalar ve medeniyetler keşfeden USS Discovery mürettebatını izler. Discovery, Star Trek tarihinde daha önce bahsedilen ancak keşfedilmemiş bir olayın etrafında dönüyor.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "328711",
+        "Status": "Ended",
+        "First Aired": "September 24, 2017",
+        "Recent": "January 24, 2025",
+        "Airs": "Thursday, at 3:00am",
+        "Network": "CBS All Access Paramount+ YouTube",
+        "Production Company": "CBS Studios Roddenberry Entertainment Secret Hideout",
+        "Average Runtime": "51 minutes",
+        "Genres": "Action Adventure Drama Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "Supernatural Beings": "Aliens",
+        "Time Period": "Distant Future",
+        "TV Type or Format": "Story-based Drama",
+        "On Other Sites": "IMDB Official Website TMS (Zap2It) TheMovieDB.com",
+        "Episode Screenshot Format": "16:9 Screencap",
+        "Favorited": "This series has been favorited by 1635 people.",
+        "Created": "May 17, 2017 by kevine2z",
+        "Modified": "September 6, 2026 by Imzadi admin admin"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Sonequa Martin-Green",
+                "playsAs": "Michael Burnham"
+            },
+            {
+                "name": "Doug Jones",
+                "playsAs": "Saru"
+            },
+            {
+                "name": "Anthony Rapp",
+                "playsAs": "Paul Stamets"
+            },
+            {
+                "name": "Mary Wiseman",
+                "playsAs": "Sylvia Tilly"
+            },
+            {
+                "name": "Wilson Cruz",
+                "playsAs": "Hugh Culber"
+            },
+            {
+                "name": "David Ajala",
+                "playsAs": "Cleveland “Book” Booker"
+            },
+            {
+                "name": "Blu del Barrio",
+                "playsAs": "Adira"
+            },
+            {
+                "name": "Michelle Yeoh",
+                "playsAs": "Philippa Georgiou"
+            },
+            {
+                "name": "Shazad Latif",
+                "playsAs": "Ash Tyler"
+            },
+            {
+                "name": "Jason Isaacs",
+                "playsAs": "Gabriel Lorca"
+            },
+            {
+                "name": "Anson Mount",
+                "playsAs": "Christopher Pike"
+            },
+            {
+                "name": "Ethan Peck",
+                "playsAs": "Spock"
+            },
+            {
+                "name": "James Frain",
+                "playsAs": "Sarek"
+            },
+            {
+                "name": "Oded Fehr",
+                "playsAs": "Charles Vance"
+            },
+            {
+                "name": "Tig Notaro",
+                "playsAs": "Jett Reno"
+            },
+            {
+                "name": "Ian Alexander",
+                "playsAs": "Gray Tal"
+            },
+            {
+                "name": "Callum Keith Rennie",
+                "playsAs": "Rayner"
+            },
+            {
+                "name": "Tara Rosling",
+                "playsAs": "T'Rina"
+            },
+            {
+                "name": "David Cronenberg",
+                "playsAs": "Kovich"
+            },
+            {
+                "name": "Chelah Horsdal",
+                "playsAs": "Laira Rillak"
+            },
+            {
+                "name": "Shawn Doyle",
+                "playsAs": "Ruon Tarka"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Olatunde Osunsanmi",
+                "numberOfEpisodes": 14,
+                "dates": "10/08/2017 - 05/30/2024"
+            },
+            {
+                "name": "Jonathan Frakes",
+                "numberOfEpisodes": 8,
+                "dates": "01/07/2018 - 05/23/2024"
+            },
+            {
+                "name": "Alex Kurtzman",
+                "numberOfEpisodes": 6,
+                "dates": "01/17/2019 - 11/18/2021"
+            },
+            {
+                "name": "Akiva Goldsman",
+                "numberOfEpisodes": 5,
+                "dates": "09/24/2017 - 01/24/2019"
+            },
+            {
+                "name": "Lee Rose",
+                "numberOfEpisodes": 5,
+                "dates": "10/15/2017 - 04/18/2024"
+            },
+            {
+                "name": "Douglas Aarniokoski",
+                "numberOfEpisodes": 5,
+                "dates": "10/22/2017 - 04/04/2024"
+            },
+            {
+                "name": "Jen McGowan",
+                "numberOfEpisodes": 3,
+                "dates": "02/10/2022 - 04/25/2024"
+            },
+            {
+                "name": "Hanelle M. Culpepper",
+                "numberOfEpisodes": 3,
+                "dates": "01/21/2018 - 11/05/2020"
+            },
+            {
+                "name": "Christopher J. Byrne",
+                "numberOfEpisodes": 3,
+                "dates": "12/02/2021 - 05/02/2024"
+            },
+            {
+                "name": "David Barrett",
+                "numberOfEpisodes": 2,
+                "dates": "10/29/2017 - 02/14/2019"
+            },
+            {
+                "name": "Andi Armaganian",
+                "numberOfEpisodes": 2,
+                "dates": "02/17/2022 - 04/11/2024"
+            },
+            {
+                "name": "Maja Vrvilo",
+                "numberOfEpisodes": 2,
+                "dates": "03/28/2019 - 11/12/2020"
+            },
+            {
+                "name": "T.J. Scott",
+                "numberOfEpisodes": 2,
+                "dates": "01/14/2018 - 03/07/2019"
+            },
+            {
+                "name": "Jon Dudkowski",
+                "numberOfEpisodes": 2,
+                "dates": "11/26/2020 - 05/09/2024"
+            },
+            {
+                "name": "Adam Kane",
+                "numberOfEpisodes": 1,
+                "dates": "09/24/2017"
+            },
+            {
+                "name": "Jeffrey W. Byrd",
+                "numberOfEpisodes": 1,
+                "dates": "03/03/2022"
+            },
+            {
+                "name": "Emmanuel Osei-Kuffour",
+                "numberOfEpisodes": 1,
+                "dates": "05/16/2024"
+            },
+            {
+                "name": "David Solomon",
+                "numberOfEpisodes": 1,
+                "dates": "02/04/2018"
+            },
+            {
+                "name": "Chloe Domont",
+                "numberOfEpisodes": 1,
+                "dates": "12/17/2020"
+            },
+            {
+                "name": "Chris Byrne",
+                "numberOfEpisodes": 1,
+                "dates": "11/12/2017"
+            },
+            {
+                "name": "David Semel",
+                "numberOfEpisodes": 1,
+                "dates": "09/24/2017"
+            },
+            {
+                "name": "John Ottman",
+                "numberOfEpisodes": 1,
+                "dates": "12/09/2021"
+            },
+            {
+                "name": "John Scott",
+                "numberOfEpisodes": 1,
+                "dates": "11/05/2017"
+            },
+            {
+                "name": "Norma Bailey",
+                "numberOfEpisodes": 1,
+                "dates": "12/24/2020"
+            },
+            {
+                "name": "Marta Cunningham",
+                "numberOfEpisodes": 1,
+                "dates": "02/28/2019"
+            },
+            {
+                "name": "Omar Madha",
+                "numberOfEpisodes": 1,
+                "dates": "12/10/2020"
+            },
+            {
+                "name": "Deborah Kampmeier",
+                "numberOfEpisodes": 1,
+                "dates": "02/24/2022"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Michelle Paradise",
+                "numberOfEpisodes": 20,
+                "dates": "03/14/2019 - 05/30/2024"
+            },
+            {
+                "name": "Alan B. McElroy",
+                "numberOfEpisodes": 7,
+                "dates": "02/07/2019 - 04/04/2024"
+            },
+            {
+                "name": "Erika Lippoldt",
+                "numberOfEpisodes": 6,
+                "dates": "11/12/2017 - 12/17/2020"
+            },
+            {
+                "name": "Sean Cochran",
+                "numberOfEpisodes": 6,
+                "dates": "01/07/2018 - 05/23/2024"
+            },
+            {
+                "name": "Bo Yeon Kim",
+                "numberOfEpisodes": 6,
+                "dates": "11/12/2017 - 12/17/2020"
+            },
+            {
+                "name": "Anne Cofell Saunders",
+                "numberOfEpisodes": 5,
+                "dates": "11/19/2020 - 02/24/2022"
+            },
+            {
+                "name": "Gretchen J. Berg",
+                "numberOfEpisodes": 5,
+                "dates": "10/01/2017 - 02/07/2019"
+            },
+            {
+                "name": "Jenny Lumet",
+                "numberOfEpisodes": 5,
+                "dates": "04/11/2019 - 11/18/2021"
+            },
+            {
+                "name": "Kyle Jarrow",
+                "numberOfEpisodes": 4,
+                "dates": "12/16/2021 - 05/30/2024"
+            },
+            {
+                "name": "Brandon Schultz",
+                "numberOfEpisodes": 4,
+                "dates": "03/28/2019 - 05/02/2024"
+            },
+            {
+                "name": "Ted Sullivan",
+                "numberOfEpisodes": 4,
+                "dates": "10/22/2017 - 02/28/2019"
+            },
+            {
+                "name": "Aaron Harberts",
+                "numberOfEpisodes": 4,
+                "dates": "10/01/2017 - 02/07/2019"
+            },
+            {
+                "name": "Bryan Fuller",
+                "numberOfEpisodes": 3,
+                "dates": "09/24/2017 - 10/01/2017"
+            },
+            {
+                "name": "Kirsten Beyer",
+                "numberOfEpisodes": 3,
+                "dates": "11/05/2017 - 11/26/2020"
+            },
+            {
+                "name": "Terri Hughes Burton",
+                "numberOfEpisodes": 3,
+                "dates": "12/02/2021 - 03/03/2022"
+            },
+            {
+                "name": "Kenneth Lin",
+                "numberOfEpisodes": 3,
+                "dates": "12/03/2020 - 05/02/2024"
+            },
+            {
+                "name": "Anthony Maranville",
+                "numberOfEpisodes": 2,
+                "dates": "03/21/2019 - 11/05/2020"
+            },
+            {
+                "name": "Andrew Colville",
+                "numberOfEpisodes": 2,
+                "dates": "01/31/2019 - 02/07/2019"
+            },
+            {
+                "name": "Aron Eli Coleite",
+                "numberOfEpisodes": 2,
+                "dates": "10/08/2017 - 10/29/2017"
+            },
+            {
+                "name": "Lauren Wilkinson",
+                "numberOfEpisodes": 2,
+                "dates": "04/11/2024 - 05/16/2024"
+            },
+            {
+                "name": "Lisa Randolph",
+                "numberOfEpisodes": 2,
+                "dates": "01/14/2018 - 02/04/2018"
+            },
+            {
+                "name": "Vaun Wilmott",
+                "numberOfEpisodes": 2,
+                "dates": "01/24/2019 - 02/28/2019"
+            },
+            {
+                "name": "Jesse Alexander",
+                "numberOfEpisodes": 2,
+                "dates": "10/08/2017 - 10/29/2017"
+            },
+            {
+                "name": "Carlos Cisco",
+                "numberOfEpisodes": 2,
+                "dates": "12/30/2021 - 04/25/2024"
+            },
+            {
+                "name": "Chris Silvestri",
+                "numberOfEpisodes": 2,
+                "dates": "03/21/2019 - 11/05/2020"
+            },
+            {
+                "name": "Jordon Nardino",
+                "numberOfEpisodes": 2,
+                "dates": "01/21/2018 - 02/07/2019"
+            },
+            {
+                "name": "Eric J. Robbins",
+                "numberOfEpisodes": 2,
+                "dates": "12/09/2021 - 05/16/2024"
+            },
+            {
+                "name": "Ari Friedman",
+                "numberOfEpisodes": 1,
+                "dates": "05/23/2024"
+            },
+            {
+                "name": "Dan Dworkin",
+                "numberOfEpisodes": 1,
+                "dates": "03/07/2019"
+            },
+            {
+                "name": "Glenise Mullins",
+                "numberOfEpisodes": 1,
+                "dates": "11/25/2021"
+            },
+            {
+                "name": "Joe Menosky",
+                "numberOfEpisodes": 1,
+                "dates": "10/22/2017"
+            },
+            {
+                "name": "Aaron Harbets",
+                "numberOfEpisodes": 1,
+                "dates": "02/11/2018"
+            },
+            {
+                "name": "Craig Sweeny",
+                "numberOfEpisodes": 1,
+                "dates": "10/01/2017"
+            },
+            {
+                "name": "Kemp Powers",
+                "numberOfEpisodes": 1,
+                "dates": "10/15/2017"
+            },
+            {
+                "name": "M. Raven Metzner",
+                "numberOfEpisodes": 1,
+                "dates": "05/09/2024"
+            },
+            {
+                "name": "James Duff",
+                "numberOfEpisodes": 1,
+                "dates": "11/12/2020"
+            },
+            {
+                "name": "Nicholas Meyer",
+                "numberOfEpisodes": 1,
+                "dates": "09/24/2017"
+            },
+            {
+                "name": "Johanna Lee",
+                "numberOfEpisodes": 1,
+                "dates": "04/25/2024"
+            },
+            {
+                "name": "Jay Beattie",
+                "numberOfEpisodes": 1,
+                "dates": "03/07/2019"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "September 2017",
+                "to": "February 2018",
+                "episodes": 15,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "The Vulcan Hello",
+                        "firstAired": "September 24, 2017 CBS All Access",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Battle at the Binary Stars",
+                        "firstAired": "September 24, 2017 CBS All Access",
+                        "runtime": 38
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Context Is for Kings",
+                        "firstAired": "October 1, 2017 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Butcher's Knife Cares Not for the Lamb's Cry",
+                        "firstAired": "October 8, 2017 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Choose Your Pain",
+                        "firstAired": "October 15, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Lethe",
+                        "firstAired": "October 22, 2017 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Magic to Make the Sanest Man Go Mad",
+                        "firstAired": "October 29, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Si Vis Pacem, Para Bellum",
+                        "firstAired": "November 5, 2017 CBS All Access",
+                        "runtime": 41
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Into the Forest I Go",
+                        "firstAired": "November 12, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Despite Yourself",
+                        "firstAired": "January 7, 2018 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Wolf Inside",
+                        "firstAired": "January 14, 2018 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Vaulting Ambition",
+                        "firstAired": "January 21, 2018 CBS All Access",
+                        "runtime": 37
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "What's Past is Prologue",
+                        "firstAired": "January 28, 2018 CBS All Access",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "The War Without, the War Within",
+                        "firstAired": "February 4, 2018 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Will You Take My Hand? season finale",
+                        "firstAired": "February 11, 2018 CBS All Access",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "January 2019",
+                "to": "April 2019",
+                "episodes": 14,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Brother",
+                        "firstAired": "January 17, 2019 CBS All Access",
+                        "runtime": 62
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "New Eden",
+                        "firstAired": "January 24, 2019 CBS All Access",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Point of Light",
+                        "firstAired": "January 31, 2019 CBS All Access",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "An Obol for Charon",
+                        "firstAired": "February 7, 2019 CBS All Access",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Saints of Imperfection",
+                        "firstAired": "February 14, 2019 CBS All Access",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "The Sound of Thunder",
+                        "firstAired": "February 21, 2019 CBS All Access",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Light and Shadows",
+                        "firstAired": "February 28, 2019 CBS All Access",
+                        "runtime": 40
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "If Memory Serves",
+                        "firstAired": "March 7, 2019 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Project Daedalus",
+                        "firstAired": "March 14, 2019 CBS All Access",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Red Angel",
+                        "firstAired": "March 21, 2019 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Perpetual Infinity",
+                        "firstAired": "March 28, 2019 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Through the Valley of Shadows",
+                        "firstAired": "April 4, 2019 CBS All Access",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Such Sweet Sorrow (1)",
+                        "firstAired": "April 11, 2019 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Such Sweet Sorrow (2) season finale",
+                        "firstAired": "April 18, 2019 CBS All Access",
+                        "runtime": 65
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "October 2020",
+                "to": "January 2021",
+                "episodes": 13,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "That Hope Is You (1)",
+                        "firstAired": "October 15, 2020 CBS All Access",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Far from Home",
+                        "firstAired": "October 22, 2020 CBS All Access",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "People of Earth",
+                        "firstAired": "October 29, 2020 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Forget Me Not",
+                        "firstAired": "November 5, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Die Trying",
+                        "firstAired": "November 12, 2020 CBS All Access",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Scavengers",
+                        "firstAired": "November 19, 2020 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Unification III",
+                        "firstAired": "November 26, 2020 CBS All Access",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "The Sanctuary",
+                        "firstAired": "December 3, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Terra Firma (1)",
+                        "firstAired": "December 10, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Terra Firma (2)",
+                        "firstAired": "December 17, 2020 CBS All Access",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Su'Kal",
+                        "firstAired": "December 24, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "There is a Tide…",
+                        "firstAired": "December 31, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "That Hope Is You (2) season finale",
+                        "firstAired": "January 7, 2021 CBS All Access",
+                        "runtime": 62
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 4,
+                "from": "November 2021",
+                "to": "March 2022",
+                "episodes": 13,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/official/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Kobayashi Maru",
+                        "firstAired": "November 18, 2021 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Anomaly",
+                        "firstAired": "November 25, 2021 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Choose to Live",
+                        "firstAired": "December 2, 2021 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "All Is Possible",
+                        "firstAired": "December 9, 2021 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "The Examples",
+                        "firstAired": "December 16, 2021 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Stormy Weather",
+                        "firstAired": "December 23, 2021 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "…But to Connect mid-season finale",
+                        "firstAired": "December 30, 2021 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "All In",
+                        "firstAired": "February 10, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Rubicon",
+                        "firstAired": "February 17, 2022 Paramount+",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "The Galactic Barrier",
+                        "firstAired": "February 24, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Rosetta",
+                        "firstAired": "March 3, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Species Ten-C",
+                        "firstAired": "March 10, 2022 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Coming Home season finale",
+                        "firstAired": "March 17, 2022 Paramount+",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 5,
+                "from": "April 2024",
+                "to": "May 2024",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/official/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Red Directive",
+                        "firstAired": "April 4, 2024 Paramount+",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Under the Twin Moons",
+                        "firstAired": "April 4, 2024 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Jinaal",
+                        "firstAired": "April 11, 2024 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "Face the Strange",
+                        "firstAired": "April 18, 2024 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Mirrors",
+                        "firstAired": "April 25, 2024 Paramount+",
+                        "runtime": 57
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "Whistlespeak",
+                        "firstAired": "May 2, 2024 Paramount+",
+                        "runtime": 57
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Erigah",
+                        "firstAired": "May 9, 2024 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "Labyrinths",
+                        "firstAired": "May 16, 2024 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Lagrange Point",
+                        "firstAired": "May 23, 2024 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "Life, Itself series finale",
+                        "firstAired": "May 30, 2024 Paramount+",
+                        "runtime": 86
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "September 2017",
+                "to": "February 2018",
+                "episodes": 15,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "The Vulcan Hello",
+                        "firstAired": "September 24, 2017 CBS All Access",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Battle at the Binary Stars",
+                        "firstAired": "September 24, 2017 CBS All Access",
+                        "runtime": 38
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Context Is for Kings",
+                        "firstAired": "October 1, 2017 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Butcher's Knife Cares Not for the Lamb's Cry",
+                        "firstAired": "October 8, 2017 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Choose Your Pain",
+                        "firstAired": "October 15, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Lethe",
+                        "firstAired": "October 22, 2017 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Magic to Make the Sanest Man Go Mad",
+                        "firstAired": "October 29, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Si Vis Pacem, Para Bellum",
+                        "firstAired": "November 5, 2017 CBS All Access",
+                        "runtime": 41
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Into the Forest I Go",
+                        "firstAired": "November 12, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Despite Yourself",
+                        "firstAired": "January 7, 2018 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Wolf Inside",
+                        "firstAired": "January 14, 2018 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Vaulting Ambition",
+                        "firstAired": "January 21, 2018 CBS All Access",
+                        "runtime": 37
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "What's Past is Prologue",
+                        "firstAired": "January 28, 2018 CBS All Access",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "The War Without, the War Within",
+                        "firstAired": "February 4, 2018 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Will You Take My Hand? season finale",
+                        "firstAired": "February 11, 2018 CBS All Access",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "January 2019",
+                "to": "April 2019",
+                "episodes": 14,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Brother",
+                        "firstAired": "January 17, 2019 CBS All Access",
+                        "runtime": 62
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "New Eden",
+                        "firstAired": "January 24, 2019 CBS All Access",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Point of Light",
+                        "firstAired": "January 31, 2019 CBS All Access",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "An Obol for Charon",
+                        "firstAired": "February 7, 2019 CBS All Access",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Saints of Imperfection",
+                        "firstAired": "February 14, 2019 CBS All Access",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "The Sound of Thunder",
+                        "firstAired": "February 21, 2019 CBS All Access",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Light and Shadows",
+                        "firstAired": "February 28, 2019 CBS All Access",
+                        "runtime": 40
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "If Memory Serves",
+                        "firstAired": "March 7, 2019 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Project Daedalus",
+                        "firstAired": "March 14, 2019 CBS All Access",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Red Angel",
+                        "firstAired": "March 21, 2019 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Perpetual Infinity",
+                        "firstAired": "March 28, 2019 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Through the Valley of Shadows",
+                        "firstAired": "April 4, 2019 CBS All Access",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Such Sweet Sorrow (1)",
+                        "firstAired": "April 11, 2019 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Such Sweet Sorrow (2) season finale",
+                        "firstAired": "April 18, 2019 CBS All Access",
+                        "runtime": 65
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "October 2020",
+                "to": "January 2021",
+                "episodes": 13,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "That Hope Is You (1)",
+                        "firstAired": "October 15, 2020 CBS All Access",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Far from Home",
+                        "firstAired": "October 22, 2020 CBS All Access",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "People of Earth",
+                        "firstAired": "October 29, 2020 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Forget Me Not",
+                        "firstAired": "November 5, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Die Trying",
+                        "firstAired": "November 12, 2020 CBS All Access",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Scavengers",
+                        "firstAired": "November 19, 2020 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Unification III",
+                        "firstAired": "November 26, 2020 CBS All Access",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "The Sanctuary",
+                        "firstAired": "December 3, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Terra Firma (1)",
+                        "firstAired": "December 10, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Terra Firma (2)",
+                        "firstAired": "December 17, 2020 CBS All Access",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Su'Kal",
+                        "firstAired": "December 24, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "There is a Tide…",
+                        "firstAired": "December 31, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "That Hope Is You (2) season finale",
+                        "firstAired": "January 7, 2021 CBS All Access",
+                        "runtime": 62
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 4,
+                "from": "November 2021",
+                "to": "March 2022",
+                "episodes": 13,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/dvd/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Kobayashi Maru",
+                        "firstAired": "November 18, 2021 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Anomaly",
+                        "firstAired": "November 25, 2021 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Choose to Live",
+                        "firstAired": "December 2, 2021 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "All Is Possible",
+                        "firstAired": "December 9, 2021 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "The Examples",
+                        "firstAired": "December 16, 2021 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Stormy Weather",
+                        "firstAired": "December 23, 2021 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "…But to Connect mid-season finale",
+                        "firstAired": "December 30, 2021 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "All In",
+                        "firstAired": "February 10, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Rubicon",
+                        "firstAired": "February 17, 2022 Paramount+",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "The Galactic Barrier",
+                        "firstAired": "February 24, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Rosetta",
+                        "firstAired": "March 3, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Species Ten-C",
+                        "firstAired": "March 10, 2022 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Coming Home season finale",
+                        "firstAired": "March 17, 2022 Paramount+",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 5,
+                "from": "April 2024",
+                "to": "January 2025",
+                "episodes": 11,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/dvd/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Red Directive",
+                        "firstAired": "April 4, 2024 Paramount+",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "Under the Twin Moons",
+                        "firstAired": "April 4, 2024 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Jinaal",
+                        "firstAired": "April 11, 2024 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "Face the Strange",
+                        "firstAired": "April 18, 2024 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Mirrors",
+                        "firstAired": "April 25, 2024 Paramount+",
+                        "runtime": 57
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "Whistlespeak",
+                        "firstAired": "May 2, 2024 Paramount+",
+                        "runtime": 57
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Erigah",
+                        "firstAired": "May 9, 2024 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "Labyrinths",
+                        "firstAired": "May 16, 2024 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Lagrange Point",
+                        "firstAired": "May 23, 2024 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "Life, Itself series finale",
+                        "firstAired": "May 30, 2024 Paramount+",
+                        "runtime": 86
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "Star Trek: Section 31 season finale",
+                        "firstAired": "January 24, 2025 Paramount+",
+                        "runtime": 96
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "September 2017",
+                "to": "March 2022",
+                "episodes": 55,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-discovery/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "The Vulcan Hello",
+                        "firstAired": "September 24, 2017 CBS All Access",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Battle at the Binary Stars",
+                        "firstAired": "September 24, 2017 CBS All Access",
+                        "runtime": 38
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Context Is for Kings",
+                        "firstAired": "October 1, 2017 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Butcher's Knife Cares Not for the Lamb's Cry",
+                        "firstAired": "October 8, 2017 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Choose Your Pain",
+                        "firstAired": "October 15, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Lethe",
+                        "firstAired": "October 22, 2017 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Magic to Make the Sanest Man Go Mad",
+                        "firstAired": "October 29, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Si Vis Pacem, Para Bellum",
+                        "firstAired": "November 5, 2017 CBS All Access",
+                        "runtime": 41
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Into the Forest I Go",
+                        "firstAired": "November 12, 2017 CBS All Access",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Despite Yourself",
+                        "firstAired": "January 7, 2018 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Wolf Inside",
+                        "firstAired": "January 14, 2018 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Vaulting Ambition",
+                        "firstAired": "January 21, 2018 CBS All Access",
+                        "runtime": 37
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "What's Past is Prologue",
+                        "firstAired": "January 28, 2018 CBS All Access",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "The War Without, the War Within",
+                        "firstAired": "February 4, 2018 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Will You Take My Hand? season finale",
+                        "firstAired": "February 11, 2018 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Brother",
+                        "firstAired": "January 17, 2019 CBS All Access",
+                        "runtime": 62
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "New Eden",
+                        "firstAired": "January 24, 2019 CBS All Access",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Point of Light",
+                        "firstAired": "January 31, 2019 CBS All Access",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "An Obol for Charon",
+                        "firstAired": "February 7, 2019 CBS All Access",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Saints of Imperfection",
+                        "firstAired": "February 14, 2019 CBS All Access",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "The Sound of Thunder",
+                        "firstAired": "February 21, 2019 CBS All Access",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Light and Shadows",
+                        "firstAired": "February 28, 2019 CBS All Access",
+                        "runtime": 40
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "If Memory Serves",
+                        "firstAired": "March 7, 2019 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Project Daedalus",
+                        "firstAired": "March 14, 2019 CBS All Access",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "The Red Angel",
+                        "firstAired": "March 21, 2019 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "Perpetual Infinity",
+                        "firstAired": "March 28, 2019 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Through the Valley of Shadows",
+                        "firstAired": "April 4, 2019 CBS All Access",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "Such Sweet Sorrow (1)",
+                        "firstAired": "April 11, 2019 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Such Sweet Sorrow (2) season finale",
+                        "firstAired": "April 18, 2019 CBS All Access",
+                        "runtime": 65
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "That Hope Is You (1)",
+                        "firstAired": "October 15, 2020 CBS All Access",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E31",
+                        "name": "Far from Home",
+                        "firstAired": "October 22, 2020 CBS All Access",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E32",
+                        "name": "People of Earth",
+                        "firstAired": "October 29, 2020 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E33",
+                        "name": "Forget Me Not",
+                        "firstAired": "November 5, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E34",
+                        "name": "Die Trying",
+                        "firstAired": "November 12, 2020 CBS All Access",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S01E35",
+                        "name": "Scavengers",
+                        "firstAired": "November 19, 2020 CBS All Access",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E36",
+                        "name": "Unification III",
+                        "firstAired": "November 26, 2020 CBS All Access",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S01E37",
+                        "name": "The Sanctuary",
+                        "firstAired": "December 3, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E38",
+                        "name": "Terra Firma (1)",
+                        "firstAired": "December 10, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E39",
+                        "name": "Terra Firma (2)",
+                        "firstAired": "December 17, 2020 CBS All Access",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E40",
+                        "name": "Su'Kal",
+                        "firstAired": "December 24, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E41",
+                        "name": "There is a Tide…",
+                        "firstAired": "December 31, 2020 CBS All Access",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E42",
+                        "name": "That Hope Is You (2) season finale",
+                        "firstAired": "January 7, 2021 CBS All Access",
+                        "runtime": 62
+                    },
+                    {
+                        "code": "S01E43",
+                        "name": "Kobayashi Maru",
+                        "firstAired": "November 18, 2021 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E44",
+                        "name": "Anomaly",
+                        "firstAired": "November 25, 2021 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E45",
+                        "name": "Choose to Live",
+                        "firstAired": "December 2, 2021 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E46",
+                        "name": "All Is Possible",
+                        "firstAired": "December 9, 2021 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E47",
+                        "name": "The Examples",
+                        "firstAired": "December 16, 2021 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S01E48",
+                        "name": "Stormy Weather",
+                        "firstAired": "December 23, 2021 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E49",
+                        "name": "…But to Connect mid-season finale",
+                        "firstAired": "December 30, 2021 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E50",
+                        "name": "All In",
+                        "firstAired": "February 10, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E51",
+                        "name": "Rubicon",
+                        "firstAired": "February 17, 2022 Paramount+",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E52",
+                        "name": "The Galactic Barrier",
+                        "firstAired": "February 24, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E53",
+                        "name": "Rosetta",
+                        "firstAired": "March 3, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E54",
+                        "name": "Species Ten-C",
+                        "firstAired": "March 10, 2022 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S01E55",
+                        "name": "Coming Home season finale",
+                        "firstAired": "March 17, 2022 Paramount+",
+                        "runtime": 60
+                    }
+                ]
+            }
+        ]
+    }
+}

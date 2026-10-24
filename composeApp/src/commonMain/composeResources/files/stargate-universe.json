@@ -1,0 +1,1047 @@
+{
+    "seriesTitle": "Stargate Universe",
+    "seriesDescription": {
+        "translations": {
+            "ces": {
+                "text": "Již třetí STARGATE seriál nás vezme na palubu antické lodi Destiny, o miliony let starší než Atlantis, kterou jako pýchu své civilizace vypustili Antici. Byl to jejich velký experiment uvedený do pohybu, ovšem nikdy nedokončen. Cílem tohoto experimentu bylo rozsévání hvězdných bran skrz galaxie. Lidé zjistí, že záhadný devátý chevron na bráně může sloužit právě ke spojení s touhle lodí a tak se vydávají na průzkumnou misi. Záhy ale zjistí, že jsou na palubě Destiny uvězněni, jelikož je loď neschopna návratu na Zem. Pouhý průzkum se tak promění v nikdy nekončící misi. Posádka tak chtě nechtě naplňuje původní účel mise. Spojuje se s každou předešle vypuštěnou bránou a přichází do kontaktu s novými rasami, technologiemi, ale také s nepřáteli.",
+                "aliases": []
+            },
+            "dan": {
+                "text": "Den tidligere ukendte formål med den \"niende Chevron\" er afsløret, og ender med at tage et hold til et gammelt skib kaldet \"Destiny\", et skib bygget for millioner af år siden af de Gamle, der anvendes til at seede fjerne galakser med stjerneportaler. Det team, der ledes af Dr. Nicolas Rush og oberst Everett Young, er fanget på skibet, ude af stand til at ændre dets programmerede mission. Holdet møder nye racer, ny teknologi og nye fjender, mens det løbske skib rejser til de fjerneste ender af universet.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Nach einem Überfall strandet eine Gruppe von Wissenschaftlern, Zivilisten und Soldaten an Bord des außerirdischen Forschungsschiffes \"Destiny\". Unter der Leitung von Dr. Nicholas Rush und Colonel Everet Young stellen sie fest, dass sich das Schiff auf einem offenbar vorprogrammierten Kurs durch das Weltall befindet und ein Verlassen nur während der eingeplanten Zwischenstopps möglich ist, die sie zu immer neuen Planeten und Spezies führen ...",
+                "aliases": []
+            },
+            "eng": {
+                "text": "The previously unknown purpose of the ninth chevron is revealed and takes a group of refugees on a one-way trip to a millions of years old Ancient-built ship. Led by Dr. Nicolas Rush and Colonel Everett Young, the refugees are trapped on the ship, unable to change its programmed mission.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Stargate Universe seuraa Maasta lähtöisin olevaa sekalaista sotilaiden ja tutkijoiden ryhmää, joka on paetessaan tukikohtaansa kohdistunutta hyökkäystä Tähtiportin läpi päätynyt Muinaisten Destiny-avaruusalukselle, ilman mahdollisuutta palata takaisin. Destiny matkaa vastentahtoisine jäniksineen universumin laitamilla autopilotilla, kartoittaen eri kohteita. Ryhmän, johtajanaan eversti Everett Young, on päästävä selville aluksen mysteereistä ja etsiä keino palata ehjänä kotiin.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Le secret du neuvième chevron est dévoilé et une équipe est envoyée pour explorer l'autre côté de cet horizon : un gigantesque vaisseau appelé le Destiny. Créée par les \"Anciens\" des millions d'années plus tôt, cette expérience sous forme de navire ne peut être contrôlée. Le Destiny doit exécuter sa mission originelle : traverser l'univers et rencontrer de nouvelles formes de vie.",
+                "aliases": []
+            },
+            "heb": {
+                "text": "סדרת המשך שלישית לזיכיון \"סטארגייט\" ששודרה לראשונה בשנת 2009. הסדרה מבהירה את מהותו של השברון התשיעי ומתרחשת בזמן ההווה כאשר היא מתמקדת בספינת החלל \"דסטיני\" המסיירת ברחבי החלל כחלק מניסוי של הקדמונים לזרוע שערי סטארגייט בכוכבי הלכת השונים, שהופסק כאשר הם התעלו למישור הבא של הקיום.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Dok se tim istraživača priprema na otključavanje posljednje tajne Zvjezdanih vrata, njihova je svemirska baza napadnuta. Usred bitke skupina civila i vojnog osoblja pokuša pobjeći natrag na Zemlju. Međutim, nađu se u dalekom svemiru na nenaseljenom brodu Drevnih po imenu Destiny. Nespremni i nevješti za putovanje, članovi posade prisiljeni su surađivati dok istražuju nove svjetove kako bi zadovoljili osnovne životne potrebe ne prestajući se nadati da će jednoga dana ipak pronaći put kući. Opasnost, pustolovina i nada koju pronalaze na brodu Destiny prokazat će junake i zlikovce među njima.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "Az idegen bolygón lévõ Icarus Kutatóbázison Dr. Nicholas Rush csapata a Csillagkapuk 9. ékzárán dolgozik, méghozzá Everett Young ezredes ideiglenes parancsoksága alatt. Mikor a Csillagkapu Program Nemzetközi Felügyelete (rövidítve IOA) Armstrong szenátor vezetésével vizsgálóbizottságot küld a bázisra, a bolygót megtámadja egy idegen faj, és az egyetlen menekülési útvonal a Csillagkapun keresztül vezet, amely azonban nem a Földre viszi vissza õket, hanem a 9. ékzárral a Destiny-re, a Kapuépítõk õsi csillaghajójára. A Destiny automatikusan elindul és folytatja soha véget nem érõ küldetését az univerzum legmélyének felderítésére.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "Un piccolo gruppo di militari e civili scampa ad un attacco alieno fuggendo attraverso uno Stargate impostato su coordinate sconosciute, ritrovandosi a bordo di una nave spaziale, la Destiny, che viaggia ben oltre i confini della nostra galassia. Vecchia migliaia di anni, la nave non è governabile e completamente automizzata, senza forme di vita a bordo. I pochi sopravvissuti dovranno far fronte ad avarie dei sistemi fatiscenti, mondi alieni e turbe psicologiche per poter rimanere in vita.",
+                "aliases": []
+            },
+            "kor": {
+                "text": "",
+                "aliases": []
+            },
+            "nld": {
+                "text": "Het voorheen onbekende doel van het \"negende chevron\" wordt geopenbaard, en eindigt met een team dat naar een Ancien schip \"Destiny\" vlucht, een schip dat miljoenen jaren geleden gebouwd is door de Ancients en gebruikt werdt om verre sterrenstelsels van Stargate's te voorzien. Het team, geleid door dr. David Rush en kolonel Everet Young, is gestrand op het schip, niet in staat om haar geprogrammeerde doel te wijzigen, en wordt geconfronteerd met nieuwe rassen, nieuwe technologieën en nieuwe vijanden, terwijl het schip hen naar de verre uiteinden van het Universum brengt.",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Po tym jak zostaje odkryta tajemnica dziewiątego chevronu, przez wrota zostaje wysłana drużyna która trafia na bezzałogowy statek zwany \"Destiny\" wysłany przez Pradawnych w podróż po wszechświecie z misją rozsiewania sieci gwiezdnych wrót w różnych galaktykach. Był to ich wielki eksperyment który jednak nie został skończony, gdyż Ci go porzucili i zaczęli prace nad ascendęcją. Misja która zaczyna się jako zwykły rekonesans przeistacza się w nigdy nie kończącą się misję, gdyż jak się okazuje statek nie może powrócić na Ziemię.",
+                "aliases": []
+            },
+            "por": {
+                "text": "Após a descoberta da nona chave do Stargate, uma equipe de exploradores da Terra, viaja para a nave não tripulada chamada Destiny, que foi lançada pelos Antigos á muitos séculos atrás, como uma experiência cientifica. A nova tripulação não é capaz de controlar a sua navegação, ou o seu destino final, cuja programação é concluir a sua missão original. Isto vai levá-los a viajar pelo universo fora, onde vão encontrar novas raças e inimigos. Esta Série marca uma nova abordagem no conceito Stargate onde pela primeira vez na história do franchising, as histórias irão incidir sobretudo nas personagens e nas suas relações, ao invés da aventura espacial propiamente dita",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Таинственный девятый шеврон переносит команду исследователей с Земли на беспилотное судно Древних с названием «Судьба», где выясняется, что возврата на Землю нет. Команде предстоит приспособиться к жизни на борту судна, несущего их в далекие уголки Вселенной по проложенному Древними курсу и, возможно, свыкнуться с мыслью, что этот корабль станет их домом и тюрьмой до последних секунд их жизней.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Tras descubrirse el misterio del noveno chevron, un grupo de militares, civiles y científicos que habitaban la base secreta Ícaro se ven forzados a cruzar prematuramente el Stargate cuando la base es atacada. Como resultado, viajaron al interior de la nave Destiny (Destino), lanzada por Los Antiguos en la época dorada de su civilización como un experimento puesto en marcha pero nunca finalizado. Lo que comienza como un accidente, termina siendo una misión sin fin cuando la improvisada expedición se percata de que la nave no puede regresar a la Tierra y ahora tienen que sobrevivir a bordo.",
+                "aliases": []
+            },
+            "srp": {
+                "text": "Заробљени на древном свемирском броду милијардама светлосних година од куће, група војника и цивила бори се да преживи и пронађе пут назад на Земљу.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "83237",
+        "Status": "Ended",
+        "First Aired": "October 2, 2009",
+        "Recent": "May 9, 2011",
+        "Airs": "Monday, at 9:00pm",
+        "Network": "SYFY",
+        "Average Runtime": "44 minutes",
+        "Genres": "Action Adventure Drama Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "EIDR IMDB TMS (Zap2It) TheMovieDB.com Wikipedia",
+        "Trailers": "English Trailer",
+        "Episode Screenshot Format": "16:9 Screencap",
+        "Favorited": "This series has been favorited by 6793 people.",
+        "Created": "September 30, 2008 by Evan_ mod mod",
+        "Modified": "September 26, 2026 by PedN"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Robert Carlyle",
+                "playsAs": "Dr. NicholRush"
+            },
+            {
+                "name": "Louis Ferreira",
+                "playsAs": "Everett Young"
+            },
+            {
+                "name": "Ming-Na Wen",
+                "playsAs": "Camille Wray"
+            },
+            {
+                "name": "Alaina Huffman",
+                "playsAs": "Tamara Johansen"
+            },
+            {
+                "name": "David Blue",
+                "playsAs": "Eli Wallace"
+            },
+            {
+                "name": "Brian J. Smith",
+                "playsAs": "Matthew Scott"
+            },
+            {
+                "name": "Jamil Walker Smith",
+                "playsAs": "Ronald Greer"
+            },
+            {
+                "name": "Elyse Levesque",
+                "playsAs": "Chloe Armstrong"
+            },
+            {
+                "name": "Lou Diamond Phillips",
+                "playsAs": "David Telford"
+            },
+            {
+                "name": "Julia Benson",
+                "playsAs": "Vanessa James"
+            },
+            {
+                "name": "Peter Kelamis",
+                "playsAs": "Adam Brody"
+            },
+            {
+                "name": "Mark Burgess",
+                "playsAs": "Jeremy Franklin"
+            },
+            {
+                "name": "Jennifer Spence",
+                "playsAs": "Dr. Lisa Park"
+            },
+            {
+                "name": "Haig Sutherland",
+                "playsAs": "Hunter Riley"
+            },
+            {
+                "name": "Patrick Gilmore",
+                "playsAs": "Dr. Dale Volker"
+            },
+            {
+                "name": "Richard Dean Anderson",
+                "playsAs": "Jack O'Neill"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Andy Mikita",
+                "numberOfEpisodes": 13,
+                "dates": "10/02/2009 - 05/09/2011"
+            },
+            {
+                "name": "Robert C. Cooper",
+                "numberOfEpisodes": 11,
+                "dates": "10/02/2009 - 04/18/2011"
+            },
+            {
+                "name": "Peter DeLuise",
+                "numberOfEpisodes": 7,
+                "dates": "10/16/2009 - 04/18/2011"
+            },
+            {
+                "name": "William Waring",
+                "numberOfEpisodes": 6,
+                "dates": "10/30/2009 - 11/30/2010"
+            },
+            {
+                "name": "Alex Chapple",
+                "numberOfEpisodes": 4,
+                "dates": "11/20/2009 - 04/25/2011"
+            },
+            {
+                "name": "Will Waring",
+                "numberOfEpisodes": 2,
+                "dates": "12/04/2009 - 04/16/2010"
+            },
+            {
+                "name": "Robert Carlyle",
+                "numberOfEpisodes": 2,
+                "dates": "10/19/2010"
+            },
+            {
+                "name": "Helen Shaver",
+                "numberOfEpisodes": 1,
+                "dates": "04/04/2011"
+            },
+            {
+                "name": "Ernest R. Dickerson",
+                "numberOfEpisodes": 1,
+                "dates": "11/06/2009"
+            },
+            {
+                "name": "Ronn Schmidt",
+                "numberOfEpisodes": 1,
+                "dates": "04/30/2010"
+            },
+            {
+                "name": "Félix Enríquez Alcalá",
+                "numberOfEpisodes": 1,
+                "dates": "04/09/2010"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Joseph Mallozzi",
+                "numberOfEpisodes": 9,
+                "dates": "04/02/2010 - 05/09/2011"
+            },
+            {
+                "name": "Carl Binder",
+                "numberOfEpisodes": 8,
+                "dates": "10/30/2009 - 04/25/2011"
+            },
+            {
+                "name": "Brad Wright",
+                "numberOfEpisodes": 8,
+                "dates": "10/02/2009 - 03/14/2011"
+            },
+            {
+                "name": "Paul Mullie",
+                "numberOfEpisodes": 7,
+                "dates": "04/09/2010 - 05/09/2011"
+            },
+            {
+                "name": "Remi Aubuchon",
+                "numberOfEpisodes": 2,
+                "dates": "11/23/2010 - 04/04/2011"
+            },
+            {
+                "name": "Linda McGibney",
+                "numberOfEpisodes": 2,
+                "dates": "03/21/2011 - 05/02/2011"
+            },
+            {
+                "name": "Martin Gero",
+                "numberOfEpisodes": 2,
+                "dates": "11/06/2009 - 04/30/2010"
+            },
+            {
+                "name": "Barbara Marshall",
+                "numberOfEpisodes": 1,
+                "dates": "05/07/2010"
+            },
+            {
+                "name": "Denis McGrath",
+                "numberOfEpisodes": 1,
+                "dates": "04/16/2010"
+            },
+            {
+                "name": "Jeff Vlaming",
+                "numberOfEpisodes": 1,
+                "dates": "04/23/2010"
+            },
+            {
+                "name": "Alan McCullough",
+                "numberOfEpisodes": 1,
+                "dates": "12/04/2009"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "October 2009",
+                "to": "June 2010",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-universe/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Air (1)",
+                        "firstAired": "October 2, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Air (2)",
+                        "firstAired": "October 2, 2009 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Air (3)",
+                        "firstAired": "October 9, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Darkness",
+                        "firstAired": "October 16, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Light",
+                        "firstAired": "October 23, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Water",
+                        "firstAired": "October 30, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Earth",
+                        "firstAired": "November 6, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Time",
+                        "firstAired": "November 13, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Life",
+                        "firstAired": "November 20, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Justice",
+                        "firstAired": "December 4, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Space",
+                        "firstAired": "April 2, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Divided",
+                        "firstAired": "April 9, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Faith",
+                        "firstAired": "April 16, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Human",
+                        "firstAired": "April 23, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Lost",
+                        "firstAired": "April 30, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Sabotage",
+                        "firstAired": "May 7, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Pain",
+                        "firstAired": "May 14, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Subversion",
+                        "firstAired": "May 21, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Incursion (1)",
+                        "firstAired": "June 4, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Incursion (2) season finale",
+                        "firstAired": "June 11, 2010 SYFY",
+                        "runtime": 44
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "September 2010",
+                "to": "May 2011",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-universe/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Intervention",
+                        "firstAired": "September 28, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Aftermath",
+                        "firstAired": "October 5, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Awakening",
+                        "firstAired": "October 12, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Pathogen",
+                        "firstAired": "October 19, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Cloverdale",
+                        "firstAired": "October 26, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Trial and Error",
+                        "firstAired": "November 2, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "The Greater Good",
+                        "firstAired": "November 9, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Malice",
+                        "firstAired": "November 16, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Visitation",
+                        "firstAired": "November 23, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Resurgence",
+                        "firstAired": "November 30, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Deliverance",
+                        "firstAired": "March 7, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Twin Destinies",
+                        "firstAired": "March 14, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Alliances",
+                        "firstAired": "March 21, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Hope",
+                        "firstAired": "March 28, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "Seizure",
+                        "firstAired": "April 4, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "The Hunt",
+                        "firstAired": "April 11, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Common Descent",
+                        "firstAired": "April 18, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Epilogue",
+                        "firstAired": "April 25, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Blockade",
+                        "firstAired": "May 2, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Gauntlet series finale",
+                        "firstAired": "May 9, 2011 SYFY",
+                        "runtime": 43
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "October 2009",
+                "to": "June 2010",
+                "episodes": 18,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-universe/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Air",
+                        "firstAired": "October 2, 2009 SYFY",
+                        "runtime": 138
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Darkness",
+                        "firstAired": "October 16, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Light",
+                        "firstAired": "October 23, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Water",
+                        "firstAired": "October 30, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Earth",
+                        "firstAired": "November 6, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Time",
+                        "firstAired": "November 13, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Life",
+                        "firstAired": "November 20, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Justice",
+                        "firstAired": "December 4, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Space",
+                        "firstAired": "April 2, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Divided",
+                        "firstAired": "April 9, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Faith",
+                        "firstAired": "April 16, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Human",
+                        "firstAired": "April 23, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Lost",
+                        "firstAired": "April 30, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Sabotage",
+                        "firstAired": "May 7, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Pain",
+                        "firstAired": "May 14, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Subversion",
+                        "firstAired": "May 21, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Incursion (1)",
+                        "firstAired": "June 4, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Incursion (2) season finale",
+                        "firstAired": "June 11, 2010 SYFY",
+                        "runtime": 44
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "September 2010",
+                "to": "May 2011",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-universe/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Intervention",
+                        "firstAired": "September 28, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Aftermath",
+                        "firstAired": "October 5, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Awakening",
+                        "firstAired": "October 12, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Pathogen",
+                        "firstAired": "October 19, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Cloverdale",
+                        "firstAired": "October 26, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Trial and Error",
+                        "firstAired": "November 2, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "The Greater Good",
+                        "firstAired": "November 9, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Malice",
+                        "firstAired": "November 16, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Visitation",
+                        "firstAired": "November 23, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Resurgence",
+                        "firstAired": "November 30, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Deliverance",
+                        "firstAired": "March 7, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Twin Destinies",
+                        "firstAired": "March 14, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Alliances",
+                        "firstAired": "March 21, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Hope",
+                        "firstAired": "March 28, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "Seizure",
+                        "firstAired": "April 4, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "The Hunt",
+                        "firstAired": "April 11, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Common Descent",
+                        "firstAired": "April 18, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Epilogue",
+                        "firstAired": "April 25, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Blockade",
+                        "firstAired": "May 2, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Gauntlet series finale",
+                        "firstAired": "May 9, 2011 SYFY",
+                        "runtime": 43
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "October 2009",
+                "to": "May 2011",
+                "episodes": 40,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-universe/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Air (1)",
+                        "firstAired": "October 2, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Air (2)",
+                        "firstAired": "October 2, 2009 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Air (3)",
+                        "firstAired": "October 9, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Darkness",
+                        "firstAired": "October 16, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Light",
+                        "firstAired": "October 23, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Water",
+                        "firstAired": "October 30, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Earth",
+                        "firstAired": "November 6, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Time",
+                        "firstAired": "November 13, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Life",
+                        "firstAired": "November 20, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Justice",
+                        "firstAired": "December 4, 2009 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Space",
+                        "firstAired": "April 2, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Divided",
+                        "firstAired": "April 9, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Faith",
+                        "firstAired": "April 16, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Human",
+                        "firstAired": "April 23, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Lost",
+                        "firstAired": "April 30, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Sabotage",
+                        "firstAired": "May 7, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Pain",
+                        "firstAired": "May 14, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Subversion",
+                        "firstAired": "May 21, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Incursion (1)",
+                        "firstAired": "June 4, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Incursion (2) season finale",
+                        "firstAired": "June 11, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Intervention",
+                        "firstAired": "September 28, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Aftermath",
+                        "firstAired": "October 5, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "Awakening",
+                        "firstAired": "October 12, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Pathogen",
+                        "firstAired": "October 19, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "Cloverdale",
+                        "firstAired": "October 26, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "Trial and Error",
+                        "firstAired": "November 2, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "The Greater Good",
+                        "firstAired": "November 9, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "Malice",
+                        "firstAired": "November 16, 2010 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Visitation",
+                        "firstAired": "November 23, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "Resurgence",
+                        "firstAired": "November 30, 2010 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E31",
+                        "name": "Deliverance",
+                        "firstAired": "March 7, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E32",
+                        "name": "Twin Destinies",
+                        "firstAired": "March 14, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E33",
+                        "name": "Alliances",
+                        "firstAired": "March 21, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E34",
+                        "name": "Hope",
+                        "firstAired": "March 28, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E35",
+                        "name": "Seizure",
+                        "firstAired": "April 4, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E36",
+                        "name": "The Hunt",
+                        "firstAired": "April 11, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E37",
+                        "name": "Common Descent",
+                        "firstAired": "April 18, 2011 SYFY",
+                        "runtime": 43
+                    },
+                    {
+                        "code": "S01E38",
+                        "name": "Epilogue",
+                        "firstAired": "April 25, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E39",
+                        "name": "Blockade",
+                        "firstAired": "May 2, 2011 SYFY",
+                        "runtime": 44
+                    },
+                    {
+                        "code": "S01E40",
+                        "name": "Gauntlet series finale",
+                        "firstAired": "May 9, 2011 SYFY",
+                        "runtime": 43
+                    }
+                ]
+            }
+        ]
+    }
+}

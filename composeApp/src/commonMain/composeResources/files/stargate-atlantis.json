@@ -1,0 +1,2274 @@
+{
+    "seriesTitle": "Stargate Atlantis",
+    "seriesDescription": {
+        "translations": {
+            "ces": {
+                "text": "Seriál StarGate Atlantis je tzv. odnož seriálu StarGate SG-1. Volně navazuje na poslední dva díly sedmé série, v nichž je na Antarktidě objevena Antická základna. Zde dr. Daniel Jackson zjišťuje, že adresa k městu Antiků - Atlantis - se skládá z osmi symbolů, a tudíž se toto město nachází v jiné galaxii. Galaxie nese název Pegasus a je součástí Trpaslíkovy galaxie. Je tedy sestavena expedice v čele s bývalou velitelkou SGC dr. Elizabeth Weirovou, která má za úkol pomocí antického zdroje energie ZPM otevřít červí díru na Atlantis a vydat se toto město prozkoumat. Avšak zdroj má energii, která vystačí pouze k jedinému otevření Brány, a tak expedice riskuje, že pokud na Atlantis nenalezne podobný zdroj energie, už se se Zemí nikdy nespojí a nebude se moci vrátit...",
+                "aliases": []
+            },
+            "dan": {
+                "text": "Den forsvundne by Atlantis er fundet! Men den ligger ikke på havets bund, som man ellers har gået og troet. I stedet befinder den sig mange hundrede lysår væk i en anden galakse. Stargate: Atlantis er en spin-off serie på den \"almindelige\" Stargate SG-1, som vi alle kender. Da der bliver fundet spor af byen Atlantis i den uudforskede Pegasus-galakse, samles et hold forskere og militærfolk for at rejse ud i denne fremmede del af universet. Der er kun ét problem: de kan ikke komme tilbage igen! Kun ved at finde byen og bruge den teknologi, der måtte findes der, har de en chance for at se jorden igen. På rejsen i Pegasus-galaksen møder de også en ny fjende, The Wraith, som både er meget interesseret i menneskeheden og meget sultne.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Dr. Elizabeth Weir und ihr Team begeben sich auf eine riskante Einwegmission in eine ferne Galaxis, wo sie die legendäre Stadt Atlantis, technologische Wunder und einen tödlichen neuen Feind entdecken.",
+                "aliases": []
+            },
+            "eng": {
+                "text": "The story of Stargate Atlantis follows the cliffhanger episode on Stargate SG-1's seventh season finale \"Lost City\", where SG-1 found an outpost made by the race known as the Ancients in Antarctica. After the events of Stargate SG-1 season eight premiere \"New Order\", the Stargate Command sends an international team to investigate the outpost. Soon, Dr. Daniel Jackson discovers the location of the greatest city created by the Ancients, Atlantis. The story unfolds when the members of the expedition encounter the Wraith, the race that defeated the Ancients ten thousand years ago.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Kun TP-1 tekee löydön, jonka he uskovat olevan Muinaisten kadonneen kaupungin – paikan, jossa Tähtiportti luotiin – rauniot, käynnistetään uusi tutkimusprojekti. Tutkimusryhmä, jota johtaa Tri. Elizabeth Weir, matkustaa kaukaiseen Pegasus-galaksiin. He löytävät kehittyneen, mutta hylätyn kaupungin meren pohjasta, paimentolaisryhmän ja tappavan vaarallisen vihollisen, joka ravitsee itsensä inhimillisellä pelolla.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Une nouvelle Porte des étoiles découverte dans la cité perdue d'Atlantis, au milieu des glaces de l'Antarctique, devient la nouvelle base secrète de l'armée. L'équipe Stargate : Atlantis a pour mission d'explorer la galaxie Pegase, où de nombreuses planètes ont été peuplées par la civilisation humaine qui vivait autrefois dans la cité d'Atlantis. Dans cet univers encore inconnu de la Terre, la nouvelle équipe d'explorateurs rencontrera un nouvel ennemi craint de tous : The Wraith...",
+                "aliases": []
+            },
+            "heb": {
+                "text": "ספין אוף לסדרה \"סטארגייט ס\"ג-1\" משנת 1997 וסובבת סביב מכשיר בשם \"סטארגייט\" המהווה שער לעולמות מרוחקים. עלילת הסדרה ממוקמת בגלקסיית פגסוס בה התיישבו הקדמונים עם עירם המעופפת אטלנטיס, אולם, עד מהרה גילו כי הגלקסיה שורצת בגזע חייזרי מאיים, ויצאו למלחמה נגדם. הם הפסידו ונאלצו להשקיע את העיר אל מתחת לפני הים ולנטוש אותה. בהווה, משלחת רב לאומית המורכבת ממדענים ואנשי צבא עוברת ב-\"סטארגייט\" אל עבר גלקסיית פגסוס, לאחר שנמצאו באנטארטיקה רמזים לקיומה של העיר האבודה אטלנטיס.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Zvjezdana vrata: Atlantis je spin-off serije Zvjezdana vrata SG-1. Serija se nastavlja na kraj sedme sezone serije SG-1, a bavi se avanturama nove grupe likova u gradu Drevnih Atlantisu koji se nalazi u dalekoj galaksiji Pegaz. Odmah pri dolasku u grad susreću prijatelje, ali i moćne neprijatelje koji su prije nekoliko milijuna godina pokorili Drevne, najrazvijeniju i najmoćniju rasu u svemiru za koju znamo.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "A CSK-1 az Antarktiszon egy előörsöt talált, amit egy, az Ősök néven ismert faj készített. A Csillagkapu Parancsnokság egy nemzetközi csapatot küld az előörs tanulmányozására. Dr. Jackson hamarosan felfedezi, hogy hol van az Ősök által készített legnagyobb város, Atlantisz. A sorozat tudósok és katonák kalandjait követi, akik egy valószínűleg egyirányú utat tesznek Atlantisz elveszett városába, a Pegazus-galaxisba. a CSK csapatokhoz hasonlóan az új csapat is a csillagkaput használja, hogy kapcsolatba lépjen más kultúrákkal, néhány emberivel, néhány idegennel, barátságossal és nagyon veszélyessel, köztük a legújabb és legerősebb ellenségükkel: a Lidérccel.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "Stargate Atlantis è uno spin-off della serie televisiva Stargate SG-1, che a sua volta è basata sul film Stargate (1994). È andato in onda per la prima volta negli Stati Uniti il 16 luglio 2004, mentre in Italia è stato trasmesso a partire dal 4 marzo 2005. In questa nuova serie viene scoperto in Antartide un avamposto degli Antichi, i creatori degli Stargate, dove si scopre finalmente come raggiungere la mitica città di Atlantide nella galassia di Pegaso. L'episodio di apertura, \"Nascita\", in due parti, segue nella storia il finale della settima stagione di Stargate SG-1 (\"Città perduta\"). La serie racconta le avventure di un gruppo di scienziati e militari che hanno intrapreso un viaggio di sola andata verso la città perduta di Atlantide, situata nella Galassia di Pegaso. Come nel caso delle Squadre SG di Stargate SG-1, l'utilizzo del portale ha posto l'umanità in contatto con altre culture, alcune umane e altre aliene, alcune amiche e altre ostili.",
+                "aliases": []
+            },
+            "kor": {
+                "text": "스타 게이트 아틀란티스의 이야기는 SG-1전초 기지'그 경주를 Ancients 남극 대륙에서로 알려진도록 만든다는 것을 알았습니다 스타 게이트 SG-1의 일곱번째 시즌 마지막 장면\" 잃어버린 도시\",에 팽팽한 에피소드 따라갑니다. 스타 게이트 SG-1시즌 8시사회\"뉴 오더\"사건 이후, 스타 게이트 사령부 국제적인 팀은 전초 기지를 조사하기 위해 보낸다. 곧, 박사 대니얼 잭슨은 위대한 도시는 Ancients, 아틀란티스에 의해 창조된 위치를 발견한다. 때는 이번 탐험의 회원들이 레이스,, 10,000년 전에 Ancients 물리쳐경주 만나는 이야기 전개된다.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "‘Lost City of the Ancients’, ontdekt de ‘Stargate Command’ een nieuwe wereld: het legendarische Atlantis. Deze nieuwe wereld zit niet alleen vol met vernieuwende technologieën en bondgenoten, maar er huist ook een dodelijke nieuwe vijand! Terwijl het team meer en meer ontdekt in Atlantis blijkt dat zij te weinig kracht te hebben om naar huis terug te keren. Het begint er op te lijken dat hun reis naar Atlantis meer wordt dan alleen een kort bezoek…",
+                "aliases": []
+            },
+            "nor": {
+                "text": "Den tapte byen Atlantis er funnet! En hemmelig gruppe forskere har funnet stedet for den kjente byen Atlantis, men ikke på jorden. Den er plassert i en annen galakse, Pegasus galaksen. Stargate Atlantis er en etterfølger på den kjente serien Stargate SG-1, som følger en internationalt gruppe med militære og forskere, ledet av Diplomaten Dr. Elizabeth Weir (spilt av skuespillerinnen Torri Higginson), på sin ferd til Atlantis. Oppdraget deres er å finne ut av hemmelighetene til Atlantis, en by kjent for å være bygd av en gammel rase smarte folk, og ta med seg oppdagelsene tilbake til jorden. De må kjempe alene, uten mulighet for å dra tilbake, uten sjans å bli reddet eller få hjelp, hvis de ikke kan bruke hemmelighetene på Atlantis til sin hjelp. I Pegasus galaksen treffer de en ond rase, Wraith, som hersker galaksen på ett brutalt hvis. Mennesker som deres eneste ernering. Følg de spennede reisene til SGA ledet av Major John Sheppard(Joe Flanigan), og hans team: Løytnant Aiden Ford(Rainbow Sun Francks) og Astrofysikeren/forskeren Dr.Rodney McKay.(David Hewlett). Med seg får de Teyla Emmagan(Rachel Luttrell), en vakker, eksotisk kvinne fra Pegasus galaksen.",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Gwiezdne Wrota: Atlantyda to serial bazujący na tematyce z serialu Gwiezdne Wrota SG-1. Opowiada przygody całkiem nowych bohaterów w świecie Gwiezdnych Wrót. Akcja toczy się już po przygodach grupy SG-1 w odległej galaktyce. Jedynie w epizodach będziemy mogli zobaczyć członków słynnej już grupy SG-1.",
+                "aliases": []
+            },
+            "por": {
+                "text": "Os acontecimentos em Stargate Atlantis seguem-se ao episódio final Lost City da sétima temporada de Stargate SG-1, no qual a equipa SG-1 encontrou um posto avançado na Antártida construído por uma raça conhecida como os Antigos (”the Ancient”). Com os desdobramentos em New Order, episódio inicial da oitava temporada de Stargate SG-1, o Comando Stargate envia uma equipa internacional para investigar o posto. O Dr. Jackson descobre a localização da mais grandiosa cidade criada pelos Antigos: Atlântida. A nova série acompanha as aventuras de um grupo de cientistas e militares que embarcam numa viagem sem volta para aquela cidade, na Galáxia Pégasus. Da mesma maneira que as equipas SG de Stargate SG-1, o uso, pela nova equipa, do Stargate coloca a humanidade em contacto com outras culturas, algumas humanas, outras alienígenas, algumas amigáveis, outras profundamente hostis, como os Wraith.",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Спин-офф сериала «Звёздные врата ЗВ-1»: после того, как доктору Дэниелу Джексону удалось обнаружить адрес затерянного города Древних, командование программы Звёздных Врат собрало международную экспедицию для его исследования во главе с доктором Элизабет Вейр. Казалось бы, что может быть проще, чем прибыть в галактику «Пегас» и оживив город Древних? Но и тут не обошлось без проблем: оказалось, что в этой галактике также существуют расы, способные уничтожить как Землю, так и другие миры Млечного Пути, и называют их Рэйфами и Репликаторами.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Un grupo de científicos, entre los que se encuentran el Dr. Jackson, la Dra. Weir y el Dr. McKay, están estudiando el puesto avanzado de los Antiguos que O'Neill descubrió al final de la séptima temporada. El Dr. Jackson consigue averiguar que pasó con Atlantis: los Antiguos se la llevaron a otra galaxia, Pegaso, y tiene la dirección de donde fueron. El problema es que abrir el Stargate a otra galaxia gasta mucha energía, por lo que es posible que sea un viaje sin retorno. Sin embargo, una expedición científico-militar, capitaneada por la propia Weir, decide embarcarse en la aventura y parte hacia la ciudad perdida de los Antiguos, Atlantis. Una vez allí, se encontrarán con un enemigo mucho peor que los Goaul'd; los Wraith (Espectros), una raza que se alimenta de la energía vital de los seres humanos y que, 10.000 años atrás, obligaron a los Antiguos a abandonar Pegaso y volver a la Tierra.",
+                "aliases": []
+            },
+            "swe": {
+                "text": "Den förlorade staden Atlantis har blivit funnen. Det är en hemlig grupp av vetenskapsmän som hittat platsen där den berömda staden Atlantis ligger. Men den låg inte där man trott att den skulle ligga, den ligger inte ens på jorden utan i en annan galax, närmare bestämt Pegasusgalaxen. Stargate Atlantis är en spin-off på den mycket populära serien Stargate SG-1 och vi får följa en multinationell forskar- och militärgrupp ledd av diplomaten Dr. Elizabeth Weir (Torri Higginson). Deras uppdrag är att utforska Atlantis och ta med sig det de upptäcker tillbaka till jorden. De är helt själva och har ingen möjlighet att ta sig tillbaka till jorden såvida de inte hittar någon teknologi i Atlantis som kan föra dem tillbaka.",
+                "aliases": []
+            },
+            "tur": {
+                "text": "Bir grup bilim adamı kayıp şehir Atlantis'in yerini tespit eder. Sanıldığı üzere Atlantis dünyada değil, Pegasus Galaksisi'ndedir. Popüler Stargate SG-1 dizisinin alternatif devamı olarak çekilen bu dizide, Diplomat Dr. Elizabeth Weir'ın öncülüğünde farklı milletlerden gelen bir bilim adamı ve asker grubu, Atlantis'e doğru geri dönüşü olmayan bir yolculuğa çıkarlar. Görevleri büyük güçlere sahip kadim ırklar tarafından inşa edildiği anlaşılan bu şehrin gizemlerini araştırmak ve keşiflerini dünyaya getirmektir. Ancak geri dönüşleri, bunu sağlayacak teknolojiyi Atlantis'te bulmalarına bağlıdır; hiçbir destek veya kurtarma görevi olmayacaktır.",
+                "aliases": []
+            },
+            "zho": {
+                "text": "這是最新一部關於星際之門的科幻作品。故事起源於在南極洲發現了一種叫星際之門的東西，通過它， 可以前往位於天馬座的遠古人類建造的亞特蘭蒂斯。一支由科學家、醫生以及軍人組成的探險隊就為了探索亞特蘭蒂斯的奧秘勇敢的踏上了征程。",
+                "aliases": [
+                    "星际之门：亚特兰蒂斯"
+                ]
+            },
+            "bul": {
+                "text": "След като д-р Даниел Джаксън успява да намери адреса на изгубения град на древните. Командването на програма Старгейт събира международна експедиция за изследване от военни и цивилни, водена от д-р Елизабет Уиър, които отпътуват към галактиката Пегас в търсене на изгубения град Атлантида, изоставен от могъщата раса. Изглежда, че може да лесно да отидат в галактиката Пегас и съживят града на древните? Но там не минава всичко без проблеми: оказа се, че в тази галактика също съществуват раси, които могат да унищожат както Земята така и другите светове в Млечния път, наричани Призраци и Репликатори.",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Os acontecimentos em Stargate Atlantis seguem-se ao episódio final Lost City da sétima temporada de Stargate SG-1, no qual a equipe SG-1 encontrou um posto avançado na Antártida construído por uma raça conhecida como os Antigos. Com os desdobramentos em New Order, episódio inicial da oitava temporada de Stargate SG-1, o Comando do Stargate envia uma equipe internacional para investigar o posto. O Dr. Jackson descobre a localização da mais grandiosa cidade criada pelos Antigos: Atlântida. A nova série acompanha as aventuras de um grupo de cientistas e militares que embarcam numa viagem sem volta para aquela cidade, na Galáxia Pégasus. Da mesma maneira que as equipes SG de Stargate SG-1, o uso, pela nova equipe, do Stargate coloca a humanidade em contacto com outras culturas, algumas humanas, outras alienígenas, algumas amigáveis, outras profundamente hostis, como os Wraith.",
+                "aliases": []
+            },
+            "sqi": {
+                "text": "Historia e Stargate Atlantis ndjek episodin final të sezonit të shtatë të Stargate SG-1, \"Lost City\", ku SG-1 gjeti një post të ngritur nga raca e njohur si Antikët në Antarktidë. Pas ngjarjeve të premierës së sezonit të tetë të Stargate SG-1, \"New Order\", Komanda e Stargate dërgon një ekip ndërkombëtar për të hetuar postin. Së shpejti, Dr. Daniel Jackson zbulon vendndodhjen e qytetit më të madh të krijuar nga Antikët, Atlantis. Historia shpaloset kur anëtarët e ekspeditës takohen me Wraith, racën që mposhti Antikët dhjetë mijë vite më parë.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "70851",
+        "Status": "Ended",
+        "First Aired": "July 16, 2004",
+        "Recent": "June 30, 2009",
+        "Airs": "Monday, at 9:00pm",
+        "Network": "SYFY",
+        "Average Runtime": "45 minutes",
+        "Genres": "Action Adventure Drama Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "EIDR IMDB TMS (Zap2It) TheMovieDB.com",
+        "Trailers": "English Trailer",
+        "Episode Screenshot Format": "4:3 Screencap",
+        "Favorited": "This series has been favorited by 8460 people.",
+        "Created": "February 4, 2008 by Arithon55",
+        "Modified": "September 24, 2026 by nomis94"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Joe Flanigan",
+                "playsAs": "John Sheppard"
+            },
+            {
+                "name": "David Hewlett",
+                "playsAs": "Dr. Rodney McKay"
+            },
+            {
+                "name": "Torri Higginson",
+                "playsAs": "Dr. Elizabeth Weir"
+            },
+            {
+                "name": "Paul McGillion",
+                "playsAs": "Dr. Carson Beckett"
+            },
+            {
+                "name": "Rainbow Sun Francks",
+                "playsAs": "Aiden Ford"
+            },
+            {
+                "name": "Rachel Luttrell",
+                "playsAs": "Teyla Emmagan"
+            },
+            {
+                "name": "Jason Momoa",
+                "playsAs": "Ronon Dex"
+            },
+            {
+                "name": "Amanda Tapping",
+                "playsAs": "Samantha Carter"
+            },
+            {
+                "name": "Robert Picardo",
+                "playsAs": "Richard Woolsey"
+            },
+            {
+                "name": "Jewel Staite",
+                "playsAs": "Dr. Jennifer Keller"
+            },
+            {
+                "name": "Mitch Pileggi",
+                "playsAs": "Steven Caldwell"
+            },
+            {
+                "name": "Kavan Smith",
+                "playsAs": "Evan Lorne"
+            },
+            {
+                "name": "David Nykl",
+                "playsAs": "Dr. Radek Zelenka"
+            },
+            {
+                "name": "Christopher Heyerdahl",
+                "playsAs": "Halling"
+            },
+            {
+                "name": "Christopher Heyerdahl",
+                "playsAs": "Todd"
+            },
+            {
+                "name": "Connor Trinneer",
+                "playsAs": "Michael"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Martin Wood",
+                "numberOfEpisodes": 31,
+                "dates": "07/16/2004 - 03/07/2008"
+            },
+            {
+                "name": "Martin Gero",
+                "numberOfEpisodes": 30,
+                "dates": "08/13/2004 - 11/21/2008"
+            },
+            {
+                "name": "Andy Mikita",
+                "numberOfEpisodes": 22,
+                "dates": "02/18/2005 - 01/09/2009"
+            },
+            {
+                "name": "William Waring",
+                "numberOfEpisodes": 14,
+                "dates": "08/25/2006 - 11/14/2008"
+            },
+            {
+                "name": "Robert C. Cooper",
+                "numberOfEpisodes": 9,
+                "dates": "07/16/2004 - 10/19/2007"
+            },
+            {
+                "name": "Peter DeLuise",
+                "numberOfEpisodes": 8,
+                "dates": "08/27/2004 - 01/23/2006"
+            },
+            {
+                "name": "Brad Turner",
+                "numberOfEpisodes": 6,
+                "dates": "08/20/2004 - 04/13/2007"
+            },
+            {
+                "name": "Mario Azzopardi",
+                "numberOfEpisodes": 4,
+                "dates": "07/30/2004 - 03/04/2005"
+            },
+            {
+                "name": "Brenton Spencer",
+                "numberOfEpisodes": 3,
+                "dates": "06/08/2007 - 10/24/2008"
+            },
+            {
+                "name": "Ken Girotti",
+                "numberOfEpisodes": 2,
+                "dates": "07/25/2008 - 08/15/2008"
+            },
+            {
+                "name": "Ivon R. Bartok",
+                "numberOfEpisodes": 2,
+                "dates": "07/03/2004"
+            },
+            {
+                "name": "Robert Cooper",
+                "numberOfEpisodes": 2,
+                "dates": "01/02/2009"
+            },
+            {
+                "name": "David Winning",
+                "numberOfEpisodes": 1,
+                "dates": "08/13/2004"
+            },
+            {
+                "name": "David Warry-Smith",
+                "numberOfEpisodes": 1,
+                "dates": "07/23/2004"
+            },
+            {
+                "name": "Neill Fearnley",
+                "numberOfEpisodes": 1,
+                "dates": "11/28/2005"
+            },
+            {
+                "name": "Peter F. Woeste",
+                "numberOfEpisodes": 1,
+                "dates": "02/22/2008"
+            },
+            {
+                "name": "James Head",
+                "numberOfEpisodes": 1,
+                "dates": "02/11/2005"
+            },
+            {
+                "name": "Will Waring",
+                "numberOfEpisodes": 1,
+                "dates": "12/12/2008"
+            },
+            {
+                "name": "Paul Ziller",
+                "numberOfEpisodes": 1,
+                "dates": "08/18/2006"
+            },
+            {
+                "name": "Holly Dale",
+                "numberOfEpisodes": 1,
+                "dates": "09/10/2004"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Carl Binder",
+                "numberOfEpisodes": 24,
+                "dates": "02/18/2005 - 12/12/2008"
+            },
+            {
+                "name": "Joseph Mallozzi",
+                "numberOfEpisodes": 17,
+                "dates": "08/06/2004 - 01/09/2009"
+            },
+            {
+                "name": "Paul Mullie",
+                "numberOfEpisodes": 17,
+                "dates": "08/06/2004 - 01/09/2009"
+            },
+            {
+                "name": "Alan McCullough",
+                "numberOfEpisodes": 8,
+                "dates": "11/02/2007 - 12/05/2008"
+            },
+            {
+                "name": "Brad Wright",
+                "numberOfEpisodes": 6,
+                "dates": "07/16/2004 - 08/22/2008"
+            },
+            {
+                "name": "Damian Kindler",
+                "numberOfEpisodes": 4,
+                "dates": "08/20/2004 - 05/04/2007"
+            },
+            {
+                "name": "Joe Flanigan",
+                "numberOfEpisodes": 3,
+                "dates": "02/01/2008"
+            },
+            {
+                "name": "Ken Cuperus",
+                "numberOfEpisodes": 3,
+                "dates": "08/25/2006 - 06/08/2007"
+            },
+            {
+                "name": "Alex Levine",
+                "numberOfEpisodes": 1,
+                "dates": "10/24/2008"
+            },
+            {
+                "name": "Melissa R. Byer",
+                "numberOfEpisodes": 1,
+                "dates": "08/26/2005"
+            },
+            {
+                "name": "Alan Brennert",
+                "numberOfEpisodes": 1,
+                "dates": "02/11/2005"
+            },
+            {
+                "name": "David Schmidt",
+                "numberOfEpisodes": 1,
+                "dates": "09/19/2008"
+            },
+            {
+                "name": "Treena Hancock",
+                "numberOfEpisodes": 1,
+                "dates": "08/26/2005"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "July 2004",
+                "to": "March 2005",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Rising (1)",
+                        "firstAired": "July 16, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Rising (2)",
+                        "firstAired": "July 16, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Hide and Seek",
+                        "firstAired": "July 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Thirty-Eight Minutes",
+                        "firstAired": "July 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Suspicion",
+                        "firstAired": "August 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Childhood's End",
+                        "firstAired": "August 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Poisoning the Well",
+                        "firstAired": "August 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Underground",
+                        "firstAired": "August 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Home",
+                        "firstAired": "September 10, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "The Storm (1)",
+                        "firstAired": "September 17, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Eye (2)",
+                        "firstAired": "January 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Defiant One",
+                        "firstAired": "January 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Hot Zone",
+                        "firstAired": "February 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Sanctuary",
+                        "firstAired": "February 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Before I Sleep",
+                        "firstAired": "February 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "The Brotherhood",
+                        "firstAired": "February 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Letters from Pegasus",
+                        "firstAired": "March 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "The Gift",
+                        "firstAired": "March 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "The Siege (1)",
+                        "firstAired": "March 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "The Siege (2) season finale",
+                        "firstAired": "March 25, 2005 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "July 2005",
+                "to": "January 2006",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Siege (3)",
+                        "firstAired": "July 15, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "The Intruder",
+                        "firstAired": "July 22, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Runner",
+                        "firstAired": "July 29, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Duet",
+                        "firstAired": "August 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Condemned",
+                        "firstAired": "August 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Trinity",
+                        "firstAired": "August 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Instinct",
+                        "firstAired": "August 26, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Conversion",
+                        "firstAired": "September 9, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Aurora",
+                        "firstAired": "September 23, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Lost Boys (1)",
+                        "firstAired": "September 23, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "The Hive (2)",
+                        "firstAired": "November 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Epiphany",
+                        "firstAired": "November 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Critical Mass",
+                        "firstAired": "December 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Grace Under Pressure",
+                        "firstAired": "December 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Tower",
+                        "firstAired": "December 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "The Long Goodbye",
+                        "firstAired": "January 2, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Coup d'Etat",
+                        "firstAired": "January 9, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Michael",
+                        "firstAired": "January 16, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Inferno",
+                        "firstAired": "January 23, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Allies (1) season finale",
+                        "firstAired": "January 30, 2006 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "July 2006",
+                "to": "June 2007",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "No Man's Land (2)",
+                        "firstAired": "July 14, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Misbegotten (3)",
+                        "firstAired": "July 21, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Irresistible",
+                        "firstAired": "July 28, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Sateda",
+                        "firstAired": "August 4, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Progeny",
+                        "firstAired": "August 11, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "The Real World",
+                        "firstAired": "August 18, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Common Ground",
+                        "firstAired": "August 25, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "McKay and Mrs. Miller",
+                        "firstAired": "September 8, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Phantoms",
+                        "firstAired": "September 15, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "The Return (1)",
+                        "firstAired": "September 22, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "The Return (2)",
+                        "firstAired": "April 13, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Echoes",
+                        "firstAired": "April 20, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Irresponsible",
+                        "firstAired": "April 27, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Tao of Rodney",
+                        "firstAired": "May 4, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "The Game",
+                        "firstAired": "May 11, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "The Ark",
+                        "firstAired": "May 18, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "Sunday",
+                        "firstAired": "June 1, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Submersion",
+                        "firstAired": "June 8, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Vengeance",
+                        "firstAired": "June 15, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "First Strike (1) season finale",
+                        "firstAired": "June 22, 2007 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 4,
+                "from": "September 2007",
+                "to": "March 2008",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/official/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Adrift (2)",
+                        "firstAired": "September 28, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Lifeline (3)",
+                        "firstAired": "October 5, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Reunion",
+                        "firstAired": "October 12, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "Doppelganger",
+                        "firstAired": "October 19, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Travelers",
+                        "firstAired": "October 26, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Tabula Rasa",
+                        "firstAired": "November 2, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Missing",
+                        "firstAired": "November 9, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "The Seer",
+                        "firstAired": "November 16, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Miller's Crossing",
+                        "firstAired": "November 30, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "This Mortal Coil (1)",
+                        "firstAired": "December 7, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Be All My Sins Remember'd (2)",
+                        "firstAired": "January 4, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Spoils of War",
+                        "firstAired": "January 11, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Quarantine",
+                        "firstAired": "January 18, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "Harmony",
+                        "firstAired": "January 25, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Outcast",
+                        "firstAired": "February 1, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Trio",
+                        "firstAired": "February 8, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Midway",
+                        "firstAired": "February 15, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "The Kindred (1)",
+                        "firstAired": "February 22, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "The Kindred (2)",
+                        "firstAired": "February 29, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "The Last Man (1) season finale",
+                        "firstAired": "March 7, 2008 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 5,
+                "from": "July 2008",
+                "to": "January 2009",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/official/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Search and Rescue (2)",
+                        "firstAired": "July 11, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "The Seed",
+                        "firstAired": "July 18, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Broken Ties",
+                        "firstAired": "July 25, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "The Daedalus Variations",
+                        "firstAired": "August 1, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Ghost in the Machine",
+                        "firstAired": "August 15, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "The Shrine",
+                        "firstAired": "August 22, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Whispers",
+                        "firstAired": "September 5, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "The Queen",
+                        "firstAired": "September 12, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Tracker",
+                        "firstAired": "September 19, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "First Contact (1)",
+                        "firstAired": "September 26, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "The Lost Tribe (2)",
+                        "firstAired": "October 10, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Outsiders",
+                        "firstAired": "October 17, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "Inquisition",
+                        "firstAired": "October 24, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "The Prodigal",
+                        "firstAired": "November 7, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Remnants",
+                        "firstAired": "November 14, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Brain Storm",
+                        "firstAired": "November 21, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "Infection",
+                        "firstAired": "December 5, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "Identity",
+                        "firstAired": "December 12, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "Vegas",
+                        "firstAired": "January 2, 2009 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "Enemy at the Gate series finale",
+                        "firstAired": "January 9, 2009 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "July 2004",
+                "to": "March 2005",
+                "episodes": 19,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Rising",
+                        "firstAired": "July 16, 2004 SYFY",
+                        "runtime": 90
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Hide and Seek",
+                        "firstAired": "July 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Thirty-Eight Minutes",
+                        "firstAired": "July 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Suspicion",
+                        "firstAired": "August 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Childhood's End",
+                        "firstAired": "August 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Poisoning the Well",
+                        "firstAired": "August 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Underground",
+                        "firstAired": "August 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Home",
+                        "firstAired": "September 10, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "The Storm (1)",
+                        "firstAired": "September 17, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "The Eye (2)",
+                        "firstAired": "January 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Defiant One",
+                        "firstAired": "January 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Hot Zone",
+                        "firstAired": "February 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Sanctuary",
+                        "firstAired": "February 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Before I Sleep",
+                        "firstAired": "February 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "The Brotherhood",
+                        "firstAired": "February 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Letters from Pegasus",
+                        "firstAired": "March 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "The Gift",
+                        "firstAired": "March 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "The Siege (1)",
+                        "firstAired": "March 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "The Siege (2) season finale",
+                        "firstAired": "March 25, 2005 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "July 2005",
+                "to": "January 2006",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Siege (3)",
+                        "firstAired": "July 15, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "The Intruder",
+                        "firstAired": "July 22, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Runner",
+                        "firstAired": "July 29, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Duet",
+                        "firstAired": "August 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Condemned",
+                        "firstAired": "August 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Trinity",
+                        "firstAired": "August 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Instinct",
+                        "firstAired": "August 26, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Conversion",
+                        "firstAired": "September 9, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Aurora",
+                        "firstAired": "September 23, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "The Lost Boys (1)",
+                        "firstAired": "September 23, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "The Hive (2)",
+                        "firstAired": "November 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "Epiphany",
+                        "firstAired": "November 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Critical Mass",
+                        "firstAired": "December 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Grace Under Pressure",
+                        "firstAired": "December 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Tower",
+                        "firstAired": "December 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "The Long Goodbye",
+                        "firstAired": "January 2, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "Coup d'Etat",
+                        "firstAired": "January 9, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Michael",
+                        "firstAired": "January 16, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "Inferno",
+                        "firstAired": "January 23, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Allies (1) season finale",
+                        "firstAired": "January 30, 2006 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "July 2006",
+                "to": "June 2007",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "No Man's Land (2)",
+                        "firstAired": "July 14, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Misbegotten (3)",
+                        "firstAired": "July 21, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Irresistible",
+                        "firstAired": "July 28, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Sateda",
+                        "firstAired": "August 4, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Progeny",
+                        "firstAired": "August 11, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "The Real World",
+                        "firstAired": "August 18, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Common Ground",
+                        "firstAired": "August 25, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "McKay and Mrs. Miller",
+                        "firstAired": "September 8, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Phantoms",
+                        "firstAired": "September 15, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "The Return (1)",
+                        "firstAired": "September 22, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "The Return (2)",
+                        "firstAired": "April 13, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Echoes",
+                        "firstAired": "April 20, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Irresponsible",
+                        "firstAired": "April 27, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Tao of Rodney",
+                        "firstAired": "May 4, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "The Game",
+                        "firstAired": "May 11, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "The Ark",
+                        "firstAired": "May 18, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "Sunday",
+                        "firstAired": "June 1, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "Submersion",
+                        "firstAired": "June 8, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Vengeance",
+                        "firstAired": "June 15, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "First Strike (1) season finale",
+                        "firstAired": "June 22, 2007 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 4,
+                "from": "September 2007",
+                "to": "March 2008",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/dvd/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Adrift (2)",
+                        "firstAired": "September 28, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "Lifeline (3)",
+                        "firstAired": "October 5, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Reunion",
+                        "firstAired": "October 12, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "Doppelganger",
+                        "firstAired": "October 19, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Travelers",
+                        "firstAired": "October 26, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Tabula Rasa",
+                        "firstAired": "November 2, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Missing",
+                        "firstAired": "November 9, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "The Seer",
+                        "firstAired": "November 16, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Miller's Crossing",
+                        "firstAired": "November 30, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "This Mortal Coil (1)",
+                        "firstAired": "December 7, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E11",
+                        "name": "Be All My Sins Remember'd (2)",
+                        "firstAired": "January 4, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E12",
+                        "name": "Spoils of War",
+                        "firstAired": "January 11, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E13",
+                        "name": "Quarantine",
+                        "firstAired": "January 18, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E14",
+                        "name": "Harmony",
+                        "firstAired": "January 25, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E15",
+                        "name": "Outcast",
+                        "firstAired": "February 1, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E16",
+                        "name": "Trio",
+                        "firstAired": "February 8, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E17",
+                        "name": "Midway",
+                        "firstAired": "February 15, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E18",
+                        "name": "The Kindred (1)",
+                        "firstAired": "February 22, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E19",
+                        "name": "The Kindred (2)",
+                        "firstAired": "February 29, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E20",
+                        "name": "The Last Man (1) season finale",
+                        "firstAired": "March 7, 2008 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 5,
+                "from": "July 2008",
+                "to": "January 2009",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/dvd/5",
+                "episodeList": [
+                    {
+                        "code": "S05E01",
+                        "name": "Search and Rescue (2)",
+                        "firstAired": "July 11, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E02",
+                        "name": "The Seed",
+                        "firstAired": "July 18, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E03",
+                        "name": "Broken Ties",
+                        "firstAired": "July 25, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E04",
+                        "name": "The Daedalus Variations",
+                        "firstAired": "August 1, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E05",
+                        "name": "Ghost in the Machine",
+                        "firstAired": "August 15, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E06",
+                        "name": "The Shrine",
+                        "firstAired": "August 22, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E07",
+                        "name": "Whispers",
+                        "firstAired": "September 5, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E08",
+                        "name": "The Queen",
+                        "firstAired": "September 12, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E09",
+                        "name": "Tracker",
+                        "firstAired": "September 19, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E10",
+                        "name": "First Contact (1)",
+                        "firstAired": "September 26, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E11",
+                        "name": "The Lost Tribe (2)",
+                        "firstAired": "October 10, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E12",
+                        "name": "Outsiders",
+                        "firstAired": "October 17, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E13",
+                        "name": "Inquisition",
+                        "firstAired": "October 24, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E14",
+                        "name": "The Prodigal",
+                        "firstAired": "November 7, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E15",
+                        "name": "Remnants",
+                        "firstAired": "November 14, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E16",
+                        "name": "Brain Storm",
+                        "firstAired": "November 21, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E17",
+                        "name": "Infection",
+                        "firstAired": "December 5, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E18",
+                        "name": "Identity",
+                        "firstAired": "December 12, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E19",
+                        "name": "Vegas",
+                        "firstAired": "January 2, 2009 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S05E20",
+                        "name": "Enemy at the Gate series finale",
+                        "firstAired": "January 9, 2009 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "July 2004",
+                "to": "January 2009",
+                "episodes": 100,
+                "episodesUrl": "https://www.thetvdb.com/series/stargate-atlantis/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Rising (1)",
+                        "firstAired": "July 16, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Rising (2)",
+                        "firstAired": "July 16, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Hide and Seek",
+                        "firstAired": "July 23, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Thirty-Eight Minutes",
+                        "firstAired": "July 30, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Suspicion",
+                        "firstAired": "August 6, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Childhood's End",
+                        "firstAired": "August 13, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Poisoning the Well",
+                        "firstAired": "August 20, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Underground",
+                        "firstAired": "August 27, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Home",
+                        "firstAired": "September 10, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "The Storm (1)",
+                        "firstAired": "September 17, 2004 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Eye (2)",
+                        "firstAired": "January 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Defiant One",
+                        "firstAired": "January 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Hot Zone",
+                        "firstAired": "February 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Sanctuary",
+                        "firstAired": "February 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Before I Sleep",
+                        "firstAired": "February 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "The Brotherhood",
+                        "firstAired": "February 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Letters from Pegasus",
+                        "firstAired": "March 4, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "The Gift",
+                        "firstAired": "March 11, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "The Siege (1)",
+                        "firstAired": "March 18, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "The Siege (2) season finale",
+                        "firstAired": "March 25, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "The Siege (3)",
+                        "firstAired": "July 15, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "The Intruder",
+                        "firstAired": "July 22, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "Runner",
+                        "firstAired": "July 29, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Duet",
+                        "firstAired": "August 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "Condemned",
+                        "firstAired": "August 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "Trinity",
+                        "firstAired": "August 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Instinct",
+                        "firstAired": "August 26, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "Conversion",
+                        "firstAired": "September 9, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Aurora",
+                        "firstAired": "September 23, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "The Lost Boys (1)",
+                        "firstAired": "September 23, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E31",
+                        "name": "The Hive (2)",
+                        "firstAired": "November 21, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E32",
+                        "name": "Epiphany",
+                        "firstAired": "November 28, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E33",
+                        "name": "Critical Mass",
+                        "firstAired": "December 5, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E34",
+                        "name": "Grace Under Pressure",
+                        "firstAired": "December 12, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E35",
+                        "name": "The Tower",
+                        "firstAired": "December 19, 2005 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E36",
+                        "name": "The Long Goodbye",
+                        "firstAired": "January 2, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E37",
+                        "name": "Coup d'Etat",
+                        "firstAired": "January 9, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E38",
+                        "name": "Michael",
+                        "firstAired": "January 16, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E39",
+                        "name": "Inferno",
+                        "firstAired": "January 23, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E40",
+                        "name": "Allies (1) season finale",
+                        "firstAired": "January 30, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E41",
+                        "name": "No Man's Land (2)",
+                        "firstAired": "July 14, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E42",
+                        "name": "Misbegotten (3)",
+                        "firstAired": "July 21, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E43",
+                        "name": "Irresistible",
+                        "firstAired": "July 28, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E44",
+                        "name": "Sateda",
+                        "firstAired": "August 4, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E45",
+                        "name": "Progeny",
+                        "firstAired": "August 11, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E46",
+                        "name": "The Real World",
+                        "firstAired": "August 18, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E47",
+                        "name": "Common Ground",
+                        "firstAired": "August 25, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E48",
+                        "name": "McKay and Mrs. Miller",
+                        "firstAired": "September 8, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E49",
+                        "name": "Phantoms",
+                        "firstAired": "September 15, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E50",
+                        "name": "The Return (1)",
+                        "firstAired": "September 22, 2006 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E51",
+                        "name": "The Return (2)",
+                        "firstAired": "April 13, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E52",
+                        "name": "Echoes",
+                        "firstAired": "April 20, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E53",
+                        "name": "Irresponsible",
+                        "firstAired": "April 27, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E54",
+                        "name": "The Ark",
+                        "firstAired": "May 18, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E55",
+                        "name": "Tao of Rodney",
+                        "firstAired": "May 4, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E56",
+                        "name": "Sunday",
+                        "firstAired": "June 1, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E57",
+                        "name": "The Game",
+                        "firstAired": "May 11, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E58",
+                        "name": "Submersion",
+                        "firstAired": "June 8, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E59",
+                        "name": "Vengeance",
+                        "firstAired": "June 15, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E60",
+                        "name": "First Strike (1) season finale",
+                        "firstAired": "June 22, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E61",
+                        "name": "Adrift (2)",
+                        "firstAired": "September 28, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E62",
+                        "name": "Lifeline (3)",
+                        "firstAired": "October 5, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E63",
+                        "name": "Reunion",
+                        "firstAired": "October 12, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E64",
+                        "name": "Doppelganger",
+                        "firstAired": "October 19, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E65",
+                        "name": "Travelers",
+                        "firstAired": "October 26, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E66",
+                        "name": "Tabula Rasa",
+                        "firstAired": "November 2, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E67",
+                        "name": "Missing",
+                        "firstAired": "November 9, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E68",
+                        "name": "The Seer",
+                        "firstAired": "November 16, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E69",
+                        "name": "Miller's Crossing",
+                        "firstAired": "November 30, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E70",
+                        "name": "This Mortal Coil (1)",
+                        "firstAired": "December 7, 2007 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E71",
+                        "name": "Be All My Sins Remember'd (2)",
+                        "firstAired": "January 4, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E72",
+                        "name": "Spoils of War",
+                        "firstAired": "January 11, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E73",
+                        "name": "Quarantine",
+                        "firstAired": "January 18, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E74",
+                        "name": "Harmony",
+                        "firstAired": "January 25, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E75",
+                        "name": "Outcast",
+                        "firstAired": "February 1, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E76",
+                        "name": "Trio",
+                        "firstAired": "February 8, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E77",
+                        "name": "Midway",
+                        "firstAired": "February 15, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E78",
+                        "name": "The Kindred (1)",
+                        "firstAired": "February 22, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E79",
+                        "name": "The Kindred (2)",
+                        "firstAired": "February 29, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E80",
+                        "name": "The Last Man (1) season finale",
+                        "firstAired": "March 7, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E81",
+                        "name": "Search and Rescue (2)",
+                        "firstAired": "July 11, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E82",
+                        "name": "The Seed",
+                        "firstAired": "July 18, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E83",
+                        "name": "Broken Ties",
+                        "firstAired": "July 25, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E84",
+                        "name": "The Daedalus Variations",
+                        "firstAired": "August 1, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E85",
+                        "name": "Ghost in the Machine",
+                        "firstAired": "August 15, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E86",
+                        "name": "The Shrine",
+                        "firstAired": "August 22, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E87",
+                        "name": "Whispers",
+                        "firstAired": "September 5, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E88",
+                        "name": "The Queen",
+                        "firstAired": "September 12, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E89",
+                        "name": "Tracker",
+                        "firstAired": "September 19, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E90",
+                        "name": "First Contact (1)",
+                        "firstAired": "September 26, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E91",
+                        "name": "The Lost Tribe (2)",
+                        "firstAired": "October 10, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E92",
+                        "name": "Inquisition",
+                        "firstAired": "October 24, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E93",
+                        "name": "Outsiders",
+                        "firstAired": "October 17, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E94",
+                        "name": "The Prodigal",
+                        "firstAired": "November 7, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E95",
+                        "name": "Remnants",
+                        "firstAired": "November 14, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E96",
+                        "name": "Brain Storm",
+                        "firstAired": "November 21, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E97",
+                        "name": "Infection",
+                        "firstAired": "December 5, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E98",
+                        "name": "Identity",
+                        "firstAired": "December 12, 2008 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E99",
+                        "name": "Vegas",
+                        "firstAired": "January 2, 2009 SYFY",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E100",
+                        "name": "Enemy at the Gate series finale",
+                        "firstAired": "January 9, 2009 SYFY",
+                        "runtime": 45
+                    }
+                ]
+            }
+        ]
+    }
+}

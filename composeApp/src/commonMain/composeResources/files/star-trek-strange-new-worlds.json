@@ -1,0 +1,966 @@
+{
+    "seriesTitle": "Star Trek: Strange New Worlds",
+    "seriesDescription": {
+        "translations": {
+            "eng": {
+                "text": "Follow Christopher Pike, Spock and Number One in the decade before Capt. Kirk boarded the Enterprise as they explore new worlds around the galaxy.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Six ans avant que James Tiberius Kirk prenne le commandement l'USS Enterprise, le capitaine Christopher Pike et son équipage explorent la galaxie à la recherche de nouveaux mondes.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Sigue a Christopher Pike, Spock y Número Uno una década antes de que el Capitán Kirk comandase el Enterprise, explorando nuevos mundos alrededor de la galaxia.",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Siga o Capitão Christopher Pike, o Tenente Spock e a Imediato na década antes do Capitão James Kirk embarcar na Enterprise enquanto eles exploram novos mundos ao redor da galáxia.",
+                "aliases": []
+            },
+            "por": {
+                "text": "Siga Christopher Pike, Spock e Número Um na década antes do Capitão James Kirk embarcar na Enterprise enquanto eles exploram novos mundos ao redor da galáxia.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Nach der Begegnung mit der USS Discovery kehrt Captain Christopher Pike in den Dienst an Bord der USS Enterprise zurück. Unterstützt von seiner ersten Offizierin Una Chin-Riley und dem Wissenschaftsoffizier Spock ist es die Aufgabe des Captains, auf einer ausgedehnten Mission den Weltraum zu erkunden, mit neuen Lebensformen in Kontakt zu treten und für die Sicherheit der Föderation zu sorgen. Häufig müssen dabei auch Dr. M’Benga und seine rechte Hand auf der Krankenstation, Schwester Christine Chapel, eingreifen. Für die Sicherheit des Schiffs sorgen der andorianische Ingenieur Hemmer ebenso, wie die an einem schweren Erbe tragende La’an Noonien-Singh. An den Steuerkonsolen sitzt die wagemutige Erica Ortegas, während das junge Sprachengenie Nyota Uhura noch nach seinem Platz in Leben sucht und einstweilen die Kommunikationsstation besetzt.",
+                "aliases": [
+                    "Star Trek SNW",
+                    "Strange New Worlds"
+                ]
+            },
+            "rus": {
+                "text": "«Странные новые миры» — пятый и по духу самый близкий к классике сериал из обновленной вселенной «Звездного пути». По-олдскульному позитивный, проект проповедует идеи гуманизма, мирного развития, технологического прогресса во благо, открытости новым идеям и стремлению человека к содружеству во вселенских масштабах. Словом, все то, чем славился оригинальный сериал 60-х, получило развитие здесь. «Странные новые миры» — еще и его приквел. По схеме «одна серия — одна миссия» шоу расскажет предыстории иконических персонажей — капитана Пайка, вулканца Спока, лейтенанта Ухуры, сестры Чапел. Более легкий, светлый и наполненный юмором и приключениями сериал растопит сердца зрителей, критиковавших «Дискавери» и «Пикара» за излишнюю серьезность и драматичность.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "Volg Christopher Pike, Spock en Number One in het decennium voordat Capt. Kirk aan boord ging van de Enterprise, terwijl ze nieuwe werelden rond de melkweg verkennen.",
+                "aliases": []
+            },
+            "zhtw": {
+                "text": "為《星際爭霸戰：發現號》衍生劇，以在第二季登場的「企業號」艦長派克（Christopher Pike）為主角，背景設定在最初系列的十年前，看艦長派克如何在大副、史巴克等經典人物的輔佐下，探索銀河系的新世界。",
+                "aliases": []
+            },
+            "ces": {
+                "text": "Dobrodružství Spocka a kapitána Pikea na palubě Enterprise, deset let před zápletkou původní série Star Trek.",
+                "aliases": []
+            },
+            "heb": {
+                "text": "ספין-אוף לסדרה \"מסע בין כוכבים: דיסקברי\" ופריקוול ל\"מסע בין כוכבים: הסדרה המקורית\", ותתמקד בספינת החלל \"אנטרפרייז\" NCC-1701, תחת פיקודו של קפטן כריסטופר פייק, שפיקד על הספינה בין רוברט אפריל לג'יימס קירק. אנסון מאונט, רבקה רומיין ואית'ן פק – שגילמו את דמויותיהם של כריסטופר פייק, מספר אחת וספוק בהתאמה, בעונתה השנייה של \"מסע בין כוכבים: דיסקברי\" ובמספר פרקים בסדרה \"מסע בין כוכבים: מסעות קצרים\" – שבים לגלם את דמויותיהם בסדרה זו.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Avanture Spocka i kapetana Pikea na Enterpriseu, deset godina prije radnje originalne serije Zvjezdane staze.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "STAR TREK: STRANGE NEW WORLDS parla degli anni in cui il capitano Christopher Pike era alla guida della U.S.S. Enterprise. La serie si concentra sul capitano Pike, l'ufficiale Spock e Numero Uno prima dell'arrivo di Kirk sull'Enterprise.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Star Trek: Strange New Worlds perustuu vuosiin, jolloin kapteeni Christopher Pike komensi U.S.S. Enterpriseä. Sarja seuraa kapteeni Pikeä, tiedeupseeri Spockia ja förstiä sekä heidän tutkimusmatkojaan ympäri galaksia vuosina ennen kapteeni Kirkin saapumista U.S.S. Enterpriselle. Sarjan lavastus muistuttaa alkuperäistä 1960-luvun klassikkotuotantoa, mutta mukaan on tuotu myös modernia otetta. Kunnianosoituksena alkuperäiselle Star Trekille jokaiseen jaksoon on haettu yksilöllinen tyyli ja tunnelma.",
+                "aliases": []
+            },
+            "tur": {
+                "text": "Dizi, James T. Kirk’ün U.S.S.Enterprise’ın kaptanı olmasından önceki on yılda geçiyor ve Star Trek Orijinal Seri’nin pilot bölümünden de tanıdığımız Kaptan Pike, Spock ve Bir Numara’nın galaksideki yeni dünyaları keşfedişlerini konu ediyor.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "Az eredeti Star Trek előzményeként szolgáló sorozat, amiben a USS Enterprise legénységének kalandjait ismerhetjük meg Christopher Pike kapitány vezetése alatt.",
+                "aliases": []
+            },
+            "ell": {
+                "text": "Ακολουθήστε το πλήρωμα του θρυλικού αστρόπλοιου Εντερπράιζ, με επικεφαλής τον κυβερνήτη Κρίστοφερ Πάικ, στη θαρραλέα αποστολή του να ανακαλύψει νέους κόσμους σε αχαρτογράφητες -και πιθανώς αφιλόξενες- περιοχές του Διαστήματος.",
+                "aliases": []
+            },
+            "srp": {
+                "text": "Серија прати свемирски брод Ентерпрајз под командом капетана Кристофера Пајка док истражује нове светове широм галаксије.",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Po spotkaniu z USS Discovery kapitan Christopher Pike powraca do służby na pokładzie USS Enterprise. Wspierany przez swoją pierwszą oficer, Unę Chin-Riley, oraz oficera naukowego Spocka, kapitan ma za zadanie podczas rozległej misji badać kosmos, nawiązywać kontakt z nowymi formami życia i dbać o bezpieczeństwo Federacji. Często muszą w tym pomagać doktor M’Benga oraz jego prawa ręka na oddziale medycznym, pielęgniarka Christine Chapel. O bezpieczeństwo statku troszczy się również andoriański inżynier Hemmer, a także La’an Noonien-Singh, obciążona trudnym dziedzictwem. Przy konsolach sterowniczych zasiada odważna Erica Ortegas, podczas gdy młody geniusz językowy Nyota Uhura wciąż poszukuje swojego miejsca w życiu i tymczasowo obsługuje stanowisko komunikacyjne.",
+                "aliases": []
+            },
+            "slk": {
+                "text": "Kapitán Pike, vedecký dôstojník Spock a Číslo 1 objavujú nové svety vo vesmíre na palube USS Enterprise.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "382389",
+        "Status": "Continuing",
+        "First Aired": "May 5, 2022",
+        "Recent": "September 24, 2026",
+        "Airs": "Thursday, at 3:00am",
+        "Network": "Paramount+ YouTube",
+        "Average Runtime": "53 minutes",
+        "Genres": "Action Adventure Drama Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "Geographic Location": "Outer Space",
+        "Setting": "Spaceship / Space Craft",
+        "Time Period": "Distant Future",
+        "TV Type or Format": "Story-based Drama",
+        "On Other Sites": "IMDB Official Website TV Maze TheMovieDB.com",
+        "Trailers": "English Trailer French Trailer",
+        "Episode Screenshot Format": "16:9 Screencap",
+        "Favorited": "This series has been favorited by 416 people.",
+        "Created": "May 15, 2020 by raze464",
+        "Modified": "September 25, 2026 by brkulin"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Anson Mount",
+                "playsAs": "Christopher Pike"
+            },
+            {
+                "name": "Ethan Peck",
+                "playsAs": "Spock"
+            },
+            {
+                "name": "Rebecca Romijn",
+                "playsAs": "Una Chin-Riley"
+            },
+            {
+                "name": "Jess Bush",
+                "playsAs": "Christine Chapel"
+            },
+            {
+                "name": "Christina Chong",
+                "playsAs": "La’an Noonien-Singh"
+            },
+            {
+                "name": "Celia Rose Gooding",
+                "playsAs": "Nyota Uhura"
+            },
+            {
+                "name": "Melissa Navia",
+                "playsAs": "Erica Ortegas"
+            },
+            {
+                "name": "Babs Olusanmokun",
+                "playsAs": "Dr. M’Benga"
+            },
+            {
+                "name": "Melanie Scrofano",
+                "playsAs": "Marie Batel"
+            },
+            {
+                "name": "Carol Kane",
+                "playsAs": "Pelia"
+            },
+            {
+                "name": "Paul Wesley",
+                "playsAs": "James T. Kirk"
+            },
+            {
+                "name": "Martin Quinn",
+                "playsAs": "Montgomery Scott"
+            },
+            {
+                "name": "Bruce Horak",
+                "playsAs": "Hemmer"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Akiva Goldsman",
+                "numberOfEpisodes": 4,
+                "dates": "05/05/2022 - 06/15/2023"
+            },
+            {
+                "name": "Chris Fisher",
+                "numberOfEpisodes": 4,
+                "dates": "07/07/2022 - 09/24/2026"
+            },
+            {
+                "name": "Jordan Canning",
+                "numberOfEpisodes": 3,
+                "dates": "07/13/2023 - 08/28/2025"
+            },
+            {
+                "name": "Dan Liu",
+                "numberOfEpisodes": 3,
+                "dates": "05/26/2022 - 07/24/2025"
+            },
+            {
+                "name": "Maja Vrvilo",
+                "numberOfEpisodes": 3,
+                "dates": "05/12/2022 - 09/11/2025"
+            },
+            {
+                "name": "Valerie Weiss",
+                "numberOfEpisodes": 2,
+                "dates": "06/22/2023 - 08/14/2025"
+            },
+            {
+                "name": "Amanda Row",
+                "numberOfEpisodes": 2,
+                "dates": "06/23/2022 - 06/29/2023"
+            },
+            {
+                "name": "Andi Armaganian",
+                "numberOfEpisodes": 2,
+                "dates": "06/09/2022 - 08/07/2025"
+            },
+            {
+                "name": "Jonathan Frakes",
+                "numberOfEpisodes": 2,
+                "dates": "07/22/2023 - 07/31/2025"
+            },
+            {
+                "name": "Eduardo Sánchez",
+                "numberOfEpisodes": 1,
+                "dates": "07/06/2023"
+            },
+            {
+                "name": "Rachel Leiterman",
+                "numberOfEpisodes": 1,
+                "dates": "06/02/2022"
+            },
+            {
+                "name": "Sydney Freeland",
+                "numberOfEpisodes": 1,
+                "dates": "06/16/2022"
+            },
+            {
+                "name": "Jeffrey W. Byrd",
+                "numberOfEpisodes": 1,
+                "dates": "07/27/2023"
+            },
+            {
+                "name": "Christopher J. Byrne",
+                "numberOfEpisodes": 1,
+                "dates": "06/30/2022"
+            },
+            {
+                "name": "Leslie Hope",
+                "numberOfEpisodes": 1,
+                "dates": "05/19/2022"
+            },
+            {
+                "name": "Andrew Coutts",
+                "numberOfEpisodes": 1,
+                "dates": "09/04/2025"
+            },
+            {
+                "name": "Dermott Downs",
+                "numberOfEpisodes": 1,
+                "dates": "08/03/2023"
+            },
+            {
+                "name": "Sharon M. Lewis",
+                "numberOfEpisodes": 1,
+                "dates": "08/21/2025"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Henry Alonso Myers",
+                "numberOfEpisodes": 9,
+                "dates": "05/12/2022 - 09/24/2026"
+            },
+            {
+                "name": "Davy Perez",
+                "numberOfEpisodes": 7,
+                "dates": "05/26/2022 - 09/11/2025"
+            },
+            {
+                "name": "Bill Wolkoff",
+                "numberOfEpisodes": 6,
+                "dates": "05/19/2022 - 08/14/2025"
+            },
+            {
+                "name": "Dana Horgan",
+                "numberOfEpisodes": 5,
+                "dates": "06/22/2023 - 09/11/2025"
+            },
+            {
+                "name": "Kathryn Lyn",
+                "numberOfEpisodes": 4,
+                "dates": "07/13/2023 - 08/21/2025"
+            },
+            {
+                "name": "David Reed",
+                "numberOfEpisodes": 4,
+                "dates": "06/29/2023 - 08/14/2025"
+            },
+            {
+                "name": "Onitra Johnson",
+                "numberOfEpisodes": 4,
+                "dates": "06/23/2022 - 08/07/2025"
+            },
+            {
+                "name": "Sarah Tarkoff",
+                "numberOfEpisodes": 2,
+                "dates": "05/12/2022 - 06/16/2022"
+            },
+            {
+                "name": "Kirsten Beyer",
+                "numberOfEpisodes": 2,
+                "dates": "07/06/2023 - 07/17/2025"
+            },
+            {
+                "name": "Alan B. McElroy",
+                "numberOfEpisodes": 2,
+                "dates": "08/21/2025 - 09/04/2025"
+            },
+            {
+                "name": "Beau DeMayo",
+                "numberOfEpisodes": 2,
+                "dates": "05/26/2022 - 06/16/2022"
+            },
+            {
+                "name": "Akela Cooper",
+                "numberOfEpisodes": 2,
+                "dates": "05/19/2022 - 06/23/2022"
+            },
+            {
+                "name": "Robin Wasserman",
+                "numberOfEpisodes": 2,
+                "dates": "06/02/2022 - 06/09/2022"
+            },
+            {
+                "name": "Alex Kurtzman",
+                "numberOfEpisodes": 1,
+                "dates": "05/05/2022"
+            },
+            {
+                "name": "Robbie Thompson",
+                "numberOfEpisodes": 1,
+                "dates": "09/24/2026"
+            },
+            {
+                "name": "Jenny Lumet",
+                "numberOfEpisodes": 1,
+                "dates": "05/05/2022"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "May 2022",
+                "to": "July 2022",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-strange-new-worlds/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Strange New Worlds",
+                        "firstAired": "May 5, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Children of the Comet",
+                        "firstAired": "May 12, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Ghosts of Illyria",
+                        "firstAired": "May 19, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Memento Mori",
+                        "firstAired": "May 26, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Spock Amok",
+                        "firstAired": "June 2, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Lift Us Where Suffering Cannot Reach",
+                        "firstAired": "June 9, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "The Serene Squall",
+                        "firstAired": "June 16, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Elysian Kingdom",
+                        "firstAired": "June 23, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "All Those Who Wander",
+                        "firstAired": "June 30, 2022 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "A Quality of Mercy season finale",
+                        "firstAired": "July 7, 2022 Paramount+",
+                        "runtime": 63
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "June 2023",
+                "to": "August 2023",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-strange-new-worlds/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Broken Circle",
+                        "firstAired": "June 15, 2023 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Ad Astra per Aspera",
+                        "firstAired": "June 22, 2023 Paramount+",
+                        "runtime": 57
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Tomorrow and Tomorrow and Tomorrow",
+                        "firstAired": "June 29, 2023 Paramount+",
+                        "runtime": 61
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Among the Lotus Eaters",
+                        "firstAired": "July 6, 2023 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Charades",
+                        "firstAired": "July 13, 2023 Paramount+",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Lost in Translation",
+                        "firstAired": "July 20, 2023 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Those Old Scientists",
+                        "firstAired": "July 22, 2023 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Under the Cloak of War",
+                        "firstAired": "July 27, 2023 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Subspace Rhapsody",
+                        "firstAired": "August 3, 2023 Paramount+",
+                        "runtime": 63
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Hegemony (1) season finale",
+                        "firstAired": "August 10, 2023 Paramount+",
+                        "runtime": 53
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "July 2025",
+                "to": "September 2025",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-strange-new-worlds/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Hegemony (2)",
+                        "firstAired": "July 17, 2025 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Wedding Bell Blues",
+                        "firstAired": "July 17, 2025 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Shuttle to Kenfori",
+                        "firstAired": "July 24, 2025 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "A Space Adventure Hour",
+                        "firstAired": "July 31, 2025 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Through the Lens of Time",
+                        "firstAired": "August 7, 2025 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "The Sehlat Who Ate Its Tail",
+                        "firstAired": "August 14, 2025 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "What Is Starfleet?",
+                        "firstAired": "August 21, 2025 Paramount+",
+                        "runtime": 40
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Four-and-a-Half Vulcans",
+                        "firstAired": "August 28, 2025 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Terrarium",
+                        "firstAired": "September 4, 2025 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "New Life and New Civilizations season finale",
+                        "firstAired": "September 11, 2025 Paramount+",
+                        "runtime": 56
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 4,
+                "from": "July 2026",
+                "to": "September 2026",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-strange-new-worlds/seasons/official/4",
+                "episodeList": [
+                    {
+                        "code": "S04E01",
+                        "name": "Valles Marineris",
+                        "firstAired": "July 23, 2026 Paramount+",
+                        "runtime": 59
+                    },
+                    {
+                        "code": "S04E02",
+                        "name": "The Griffin Incident",
+                        "firstAired": "July 30, 2026 Paramount+",
+                        "runtime": 59
+                    },
+                    {
+                        "code": "S04E03",
+                        "name": "Human Best Friend",
+                        "firstAired": "August 6, 2026 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S04E04",
+                        "name": "A Case of Chiaroscuro",
+                        "firstAired": "August 13, 2026 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S04E05",
+                        "name": "Level-Five Transporter Accident",
+                        "firstAired": "August 20, 2026 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S04E06",
+                        "name": "Off-Hour",
+                        "firstAired": "August 27, 2026 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S04E07",
+                        "name": "Like Chronitons Through the Hourglass",
+                        "firstAired": "September 3, 2026 Paramount+",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S04E08",
+                        "name": "Orders of Magnitude",
+                        "firstAired": "September 10, 2026 Paramount+",
+                        "runtime": 63
+                    },
+                    {
+                        "code": "S04E09",
+                        "name": "Once La'An a Time",
+                        "firstAired": "September 17, 2026 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S04E10",
+                        "name": "Tomorrow's Enterprise season finale",
+                        "firstAired": "September 24, 2026 Paramount+",
+                        "runtime": 61
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "May 2022",
+                "to": "July 2022",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-strange-new-worlds/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Strange New Worlds",
+                        "firstAired": "May 5, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Children of the Comet",
+                        "firstAired": "May 12, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Ghosts of Illyria",
+                        "firstAired": "May 19, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Memento Mori",
+                        "firstAired": "May 26, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Spock Amok",
+                        "firstAired": "June 2, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Lift Us Where Suffering Cannot Reach",
+                        "firstAired": "June 9, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "The Serene Squall",
+                        "firstAired": "June 16, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Elysian Kingdom",
+                        "firstAired": "June 23, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "All Those Who Wander",
+                        "firstAired": "June 30, 2022 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "A Quality of Mercy season finale",
+                        "firstAired": "July 7, 2022 Paramount+",
+                        "runtime": 63
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "June 2023",
+                "to": "August 2023",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-strange-new-worlds/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Broken Circle",
+                        "firstAired": "June 15, 2023 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Ad Astra per Aspera",
+                        "firstAired": "June 22, 2023 Paramount+",
+                        "runtime": 57
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Tomorrow and Tomorrow and Tomorrow",
+                        "firstAired": "June 29, 2023 Paramount+",
+                        "runtime": 61
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Among the Lotus Eaters",
+                        "firstAired": "July 6, 2023 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Charades",
+                        "firstAired": "July 13, 2023 Paramount+",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Lost in Translation",
+                        "firstAired": "July 20, 2023 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Those Old Scientists",
+                        "firstAired": "July 22, 2023 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Under the Cloak of War",
+                        "firstAired": "July 27, 2023 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Subspace Rhapsody",
+                        "firstAired": "August 3, 2023 Paramount+",
+                        "runtime": 63
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Hegemony (1) season finale",
+                        "firstAired": "August 10, 2023 Paramount+",
+                        "runtime": 53
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "May 2022",
+                "to": "September 2025",
+                "episodes": 30,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-strange-new-worlds/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Strange New Worlds",
+                        "firstAired": "May 5, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Children of the Comet",
+                        "firstAired": "May 12, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Ghosts of Illyria",
+                        "firstAired": "May 19, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Memento Mori",
+                        "firstAired": "May 26, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Spock Amok",
+                        "firstAired": "June 2, 2022 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Lift Us Where Suffering Cannot Reach",
+                        "firstAired": "June 9, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "The Serene Squall",
+                        "firstAired": "June 16, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "The Elysian Kingdom",
+                        "firstAired": "June 23, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "All Those Who Wander",
+                        "firstAired": "June 30, 2022 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "A Quality of Mercy season finale",
+                        "firstAired": "July 7, 2022 Paramount+",
+                        "runtime": 63
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Broken Circle",
+                        "firstAired": "June 15, 2023 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Ad Astra per Aspera",
+                        "firstAired": "June 22, 2023 Paramount+",
+                        "runtime": 57
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Tomorrow and Tomorrow and Tomorrow",
+                        "firstAired": "June 29, 2023 Paramount+",
+                        "runtime": 61
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Among the Lotus Eaters",
+                        "firstAired": "July 6, 2023 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Charades",
+                        "firstAired": "July 13, 2023 Paramount+",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Lost in Translation",
+                        "firstAired": "July 20, 2023 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Those Old Scientists",
+                        "firstAired": "July 22, 2023 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Under the Cloak of War",
+                        "firstAired": "July 27, 2023 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Subspace Rhapsody",
+                        "firstAired": "August 3, 2023 Paramount+",
+                        "runtime": 63
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Hegemony (1) season finale",
+                        "firstAired": "August 10, 2023 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Hegemony (2)",
+                        "firstAired": "July 17, 2025 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Wedding Bell Blues",
+                        "firstAired": "July 17, 2025 Paramount+",
+                        "runtime": 51
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "Shuttle to Kenfori",
+                        "firstAired": "July 24, 2025 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "A Space Adventure Hour",
+                        "firstAired": "July 31, 2025 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "Through the Lens of Time",
+                        "firstAired": "August 7, 2025 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "The Sehlat Who Ate Its Tail",
+                        "firstAired": "August 14, 2025 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "What Is Starfleet?",
+                        "firstAired": "August 21, 2025 Paramount+",
+                        "runtime": 40
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "Four-and-a-Half Vulcans",
+                        "firstAired": "August 28, 2025 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Terrarium",
+                        "firstAired": "September 4, 2025 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "New Life and New Civilizations season finale",
+                        "firstAired": "September 11, 2025 Paramount+",
+                        "runtime": 56
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -18,7 +18,7 @@ import javax.net.ssl.SSLContext
 import javax.net.ssl.TrustManager
 import javax.net.ssl.X509TrustManager
 
-private val TRUSTED_HOSTS = listOf("aisstream.io", "aisuptime.buttermilkgreen.fyi")
+private val TRUSTED_HOSTS = listOf("www.thetvdb.com")
 
 actual val homeDirectory: String
     get() = File(System.getProperty("user.home"), ".makemkvconui").canonicalPath

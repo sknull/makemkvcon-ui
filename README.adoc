@@ -23,7 +23,7 @@ While that worked, finding those, put them in front of the file names, sorting a
 
 Starting a little code test trying to parse the makemkvcon output was not so promising in lack of proper documentation. So I asked googles gemini for input and the result is documented within this project.
 
-For a detailed technical specification including all message codes I could find out see link:docs/technical-specs.adoc[Technical Specs]
+For a detailed technical specification including all message codes I could find out see link:docs/makemkv/technical-specs.adoc[Technical Specs]
 
 For now there is only a JUnit test which reads the makemkvcon output, parses it and renames the output files in a given directory accordingly.
 After that one can rename the files using an episode guide.

@@ -389,4 +389,8 @@ class MPLS(file: File) {
         }
         return bitList
     }
+
+    override fun toString(): String {
+        return "MPLS(header=$header, appInfoPlayList=$appInfoPlayList, playList=$playList, playListMarks=$playListMarks, extensionData=$extensionData)"
+    }
 }

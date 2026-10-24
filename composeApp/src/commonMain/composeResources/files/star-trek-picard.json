@@ -1,0 +1,996 @@
+{
+    "seriesTitle": "Star Trek: Picard",
+    "seriesDescription": {
+        "translations": {
+            "eng": {
+                "text": "Jean-Luc Picard, former captain of the starship U.S.S. Enterprise, is pulled out of forced retirement and the next chapter of his life, to help a young woman who is pursued by assassins.",
+                "aliases": []
+            },
+            "por": {
+                "text": "Star Trek: Picard conta com Sir Patrick Stewart a retomar o emblemático papel de Jean-Luc Picard, que interpretou durante sete temporadas de Star Trek: The Next Generation. Esta nova série irá seguir esta personagem icónica no novo capítulo da sua vida.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "A finales del siglo XXIV, el almirante retirado Jean-Luc Picard, todavía afectado por la pérdida del Teniente Comandante Data y la destrucción de Romulus, entra en el siguiente capítulo de su vida.",
+                "aliases": []
+            },
+            "ell": {
+                "text": "Στη σειρά Σταρ Τρεκ: Πικάρντ πρωταγωνιστεί ο Σερ Πάτρικ Στιούαρτ αναλαμβάνοντας τον ανεπανάληπτο ρόλο του ως Ζαν-Λουκ Πικάρντ, με τον οποίο πρωταγωνιστούσε για επτά σεζόν στη σειρά Σταρ Τρεκ: Η Επόμενη Γενιά. Η νέα σειρά ακολουθεί τον εμβληματικό χαρακτήρα στο επόμενο κεφάλαιο της ζωής του.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "Picard leidde een missie die de Romulanen van Romulus moest redden. Er vond echter een tragedie plaats, waardoor hij stopte bij Starfleet en zich terugtrok in zijn wijngaard. Nu voeren de Romulanen experimenten uit op mensen die een Borg zijn geweest. Een van die mensen is Dahj. Ze ontsnapt en komt in contact met Picard.",
+                "aliases": []
+            },
+            "ces": {
+                "text": "Seriál se odehrává osmnáct let poté, co se Jean-Luc Picard naposledy objevil ve filmu Star trek: Nemesis. Picard je hluboce zasažen zničením Romulu. Bývalý kapitán již ale není tou osobou, kterou býval. Za ta léta se změnil a dohnala ho jeho temná minulost. Sám se ale musí vzchopit, protože vesmír s ním neskončil a bere ho na další nebezpečné dobrodružství.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Star Trek: Picard zeigt wie Sir Patrick Stewart seine berühmte Rolle als Jean-Luc Picard wiederaufnimmt, den er sieben Staffeln lang bei Raumschiff Enterprise - Das nächste Jahrhundert verkörperte. Die neue Serie begleitet die Kultfigur auf ihrem nächsten Lebensabschnitt.",
+                "aliases": []
+            },
+            "ita": {
+                "text": "La serie è ambientata nel 2399 e ha per protagonista l'ormai anziano Jean-Luc Picard dimessosi dalla Flotta Stellare molti anni prima, in conseguenza del ritiro dell'aiuto della Federazione dei pianeti uniti promesso ai profughi Romulani in seguito alla distruzione del loro pianeta natale Romulus da parte di una supernova e all'attacco alle colonie terrestri su Marte da parte di un gruppo di androidi ribelli.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Jean-Luc Picard on jäänyt 14 vuotta sitten eläkkeelle Starfleet-laivastosta ja Enterprise-aluksen kapteenin virasta. Nyt hän elää hiljaista elämää omistautuen viinitarhalleen Chateau Picardiin, ranskan La Barressa. Picardin rauha rikkoutuu, kun salaperäinen nuori nainen Dahj saapuu tämän luokse ja kertoo olevansa vaarassa - ja vain Picard voi häntä auttaa. Dahj kertoo Picardille illasta, jolloin Romuluslaiset palkkatappajat olivat surmanneet Dahjin poikaystävän, mutta yritäessään tappaa Dahjia, tässä aktivoitui jotain outoa ja hän pystyi surmaamaan Romuluslaiset. Sen jälkeen Dahj alkoi nähdä visioita Picardista ja hänen oli pakko päästä tapaaman tätä. Pian Picard ymmärtää, että Dahjilla voi olla henkilökohtaisia yhteyksiä omaan historiaansa. Tukiessaan asiaa tarkemmin, Pickard päättää selvittää Dahjin ja oman menneisyytensä arvoitukset. Tätä varten tarvitaan vain tähtien välinen avaruusalus ja uusi rohkea ja peloton miehistö, joka ei kysele turhia.",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Jean-Luc Picard, ex-capitão da nave estelar Enterprise, é retirado à força da aposentadoria para ajudar uma jovem que é perseguida por assassinos.",
+                "aliases": []
+            },
+            "pol": {
+                "text": "Admirał Jean-Luc Picard od 14 lat jest na emeryturze. Wolny czas spędza w rodzinnej posiadłości, doglądając plantacji wina. Jednak nie jest to spokojna emerytura. Nocami prześladuje go koszmar zagłady na Marsie. Planeta w wyniku ataku terrorystycznego została kompletnie zniszczona. Tysiące ludzi straciło życie. Kto jest za to odpowiedzialny? Co z tym wszystkim ma wspólnego Gwiezdna Flota i sam Picard? To właśnie jest główna oś fabuły tego sezonu.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "À la fin du 24e siècle, 14 ans après avoir quitté Starfleet, Jean-Luc Picard mène une retraite paisible dans son vignoble du Château Picard. Lorsqu'il est sollicité par une mystérieuse jeune femme, Dahj, qui a besoin de son aide, il se rend rapidement compte qu'elle a peut-être un lien avec son propre passé.",
+                "aliases": []
+            },
+            "zho": {
+                "text": "《星际迷航：皮卡尔》是一部美国科幻网络电视剧。由艾瑞克斯·寇兹曼主创，是整个《初代》系列的第八部电视剧，以让-吕克·皮卡尔为主角，时间设定在24世纪末期，在2002年上映的电影《初代X：复仇女神》中的事件结束的20年后，故事与2009年重启版电影《初代》中罗慕伦帝国的母星罗穆卢斯星被摧毁的情节有关。",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Спустя 15 лет жизнь некогда бороздившего космические просторы Жана-Люка Пикара, кажется, стала совсем спокойной. Однако вскоре ему придётся покинуть насиженное место и отправиться навстречу очередным приключениям.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "Jean-Luc Picard, az U.S.S. Enterprise csillaghajó egykori kapitánya, különös élethelyzetbe kerül kényszernyugdíjazása ideje alatt: egy ismeretlen, bérgyilkosok által üldözött fiatal nőt kell megmentenie.",
+                "aliases": []
+            },
+            "hrv": {
+                "text": "Jean-Luc Picard, bivši kapetan U.S.S. Enterprise-a, biva povučen iz prinudne mirovine i sljedećeg poglavlja svog života, ne bi li pomogao mladoj ženi koju jure atentatori.",
+                "aliases": []
+            },
+            "srp": {
+                "text": "Жан-Лук Пикард, бивши капетан У.С.С. Ентерпрајза, бива повучен из принудне пензије и следећег поглавља свог живота, не би ли помогао младој жени коју јуре атентатори.",
+                "aliases": []
+            },
+            "heb": {
+                "text": "סדרת המשך לסדרה \"מסע בין כוכבים: הדור החדש\" (Star Trek: The New Generation) משנת 1987, הסידרה מתמקדמת בקפטן ז'אן-לוק פיקארד, קפטן האנטרפרייז, לאחר יציאתו לגמלאות בעקבות אירועי הסרט \"נמסיס\", והיא מתרחשת כעשרים שנה לאחר עלילת הסרט מסע בין כוכבים: נמסיס. דמותו של פיקארד תושפע מאוד מהרס כוכב הבית של הרומולאנים, רומולוס, כפי שנראה בסרט \"סטארטרק\" משנת 2009.",
+                "aliases": []
+            },
+            "jpn": {
+                "text": "パトリック·スチュワート主演、「新スタートレック」全７シーズンで演じたジャン＝リュック·ピカードを再び演じる。新シリーズはピカードの新たな人生を描く。",
+                "aliases": []
+            },
+            "ara": {
+                "text": "سلسلة تابعة لستار تريك: الجيل التالي (1987)، تتركز على جان لوك بيكارد (السير باتريك ستيوارت) في الفصل التالي من حياته.",
+                "aliases": [
+                    "ستار تريك: بيكارد (2020)",
+                    "ستار تريك - بيكارد (2020)",
+                    "ستار تريك - بيكارد",
+                    "رحلة نجمة بيكارد"
+                ]
+            },
+            "slk": {
+                "text": "Nová kapitola v živote Jean-Luca Picarda 18 rokov po príbehu Star Trek: Nemesis, kedy sa federáciá vyrovnáva so zničením Romula a zmiznutím veľvyslanca Spocka.",
+                "aliases": []
+            },
+            "zhtw": {
+                "text": "繼長達七季的《銀河飛龍》後，派崔克史都華爵士將於《星際爭霸戰：畢凱》重演經典角色尚路克畢凱，在這新系列裡，這個偶像人物將展開人生新頁。",
+                "aliases": []
+            },
+            "tur": {
+                "text": "Dizide, ikonik Captain Jean-Luc Picard karakteri, yeniden ekrana gelmeye hazırlanıyor. Dizi, Star Trek: The Next Generation'da ve dört farklı Star Trek filminde görünen Picard karakterinin hikayesini takip edecek.",
+                "aliases": []
+            },
+            "swe": {
+                "text": "Jean-Luc Picard, tidigare kapten på rymdskeppet U.S.S. Enterprise, dras ur tvångspensioneringen och in i nästa kapitel i sitt liv, för att hjälpa en ung kvinna som förföljs av lönnmördare.",
+                "aliases": []
+            },
+            "bul": {
+                "text": "Покоят на Жан-Люк Пикард е нарушен от тайнствена жена, която иска неговата помощ. Принуден да се върне в Звездната флота капитан Пикард събира екип за борба с нова заплаха. В екипа са включени Уилям Райкър, Диана Трой и Дейта.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "364093",
+        "Status": "Ended",
+        "First Aired": "January 23, 2020",
+        "Recent": "April 20, 2023",
+        "Airs": "Thursday, at 3:00am",
+        "Network": "CBS All Access Paramount+",
+        "Average Runtime": "50 minutes",
+        "Genres": "Action Adventure Drama Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "Geographic Location": "America / United States France Outer Space",
+        "Mood or Tone": "Feel-Good High-Octane",
+        "Setting": "Big City Farm / Rural Area Spaceship / Space Craft",
+        "Supernatural Beings": "Aliens",
+        "Time Period": "Near Future",
+        "TV Type or Format": "Story-based Drama",
+        "On Other Sites": "IMDB Official Website TheMovieDB.com",
+        "Trailers": "English Trailer English Trailer",
+        "Episode Screenshot Format": "16:9 Screencap",
+        "Award Nominations": "Terry Matalas for Writers Guild of America Awards, Best Episodic Drama, 2024",
+        "Favorited": "This series has been favorited by 654 people.",
+        "Created": "May 15, 2019 by Iordbrack",
+        "Modified": "September 6, 2026 by Imzadi admin admin"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Patrick Stewart",
+                "playsAs": "Jean-Luc Picard"
+            },
+            {
+                "name": "Jeri Ryan",
+                "playsAs": "Seven of Nine"
+            },
+            {
+                "name": "Michelle Hurd",
+                "playsAs": "Raffi Musiker"
+            },
+            {
+                "name": "Jonathan Frakes",
+                "playsAs": "William T. Riker"
+            },
+            {
+                "name": "Michael Dorn",
+                "playsAs": "Worf"
+            },
+            {
+                "name": "Gates McFadden",
+                "playsAs": "Beverly Crusher"
+            },
+            {
+                "name": "LeVar Burton",
+                "playsAs": "Geordi La Forge"
+            },
+            {
+                "name": "Marina Sirtis",
+                "playsAs": "Deanna Troi"
+            },
+            {
+                "name": "Brent Spiner",
+                "playsAs": "Data/Lore"
+            },
+            {
+                "name": "Todd Stashwick",
+                "playsAs": "Liam Shaw"
+            },
+            {
+                "name": "Ed Speleers",
+                "playsAs": "Jack Crusher"
+            },
+            {
+                "name": "Amanda Plummer",
+                "playsAs": "Vadic"
+            },
+            {
+                "name": "Santiago Cabrera",
+                "playsAs": "Cristobal 'Chris' Rios"
+            },
+            {
+                "name": "Alison Pill",
+                "playsAs": "Agnes Jurati"
+            },
+            {
+                "name": "Orla Brady",
+                "playsAs": "Laris/Tallinn"
+            },
+            {
+                "name": "Brent Spiner",
+                "playsAs": "Adam Soong"
+            },
+            {
+                "name": "John de Lancie",
+                "playsAs": "Q"
+            },
+            {
+                "name": "Evan Evagora",
+                "playsAs": "Elnor"
+            },
+            {
+                "name": "Isa Briones",
+                "playsAs": "Soji Asha"
+            },
+            {
+                "name": "Harry Treadaway",
+                "playsAs": "Narek"
+            },
+            {
+                "name": "Jonathan Del Arco",
+                "playsAs": "Hugh"
+            },
+            {
+                "name": "Annie Wersching",
+                "playsAs": "Borg Queen"
+            },
+            {
+                "name": "Ashlei Sharpe Chestnut",
+                "playsAs": "Sidney La Forge"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Terry Matalas",
+                "numberOfEpisodes": 27,
+                "dates": "03/03/2022 - 04/20/2023"
+            },
+            {
+                "name": "Akiva Goldsman",
+                "numberOfEpisodes": 18,
+                "dates": "01/23/2020 - 05/05/2022"
+            },
+            {
+                "name": "Jonathan Frakes",
+                "numberOfEpisodes": 9,
+                "dates": "02/13/2020 - 03/09/2023"
+            },
+            {
+                "name": "Douglas Aarniokoski",
+                "numberOfEpisodes": 5,
+                "dates": "03/05/2020 - 02/23/2023"
+            },
+            {
+                "name": "Lea Thompson",
+                "numberOfEpisodes": 3,
+                "dates": "03/17/2022 - 03/24/2022"
+            },
+            {
+                "name": "Hanelle M. Culpepper",
+                "numberOfEpisodes": 3,
+                "dates": "01/23/2020 - 02/06/2020"
+            },
+            {
+                "name": "Dan Liu",
+                "numberOfEpisodes": 2,
+                "dates": "03/16/2023 - 03/23/2023"
+            },
+            {
+                "name": "Michael Weaver",
+                "numberOfEpisodes": 2,
+                "dates": "04/28/2022 - 05/05/2022"
+            },
+            {
+                "name": "Joe Menendez",
+                "numberOfEpisodes": 2,
+                "dates": "04/14/2022 - 04/21/2022"
+            },
+            {
+                "name": "Deborah Kampmeier",
+                "numberOfEpisodes": 2,
+                "dates": "03/30/2023 - 04/06/2023"
+            },
+            {
+                "name": "Maja Vrvilo",
+                "numberOfEpisodes": 2,
+                "dates": "02/27/2020 - 03/12/2020"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Michael Chabon",
+                "numberOfEpisodes": 14,
+                "dates": "01/23/2020 - 03/26/2020"
+            },
+            {
+                "name": "Jane Maggs",
+                "numberOfEpisodes": 5,
+                "dates": "03/24/2022 - 03/30/2023"
+            },
+            {
+                "name": "Cindy Appel",
+                "numberOfEpisodes": 5,
+                "dates": "03/31/2022 - 03/16/2023"
+            },
+            {
+                "name": "Christopher Monfette",
+                "numberOfEpisodes": 5,
+                "dates": "03/10/2022 - 03/23/2023"
+            },
+            {
+                "name": "Kirsten Beyer",
+                "numberOfEpisodes": 3,
+                "dates": "01/23/2020 - 04/21/2022"
+            },
+            {
+                "name": "Sean Tretta",
+                "numberOfEpisodes": 3,
+                "dates": "02/23/2023 - 04/13/2023"
+            },
+            {
+                "name": "Christopher B. Derrick",
+                "numberOfEpisodes": 2,
+                "dates": "04/28/2022 - 03/16/2023"
+            },
+            {
+                "name": "Kiley Rossetter",
+                "numberOfEpisodes": 2,
+                "dates": "03/17/2022 - 04/13/2023"
+            },
+            {
+                "name": "James Duff",
+                "numberOfEpisodes": 2,
+                "dates": "01/23/2020 - 02/06/2020"
+            },
+            {
+                "name": "Matthew Okumura",
+                "numberOfEpisodes": 2,
+                "dates": "04/28/2022 - 04/06/2023"
+            },
+            {
+                "name": "Nick Zayas",
+                "numberOfEpisodes": 1,
+                "dates": "02/27/2020"
+            },
+            {
+                "name": "Alex Kurtzman",
+                "numberOfEpisodes": 1,
+                "dates": "01/23/2020"
+            },
+            {
+                "name": "Juliana James",
+                "numberOfEpisodes": 1,
+                "dates": "03/24/2022"
+            },
+            {
+                "name": "Ayelet Waldman",
+                "numberOfEpisodes": 1,
+                "dates": "03/19/2020"
+            },
+            {
+                "name": "Travis Fickett",
+                "numberOfEpisodes": 1,
+                "dates": "03/24/2022"
+            },
+            {
+                "name": "Sam Humphrey",
+                "numberOfEpisodes": 1,
+                "dates": "03/05/2020"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "January 2020",
+                "to": "March 2020",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-picard/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Remembrance",
+                        "firstAired": "January 23, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Maps and Legends",
+                        "firstAired": "January 30, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "The End is the Beginning",
+                        "firstAired": "February 6, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Absolute Candor",
+                        "firstAired": "February 13, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Stardust City Rag",
+                        "firstAired": "February 20, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "The Impossible Box",
+                        "firstAired": "February 27, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Nepenthe",
+                        "firstAired": "March 5, 2020 CBS All Access",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Broken Pieces",
+                        "firstAired": "March 12, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Et in Arcadia Ego (1)",
+                        "firstAired": "March 19, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Et in Arcadia Ego (2) season finale",
+                        "firstAired": "March 26, 2020 CBS All Access",
+                        "runtime": 55
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "March 2022",
+                "to": "May 2022",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-picard/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Star Gazer",
+                        "firstAired": "March 3, 2022 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Penance",
+                        "firstAired": "March 10, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Assimilation",
+                        "firstAired": "March 17, 2022 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Watcher",
+                        "firstAired": "March 24, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Fly Me to the Moon",
+                        "firstAired": "March 31, 2022 Paramount+",
+                        "runtime": 42
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Two of One",
+                        "firstAired": "April 7, 2022 Paramount+",
+                        "runtime": 39
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Monsters",
+                        "firstAired": "April 14, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Mercy",
+                        "firstAired": "April 21, 2022 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Hide and Seek",
+                        "firstAired": "April 28, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Farewell season finale",
+                        "firstAired": "May 5, 2022 Paramount+",
+                        "runtime": 48
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "February 2023",
+                "to": "April 2023",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-picard/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Part One: The Next Generation",
+                        "firstAired": "February 16, 2023 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Part Two: Disengage",
+                        "firstAired": "February 23, 2023 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Part Three: Seventeen Seconds",
+                        "firstAired": "March 2, 2023 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Part Four: No Win Scenario",
+                        "firstAired": "March 9, 2023 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Part Five: Imposters",
+                        "firstAired": "March 16, 2023 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Part Six: The Bounty",
+                        "firstAired": "March 23, 2023 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Part Seven: Dominion",
+                        "firstAired": "March 30, 2023 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Part Eight: Surrender",
+                        "firstAired": "April 6, 2023 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Part Nine: Võx",
+                        "firstAired": "April 13, 2023 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Part Ten: The Last Generation series finale",
+                        "firstAired": "April 20, 2023 Paramount+",
+                        "runtime": 63
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "January 2020",
+                "to": "March 2020",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-picard/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Remembrance",
+                        "firstAired": "January 23, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Maps and Legends",
+                        "firstAired": "January 30, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "The End is the Beginning",
+                        "firstAired": "February 6, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Absolute Candor",
+                        "firstAired": "February 13, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Stardust City Rag",
+                        "firstAired": "February 20, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "The Impossible Box",
+                        "firstAired": "February 27, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Nepenthe",
+                        "firstAired": "March 5, 2020 CBS All Access",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Broken Pieces",
+                        "firstAired": "March 12, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Et in Arcadia Ego (1)",
+                        "firstAired": "March 19, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Et in Arcadia Ego (2) season finale",
+                        "firstAired": "March 26, 2020 CBS All Access",
+                        "runtime": 55
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "March 2022",
+                "to": "May 2022",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-picard/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "The Star Gazer",
+                        "firstAired": "March 3, 2022 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Penance",
+                        "firstAired": "March 10, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Assimilation",
+                        "firstAired": "March 17, 2022 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Watcher",
+                        "firstAired": "March 24, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Fly Me to the Moon",
+                        "firstAired": "March 31, 2022 Paramount+",
+                        "runtime": 42
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Two of One",
+                        "firstAired": "April 7, 2022 Paramount+",
+                        "runtime": 39
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Monsters",
+                        "firstAired": "April 14, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Mercy",
+                        "firstAired": "April 21, 2022 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Hide and Seek",
+                        "firstAired": "April 28, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Farewell season finale",
+                        "firstAired": "May 5, 2022 Paramount+",
+                        "runtime": 48
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "February 2023",
+                "to": "April 2023",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-picard/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Part One: The Next Generation",
+                        "firstAired": "February 16, 2023 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Part Two: Disengage",
+                        "firstAired": "February 23, 2023 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Part Three: Seventeen Seconds",
+                        "firstAired": "March 2, 2023 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Part Four: No Win Scenario",
+                        "firstAired": "March 9, 2023 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Part Five: Imposters",
+                        "firstAired": "March 16, 2023 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Part Six: The Bounty",
+                        "firstAired": "March 23, 2023 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Part Seven: Dominion",
+                        "firstAired": "March 30, 2023 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "Part Eight: Surrender",
+                        "firstAired": "April 6, 2023 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "Part Nine: Võx",
+                        "firstAired": "April 13, 2023 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Part Ten: The Last Generation series finale",
+                        "firstAired": "April 20, 2023 Paramount+",
+                        "runtime": 63
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "January 2020",
+                "to": "April 2023",
+                "episodes": 30,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek-picard/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Remembrance",
+                        "firstAired": "January 23, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Maps and Legends",
+                        "firstAired": "January 30, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "The End is the Beginning",
+                        "firstAired": "February 6, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Absolute Candor",
+                        "firstAired": "February 13, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Stardust City Rag",
+                        "firstAired": "February 20, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "The Impossible Box",
+                        "firstAired": "February 27, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Nepenthe",
+                        "firstAired": "March 5, 2020 CBS All Access",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Broken Pieces",
+                        "firstAired": "March 12, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Et in Arcadia Ego (1)",
+                        "firstAired": "March 19, 2020 CBS All Access",
+                        "runtime": 45
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Et in Arcadia Ego (2) season finale",
+                        "firstAired": "March 26, 2020 CBS All Access",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Star Gazer",
+                        "firstAired": "March 3, 2022 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Penance",
+                        "firstAired": "March 10, 2022 Paramount+",
+                        "runtime": 54
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Assimilation",
+                        "firstAired": "March 17, 2022 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Watcher",
+                        "firstAired": "March 24, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Fly Me to the Moon",
+                        "firstAired": "March 31, 2022 Paramount+",
+                        "runtime": 42
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Two of One",
+                        "firstAired": "April 7, 2022 Paramount+",
+                        "runtime": 39
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Monsters",
+                        "firstAired": "April 14, 2022 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Mercy",
+                        "firstAired": "April 21, 2022 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Hide and Seek",
+                        "firstAired": "April 28, 2022 Paramount+",
+                        "runtime": 50
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Farewell season finale",
+                        "firstAired": "May 5, 2022 Paramount+",
+                        "runtime": 48
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Part One: The Next Generation",
+                        "firstAired": "February 16, 2023 Paramount+",
+                        "runtime": 53
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Part Two: Disengage",
+                        "firstAired": "February 23, 2023 Paramount+",
+                        "runtime": 49
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "Part Three: Seventeen Seconds",
+                        "firstAired": "March 2, 2023 Paramount+",
+                        "runtime": 56
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Part Four: No Win Scenario",
+                        "firstAired": "March 9, 2023 Paramount+",
+                        "runtime": 58
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "Part Five: Imposters",
+                        "firstAired": "March 16, 2023 Paramount+",
+                        "runtime": 55
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "Part Six: The Bounty",
+                        "firstAired": "March 23, 2023 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Part Seven: Dominion",
+                        "firstAired": "March 30, 2023 Paramount+",
+                        "runtime": 46
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "Part Eight: Surrender",
+                        "firstAired": "April 6, 2023 Paramount+",
+                        "runtime": 52
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Part Nine: Võx",
+                        "firstAired": "April 13, 2023 Paramount+",
+                        "runtime": 47
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "Part Ten: The Last Generation series finale",
+                        "firstAired": "April 20, 2023 Paramount+",
+                        "runtime": 63
+                    }
+                ]
+            }
+        ]
+    }
+}

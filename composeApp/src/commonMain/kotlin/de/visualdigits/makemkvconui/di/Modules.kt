@@ -8,6 +8,7 @@ import de.visualdigits.makemkvconui.SettingsDatabase
 import de.visualdigits.makemkvconui.data.database.DriverFactory
 import de.visualdigits.makemkvconui.data.repository.DefaultSettingsRepository
 import de.visualdigits.makemkvconui.domain.repository.SettingsRepository
+import de.visualdigits.makemkvconui.domain.util.TvDbScraper
 import de.visualdigits.makemkvconui.presentation.model.MakemkvConUiViewModel
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
@@ -56,4 +57,5 @@ val sharedModule = module {
     }
 
     singleOf(::DefaultSettingsRepository).bind<SettingsRepository>()
+    singleOf(::TvDbScraper)
 }

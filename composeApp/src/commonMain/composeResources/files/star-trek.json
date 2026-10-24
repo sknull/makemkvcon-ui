@@ -1,0 +1,2574 @@
+{
+    "seriesTitle": "Star Trek",
+    "seriesDescription": {
+        "translations": {
+            "ces": {
+                "text": "Vesmírná loď Enterprise reprezentuje Spojenou federaci planet na pětileté misi ve vesmíru. Má za úkol objevovat nové světy, hledat nové civilizace a nový život. A odvážně jít tam, kde žádný člověk ještě nevstoupil. Vesmírná loď Enterprise je řízena pohledným, ale také unáhleným kapitánem Kirkem (William Shatner). Jeho prvním důstojníkem a nejlepším přítelem je Spock (Leonard Nimoy) z planety Vulcan. Na palubě je také lékař, doktor Mc Coy (De Forrest Kelley). S posádkou asi přibližně 430 lidí, Enterprise bojuje s různými mimozemskými vetřelci a příšerami.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Der Weltraum - unendliche Weiten. Dies sind die Abenteuer des Raumschiffs Enterprise, das mit seiner 400 Mann starken Besatzung fünf Jahre lang unterwegs ist, um neue Welten zu entdecken, neue Lebensformen und neue Zivilisationen. Viele Lichtjahre von der Erde entfernt dringt die Enterprise dabei in Galaxien vor, die nie ein Mensch zuvor gesehen hat...",
+                "aliases": [
+                    "Star Trek TOS",
+                    "Star Trek - The Original Series"
+                ]
+            },
+            "eng": {
+                "text": "Space. The Final Frontier. The U.S.S. Enterprise embarks on a five year mission to explore the galaxy. The Enterprise is under the command of Captain James T. Kirk, who is assisted by First Officer Mr. Spock, from the planet Vulcan, and Chief Medical Officer Dr. Leonard 'Bones' McCoy. With a determined crew, the Enterprise encounters Klingons, Romulans, time paradoxes, tribbles and genetic supermen led by Khan Noonien Singh. Their mission: to explore strange new worlds, to seek new life and new civilizations, to boldly go where no man has gone before.",
+                "aliases": [
+                    "Star Trek: The Original Series",
+                    "Star Trek: TOS",
+                    "Star Trek TOS 1966",
+                    "Star Trek TOS Enhanced Visual Effects",
+                    "Star Trek (1966)",
+                    "Star Trek: The Original Series (1966)"
+                ]
+            },
+            "fin": {
+                "text": "Star Trek kertoo avaruusaluksen miehistöstä ja heidän viisivuotisesta tehtävästään tutkia tuntematonta avaruutta ja etsiä uutta elämää ja sivilisaatioita. Enterprise-aluksen kapteenina toimii James T. Kirk (William Shatner), ensimmäisenä perämiehenä on vulcanilainen Spock (Leonard Nimoy) ja lääkärinä toimii Leonard ”Bones” McCoy (DeForrest Kelley). Pääkolmikon lisäksi vakituisina mukana komennuksella ovat konepäällikkö Scotty, navigaattori Sulu ja viestintäupseeri Uhura.",
+                "aliases": []
+            },
+            "fra": {
+                "text": "Cette série raconte les aventures vécues, au XXIIIe siècle, par James T. Kirk, capitaine du vaisseau Enterprise NCC-1701 et son équipage. Leur mission quinquennale est d'explorer la galaxie afin d'y découvrir d'autres formes de vie et d'enrichir ainsi les connaissances humaines.",
+                "aliases": [
+                    "Patrouille du cosmos"
+                ]
+            },
+            "heb": {
+                "text": "מסע בן כוכבים הינה סדרת מדע בדיוני אשר נוצרה ע\"י ג'ין רודנברי ז\"ל והפכה לסדרה המפורסמת ביותר בעולם אשר לה מעריצים רבים בכל המדינות בעולם. הסדרה עוקבת אחרי הרפתקאותיהם של צוות ספינת החלל אנטרפרייז בפיקודו של קפטיין ג'יימס קירק (ויליאם שטנר), סגנו קצין המדע הוולקאני ספוק (לאונרד נימוי) והרופא \"בונס\" (די פורסט קלי ז\"ל). בעקבות סדרה זו יצאו מספר רב של סרטים וסדרות המשך הממשיכים את סיפוריו של רודמברי עד היום. .",
+                "aliases": []
+            },
+            "ita": {
+                "text": "La prima serie di Star Trek è oramai conosciuta come Serie Classica, oppure, soprattutto in America, come TOS (The Original Series). Che la Serie Classica sia ormai entrata nella leggenda televisiva statunitense è risaputo. Kirk, Spock e McCoy sono personaggi entrati nel culto di milioni di appassionati, ma soprattutto fanno oramai parte della cultura americana. L'originale Star Trek ha infranto tabù e rivoluzionato la storia in modi imprevedibili, che nessun dirigente televisivo o direttore di marketing avrebbe potuto immaginare o programmare: il primo bacio interrazziale visto in tv, il fatto che i telespettatori \"costrinsero\" la casa televisiva a continuare la produzione nonostante gli iniziali bassi indici di ascolto... e il nome del primo shuttle chiamato Enterprise proprio in onore di Star Trek. La forza delle idee e dell'ottimismo della Serie Classica è stata così potente da durare oltre trent'anni, con 79 episodi TV e sei film su grande schermo, coinvolgendo persone in tutto il mondo e creando una rete di appassionati che va al di là del semplice fanatismo.",
+                "aliases": []
+            },
+            "nld": {
+                "text": "",
+                "aliases": []
+            },
+            "por": {
+                "text": "Estrelado por um dos mais adoráveis elencos da história da televisão, liderado por William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan e Nichelle Nichols, Jornada Nas Estrelas: A Série Clássica é um fenômeno mundial e serviu como pioneira de inúmeras séries de televisão e filmes. Foram estes clássicos episódios que começaram tudo, apresentando o mundo de Kirk, Spock e a lendária tripulação da Enterprise.",
+                "aliases": [
+                    "O Caminho das Estrelas"
+                ]
+            },
+            "rus": {
+                "text": "Действие «Оригинального сериала» разворачивается во второй половине XXIII века (2264—2269) и повествует о пятилетней исследовательской миссии звездолёта Звёздного флота Объединённой федерации планет «Энтерпрайз» (англ. Enterprise NCC-1701) под командованием капитана Джеймса Тиберия Кирка. На протяжении трёх сезонов экипаж этого звездолёта бороздил просторы Млечного пути, встречался с новыми цивилизациями, занимался исследованиями и дипломатическими вопросами.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "Serie de TV (1966-1969). 3 temporadas. Serie de culto que relata los viajes de la astronave USS Enterprise. Su Misión de Cinco Años: explorar extraños mundos nuevos, buscar nueva vida y nuevas civilizaciones. Llegar osadamente hasta donde nadie ha llegado antes. Es el año 2264. 201 años después de que el hombre viajara por primera vez a mayor velocidad que la luz, y 113 años después del primer viaje de la Enterprise NX-01, el capitán James T. Kirk y su tripulación parten en la nave de clase Constitución USS Enterprise. En el transcurso de los 3 primeros años, la tripulación del Enterprise se encontrará con criaturas que cambian de forma y artistas del engaño, asesinos y locos, seres lo bastante poderosos como para controlar las mentes de sociedades enteras, y seres demasiado débiles como para controlar sus propios poderes mentales. Los tripulantes de la Enterprise serán amados, amenazados, engatusados, asesinados, les ofrecerán parejas para copular, serán divididos en dos, resucitados, y lanzados hacia atrás en el tiempo. Se verán forzados a luchar por sus vidas y por las vidas de sus amigos. Y, a lo largo de todas esas pruebas, se irá forjando un vínculo entre tres insólitos amigos: el valiente y carismático capitán, el irascible doctor, y el Vulcaniano sin emociones. El viaje ha comenzado... (FILMAFFINITY)",
+                "aliases": []
+            },
+            "jpn": {
+                "text": "地球は150個ほどの星系とともに惑星連邦という連邦を形成しており、宇宙艦隊を編成して銀河系の探査や学術調査、外交、治安維持等の任務にあてている。他にも様々な星間国家が存在して、武力行使を含めた外交の駆け引きを繰り広げている。惑星連邦の本部はパリにあり、宇宙艦隊の本部はサンフランシスコにある。惑星連邦内では軍事力を伴った紛争がほぼ根絶されたが、他の星間国家との間ではそうはなっていない。クリンゴン帝国やロミュラン帝国、カーデシア連合などの侵略的な星間国家との関係が必ずしも良好ではないためである。『スタートレック:エンタープライズ』では惑星連邦設立以前の時代を描いているが、他の作品に出てくる星間国家や異星人が登場しており、シリーズとしての一貫性が保たれている。また、銀河系の一部しか知られていないという設定のため、後の作品では既成の事実や知識となっている未知の異星人や、天文現象と初めて遭遇するパターンも多く使われている。",
+                "aliases": []
+            },
+            "swe": {
+                "text": "Den första Star Trek-serien och anfadern till alla kommande serier och filmer. Serien skapades av Gene Roddenberry. I denna serie får vi följa rymdskeppet USS Enterprise på dess första 5-åriga uppdrag. Tyvärr så fick serien enbart 3 säsonger och lades ner 1969.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "A sorozat Kirk kapitány legendás ötéves küldetését meséli el. A rendkívül színes legénység közé tartozik a japán Hikaru Sulu hadnagy, az afrikai származású Uhura hadnagy és az orosz Pavel Chekov zászlós, aki állítólag azért került a sorozatba, mert a Pravda egyik írója azzal vádolta a Star Trek készítőit, hogy egyetlen orosz sincsen a legénységben, holott ők voltak az elsők az űrben. Ez a rasszok és származások szerint vegyes összetételű gárda ritkaságszámba ment akkoriban és példamutató volta miatt kiemelkedő. A Star Trek univerzuma egy optimista, utópisztikus világot ábrázol, melyben a Föld népei békében élnek egymással és más intelligens fajokkal együtt fedezik fel a kozmoszt. Ez sok ember (főként a fiatalok) számára népszerűvé tette, szemben az akkori - gyakran pesszimista - jövőképekkel.",
+                "aliases": []
+            },
+            "pt": {
+                "text": "O imperturbável Capitão James T. Kirk leva a icônica e intergaláctica tripulação da USS Enterprise nesta série pioneira sobre a exploração espacial.",
+                "aliases": []
+            },
+            "tur": {
+                "text": "Star Trek: The Original Series ilk kez ABD'de 8 Eylül 1966 Cuma günü NBC televizyonunda yayınlandı. Dizi William Shatner tarafından oynanan Kaptan Kirk'ün kumandasındaki Atılgan Yıldız Gemisi'nin mürettebatını ve onların \"daha önce hiç kimsenin gitmediği yerlere cesurca gitmek\" olan 5 yıllık görevinin hikâyelerini anlatmaktadır. Sadece 3 sezon sonunda dizi yayından kaldırıldı ve son bölüm 3 Haziran 1969'da gösterildi. Tekrarların gösterimini takriben bir kültürel fenomen haline geldi.",
+                "aliases": [
+                    "Uzay Yolu: Orijinal Seri"
+                ]
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "77526",
+        "Status": "Ended",
+        "First Aired": "September 8, 1966",
+        "Recent": "September 8, 2020",
+        "Airs": "Thursday, at 8:30pm",
+        "Network": "NBC",
+        "Average Runtime": "60 minutes",
+        "Genres": "Action Adventure Drama Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "IMDB TMS (Zap2It) TheMovieDB.com",
+        "Episode Screenshot Format": "4:3 Screencap",
+        "Favorited": "This series has been favorited by 2194 people.",
+        "Created": "February 4, 2008 by kevine2z",
+        "Modified": "September 23, 2026 by mandm.brookes@gmail.com"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "William Shatner",
+                "playsAs": "James T. Kirk"
+            },
+            {
+                "name": "Leonard Nimoy",
+                "playsAs": "Mr. Spock"
+            },
+            {
+                "name": "DeForest Kelley",
+                "playsAs": "Leonard H. McCoy"
+            },
+            {
+                "name": "James Doohan",
+                "playsAs": "Montgomery Scott"
+            },
+            {
+                "name": "Nichelle Nichols",
+                "playsAs": "Nyota Uhura"
+            },
+            {
+                "name": "George Takei",
+                "playsAs": "Hikaru Sulu"
+            },
+            {
+                "name": "Walter Koenig",
+                "playsAs": "Pavel Andreievich Chekov"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Marc Daniels",
+                "numberOfEpisodes": 16,
+                "dates": "09/08/1966 - 09/20/1968"
+            },
+            {
+                "name": "Gene L. Coon",
+                "numberOfEpisodes": 15,
+                "dates": "01/19/1967 - 01/10/1969"
+            },
+            {
+                "name": "Joseph Pevney",
+                "numberOfEpisodes": 14,
+                "dates": "01/19/1967 - 01/19/1968"
+            },
+            {
+                "name": "Gene Roddenberry",
+                "numberOfEpisodes": 13,
+                "dates": "10/13/1966 - 10/15/1988"
+            },
+            {
+                "name": "D.C. Fontana",
+                "numberOfEpisodes": 11,
+                "dates": "09/15/1966 - 02/21/1969"
+            },
+            {
+                "name": "John Meredyth Lucas",
+                "numberOfEpisodes": 7,
+                "dates": "09/29/1967 - 01/24/1969"
+            },
+            {
+                "name": "Ralph Senensky",
+                "numberOfEpisodes": 7,
+                "dates": "03/02/1967 - 11/15/1968"
+            },
+            {
+                "name": "Vincent McEveety",
+                "numberOfEpisodes": 6,
+                "dates": "10/27/1966 - 10/25/1968"
+            },
+            {
+                "name": "Jerome Bixby",
+                "numberOfEpisodes": 5,
+                "dates": "10/06/1967 - 02/14/1969"
+            },
+            {
+                "name": "Jud Taylor",
+                "numberOfEpisodes": 5,
+                "dates": "10/04/1968 - 02/28/1969"
+            },
+            {
+                "name": "Herb Wallerstein",
+                "numberOfEpisodes": 4,
+                "dates": "11/15/1968 - 06/03/1969"
+            },
+            {
+                "name": "Oliver Crawford",
+                "numberOfEpisodes": 4,
+                "dates": "01/05/1967 - 02/28/1969"
+            },
+            {
+                "name": "Arthur Heinemann",
+                "numberOfEpisodes": 4,
+                "dates": "11/29/1968 - 03/07/1969"
+            },
+            {
+                "name": "Robert Butler",
+                "numberOfEpisodes": 3,
+                "dates": "11/17/1966 - 10/15/1988"
+            },
+            {
+                "name": "David P. Harmon",
+                "numberOfEpisodes": 3,
+                "dates": "12/08/1967 - 01/12/1968"
+            },
+            {
+                "name": "Art Wallace",
+                "numberOfEpisodes": 3,
+                "dates": "12/15/1967 - 03/29/1968"
+            },
+            {
+                "name": "David Gerrold",
+                "numberOfEpisodes": 3,
+                "dates": "11/03/1967 - 02/28/1969"
+            },
+            {
+                "name": "Jerry Sohl",
+                "numberOfEpisodes": 3,
+                "dates": "11/10/1966 - 01/03/1969"
+            },
+            {
+                "name": "Don M. Mankiewicz",
+                "numberOfEpisodes": 2,
+                "dates": "02/02/1967"
+            },
+            {
+                "name": "Gilbert A. Ralston",
+                "numberOfEpisodes": 2,
+                "dates": "09/22/1967"
+            },
+            {
+                "name": "Gerd Oswald",
+                "numberOfEpisodes": 2,
+                "dates": "12/08/1966 - 03/30/1967"
+            },
+            {
+                "name": "Max Ehrlich",
+                "numberOfEpisodes": 2,
+                "dates": "10/13/1967"
+            },
+            {
+                "name": "Carey Wilbur",
+                "numberOfEpisodes": 2,
+                "dates": "02/16/1967"
+            },
+            {
+                "name": "James Goldstone",
+                "numberOfEpisodes": 2,
+                "dates": "09/22/1966 - 10/20/1966"
+            },
+            {
+                "name": "Herschel Daugherty",
+                "numberOfEpisodes": 2,
+                "dates": "04/13/1967 - 03/07/1969"
+            },
+            {
+                "name": "David Alexander",
+                "numberOfEpisodes": 2,
+                "dates": "11/22/1968 - 02/21/1969"
+            },
+            {
+                "name": "Lee Erwin",
+                "numberOfEpisodes": 2,
+                "dates": "01/03/1969"
+            },
+            {
+                "name": "Robert Hamner",
+                "numberOfEpisodes": 2,
+                "dates": "02/23/1967"
+            },
+            {
+                "name": "Don Ingalls",
+                "numberOfEpisodes": 2,
+                "dates": "03/30/1967 - 02/02/1968"
+            },
+            {
+                "name": "Marvin J. Chomsky",
+                "numberOfEpisodes": 2,
+                "dates": "10/11/1968 - 11/01/1968"
+            },
+            {
+                "name": "Michael O'Herlihy",
+                "numberOfEpisodes": 1,
+                "dates": "01/26/1967"
+            },
+            {
+                "name": "Marvin Chomsky",
+                "numberOfEpisodes": 1,
+                "dates": "03/14/1969"
+            },
+            {
+                "name": "Robert Gist",
+                "numberOfEpisodes": 1,
+                "dates": "01/05/1967"
+            },
+            {
+                "name": "Harvey Hart",
+                "numberOfEpisodes": 1,
+                "dates": "10/13/1966"
+            },
+            {
+                "name": "Don McDougall",
+                "numberOfEpisodes": 1,
+                "dates": "01/12/1967"
+            },
+            {
+                "name": "Robert Sparr",
+                "numberOfEpisodes": 1,
+                "dates": "12/29/1966"
+            },
+            {
+                "name": "John Erman",
+                "numberOfEpisodes": 1,
+                "dates": "12/06/1968"
+            },
+            {
+                "name": "Gene Nelson",
+                "numberOfEpisodes": 1,
+                "dates": "01/05/1968"
+            },
+            {
+                "name": "Donald R. Beck",
+                "numberOfEpisodes": 1,
+                "dates": "11/28/1991"
+            },
+            {
+                "name": "John Kneubuhl",
+                "numberOfEpisodes": 1,
+                "dates": "03/15/1968"
+            },
+            {
+                "name": "Laurence N. Wolfe",
+                "numberOfEpisodes": 1,
+                "dates": "03/08/1968"
+            },
+            {
+                "name": "Leo Penn",
+                "numberOfEpisodes": 1,
+                "dates": "10/06/1966"
+            },
+            {
+                "name": "John Newland",
+                "numberOfEpisodes": 1,
+                "dates": "03/23/1967"
+            },
+            {
+                "name": "Lawrence Dobkin",
+                "numberOfEpisodes": 1,
+                "dates": "09/15/1966"
+            },
+            {
+                "name": "Louis J. Horvitz",
+                "numberOfEpisodes": 1,
+                "dates": "01/01/1996"
+            },
+            {
+                "name": "Murray Golden",
+                "numberOfEpisodes": 1,
+                "dates": "02/14/1969"
+            },
+            {
+                "name": "Herb Kenwith",
+                "numberOfEpisodes": 1,
+                "dates": "01/31/1969"
+            },
+            {
+                "name": "Joseph Sargent",
+                "numberOfEpisodes": 1,
+                "dates": "11/10/1966"
+            },
+            {
+                "name": "Fredric Brown",
+                "numberOfEpisodes": 1,
+                "dates": "01/19/1967"
+            },
+            {
+                "name": "John T. Dugan",
+                "numberOfEpisodes": 1,
+                "dates": "02/09/1968"
+            },
+            {
+                "name": "James Komack",
+                "numberOfEpisodes": 1,
+                "dates": "01/12/1968"
+            },
+            {
+                "name": "Tony Leader",
+                "numberOfEpisodes": 1,
+                "dates": "11/08/1968"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Robert Bloch",
+                "numberOfEpisodes": 3,
+                "dates": "10/20/1966 - 12/22/1967"
+            },
+            {
+                "name": "Margaret Armen",
+                "numberOfEpisodes": 3,
+                "dates": "01/05/1968 - 02/28/1969"
+            },
+            {
+                "name": "Stanley Adams",
+                "numberOfEpisodes": 2,
+                "dates": "01/17/1969"
+            },
+            {
+                "name": "Jean Lisette Aroeste",
+                "numberOfEpisodes": 2,
+                "dates": "10/18/1968 - 03/14/1969"
+            },
+            {
+                "name": "Theodore Sturgeon",
+                "numberOfEpisodes": 2,
+                "dates": "12/29/1966 - 09/15/1967"
+            },
+            {
+                "name": "Stephen Kandel",
+                "numberOfEpisodes": 2,
+                "dates": "10/13/1966 - 11/03/1967"
+            },
+            {
+                "name": "Stephen W. Carabatsos",
+                "numberOfEpisodes": 2,
+                "dates": "02/02/1967 - 04/13/1967"
+            },
+            {
+                "name": "Paul Schneider",
+                "numberOfEpisodes": 2,
+                "dates": "12/15/1966 - 01/12/1967"
+            },
+            {
+                "name": "Shimon Wincelberg",
+                "numberOfEpisodes": 2,
+                "dates": "11/03/1966 - 01/05/1967"
+            },
+            {
+                "name": "Harlan Ellison",
+                "numberOfEpisodes": 1,
+                "dates": "04/06/1967"
+            },
+            {
+                "name": "Arthur H. Singer",
+                "numberOfEpisodes": 1,
+                "dates": "06/03/1969"
+            },
+            {
+                "name": "George Clayton Johnson",
+                "numberOfEpisodes": 1,
+                "dates": "09/08/1966"
+            },
+            {
+                "name": "Hendrik Vollaerts",
+                "numberOfEpisodes": 1,
+                "dates": "11/08/1968"
+            },
+            {
+                "name": "Judy Burns",
+                "numberOfEpisodes": 1,
+                "dates": "11/15/1968"
+            },
+            {
+                "name": "Jeremy Tarcher",
+                "numberOfEpisodes": 1,
+                "dates": "01/31/1969"
+            },
+            {
+                "name": "Richard Matheson",
+                "numberOfEpisodes": 1,
+                "dates": "10/06/1966"
+            },
+            {
+                "name": "Boris Sobelman",
+                "numberOfEpisodes": 1,
+                "dates": "02/09/1967"
+            },
+            {
+                "name": "Samuel A. Peeples",
+                "numberOfEpisodes": 1,
+                "dates": "09/22/1966"
+            },
+            {
+                "name": "Robert Sabaroff",
+                "numberOfEpisodes": 1,
+                "dates": "01/19/1968"
+            },
+            {
+                "name": "Norman Spinrad",
+                "numberOfEpisodes": 1,
+                "dates": "10/20/1967"
+            },
+            {
+                "name": "Joyce Muskat",
+                "numberOfEpisodes": 1,
+                "dates": "12/06/1968"
+            },
+            {
+                "name": "Adrian Spies",
+                "numberOfEpisodes": 1,
+                "dates": "10/27/1966"
+            },
+            {
+                "name": "Meyer Dolinsky",
+                "numberOfEpisodes": 1,
+                "dates": "11/22/1968"
+            },
+            {
+                "name": "Stephen R. Wolcott",
+                "numberOfEpisodes": 1,
+                "dates": "11/28/1991"
+            },
+            {
+                "name": "John D.F. Black",
+                "numberOfEpisodes": 1,
+                "dates": "09/29/1966"
+            },
+            {
+                "name": "George F. Slavin",
+                "numberOfEpisodes": 1,
+                "dates": "01/17/1969"
+            },
+            {
+                "name": "Chet Richards",
+                "numberOfEpisodes": 1,
+                "dates": "11/15/1968"
+            },
+            {
+                "name": "Barry Trivers",
+                "numberOfEpisodes": 1,
+                "dates": "12/08/1966"
+            },
+            {
+                "name": "Edward J. Lakso",
+                "numberOfEpisodes": 1,
+                "dates": "10/11/1968"
+            },
+            {
+                "name": "Shari Lewis",
+                "numberOfEpisodes": 1,
+                "dates": "01/31/1969"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "September 1966",
+                "to": "April 1967",
+                "episodes": 29,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "The Man Trap",
+                        "firstAired": "September 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Charlie X",
+                        "firstAired": "September 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Where No Man Has Gone Before",
+                        "firstAired": "September 22, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Naked Time",
+                        "firstAired": "September 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The Enemy Within",
+                        "firstAired": "October 6, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Mudd's Women",
+                        "firstAired": "October 13, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "What Are Little Girls Made Of?",
+                        "firstAired": "October 20, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Miri",
+                        "firstAired": "October 27, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Dagger of the Mind",
+                        "firstAired": "November 3, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "The Corbomite Maneuver",
+                        "firstAired": "November 10, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Menagerie (1)",
+                        "firstAired": "November 17, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Menagerie (2)",
+                        "firstAired": "November 24, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "The Conscience of the King",
+                        "firstAired": "December 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Balance of Terror",
+                        "firstAired": "December 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Shore Leave",
+                        "firstAired": "December 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "The Galileo Seven",
+                        "firstAired": "January 5, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "The Squire of Gothos",
+                        "firstAired": "January 12, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Arena",
+                        "firstAired": "January 19, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Tomorrow is Yesterday",
+                        "firstAired": "January 26, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Court Martial",
+                        "firstAired": "February 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "The Return of the Archons",
+                        "firstAired": "February 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Space Seed",
+                        "firstAired": "February 16, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "A Taste of Armageddon",
+                        "firstAired": "February 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "This Side of Paradise",
+                        "firstAired": "March 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "The Devil in the Dark",
+                        "firstAired": "March 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "Errand of Mercy",
+                        "firstAired": "March 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "The Alternative Factor",
+                        "firstAired": "March 30, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "The City on the Edge of Forever",
+                        "firstAired": "April 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Operation -- Annihilate! season finale",
+                        "firstAired": "April 13, 1967 NBC",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "September 1967",
+                "to": "March 1968",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Amok Time",
+                        "firstAired": "September 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Who Mourns for Adonais?",
+                        "firstAired": "September 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "The Changeling",
+                        "firstAired": "September 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Mirror, Mirror",
+                        "firstAired": "October 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "The Apple",
+                        "firstAired": "October 13, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "The Doomsday Machine",
+                        "firstAired": "October 20, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Catspaw",
+                        "firstAired": "October 27, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "I, Mudd",
+                        "firstAired": "November 3, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Metamorphosis",
+                        "firstAired": "November 10, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Journey to Babel",
+                        "firstAired": "November 17, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Friday's Child",
+                        "firstAired": "December 1, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "The Deadly Years",
+                        "firstAired": "December 8, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Obsession",
+                        "firstAired": "December 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Wolf in the Fold",
+                        "firstAired": "December 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Trouble with Tribbles",
+                        "firstAired": "December 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "The Gamesters of Triskelion",
+                        "firstAired": "January 5, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "A Piece of the Action",
+                        "firstAired": "January 12, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "The Immunity Syndrome",
+                        "firstAired": "January 19, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "A Private Little War",
+                        "firstAired": "February 2, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Return to Tomorrow",
+                        "firstAired": "February 9, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Patterns of Force",
+                        "firstAired": "February 16, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "By Any Other Name",
+                        "firstAired": "February 23, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E23",
+                        "name": "The Omega Glory",
+                        "firstAired": "March 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E24",
+                        "name": "The Ultimate Computer",
+                        "firstAired": "March 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E25",
+                        "name": "Bread and Circuses",
+                        "firstAired": "March 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E26",
+                        "name": "Assignment: Earth season finale",
+                        "firstAired": "March 29, 1968 NBC",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "September 1968",
+                "to": "June 1969",
+                "episodes": 24,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Spock's Brain",
+                        "firstAired": "September 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "The Enterprise Incident",
+                        "firstAired": "September 27, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Paradise Syndrome",
+                        "firstAired": "October 4, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "And the Children Shall Lead",
+                        "firstAired": "October 11, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Is There in Truth No Beauty?",
+                        "firstAired": "October 18, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Spectre of the Gun",
+                        "firstAired": "October 25, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Day of the Dove",
+                        "firstAired": "November 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "For the World is Hollow and I Have Touched the Sky",
+                        "firstAired": "November 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "The Tholian Web",
+                        "firstAired": "November 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Plato's Stepchildren",
+                        "firstAired": "November 22, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Wink of an Eye",
+                        "firstAired": "November 29, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "The Empath",
+                        "firstAired": "December 6, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Elaan of Troyius",
+                        "firstAired": "December 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Whom Gods Destroy",
+                        "firstAired": "January 3, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Let That Be Your Last Battlefield",
+                        "firstAired": "January 10, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "The Mark of Gideon",
+                        "firstAired": "January 17, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "That Which Survives",
+                        "firstAired": "January 24, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "The Lights of Zetar",
+                        "firstAired": "January 31, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Requiem for Methuselah",
+                        "firstAired": "February 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "The Way to Eden",
+                        "firstAired": "February 21, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "The Cloud Minders",
+                        "firstAired": "February 28, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "The Savage Curtain",
+                        "firstAired": "March 7, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E23",
+                        "name": "All Our Yesterdays",
+                        "firstAired": "March 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E24",
+                        "name": "Turnabout Intruder series finale",
+                        "firstAired": "June 3, 1969 NBC",
+                        "runtime": 60
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "September 1966",
+                "to": "April 1967",
+                "episodes": 29,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Where No Man Has Gone Before",
+                        "firstAired": "September 22, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "The Corbomite Maneuver",
+                        "firstAired": "November 10, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Mudd's Women",
+                        "firstAired": "October 13, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Enemy Within",
+                        "firstAired": "October 6, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The Man Trap",
+                        "firstAired": "September 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "The Naked Time",
+                        "firstAired": "September 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Charlie X",
+                        "firstAired": "September 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Balance of Terror",
+                        "firstAired": "December 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "What Are Little Girls Made Of?",
+                        "firstAired": "October 20, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Dagger of the Mind",
+                        "firstAired": "November 3, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Miri",
+                        "firstAired": "October 27, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Conscience of the King",
+                        "firstAired": "December 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "The Galileo Seven",
+                        "firstAired": "January 5, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Court Martial",
+                        "firstAired": "February 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "The Menagerie (1)",
+                        "firstAired": "November 17, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "The Menagerie (2)",
+                        "firstAired": "November 24, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Shore Leave",
+                        "firstAired": "December 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "The Squire of Gothos",
+                        "firstAired": "January 12, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Arena",
+                        "firstAired": "January 19, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "The Alternative Factor",
+                        "firstAired": "March 30, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Tomorrow is Yesterday",
+                        "firstAired": "January 26, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "The Return of the Archons",
+                        "firstAired": "February 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "A Taste of Armageddon",
+                        "firstAired": "February 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Space Seed",
+                        "firstAired": "February 16, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "This Side of Paradise",
+                        "firstAired": "March 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "The Devil in the Dark",
+                        "firstAired": "March 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Errand of Mercy",
+                        "firstAired": "March 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "The City on the Edge of Forever",
+                        "firstAired": "April 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Operation -- Annihilate! season finale",
+                        "firstAired": "April 13, 1967 NBC",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "September 1967",
+                "to": "March 1968",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Catspaw",
+                        "firstAired": "October 27, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Metamorphosis",
+                        "firstAired": "November 10, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Friday's Child",
+                        "firstAired": "December 1, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Who Mourns for Adonais?",
+                        "firstAired": "September 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Amok Time",
+                        "firstAired": "September 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "The Doomsday Machine",
+                        "firstAired": "October 20, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Wolf in the Fold",
+                        "firstAired": "December 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "The Changeling",
+                        "firstAired": "September 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "The Apple",
+                        "firstAired": "October 13, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Mirror, Mirror",
+                        "firstAired": "October 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "The Deadly Years",
+                        "firstAired": "December 8, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "I, Mudd",
+                        "firstAired": "November 3, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "The Trouble with Tribbles",
+                        "firstAired": "December 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Bread and Circuses",
+                        "firstAired": "March 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "Journey to Babel",
+                        "firstAired": "November 17, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "A Private Little War",
+                        "firstAired": "February 2, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "The Gamesters of Triskelion",
+                        "firstAired": "January 5, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "Obsession",
+                        "firstAired": "December 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "The Immunity Syndrome",
+                        "firstAired": "January 19, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "A Piece of the Action",
+                        "firstAired": "January 12, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "By Any Other Name",
+                        "firstAired": "February 23, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "Return to Tomorrow",
+                        "firstAired": "February 9, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E23",
+                        "name": "Patterns of Force",
+                        "firstAired": "February 16, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E24",
+                        "name": "The Ultimate Computer",
+                        "firstAired": "March 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E25",
+                        "name": "The Omega Glory",
+                        "firstAired": "March 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E26",
+                        "name": "Assignment: Earth season finale",
+                        "firstAired": "March 29, 1968 NBC",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 3,
+                "from": "September 1968",
+                "to": "June 1969",
+                "episodes": 24,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/dvd/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Spectre of the Gun",
+                        "firstAired": "October 25, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Elaan of Troyius",
+                        "firstAired": "December 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Paradise Syndrome",
+                        "firstAired": "October 4, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "The Enterprise Incident",
+                        "firstAired": "September 27, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "And the Children Shall Lead",
+                        "firstAired": "October 11, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Spock's Brain",
+                        "firstAired": "September 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Is There in Truth No Beauty?",
+                        "firstAired": "October 18, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "The Empath",
+                        "firstAired": "December 6, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "The Tholian Web",
+                        "firstAired": "November 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "For the World is Hollow and I Have Touched the Sky",
+                        "firstAired": "November 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Day of the Dove",
+                        "firstAired": "November 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "Plato's Stepchildren",
+                        "firstAired": "November 22, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Wink of an Eye",
+                        "firstAired": "November 29, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "That Which Survives",
+                        "firstAired": "January 24, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Let That Be Your Last Battlefield",
+                        "firstAired": "January 10, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "Whom Gods Destroy",
+                        "firstAired": "January 3, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "The Mark of Gideon",
+                        "firstAired": "January 17, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "The Lights of Zetar",
+                        "firstAired": "January 31, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "The Cloud Minders",
+                        "firstAired": "February 28, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "The Way to Eden",
+                        "firstAired": "February 21, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "Requiem for Methuselah",
+                        "firstAired": "February 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "The Savage Curtain",
+                        "firstAired": "March 7, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E23",
+                        "name": "All Our Yesterdays",
+                        "firstAired": "March 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E24",
+                        "name": "Turnabout Intruder series finale",
+                        "firstAired": "June 3, 1969 NBC",
+                        "runtime": 60
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "September 1966",
+                "to": "October 1988",
+                "episodes": 80,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "The Cage (Original Pilot)",
+                        "firstAired": "October 15, 1988 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E01",
+                        "name": "Where No Man Has Gone Before",
+                        "firstAired": "September 22, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "The Corbomite Maneuver",
+                        "firstAired": "November 10, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Mudd's Women",
+                        "firstAired": "October 13, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "The Enemy Within",
+                        "firstAired": "October 6, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The Man Trap",
+                        "firstAired": "September 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "The Naked Time",
+                        "firstAired": "September 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Charlie X",
+                        "firstAired": "September 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Balance of Terror",
+                        "firstAired": "December 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "What Are Little Girls Made Of?",
+                        "firstAired": "October 20, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Dagger of the Mind",
+                        "firstAired": "November 3, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Miri",
+                        "firstAired": "October 27, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Conscience of the King",
+                        "firstAired": "December 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "The Galileo Seven",
+                        "firstAired": "January 5, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Court Martial",
+                        "firstAired": "February 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "The Menagerie (1)",
+                        "firstAired": "November 17, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "The Menagerie (2)",
+                        "firstAired": "November 24, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Shore Leave",
+                        "firstAired": "December 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "The Squire of Gothos",
+                        "firstAired": "January 12, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Arena",
+                        "firstAired": "January 19, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "The Alternative Factor",
+                        "firstAired": "March 30, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Tomorrow is Yesterday",
+                        "firstAired": "January 26, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "The Return of the Archons",
+                        "firstAired": "February 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "A Taste of Armageddon",
+                        "firstAired": "February 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Space Seed",
+                        "firstAired": "February 16, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "This Side of Paradise",
+                        "firstAired": "March 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "The Devil in the Dark",
+                        "firstAired": "March 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Errand of Mercy",
+                        "firstAired": "March 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "The City on the Edge of Forever",
+                        "firstAired": "April 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "Operation -- Annihilate! season finale",
+                        "firstAired": "April 13, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "Catspaw",
+                        "firstAired": "October 27, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E31",
+                        "name": "Metamorphosis",
+                        "firstAired": "November 10, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E32",
+                        "name": "Friday's Child",
+                        "firstAired": "December 1, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E33",
+                        "name": "Who Mourns for Adonais?",
+                        "firstAired": "September 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E34",
+                        "name": "Amok Time",
+                        "firstAired": "September 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E35",
+                        "name": "The Doomsday Machine",
+                        "firstAired": "October 20, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E36",
+                        "name": "Wolf in the Fold",
+                        "firstAired": "December 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E37",
+                        "name": "The Changeling",
+                        "firstAired": "September 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E38",
+                        "name": "The Apple",
+                        "firstAired": "October 13, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E39",
+                        "name": "Mirror, Mirror",
+                        "firstAired": "October 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E40",
+                        "name": "The Deadly Years",
+                        "firstAired": "December 8, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E41",
+                        "name": "I, Mudd",
+                        "firstAired": "November 3, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E42",
+                        "name": "The Trouble with Tribbles",
+                        "firstAired": "December 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E43",
+                        "name": "Bread and Circuses",
+                        "firstAired": "March 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E44",
+                        "name": "Journey to Babel",
+                        "firstAired": "November 17, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E45",
+                        "name": "A Private Little War",
+                        "firstAired": "February 2, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E46",
+                        "name": "The Gamesters of Triskelion",
+                        "firstAired": "January 5, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E47",
+                        "name": "Obsession",
+                        "firstAired": "December 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E48",
+                        "name": "The Immunity Syndrome",
+                        "firstAired": "January 19, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E49",
+                        "name": "A Piece of the Action",
+                        "firstAired": "January 12, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E50",
+                        "name": "By Any Other Name",
+                        "firstAired": "February 23, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E51",
+                        "name": "Return to Tomorrow",
+                        "firstAired": "February 9, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E52",
+                        "name": "Patterns of Force",
+                        "firstAired": "February 16, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E53",
+                        "name": "The Ultimate Computer",
+                        "firstAired": "March 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E54",
+                        "name": "The Omega Glory",
+                        "firstAired": "March 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E55",
+                        "name": "Assignment: Earth season finale",
+                        "firstAired": "March 29, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E56",
+                        "name": "Spectre of the Gun",
+                        "firstAired": "October 25, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E57",
+                        "name": "Elaan of Troyius",
+                        "firstAired": "December 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E58",
+                        "name": "The Paradise Syndrome",
+                        "firstAired": "October 4, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E59",
+                        "name": "The Enterprise Incident",
+                        "firstAired": "September 27, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E60",
+                        "name": "And the Children Shall Lead",
+                        "firstAired": "October 11, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E61",
+                        "name": "Spock's Brain",
+                        "firstAired": "September 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E62",
+                        "name": "Is There in Truth No Beauty?",
+                        "firstAired": "October 18, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E63",
+                        "name": "The Empath",
+                        "firstAired": "December 6, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E64",
+                        "name": "The Tholian Web",
+                        "firstAired": "November 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E65",
+                        "name": "For the World is Hollow and I Have Touched the Sky",
+                        "firstAired": "November 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E66",
+                        "name": "Day of the Dove",
+                        "firstAired": "November 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E67",
+                        "name": "Plato's Stepchildren",
+                        "firstAired": "November 22, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E68",
+                        "name": "Wink of an Eye",
+                        "firstAired": "November 29, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E69",
+                        "name": "That Which Survives",
+                        "firstAired": "January 24, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E70",
+                        "name": "Let That Be Your Last Battlefield",
+                        "firstAired": "January 10, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E71",
+                        "name": "Whom Gods Destroy",
+                        "firstAired": "January 3, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E72",
+                        "name": "The Mark of Gideon",
+                        "firstAired": "January 17, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E73",
+                        "name": "The Lights of Zetar",
+                        "firstAired": "January 31, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E74",
+                        "name": "The Cloud Minders",
+                        "firstAired": "February 28, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E75",
+                        "name": "The Way to Eden",
+                        "firstAired": "February 21, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E76",
+                        "name": "Requiem for Methuselah",
+                        "firstAired": "February 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E77",
+                        "name": "The Savage Curtain",
+                        "firstAired": "March 7, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E78",
+                        "name": "All Our Yesterdays",
+                        "firstAired": "March 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E79",
+                        "name": "Turnabout Intruder series finale",
+                        "firstAired": "June 3, 1969 NBC",
+                        "runtime": 60
+                    }
+                ]
+            }
+        ],
+        "seasons-alternate": [
+            {
+                "orderType": "Streaming",
+                "season": 1,
+                "from": "September 1966",
+                "to": "October 1988",
+                "episodes": 30,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/alternate/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "The Cage (Original Pilot)",
+                        "firstAired": "October 15, 1988 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "The Man Trap",
+                        "firstAired": "September 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Charlie X",
+                        "firstAired": "September 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Where No Man Has Gone Before",
+                        "firstAired": "September 22, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "The Naked Time",
+                        "firstAired": "September 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "The Enemy Within",
+                        "firstAired": "October 6, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Mudd's Women",
+                        "firstAired": "October 13, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "What Are Little Girls Made Of?",
+                        "firstAired": "October 20, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Miri",
+                        "firstAired": "October 27, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Dagger of the Mind",
+                        "firstAired": "November 3, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "The Corbomite Maneuver",
+                        "firstAired": "November 10, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "The Menagerie (1)",
+                        "firstAired": "November 17, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "The Menagerie (2)",
+                        "firstAired": "November 24, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "The Conscience of the King",
+                        "firstAired": "December 8, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Balance of Terror",
+                        "firstAired": "December 15, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Shore Leave",
+                        "firstAired": "December 29, 1966 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "The Galileo Seven",
+                        "firstAired": "January 5, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "The Squire of Gothos",
+                        "firstAired": "January 12, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Arena",
+                        "firstAired": "January 19, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Tomorrow is Yesterday",
+                        "firstAired": "January 26, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Court Martial",
+                        "firstAired": "February 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "The Return of the Archons",
+                        "firstAired": "February 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "Space Seed",
+                        "firstAired": "February 16, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "A Taste of Armageddon",
+                        "firstAired": "February 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "This Side of Paradise",
+                        "firstAired": "March 2, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E26",
+                        "name": "The Devil in the Dark",
+                        "firstAired": "March 9, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E27",
+                        "name": "Errand of Mercy",
+                        "firstAired": "March 23, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E28",
+                        "name": "The Alternative Factor",
+                        "firstAired": "March 30, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E29",
+                        "name": "The City on the Edge of Forever",
+                        "firstAired": "April 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S01E30",
+                        "name": "Operation -- Annihilate! season finale",
+                        "firstAired": "April 13, 1967 NBC",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "Streaming",
+                "season": 2,
+                "from": "September 1967",
+                "to": "March 1968",
+                "episodes": 26,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/alternate/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Amok Time",
+                        "firstAired": "September 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Who Mourns for Adonais?",
+                        "firstAired": "September 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "The Changeling",
+                        "firstAired": "September 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Mirror, Mirror",
+                        "firstAired": "October 6, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "The Apple",
+                        "firstAired": "October 13, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "The Doomsday Machine",
+                        "firstAired": "October 20, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Catspaw",
+                        "firstAired": "October 27, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "I, Mudd",
+                        "firstAired": "November 3, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Metamorphosis",
+                        "firstAired": "November 10, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Journey to Babel",
+                        "firstAired": "November 17, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E11",
+                        "name": "Friday's Child",
+                        "firstAired": "December 1, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E12",
+                        "name": "The Deadly Years",
+                        "firstAired": "December 8, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E13",
+                        "name": "Obsession",
+                        "firstAired": "December 15, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E14",
+                        "name": "Wolf in the Fold",
+                        "firstAired": "December 22, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E15",
+                        "name": "The Trouble with Tribbles",
+                        "firstAired": "December 29, 1967 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E16",
+                        "name": "The Gamesters of Triskelion",
+                        "firstAired": "January 5, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E17",
+                        "name": "A Piece of the Action",
+                        "firstAired": "January 12, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E18",
+                        "name": "The Immunity Syndrome",
+                        "firstAired": "January 19, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E19",
+                        "name": "A Private Little War",
+                        "firstAired": "February 2, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E20",
+                        "name": "Return to Tomorrow",
+                        "firstAired": "February 9, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E21",
+                        "name": "Patterns of Force",
+                        "firstAired": "February 16, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E22",
+                        "name": "By Any Other Name",
+                        "firstAired": "February 23, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E23",
+                        "name": "The Omega Glory",
+                        "firstAired": "March 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E24",
+                        "name": "The Ultimate Computer",
+                        "firstAired": "March 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E25",
+                        "name": "Bread and Circuses",
+                        "firstAired": "March 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S02E26",
+                        "name": "Assignment: Earth season finale",
+                        "firstAired": "March 29, 1968 NBC",
+                        "runtime": 60
+                    }
+                ]
+            },
+            {
+                "orderType": "Streaming",
+                "season": 3,
+                "from": "September 1968",
+                "to": "June 1969",
+                "episodes": 24,
+                "episodesUrl": "https://www.thetvdb.com/series/star-trek/seasons/alternate/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Spock's Brain",
+                        "firstAired": "September 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "The Enterprise Incident",
+                        "firstAired": "September 27, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "The Paradise Syndrome",
+                        "firstAired": "October 4, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "And the Children Shall Lead",
+                        "firstAired": "October 11, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Is There in Truth No Beauty?",
+                        "firstAired": "October 18, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E06",
+                        "name": "Spectre of the Gun",
+                        "firstAired": "October 25, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E07",
+                        "name": "Day of the Dove",
+                        "firstAired": "November 1, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E08",
+                        "name": "For the World is Hollow and I Have Touched the Sky",
+                        "firstAired": "November 8, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E09",
+                        "name": "The Tholian Web",
+                        "firstAired": "November 15, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E10",
+                        "name": "Plato's Stepchildren",
+                        "firstAired": "November 22, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E11",
+                        "name": "Wink of an Eye",
+                        "firstAired": "November 29, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E12",
+                        "name": "The Empath",
+                        "firstAired": "December 6, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E13",
+                        "name": "Elaan of Troyius",
+                        "firstAired": "December 20, 1968 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E14",
+                        "name": "Whom Gods Destroy",
+                        "firstAired": "January 3, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E15",
+                        "name": "Let That Be Your Last Battlefield",
+                        "firstAired": "January 10, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E16",
+                        "name": "The Mark of Gideon",
+                        "firstAired": "January 17, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E17",
+                        "name": "That Which Survives",
+                        "firstAired": "January 24, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E18",
+                        "name": "The Lights of Zetar",
+                        "firstAired": "January 31, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E19",
+                        "name": "Requiem for Methuselah",
+                        "firstAired": "February 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E20",
+                        "name": "The Way to Eden",
+                        "firstAired": "February 21, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E21",
+                        "name": "The Cloud Minders",
+                        "firstAired": "February 28, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E22",
+                        "name": "The Savage Curtain",
+                        "firstAired": "March 7, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E23",
+                        "name": "All Our Yesterdays",
+                        "firstAired": "March 14, 1969 NBC",
+                        "runtime": 60
+                    },
+                    {
+                        "code": "S03E24",
+                        "name": "Turnabout Intruder series finale",
+                        "firstAired": "June 3, 1969 NBC",
+                        "runtime": 60
+                    }
+                ]
+            }
+        ]
+    }
+}

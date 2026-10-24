@@ -1,0 +1,833 @@
+{
+    "seriesTitle": "Star Wars: Clone Wars",
+    "seriesDescription": {
+        "translations": {
+            "eng": {
+                "text": "Star Wars: Clone Wars picks up where the theatrical feature Star Wars: Episode II: Attack of the Clones left off as an epic civil war pits the Republic against the separatist movement led by the Dark Side of the Force's mastermind Darth Sidious.",
+                "aliases": [
+                    "Star Wars Vintage: Clone Wars 2D Micro-Series"
+                ]
+            },
+            "fra": {
+                "text": "Dans une galaxie très lointaine, se noue un drame. Le chaos règne et une guerre impitoyable se déclare entre la République et les forces séparatistes menées par les sinistres Sith du côté obscur de la Force. La Guerre des Clones bat son plein... Les chevaliers Jedi, garants de la paix et de la justice dans le monde, se battent pour sauver la démocratie et la République, contre notamment le comte Dooku, Dark Sidious, ou encore Assajj Ventress. Pour les combattre, Obi-Wan Kenobi et son apprenti, Anakin Skywalker vont user de toutes leurs ressources... Cette série fait le lien entre l'épisode II et l'épisode III.",
+                "aliases": []
+            },
+            "hun": {
+                "text": "A rajzfilmsorozat a polgárháború idején játszódik, amikor a régi Köztársaságot gonosz erők szeparatista mozgalma fenyegeti. A sorozatban egy vadonatúj szereplő is megjelenik, a cselszövő Grievous Tábornok, aki a Szeparatista sereg vezetője.",
+                "aliases": []
+            },
+            "spa": {
+                "text": "\"Star Wars: Clone Wars\" relata las aventuras épicas que se desarrollan entre \"Star Wars: Episodio II: El ataque de los clones\" y \"Star Wars: Episodio III: La venganza de los Sith\". Sigue a los intrépidos Caballeros Jedi y a los valientes soldados del ejército de clones de la República en sus enfrentamientos con las fuerzas droides de los Separatistas, dirigidas por el malvado Lord Sith, Conde Dooku. Sé testigo de las batallas que convirtieron en héroes a Anakin Skywalker y a Obi-Wan Kenobi, y conoce la nueva amenaza que aparecerá en el Episodio III, el General Grievous.",
+                "aliases": []
+            },
+            "deu": {
+                "text": "Diese Mikroserie schildert die Ereignisse zwischen Episode II und Episode III. In mehreren Kapiteln werden verschiedene Missionen der Jedi während der Klonkriege gezeigt. Auch Obi-Wan Kenobi und sein Padawan Anakin Skywalker sind darunter. So zaubert die Serie ein wahres Actionfeuerwerk auf den Bildschirm: Eine Schlacht jagt die nächste und, wie es sich für Star Wars gehört, bleibt kaum Zeit zum Luft holen.",
+                "aliases": [
+                    "Star Wars Vintage: Clone Wars 2D Mini-Serie"
+                ]
+            },
+            "kor": {
+                "text": "은하 공화국의 마지막 주요 전쟁의 사건과 전투가 재조명된다.",
+                "aliases": []
+            },
+            "pt": {
+                "text": "Star Wars: Guerras Clônicas (título original em inglês: Star Wars: Clone Wars) é uma série de desenho animado estadunidense produzido pelo Cartoon Network Studios em associação com a Lucasfilm e exibido entre 2003 e 2005. Foi concebido por Genndy Tartakovsky, criador de Samurai Jack, a pedido de George Lucas, que admitiu ter se impressionado com a tecnologia utilizada por Tartakovsky. As Guerras Clônicas são o período de aproximadamente três anos entre os filmes Star Wars Episódio II – O Ataque dos Clones e Star Wars Episódio III – A Vingança dos Sith, em que confrontaram-se os exércitos da República Galáctica e da Confederação dos Sistemas Independentes.",
+                "aliases": []
+            },
+            "fin": {
+                "text": "Jännittävä Star Wars -saagaa jatkava Emmy-palkittu animaatiosarja.",
+                "aliases": []
+            },
+            "rus": {
+                "text": "Мультсериал о приключениях Скайуокера, Кеноби, Винду и битвах армии клонов Старой Республики с легионами Сепаратистов.",
+                "aliases": []
+            }
+        }
+    },
+    "metaData": {
+        "TheTVDB.com Series ID": "72244",
+        "Status": "Ended",
+        "First Aired": "November 7, 2003",
+        "Recent": "March 25, 2005",
+        "Network": "Cartoon Network",
+        "Average Runtime": "6 minutes",
+        "Genres": "Action Adventure Animation Drama Family Fantasy Science Fiction",
+        "Original Country": "United States of America",
+        "Original Language": "English",
+        "On Other Sites": "IMDB TheMovieDB.com",
+        "Episode Screenshot Format": "4:3 Screencap",
+        "Favorited": "This series has been favorited by 150 people.",
+        "Created": "February 4, 2008 by penpalthe9eo",
+        "Modified": "August 17, 2026 by Clumsy007"
+    },
+    "castAndCrew": {
+        "actors": [
+            {
+                "name": "Mat Lucas",
+                "playsAs": "Anakin Skywalker"
+            },
+            {
+                "name": "James Arnold Taylor",
+                "playsAs": "Obi-Wan Kenobi"
+            },
+            {
+                "name": "Tom Kane",
+                "playsAs": "Yoda"
+            },
+            {
+                "name": "Grey DeLisle",
+                "playsAs": "Asajj Ventress"
+            },
+            {
+                "name": "Grey DeLisle",
+                "playsAs": "Padmé Amidala"
+            },
+            {
+                "name": "Corey Burton",
+                "playsAs": "Dooku"
+            },
+            {
+                "name": "André Sogliuzzo",
+                "playsAs": "ARC Trooper * needs role-specific image"
+            },
+            {
+                "name": "Richard McGonagle",
+                "playsAs": "General Grievous"
+            },
+            {
+                "name": "Terrence 'T.C.' Carson",
+                "playsAs": "Mace Windu"
+            }
+        ],
+        "directors": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Genndy Tartakovsky",
+                "numberOfEpisodes": 28,
+                "dates": "11/07/2003 - 03/25/2005"
+            }
+        ],
+        "writers": [
+            {
+                "name": ""
+            },
+            {
+                "name": "Darrick Bachman",
+                "numberOfEpisodes": 1,
+                "dates": "11/07/2003"
+            },
+            {
+                "name": "Paul Rudish",
+                "numberOfEpisodes": 1,
+                "dates": "11/07/2003"
+            },
+            {
+                "name": "Bryan Andrews",
+                "numberOfEpisodes": 1,
+                "dates": "11/07/2003"
+            }
+        ]
+    },
+    "seasons": {
+        "seasons-official": [
+            {
+                "orderType": "Aired Order",
+                "season": 1,
+                "from": "November 2003",
+                "to": "November 2003",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/official/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Chapter I",
+                        "firstAired": "November 7, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Chapter II",
+                        "firstAired": "November 10, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Chapter III",
+                        "firstAired": "November 11, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Chapter IV",
+                        "firstAired": "November 12, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Chapter V",
+                        "firstAired": "November 13, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Chapter VI",
+                        "firstAired": "November 14, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Chapter VII",
+                        "firstAired": "November 17, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Chapter VIII",
+                        "firstAired": "November 18, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Chapter IX",
+                        "firstAired": "November 19, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Chapter X season finale",
+                        "firstAired": "November 20, 2003 Cartoon Network",
+                        "runtime": 3
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 2,
+                "from": "March 2004",
+                "to": "April 2004",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/official/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Chapter XI",
+                        "firstAired": "March 26, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Chapter XII",
+                        "firstAired": "March 29, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Chapter XIII",
+                        "firstAired": "March 30, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Chapter XIV",
+                        "firstAired": "March 31, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Chapter XV",
+                        "firstAired": "April 1, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Chapter XVI",
+                        "firstAired": "April 2, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Chapter XVII",
+                        "firstAired": "April 5, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Chapter XVIII",
+                        "firstAired": "April 6, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Chapter XIX",
+                        "firstAired": "April 7, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Chapter XX season finale",
+                        "firstAired": "April 8, 2004 Cartoon Network",
+                        "runtime": 9
+                    }
+                ]
+            },
+            {
+                "orderType": "Aired Order",
+                "season": 3,
+                "from": "March 2005",
+                "to": "March 2005",
+                "episodes": 5,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/official/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Chapter XXI",
+                        "firstAired": "March 21, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Chapter XXII",
+                        "firstAired": "March 22, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Chapter XXIII",
+                        "firstAired": "March 23, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Chapter XXIV",
+                        "firstAired": "March 24, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Chapter XXV series finale",
+                        "firstAired": "March 25, 2005 Cartoon Network",
+                        "runtime": 14
+                    }
+                ]
+            }
+        ],
+        "seasons-dvd": [
+            {
+                "orderType": "DVD Order",
+                "season": 1,
+                "from": "November 2003",
+                "to": "April 2004",
+                "episodes": 20,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/dvd/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Chapter I",
+                        "firstAired": "November 7, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Chapter II",
+                        "firstAired": "November 10, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Chapter III",
+                        "firstAired": "November 11, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Chapter V",
+                        "firstAired": "November 13, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Chapter IV",
+                        "firstAired": "November 12, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Chapter VI",
+                        "firstAired": "November 14, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Chapter VII",
+                        "firstAired": "November 17, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Chapter VIII",
+                        "firstAired": "November 18, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Chapter IX",
+                        "firstAired": "November 19, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Chapter X season finale",
+                        "firstAired": "November 20, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Chapter XI",
+                        "firstAired": "March 26, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Chapter XII",
+                        "firstAired": "March 29, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Chapter XIII",
+                        "firstAired": "March 30, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Chapter XIV",
+                        "firstAired": "March 31, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Chapter XV",
+                        "firstAired": "April 1, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Chapter XVI",
+                        "firstAired": "April 2, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Chapter XVII",
+                        "firstAired": "April 5, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Chapter XVIII",
+                        "firstAired": "April 6, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Chapter XIX",
+                        "firstAired": "April 7, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Chapter XX season finale",
+                        "firstAired": "April 8, 2004 Cartoon Network",
+                        "runtime": 9
+                    }
+                ]
+            },
+            {
+                "orderType": "DVD Order",
+                "season": 2,
+                "from": "March 2005",
+                "to": "March 2005",
+                "episodes": 5,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/dvd/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Chapter XXI",
+                        "firstAired": "March 21, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Chapter XXII",
+                        "firstAired": "March 22, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Chapter XXIII",
+                        "firstAired": "March 23, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Chapter XXIV",
+                        "firstAired": "March 24, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Chapter XXV series finale",
+                        "firstAired": "March 25, 2005 Cartoon Network",
+                        "runtime": 14
+                    }
+                ]
+            }
+        ],
+        "seasons-absolute": [
+            {
+                "orderType": "Absolute Order",
+                "season": 1,
+                "from": "November 2003",
+                "to": "March 2005",
+                "episodes": 25,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/absolute/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Chapter I",
+                        "firstAired": "November 7, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Chapter II",
+                        "firstAired": "November 10, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Chapter III",
+                        "firstAired": "November 11, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Chapter IV",
+                        "firstAired": "November 12, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Chapter V",
+                        "firstAired": "November 13, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Chapter VI",
+                        "firstAired": "November 14, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Chapter VII",
+                        "firstAired": "November 17, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Chapter VIII",
+                        "firstAired": "November 18, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Chapter IX",
+                        "firstAired": "November 19, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Chapter X season finale",
+                        "firstAired": "November 20, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E11",
+                        "name": "Chapter XI",
+                        "firstAired": "March 26, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E12",
+                        "name": "Chapter XII",
+                        "firstAired": "March 29, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E13",
+                        "name": "Chapter XIII",
+                        "firstAired": "March 30, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E14",
+                        "name": "Chapter XIV",
+                        "firstAired": "March 31, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E15",
+                        "name": "Chapter XV",
+                        "firstAired": "April 1, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E16",
+                        "name": "Chapter XVI",
+                        "firstAired": "April 2, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E17",
+                        "name": "Chapter XVII",
+                        "firstAired": "April 5, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E18",
+                        "name": "Chapter XVIII",
+                        "firstAired": "April 6, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E19",
+                        "name": "Chapter XIX",
+                        "firstAired": "April 7, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E20",
+                        "name": "Chapter XX season finale",
+                        "firstAired": "April 8, 2004 Cartoon Network",
+                        "runtime": 9
+                    },
+                    {
+                        "code": "S01E21",
+                        "name": "Chapter XXI",
+                        "firstAired": "March 21, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S01E22",
+                        "name": "Chapter XXII",
+                        "firstAired": "March 22, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S01E23",
+                        "name": "Chapter XXIII",
+                        "firstAired": "March 23, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S01E24",
+                        "name": "Chapter XXIV",
+                        "firstAired": "March 24, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S01E25",
+                        "name": "Chapter XXV series finale",
+                        "firstAired": "March 25, 2005 Cartoon Network",
+                        "runtime": 14
+                    }
+                ]
+            }
+        ],
+        "seasons-alternate": [
+            {
+                "orderType": "Disney+",
+                "season": 1,
+                "from": "November 2003",
+                "to": "November 2003",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/alternate/1",
+                "episodeList": [
+                    {
+                        "code": "S01E01",
+                        "name": "Chapter I",
+                        "firstAired": "November 7, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E02",
+                        "name": "Chapter II",
+                        "firstAired": "November 10, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E03",
+                        "name": "Chapter III",
+                        "firstAired": "November 11, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E04",
+                        "name": "Chapter IV",
+                        "firstAired": "November 12, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E05",
+                        "name": "Chapter V",
+                        "firstAired": "November 13, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E06",
+                        "name": "Chapter VI",
+                        "firstAired": "November 14, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E07",
+                        "name": "Chapter VII",
+                        "firstAired": "November 17, 2003 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S01E08",
+                        "name": "Chapter VIII",
+                        "firstAired": "November 18, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E09",
+                        "name": "Chapter IX",
+                        "firstAired": "November 19, 2003 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S01E10",
+                        "name": "Chapter X season finale",
+                        "firstAired": "November 20, 2003 Cartoon Network",
+                        "runtime": 3
+                    }
+                ]
+            },
+            {
+                "orderType": "Disney+",
+                "season": 2,
+                "from": "March 2004",
+                "to": "April 2004",
+                "episodes": 10,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/alternate/2",
+                "episodeList": [
+                    {
+                        "code": "S02E01",
+                        "name": "Chapter XI",
+                        "firstAired": "March 26, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S02E02",
+                        "name": "Chapter XII",
+                        "firstAired": "March 29, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E03",
+                        "name": "Chapter XIII",
+                        "firstAired": "March 30, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E04",
+                        "name": "Chapter XIV",
+                        "firstAired": "March 31, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E05",
+                        "name": "Chapter XV",
+                        "firstAired": "April 1, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S02E06",
+                        "name": "Chapter XVI",
+                        "firstAired": "April 2, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E07",
+                        "name": "Chapter XVII",
+                        "firstAired": "April 5, 2004 Cartoon Network",
+                        "runtime": 4
+                    },
+                    {
+                        "code": "S02E08",
+                        "name": "Chapter XVIII",
+                        "firstAired": "April 6, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E09",
+                        "name": "Chapter XIX",
+                        "firstAired": "April 7, 2004 Cartoon Network",
+                        "runtime": 3
+                    },
+                    {
+                        "code": "S02E10",
+                        "name": "Chapter XX season finale",
+                        "firstAired": "April 8, 2004 Cartoon Network",
+                        "runtime": 9
+                    }
+                ]
+            },
+            {
+                "orderType": "Disney+",
+                "season": 3,
+                "from": "March 2005",
+                "to": "March 2005",
+                "episodes": 5,
+                "episodesUrl": "https://www.thetvdb.com/series/star-wars-clone-wars/seasons/alternate/3",
+                "episodeList": [
+                    {
+                        "code": "S03E01",
+                        "name": "Chapter XXI",
+                        "firstAired": "March 21, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E02",
+                        "name": "Chapter XXII",
+                        "firstAired": "March 22, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E03",
+                        "name": "Chapter XXIII",
+                        "firstAired": "March 23, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E04",
+                        "name": "Chapter XXIV",
+                        "firstAired": "March 24, 2005 Cartoon Network",
+                        "runtime": 13
+                    },
+                    {
+                        "code": "S03E05",
+                        "name": "Chapter XXV series finale",
+                        "firstAired": "March 25, 2005 Cartoon Network",
+                        "runtime": 14
+                    }
+                ]
+            }
+        ]
+    }
+}
